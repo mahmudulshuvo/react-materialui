@@ -81,11 +81,12 @@
 .clear-button {
   /* background-color: crimson; */
   display: flex;
-  flex: 1;
+  /* flex: 1; */
 }
 
 .json-viewer {
   /* text-align: left; */
+  /* background-color: cornflowerblue; */
   width: 100%;
   padding-left: 4%;
 }

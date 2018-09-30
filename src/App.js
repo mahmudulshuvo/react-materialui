@@ -305,15 +305,17 @@ class App extends Component {
 
         <div className="second-div">
           <div className="json-viewer">
-            <Button
-              variant="fab"
-              aria-label="Delete"
-              // className={classes.button}
-              style={{ marginLeft: "20%", marginBottom: "-2%" }}
-              onClick={this.clearJsonData.bind(this)}
-            >
-              <DeleteIcon />
-            </Button>
+            <div className="clear-button">
+              <Button
+                variant="fab"
+                aria-label="Delete"
+                // className={classes.button}
+                style={{ marginBottom: "20px" }}
+                onClick={this.clearJsonData.bind(this)}
+              >
+                <DeleteIcon />
+              </Button>
+            </div>
             <Inspector data={this.state.data} />
           </div>
         </div>
