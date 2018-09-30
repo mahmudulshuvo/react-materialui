@@ -268,7 +268,6 @@ class App extends Component {
                     label="Birthday"
                     type="date"
                     defaultValue=""
-                    className={classes.textField}
                     onChange={this.handleCalederValue("calender")}
                     style={{ position: "relative", top: 20, left: 10 }}
                     InputLabelProps={{
