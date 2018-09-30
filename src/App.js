@@ -11,7 +11,6 @@ import {
   TextField,
   Select
 } from "@material-ui/core";
-
 import DeleteIcon from "@material-ui/icons/Delete";
 import "react-json-inspector/json-inspector.css";
 import "./App.css";
@@ -220,6 +219,7 @@ class App extends Component {
                 variant="contained"
                 color="primary"
                 className={classes.button}
+                style={{ marginTop: "50px", marginRight: "60%" }}
                 onClick={this.handleSubmit.bind(this)}
               >
                 SUBMIT
