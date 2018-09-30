@@ -290,14 +290,14 @@ class App extends Component {
             <div className="clear-area">
               <div className="blank-space" />
               <div className="clear-button">
-                <Button
+                {/* <Button
                   variant="fab"
                   aria-label="Delete"
                   className={classes.button}
                   onClick={this.clearJsonData.bind(this)}
                 >
                   <DeleteIcon />
-                </Button>
+                </Button> */}
               </div>
             </div>
           </div>
@@ -305,6 +305,15 @@ class App extends Component {
 
         <div className="second-div">
           <div className="json-viewer">
+            <Button
+              variant="fab"
+              aria-label="Delete"
+              // className={classes.button}
+              style={{ marginLeft: "20%", marginBottom: "-2%" }}
+              onClick={this.clearJsonData.bind(this)}
+            >
+              <DeleteIcon />
+            </Button>
             <Inspector data={this.state.data} />
           </div>
         </div>
