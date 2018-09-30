@@ -79,6 +79,7 @@
 }
 
 .clear-button {
+  /* background-color: crimson; */
   display: flex;
   flex: 1;
 }

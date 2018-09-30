@@ -32,9 +32,10 @@ const styles = theme => ({
   },
   form: {
     display: "flex",
-    alignItems: "center",
-    justifyContent: "center",
-    marginTop: "30px"
+    // alignItems: "left",
+    justifyContent: "left",
+    marginTop: "30px",
+    paddingLeft: "20%"
   },
   textField: {
     marginTop: "50px"
@@ -238,6 +239,7 @@ class App extends Component {
                     rowsMax="4"
                     className={classes.textField}
                     value={this.state.valueOne}
+                    style={{ marginLeft: "30%" }}
                     onChange={this.handleChangeValueOne("valueOne")}
                     margin="normal"
                     variant="outlined"
@@ -254,6 +256,7 @@ class App extends Component {
                     rowsMax="4"
                     className={classes.textField}
                     value={this.state.valueTwo}
+                    style={{ marginLeft: "30%" }}
                     onChange={this.handleChangeValueTwo("valueTwo")}
                     margin="normal"
                     variant="outlined"
@@ -269,7 +272,13 @@ class App extends Component {
                     type="date"
                     defaultValue=""
                     onChange={this.handleCalederValue("calender")}
-                    style={{ position: "relative", top: 20, left: 10 }}
+                    style={{
+                      position: "relative",
+                      top: 20,
+                      left: 10,
+                      marginLeft: "30%",
+                      marginTop: "20px"
+                    }}
                     InputLabelProps={{
                       shrink: true
                     }}
