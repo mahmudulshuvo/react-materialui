@@ -1,0 +1,79 @@
+.App {
+  /* text-align: center; */
+  height: 100vh;
+}
+
+.first-div {
+  display: flex;
+  /* background-color: aqua; */
+  width: 100%;
+  height: 50vh;
+}
+
+.fist-div-left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  flex: 1;
+}
+
+.commandSelector {
+  /* background-color: bisque; */
+  width: 100%;
+  height: 80%;
+}
+
+.submitBtn {
+  /* background-color: lawngreen; */
+  width: 100%;
+  height: 20%;
+}
+
+.second-div {
+  display: flex;
+  /* background-color: blue; */
+  width: 100%;
+  height: 50vh;
+}
+
+.first-div-right {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+  flex: 2;
+}
+
+.input-area {
+  /* background-color: blueviolet; */
+  flex-flow: column;
+  flex-wrap: wrap;
+  width: 50%;
+  height: 100%;
+}
+
+.clear-area {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  /* background-color: crimson; */
+  width: 50%;
+  height: 100%;
+}
+
+.blank-space {
+  display: flex;
+  flex: 2;
+}
+
+.clear-button {
+  display: flex;
+  flex: 1;
+}
+
+.json-viewer {
+  /* text-align: left; */
+  padding-left: 4%;
+}
