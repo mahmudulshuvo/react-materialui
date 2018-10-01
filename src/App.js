@@ -316,7 +316,10 @@ class App extends Component {
                 <DeleteIcon />
               </Button>
             </div>
-            <Inspector data={this.state.data} />
+            <Inspector
+              // className="json-inspector__search"
+              data={this.state.data}
+            />
           </div>
         </div>
       </div>

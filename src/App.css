@@ -90,3 +90,7 @@
   width: 100%;
   padding-left: 4%;
 }
+
+.json-inspector__search {
+  border-radius: 10px;
+}
