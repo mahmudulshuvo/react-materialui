@@ -43,21 +43,6 @@ const styles = theme => ({
 });
 
 class App extends Component {
-  state = {
-    command: "",
-    calender: "",
-    valueOne: "",
-    valueTwo: "",
-    contentString: "",
-    showOne: false,
-    showTwo: false,
-    showThree: false,
-    apiData: "",
-    data: {},
-    jsonUrl: "",
-    isFetched: false
-  };
-
   constructor() {
     super();
     this.state = {
@@ -65,10 +50,10 @@ class App extends Component {
       calender: "",
       valueOne: "",
       valueTwo: "",
-      contentString: "",
       showOne: false,
       showTwo: false,
       showThree: false,
+      disableTwo: false,
       apiData: "",
       data: {},
       jsonUrl: "https://jsonplaceholder.typicode.com/posts/",
@@ -77,24 +62,6 @@ class App extends Component {
   }
 
   handleSubmit(e) {
-    if (
-      this.state.valueOne == "" &&
-      this.state.valueTwo == "" &&
-      this.state.calender == ""
-    ) {
-      this.setState({
-        contentString: ""
-      });
-    } else {
-      this.setState({
-        contentString:
-          this.state.valueOne +
-          "\n" +
-          this.state.valueTwo +
-          "\n" +
-          this.state.calender
-      });
-    }
     console.log("Json url to fetch ", this.state.jsonUrl);
     fetch(this.state.jsonUrl)
       .then(response => {
@@ -110,39 +77,53 @@ class App extends Component {
       .catch(err => {
         // Do something for an error here
       });
-    console.log("Input values: ", this.state.contentString);
   }
 
   handleChange = command => event => {
-    if (event.target.value == 1) {
+    if (event.target.value === 1) {
       this.setState({
         hideAll: true,
         showOne: false,
         showTwo: false,
         showThree: false,
         showAll: false,
+        disableTwo: false,
         [command]: event.target.value
       });
     }
 
-    if (event.target.value == 2) {
+    if (event.target.value === 2) {
       this.setState({
         hideAll: false,
         showOne: true,
         showTwo: false,
         showThree: false,
         showAll: false,
+        disableTwo: false,
         [command]: event.target.value
       });
     }
 
-    if (event.target.value == 3) {
+    if (event.target.value === 3) {
       this.setState({
         hideAll: false,
         showOne: true,
         showTwo: true,
         showThree: true,
         showAll: true,
+        disableTwo: false,
+        [command]: event.target.value
+      });
+    }
+
+    if (event.target.value === 4) {
+      this.setState({
+        hideAll: false,
+        showOne: true,
+        showTwo: true,
+        showThree: true,
+        showAll: true,
+        disableTwo: true,
         [command]: event.target.value
       });
     }
@@ -210,6 +191,7 @@ class App extends Component {
                     <MenuItem value={1}>COMMAND 1</MenuItem>
                     <MenuItem value={2}>COMMAND 2</MenuItem>
                     <MenuItem value={3}>COMMAND 3</MenuItem>
+                    <MenuItem value={4}>COMMAND 4</MenuItem>
                   </Select>
                 </FormControl>
               </form>
@@ -254,6 +236,7 @@ class App extends Component {
                     label="valueTwo"
                     multiline
                     rowsMax="4"
+                    disabled={this.state.disableTwo}
                     className={classes.textField}
                     value={this.state.valueTwo}
                     style={{ marginLeft: "30%" }}
@@ -289,16 +272,7 @@ class App extends Component {
 
             <div className="clear-area">
               <div className="blank-space" />
-              <div className="clear-button">
-                {/* <Button
-                  variant="fab"
-                  aria-label="Delete"
-                  className={classes.button}
-                  onClick={this.clearJsonData.bind(this)}
-                >
-                  <DeleteIcon />
-                </Button> */}
-              </div>
+              <div className="clear-button" />
             </div>
           </div>
         </div>
@@ -316,10 +290,7 @@ class App extends Component {
                 <DeleteIcon />
               </Button>
             </div>
-            <Inspector
-              // className="json-inspector__search"
-              data={this.state.data}
-            />
+            <Inspector data={this.state.data} />
           </div>
         </div>
       </div>
