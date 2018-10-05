@@ -4,14 +4,14 @@ import BodyTwo from "../body-div-two/BodyTwo";
 import "./Body.css";
 
 class Body extends Component {
-  render() {
-    return (
-      <div className="body-div">
-        <BodyOne />
-        <BodyTwo />
-      </div>
-    );
-  }
+    render() {
+        return (
+            <div className="body-div">
+                <BodyOne />
+                <BodyTwo />
+            </div>
+        );
+    }
 }
 
 export default Body;

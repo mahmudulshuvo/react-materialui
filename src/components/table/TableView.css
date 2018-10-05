@@ -1,0 +1,23 @@
+.table-div {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 60%;
+    padding-left: 40px;
+    /* background-color: blueviolet; */
+}
+
+.jsonOdd {
+    background: #eee;
+}
+
+.table > thead {
+    text-align: left;
+}
+
+.table {
+    width: 100%;
+    height: 400px;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+/*this determines column header height*/
