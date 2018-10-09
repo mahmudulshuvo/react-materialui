@@ -8,6 +8,7 @@ import NewCom from "../new-component/NewCom";
 import Body from "../body-div/Body";
 import Footer from "../footer/Footer";
 import TableView from "../table/TableView";
+import DataGrid from "../data-grid/DataGrid";
 import "../../App.css";
 
 function TabContainer(props) {
@@ -28,6 +29,11 @@ function TabContainer(props) {
             {props.children === "Item Three" ? (
                 <div className="App">
                     <NewCom />
+                </div>
+            ) : null}
+            {props.children === "Item Four" ? (
+                <div className="App">
+                    <DataGrid />
                 </div>
             ) : null}
         </div>
@@ -73,11 +79,13 @@ class Tabbar extends Component {
                         <Tab label="Item One" />
                         <Tab label="Item Two" />
                         <Tab label="Item Three" />
+                        <Tab label="Item Four" />
                     </Tabs>
                 </AppBar>
                 {value === 0 && <TabContainer>Item One</TabContainer>}
                 {value === 1 && <TabContainer>Item Two</TabContainer>}
                 {value === 2 && <TabContainer>Item Three</TabContainer>}
+                {value === 3 && <TabContainer>Item Four</TabContainer>}
             </div>
         );
     }

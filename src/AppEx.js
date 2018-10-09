@@ -13,7 +13,7 @@ import DeleteIcon from "@material-ui/icons/Delete";
 import "react-json-inspector/json-inspector.css";
 import "./App.css";
 
-class App extends Component {
+class AppEx extends Component {
   constructor() {
     super();
     this.state = {
@@ -253,4 +253,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default AppEx;
