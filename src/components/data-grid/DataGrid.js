@@ -20,7 +20,8 @@ class DataGrid extends Component {
                 { name: "title", title: "title" },
                 { name: "body", title: "body" }
             ],
-            rows: []
+            rows: [],
+            pageSizes: [5, 10, 15, 0]
         };
     }
 
@@ -41,16 +42,19 @@ class DataGrid extends Component {
     }
 
     render() {
-        const { rows, columns } = this.state;
+        const { rows, columns, pageSizes } = this.state;
         return (
             <div className="data-grid-div">
-                <Paper>
+                <Paper style={{ overflowY: "auto" }}>
                     <Grid rows={rows} columns={columns}>
-                        <PagingState defaultCurrentPage={0} pageSize={10} />
+                        <PagingState
+                            defaultCurrentPage={0}
+                            defaultPageSize={5}
+                        />
                         <IntegratedPaging />
                         <Table />
                         <TableHeaderRow />
-                        <PagingPanel />
+                        <PagingPanel pageSizes={pageSizes} />
                     </Grid>
                 </Paper>
             </div>
