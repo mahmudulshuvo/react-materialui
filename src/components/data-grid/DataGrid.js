@@ -8,11 +8,13 @@ import {
     PagingPanel
 } from "@devexpress/dx-react-grid-material-ui";
 
-import Loading from "./CircularIndeterminate";
+import Loading from "./Loader.js";
+
+import "./DataGrid.css";
 
 const URL = "https://js.devexpress.com/Demos/WidgetsGallery/data/orderItems";
 
-export default class DataGrid extends React.PureComponent {
+class DataGrid extends React.PureComponent {
     constructor(props) {
         super(props);
 
@@ -29,8 +31,7 @@ export default class DataGrid extends React.PureComponent {
             totalCount: 0,
             pageSize: 6,
             currentPage: 0,
-            loading: true,
-            isFirst: false
+            loading: true
         };
 
         this.changeCurrentPage = this.changeCurrentPage.bind(this);
@@ -47,7 +48,6 @@ export default class DataGrid extends React.PureComponent {
     changeCurrentPage(currentPage) {
         this.setState({
             loading: true,
-            isFirst: true,
             currentPage
         });
     }
@@ -62,8 +62,7 @@ export default class DataGrid extends React.PureComponent {
         const queryString = this.queryString();
         if (queryString === this.lastQuery) {
             this.setState({
-                loading: false,
-                isFirst: false
+                loading: false
             });
             return;
         }
@@ -72,7 +71,6 @@ export default class DataGrid extends React.PureComponent {
             .then(response => response.json())
             .then(data => {
                 console.log(data.items);
-                console.log(data.totalCount);
                 this.setState({
                     rows: data.items,
                     totalCount: data.totalCount,
@@ -90,41 +88,28 @@ export default class DataGrid extends React.PureComponent {
             pageSize,
             currentPage,
             totalCount,
-            loading,
-            isFirst
+            loading
         } = this.state;
 
         return (
             <div className="data-grid-div">
-                <div>
-                    <Paper>
-                        <Grid rows={rows} columns={columns}>
-                            <PagingState
-                                currentPage={currentPage}
-                                onCurrentPageChange={this.changeCurrentPage}
-                                pageSize={pageSize}
-                            />
-                            <CustomPaging totalCount={totalCount} />
-                            <Table />
-                            <TableHeaderRow />
-                            <PagingPanel />
-                        </Grid>
-                        {/* {loading && <Loading  />} */}
-                    </Paper>
-                </div>
-
-                <div
-                    style={{
-                        position: "fixed",
-                        marginLeft: "48%",
-                        marginRight: "48%",
-                        marginTop: "-15%",
-                        zIndex: "1000"
-                    }}
-                >
-                    {loading && isFirst && <Loading />}
-                </div>
+                <Paper>
+                    <Grid rows={rows} columns={columns}>
+                        <PagingState
+                            currentPage={currentPage}
+                            onCurrentPageChange={this.changeCurrentPage}
+                            pageSize={pageSize}
+                        />
+                        <CustomPaging totalCount={totalCount} />
+                        <Table />
+                        <TableHeaderRow />
+                        <PagingPanel />
+                    </Grid>
+                    {loading && <Loading />}
+                </Paper>
             </div>
         );
     }
 }
+
+export default DataGrid;
