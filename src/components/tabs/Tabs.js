@@ -9,6 +9,7 @@ import Body from "../body-div/Body";
 import Footer from "../footer/Footer";
 import TableView from "../table/TableView";
 import DataGrid from "../data-grid/DataGrid";
+import Tooltips from "../tooltips/Tooltips";
 import "../../App.css";
 
 function TabContainer(props) {
@@ -34,6 +35,11 @@ function TabContainer(props) {
             {props.children === "Item Four" ? (
                 <div className="App">
                     <DataGrid />
+                </div>
+            ) : null}
+            {props.children === "Item Five" ? (
+                <div className="App">
+                    <Tooltips />
                 </div>
             ) : null}
         </div>
@@ -80,12 +86,14 @@ class Tabbar extends Component {
                         <Tab label="Item Two" />
                         <Tab label="Item Three" />
                         <Tab label="Item Four" />
+                        <Tab label="Item Five" />
                     </Tabs>
                 </AppBar>
                 {value === 0 && <TabContainer>Item One</TabContainer>}
                 {value === 1 && <TabContainer>Item Two</TabContainer>}
                 {value === 2 && <TabContainer>Item Three</TabContainer>}
                 {value === 3 && <TabContainer>Item Four</TabContainer>}
+                {value === 4 && <TabContainer>Item Five</TabContainer>}
             </div>
         );
     }
