@@ -1,7 +1,7 @@
 import React from "react";
 import CircularProgress from "@material-ui/core/CircularProgress";
 
-import "./DataGrid.css";
+import "../../../App.css";
 
 function Loading() {
     return (

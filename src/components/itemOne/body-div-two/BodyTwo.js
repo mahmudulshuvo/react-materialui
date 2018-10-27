@@ -12,8 +12,6 @@ class BodyTwo extends Component {
                         label="valueOne"
                         multiline
                         rowsMax="4"
-                        //value={this.state.valueOne}
-                        //onChange={this.handleChangeValueOne("valueOne")}
                         margin="normal"
                         variant="outlined"
                     />
@@ -25,9 +23,6 @@ class BodyTwo extends Component {
                         label="valueTwo"
                         multiline
                         rowsMax="4"
-                        //value={this.state.valueTwo}
-                        // style={{ marginLeft: "30%" }}
-                        // onChange={this.handleChangeValueTwo("valueTwo")}
                         margin="normal"
                         variant="outlined"
                     />
@@ -39,12 +34,9 @@ class BodyTwo extends Component {
                         label="Birthday"
                         type="date"
                         defaultValue=""
-                        // onChange={this.handleCalenderValue("calender")}
                         style={{
                             position: "relative",
                             top: 20
-                            //   left: 10
-                            //   marginLeft: "30%"
                         }}
                         InputLabelProps={{
                             shrink: true

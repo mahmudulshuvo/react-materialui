@@ -10,8 +10,6 @@ import {
 
 import Loading from "./Loader.js";
 
-import "./DataGrid.css";
-
 const URL = "https://js.devexpress.com/Demos/WidgetsGallery/data/orderItems";
 
 class DataGrid extends React.PureComponent {
