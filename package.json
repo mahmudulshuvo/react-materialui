@@ -1,26 +1,27 @@
 {
-  "name": "react-materialui",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@devexpress/dx-react-chart": "^1.8.0",
-    "@devexpress/dx-react-chart-material-ui": "^1.8.0",
-    "@devexpress/dx-react-core": "^1.8.0",
-    "@devexpress/dx-react-grid": "^1.8.0",
-    "@devexpress/dx-react-grid-material-ui": "^1.8.0",
-    "@material-ui/core": "^3.1.1",
-    "@material-ui/icons": "^3.0.1",
-    "jquery": "^3.3.1",
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2",
-    "react-json-inspector": "^7.1.1",
-    "react-scripts": "1.1.5",
-    "ts-react-json-table": "^0.1.1"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
-  }
+    "name": "react-materialui",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@devexpress/dx-react-chart": "^1.8.0",
+        "@devexpress/dx-react-chart-material-ui": "^1.8.0",
+        "@devexpress/dx-react-core": "^1.8.0",
+        "@devexpress/dx-react-grid": "^1.8.0",
+        "@devexpress/dx-react-grid-material-ui": "^1.8.0",
+        "@material-ui/core": "^3.1.1",
+        "@material-ui/icons": "^3.0.1",
+        "jquery": "^3.3.1",
+        "react": "^16.5.2",
+        "react-dom": "^16.5.2",
+        "react-json-inspector": "^7.1.1",
+        "react-scripts": "1.1.5",
+        "ts-react-json-table": "^0.1.1"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject",
+        "debug": "node --nolazy --inspect-brk=9229 src/components/tables/custom-pagination/CustomPagination.jsx"
+    }
 }
