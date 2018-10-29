@@ -68,22 +68,20 @@ class CustomPagination extends React.PureComponent {
                 }
             })
         };
-
-        this.commitChanges = this.commitChanges.bind(this);
     }
 
     componentDidMount() {
         this.fetchData();
     }
 
-    commitChanges({ deleted }) {
+    commitChanges = ({ deleted }) => {
         let { rows } = this.state;
         if (deleted) {
             const deletedSet = new Set(deleted);
             rows = rows.filter(row => !deletedSet.has(row.id));
         }
         this.setState({ rows });
-    }
+    };
 
     fetchData() {
         let columnArray = [];
@@ -109,11 +107,12 @@ class CustomPagination extends React.PureComponent {
                             }
                         }
                     }
+                    // console.log("default columns", defaultColumnValues);
                     this.setState({
                         columns: columnArray,
                         rows: generateRows({
                             columnValues: {
-                                id: ({ id }) => id,
+                                id: ({ index }) => index,
                                 ...defaultColumnValues
                             },
                             length: data.length
@@ -128,7 +127,6 @@ class CustomPagination extends React.PureComponent {
 
     render() {
         const { rows, columns } = this.state;
-
         return (
             <div className="data-grid-div">
                 <Paper>
