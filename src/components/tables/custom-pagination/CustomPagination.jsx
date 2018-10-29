@@ -24,17 +24,14 @@ export function generateRows({
     length,
     random = randomSeed(329972281)
 }) {
-    console.log("default column values", defaultColumnValues);
     const data = [];
     const columns = Object.keys(columnValues);
-    console.log("columns", columns);
 
     for (let i = 0; i < length; i += 1) {
         const record = {};
 
         columns.forEach(column => {
             let values = columnValues[column];
-            console.log("my values", values);
             if (typeof values === "function") {
                 record[column] = values({ random, index: i, record });
                 console.log("In function");
@@ -60,7 +57,6 @@ export function generateRows({
 
 class CustomPagination extends React.PureComponent {
     constructor(props) {
-        console.log("constructor");
         super(props);
 
         this.state = {
@@ -84,7 +80,6 @@ class CustomPagination extends React.PureComponent {
         let { rows } = this.state;
         if (deleted) {
             const deletedSet = new Set(deleted);
-            console.log("deleted set", deletedSet);
             rows = rows.filter(row => !deletedSet.has(row.id));
         }
         this.setState({ rows });
@@ -135,18 +130,20 @@ class CustomPagination extends React.PureComponent {
         const { rows, columns } = this.state;
 
         return (
-            <Paper>
-                <Grid rows={rows} columns={columns} getRowId={getRowId}>
-                    <PagingState defaultCurrentPage={0} pageSize={5} />
-                    <IntegratedPaging />
-                    <EditingState onCommitChanges={this.commitChanges} />
-                    <Table />
-                    <TableHeaderRow />
-                    <TableEditRow />
-                    <TableEditColumn showDeleteCommand />
-                    <PagingPanel />
-                </Grid>
-            </Paper>
+            <div className="data-grid-div">
+                <Paper>
+                    <Grid rows={rows} columns={columns} getRowId={getRowId}>
+                        <PagingState defaultCurrentPage={0} pageSize={5} />
+                        <IntegratedPaging />
+                        <EditingState onCommitChanges={this.commitChanges} />
+                        <Table />
+                        <TableHeaderRow />
+                        <TableEditRow />
+                        <TableEditColumn showDeleteCommand />
+                        <PagingPanel />
+                    </Grid>
+                </Paper>
+            </div>
         );
     }
 }
