@@ -12,6 +12,7 @@ import TreeData from "../tables/tree-data/TreeData.jsx";
 import ChartIntegration from "../tables/chart-integration/ChartIntegration.jsx";
 import VirtualScrolling from "../tables/virtual-scrolling/VirtualScrolling.jsx";
 import CustomPagination from "../tables/custom-pagination/CustomPagination.jsx";
+import InplaceEditing from "../tables/inplace-editing/InplaceEditing.jsx";
 import "../../App.css";
 
 function TabContainer(props) {
@@ -54,6 +55,12 @@ function TabContainer(props) {
             {props.children === "Custom Pagination" ? (
                 <div className="App">
                     <CustomPagination />
+                </div>
+            ) : null}
+
+            {props.children === "Inplace Edit" ? (
+                <div className="App">
+                    <InplaceEditing />
                 </div>
             ) : null}
         </div>
@@ -103,6 +110,7 @@ class Tabbar extends Component {
                         <Tab label="Chart Integration" />
                         <Tab label="Tree Data" />
                         <Tab label="Custom Pagination" />
+                        <Tab label="Inplace Edit" />
                     </Tabs>
                 </AppBar>
                 {value === 0 && <TabContainer>Item One</TabContainer>}
@@ -112,6 +120,7 @@ class Tabbar extends Component {
                 {value === 4 && <TabContainer>Chart Integration</TabContainer>}
                 {value === 5 && <TabContainer>Tree Data</TabContainer>}
                 {value === 6 && <TabContainer>Custom Pagination</TabContainer>}
+                {value === 7 && <TabContainer>Inplace Edit</TabContainer>}
             </div>
         );
     }

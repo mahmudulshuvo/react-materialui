@@ -237,6 +237,11 @@ class Footer extends Component {
             }
         }
     ];
+
+    expand = () => {
+        return true;
+    };
+
     render() {
         var Inspector = require("react-json-inspector");
         return (
@@ -247,7 +252,10 @@ class Footer extends Component {
                     </Button>
                 </div>
                 <div style={{ flexGrow: 11 }}>
-                    <Inspector data={this.jsonString} />
+                    <Inspector
+                        data={this.jsonString}
+                        isExpanded={this.expand}
+                    />
                 </div>
             </div>
         );
