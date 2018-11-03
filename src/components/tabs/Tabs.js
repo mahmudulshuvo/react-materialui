@@ -17,126 +17,126 @@ import DragDropFile from "../drapDrop/DrapDropFile";
 import "../../App.css";
 
 function TabContainer(props) {
-  return (
-    <div>
-      {props.children === "Item One" ? (
-        <div className="App">
-          <Body />
-          <Footer />
-        </div>
-      ) : null}
-      {props.children === "Pagination" ? (
-        <div className="App">
-          <Pagination />
-        </div>
-      ) : null}
-      {props.children === "Data Editing" ? (
-        <div className="App">
-          <DataEditing />
-        </div>
-      ) : null}
-      {props.children === "Virtual Scrolling" ? (
-        <div className="App">
-          <VirtualScrolling />
-        </div>
-      ) : null}
+    return (
+        <div>
+            {props.children === "Item One" ? (
+                <div className="App">
+                    <Body />
+                    <Footer />
+                </div>
+            ) : null}
+            {props.children === "Pagination" ? (
+                <div className="App">
+                    <Pagination />
+                </div>
+            ) : null}
+            {props.children === "Data Editing" ? (
+                <div className="App">
+                    <DataEditing />
+                </div>
+            ) : null}
+            {props.children === "Virtual Scrolling" ? (
+                <div className="App">
+                    <VirtualScrolling />
+                </div>
+            ) : null}
 
-      {props.children === "Chart Integration" ? (
-        <div className="App">
-          <ChartIntegration />
-        </div>
-      ) : null}
+            {props.children === "Chart Integration" ? (
+                <div className="App">
+                    <ChartIntegration />
+                </div>
+            ) : null}
 
-      {props.children === "Tree Data" ? (
-        <div className="App">
-          <TreeData />
-        </div>
-      ) : null}
+            {props.children === "Tree Data" ? (
+                <div className="App">
+                    <TreeData />
+                </div>
+            ) : null}
 
-      {props.children === "Custom Pagination" ? (
-        <div className="App">
-          <CustomPagination />
-        </div>
-      ) : null}
+            {props.children === "Custom Pagination" ? (
+                <div className="App">
+                    <CustomPagination />
+                </div>
+            ) : null}
 
-      {props.children === "Inplace Edit" ? (
-        <div className="App">
-          <InplaceEditing />
-        </div>
-      ) : null}
+            {props.children === "Inplace Edit" ? (
+                <div className="App">
+                    <InplaceEditing />
+                </div>
+            ) : null}
 
-      {props.children === "Drag Drop File" ? (
-        <div className="App">
-          <DragDropFile />
+            {props.children === "Drag Drop File" ? (
+                <div className="App">
+                    <DragDropFile />
+                </div>
+            ) : null}
         </div>
-      ) : null}
-    </div>
-  );
+    );
 }
 
 TabContainer.propTypes = {
-  children: PropTypes.node.isRequired
+    children: PropTypes.node.isRequired
 };
 
 const styles = theme => ({
-  root: {
-    flexGrow: 1,
-    width: "100%",
-    backgroundColor: theme.palette.background.paper
-  }
+    root: {
+        flexGrow: 1,
+        width: "100%",
+        backgroundColor: theme.palette.background.paper
+    }
 });
 
 class Tabbar extends Component {
-  state = {
-    value: 0
-  };
+    state = {
+        value: 0
+    };
 
-  handleChange = (event, value) => {
-    this.setState({ value });
-  };
+    handleChange = (event, value) => {
+        this.setState({ value });
+    };
 
-  render() {
-    const { classes } = this.props;
-    const { value } = this.state;
+    render() {
+        const { classes } = this.props;
+        const { value } = this.state;
 
-    return (
-      <div className={classes.root}>
-        <AppBar position="static" color="default">
-          <Tabs
-            value={value}
-            onChange={this.handleChange}
-            indicatorColor="primary"
-            textColor="primary"
-            scrollable
-            scrollButtons="auto"
-          >
-            <Tab label="Item One" />
-            <Tab label="Pagination" />
-            <Tab label="Data Editing" />
-            <Tab label="Virtual Scrolling" />
-            <Tab label="Chart Integration" />
-            <Tab label="Tree Data" />
-            <Tab label="Custom Pagination" />
-            <Tab label="Inplace Edit" />
-            <Tab label="Drag Drop File" />
-          </Tabs>
-        </AppBar>
-        {value === 0 && <TabContainer>Item One</TabContainer>}
-        {value === 1 && <TabContainer>Pagination</TabContainer>}
-        {value === 2 && <TabContainer>Data Editing</TabContainer>}
-        {value === 3 && <TabContainer>Virtual Scrolling</TabContainer>}
-        {value === 4 && <TabContainer>Chart Integration</TabContainer>}
-        {value === 5 && <TabContainer>Tree Data</TabContainer>}
-        {value === 6 && <TabContainer>Custom Pagination</TabContainer>}
-        {value === 7 && <TabContainer>Inplace Edit</TabContainer>}
-        {value === 8 && <TabContainer>Drag Drop File</TabContainer>}
-      </div>
-    );
-  }
+        return (
+            <div className={classes.root}>
+                <AppBar position="static" color="default">
+                    <Tabs
+                        value={value}
+                        onChange={this.handleChange}
+                        indicatorColor="primary"
+                        textColor="primary"
+                        scrollable
+                        scrollButtons="auto"
+                    >
+                        <Tab label="Item One" />
+                        <Tab label="Pagination" />
+                        <Tab label="Data Editing" />
+                        <Tab label="Virtual Scrolling" />
+                        <Tab label="Chart Integration" />
+                        <Tab label="Tree Data" />
+                        <Tab label="Custom Pagination" />
+                        <Tab label="Inplace Edit" />
+                        <Tab label="Drag Drop File" />
+                    </Tabs>
+                </AppBar>
+                {value === 0 && <TabContainer>Item One</TabContainer>}
+                {value === 1 && <TabContainer>Pagination</TabContainer>}
+                {value === 2 && <TabContainer>Data Editing</TabContainer>}
+                {value === 3 && <TabContainer>Virtual Scrolling</TabContainer>}
+                {value === 4 && <TabContainer>Chart Integration</TabContainer>}
+                {value === 5 && <TabContainer>Tree Data</TabContainer>}
+                {value === 6 && <TabContainer>Custom Pagination</TabContainer>}
+                {value === 7 && <TabContainer>Inplace Edit</TabContainer>}
+                {value === 8 && <TabContainer>Drag Drop File</TabContainer>}
+            </div>
+        );
+    }
 }
 
 Tabbar.propTypes = {
-  classes: PropTypes.object.isRequired
+    classes: PropTypes.object.isRequired
 };
 
 export default withStyles(styles)(Tabbar);
