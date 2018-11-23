@@ -12,6 +12,7 @@
         "@material-ui/icons": "^3.0.1",
         "jquery": "^3.3.1",
         "react": "^16.5.2",
+        "react-datepicker": "^2.0.0",
         "react-dom": "^16.5.2",
         "react-dropzone": "^7.0.1",
         "react-json-inspector": "^7.1.1",
