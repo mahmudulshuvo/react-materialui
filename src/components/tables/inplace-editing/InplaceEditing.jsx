@@ -188,29 +188,11 @@ class InplaceEditing extends React.PureComponent {
       }),
       date: dateValue
     };
-    // this.handleChange = this.handleChange.bind(this);
-    // this.handleSelect = this.handleSelect.bind(this);
     console.log("defaultColumnValues", defaultColumnValues);
   }
 
   componentDidMount() {
     this.fetchData();
-  }
-
-  handleChange(date) {
-    console.log("handle change called", date);
-    // this.setState({
-    //   date: date
-    // });
-    // console.log("Date property", this.state.date);
-  }
-
-  handleSelect(date) {
-    console.log("handle select called", date);
-    // this.setState({
-    //   date: date
-    // });
-    // console.log("Date property", this.state.date);
   }
 
   commitChanges = ({ changed }) => {

@@ -14,7 +14,6 @@ import VirtualScrolling from "../tables/virtual-scrolling/VirtualScrolling.jsx";
 import CustomPagination from "../tables/custom-pagination/CustomPagination.jsx";
 import InplaceEditing from "../tables/inplace-editing/InplaceEditing.jsx";
 import DragDropFile from "../drapDrop/DrapDropFile";
-import TestComponent from "../tables/test-component/TestComponent.jsx";
 import "../../App.css";
 
 function TabContainer(props) {
@@ -71,12 +70,6 @@ function TabContainer(props) {
           <DragDropFile />
         </div>
       ) : null}
-
-      {props.children === "Test" ? (
-        <div className="App">
-          <TestComponent />
-        </div>
-      ) : null}
     </div>
   );
 }
@@ -126,7 +119,6 @@ class Tabbar extends Component {
             <Tab label="Custom Pagination" />
             <Tab label="Inplace Edit" />
             <Tab label="Drag Drop File" />
-            <Tab label="Test" />
           </Tabs>
         </AppBar>
         {value === 0 && <TabContainer>Item One</TabContainer>}
@@ -138,7 +130,6 @@ class Tabbar extends Component {
         {value === 6 && <TabContainer>Custom Pagination</TabContainer>}
         {value === 7 && <TabContainer>Inplace Edit</TabContainer>}
         {value === 8 && <TabContainer>Drag Drop File</TabContainer>}
-        {value === 9 && <TabContainer>Test</TabContainer>}
       </div>
     );
   }
