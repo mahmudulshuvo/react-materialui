@@ -30,9 +30,6 @@ import "react-datepicker/dist/react-datepicker.css";
 const getRowId = row => row.id;
 const URL = "https://jsonplaceholder.typicode.com/posts";
 let defaultColumnValues = {};
-let placedDate = new Date();
-let dateValue = "2018-11-23";
-let dateChangeFlag = false;
 
 const styles = theme => ({
   lookupEditCell: {
@@ -143,37 +140,10 @@ export const LookupEditCell = withStyles(styles, {
   name: "ControlledModeDemo"
 })(LookupEditCellBase);
 
-const EditCell = props => {
-  const { column } = props;
-  const availableColumnValues = availableValues[column.name];
-  if (availableColumnValues) {
-    return (
-      <LookupEditCell
-        {...props}
-        availableColumnValues={availableColumnValues}
-      />
-    );
-  }
-  if (column.name === "date") {
-    return (
-      <TableCell>
-        <DatePicker selected={placedDate} onChange={handleChange} />
-      </TableCell>
-    );
-  }
-
-  return <TableEditRow.Cell {...props} />;
-};
-
-function handleChange(date) {
-  // console.log("function called", date);
-  placedDate = date;
-  console.log("date value ", placedDate);
-  dateValue = date.getFullYear() + "-" + date.getMonth() + "-" + date.getDate();
-  console.log("date year", dateValue);
-  dateChangeFlag = true;
-}
 class InplaceEditing extends React.PureComponent {
+  placedDate = new Date("2018-11-23");
+  dateValue = "2018-11-23";
+  dateChangeFlag = false;
   //This is almost clean with a minor issue
   constructor(props) {
     super(props);
@@ -186,25 +156,55 @@ class InplaceEditing extends React.PureComponent {
           ...defaultColumnValues
         }
       }),
-      date: dateValue
+      date: "2018-11-23"
     };
-    console.log("defaultColumnValues", defaultColumnValues);
+    this.handleChange = this.handleChange.bind(this);
+    //console.log("defaultColumnValues", defaultColumnValues);
   }
 
   componentDidMount() {
     this.fetchData();
   }
 
+  EditCell = props => {
+    const { column } = props;
+    const availableColumnValues = availableValues[column.name];
+    if (availableColumnValues) {
+      return (
+        <LookupEditCell
+          {...props}
+          availableColumnValues={availableColumnValues}
+        />
+      );
+    }
+    if (column.name === "date") {
+      return (
+        <TableCell>
+          <DatePicker selected={this.placedDate} onChange={this.handleChange} />
+        </TableCell>
+      );
+    }
+    return <TableEditRow.Cell {...props} />;
+  };
+
+  handleChange(date) {
+    this.dateValue =
+      date.getFullYear() + "-" + (date.getMonth() + 1) + "-" + date.getDate();
+    this.placedDate = new Date(this.dateValue);
+    this.dateChangeFlag = true;
+    console.log("date value", this.dateValue, this.placedDate);
+  }
+
   commitChanges = ({ changed }) => {
     let { rows } = this.state;
-    if (dateChangeFlag) {
+    if (this.dateChangeFlag) {
       rows = rows.map(row => {
         if (row.id === parseInt(Object.keys(changed)[0], 10)) {
-          row.date = dateValue;
+          row.date = this.dateValue;
         }
         return row;
       });
-      dateChangeFlag = false;
+      this.dateChangeFlag = false;
     }
 
     if (changed) {
@@ -280,7 +280,7 @@ class InplaceEditing extends React.PureComponent {
             <EditingState onCommitChanges={this.commitChanges} />
             <Table />
             <TableHeaderRow />
-            <TableEditRow cellComponent={EditCell} />
+            <TableEditRow cellComponent={this.EditCell} />
             <TableEditColumn showEditCommand commandComponent={Command} />
             <PagingPanel />
           </Grid>
