@@ -161,7 +161,7 @@ class SelectionComponent extends Component {
 
                     {/*URL*/}
                     <Grid container spacing={8}>
-                        <Grid item xs={2}>
+                        <Grid item xs={3}>
                             <FormControl
                                 component="fieldset"
                                 className={classes.formControl}
@@ -170,7 +170,7 @@ class SelectionComponent extends Component {
                             </FormControl>
                         </Grid>
 
-                        <Grid item xs={6}>
+                        <Grid item xs={9}>
                             <Dropdown
                                 placeholder="Url"
                                 fluid
@@ -182,7 +182,7 @@ class SelectionComponent extends Component {
                                 style={{
                                     width: "400px",
                                     marginTop: "10px",
-                                    marginLeft: "-200px"
+                                    marginLeft: "-300px"
                                 }}
                             />
                         </Grid>
