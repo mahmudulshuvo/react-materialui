@@ -9,6 +9,14 @@ import {
 import "./BodyOne.css";
 
 class BodyOne extends Component {
+    state = {
+        command: ""
+    };
+
+    handleChange = event => {
+        this.setState({ [event.target.name]: event.target.value });
+    };
+
     render() {
         return (
             <div className="body-div-one">
@@ -19,14 +27,14 @@ class BodyOne extends Component {
                                 Command
                             </InputLabel>
                             <Select
-                                // value={this.state.command}
-                                // onChange={this.handleChange("command")}
+                                value={this.state.command}
+                                onChange={this.handleChange}
                                 inputProps={{
                                     name: "command",
                                     id: "select-command"
                                 }}
                             >
-                                <MenuItem value="">
+                                <MenuItem value={0}>
                                     <em>None</em>
                                 </MenuItem>
                                 <MenuItem value={1}>COMMAND 1</MenuItem>
