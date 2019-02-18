@@ -17,6 +17,7 @@
         "react-dropzone": "^7.0.1",
         "react-json-inspector": "^7.1.1",
         "react-scripts": "1.1.5",
+        "semantic-ui-react": "^0.85.0",
         "ts-react-json-table": "^0.1.1"
     },
     "scripts": {
