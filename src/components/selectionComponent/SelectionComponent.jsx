@@ -1,20 +1,21 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
 import { withStyles } from "@material-ui/core/styles";
+import Grid from "@material-ui/core/Grid";
 import Radio from "@material-ui/core/Radio";
 import Button from "@material-ui/core/Button";
 import RadioGroup from "@material-ui/core/RadioGroup";
 import FormControlLabel from "@material-ui/core/FormControlLabel";
 import FormControl from "@material-ui/core/FormControl";
 import FormLabel from "@material-ui/core/FormLabel";
-import { Dropdown, Grid } from "semantic-ui-react";
+import { Dropdown } from "semantic-ui-react";
 import { input } from "./InputJson";
 
 const styles = theme => ({
     root: {
         display: "flex",
-        marginTop: 3 * theme.spacing.unit,
-        marginLeft: 3 * theme.spacing.unit
+        marginTop: 5 * theme.spacing.unit,
+        marginLeft: 5 * theme.spacing.unit
     },
     formControl: {
         margin: theme.spacing.unit * 3
@@ -24,9 +25,6 @@ const styles = theme => ({
     },
     button: {
         margin: theme.spacing.unit
-    },
-    paper: {
-        paddingTop: 3.5 * theme.spacing.unit
     }
 });
 
@@ -133,8 +131,9 @@ class SelectionComponent extends Component {
         const { classes } = this.props;
         return (
             <div className={classes.root}>
-                <Grid>
-                    <Grid.Column width={16}>
+                <Grid container spacing={8}>
+                    {/*Tax or Rmi*/}
+                    <Grid item xs={3}>
                         <FormControl>
                             <RadioGroup
                                 aria-label="position"
@@ -158,33 +157,39 @@ class SelectionComponent extends Component {
                                 />
                             </RadioGroup>
                         </FormControl>
-                    </Grid.Column>
-                    <Grid.Column width={4}>
-                        <FormControl
-                            component="fieldset"
-                            className={classes.formControl}
-                        >
-                            <FormLabel component="legend">URL:</FormLabel>
-                        </FormControl>
-                    </Grid.Column>
-                    <Grid.Column width={6}>
-                        <Dropdown
-                            placeholder="Url"
-                            fluid
-                            search
-                            selection
-                            options={input.url}
-                            value={this.state.urlValue}
-                            onChange={this.handleSelectUrl}
-                            style={{
-                                width: "400px",
-                                marginTop: "10px",
-                                marginLeft: "-200px"
-                            }}
-                        />
-                    </Grid.Column>
-                    <Grid.Column width={16}>
-                        {/* //Locations */}
+                    </Grid>
+
+                    {/*URL*/}
+                    <Grid container spacing={8}>
+                        <Grid item xs={2}>
+                            <FormControl
+                                component="fieldset"
+                                className={classes.formControl}
+                            >
+                                <FormLabel component="legend">URL:</FormLabel>
+                            </FormControl>
+                        </Grid>
+
+                        <Grid item xs={6}>
+                            <Dropdown
+                                placeholder="Url"
+                                fluid
+                                search
+                                selection
+                                options={input.url}
+                                value={this.state.urlValue}
+                                onChange={this.handleSelectUrl}
+                                style={{
+                                    width: "400px",
+                                    marginTop: "10px",
+                                    marginLeft: "-200px"
+                                }}
+                            />
+                        </Grid>
+                    </Grid>
+
+                    {/* //Locations */}
+                    <Grid container spacing={8}>
                         <FormControl
                             component="fieldset"
                             className={classes.formControl}
@@ -262,266 +267,247 @@ class SelectionComponent extends Component {
                                 }}
                             />
                         </FormControl>
-                    </Grid.Column>
+                    </Grid>
 
                     {/* //Tax Category */}
-                    <Grid.Column width={16}>
-                        <div>
-                            <FormControl
-                                component="fieldset"
-                                className={classes.formControl}
-                            >
-                                <FormLabel component="legend">
-                                    Tax Category:
-                                </FormLabel>
-                                <RadioGroup
-                                    name="taxCategory"
-                                    className={classes.group}
-                                    value={this.state.taxCategory}
-                                    onChange={this.handleChangeTaxCategory}
-                                >
-                                    <FormControlLabel
-                                        value="all"
-                                        control={
-                                            <Radio
-                                                disabled={
-                                                    this.state.taxOrRmi ===
-                                                    "rmi"
-                                                }
-                                            />
-                                        }
-                                        label="All"
-                                    />
-                                    <FormControlLabel
-                                        value="select"
-                                        control={
-                                            <Radio
-                                                disabled={
-                                                    this.state.taxOrRmi ===
-                                                    "rmi"
-                                                }
-                                            />
-                                        }
-                                        label="Select"
-                                    />
-                                </RadioGroup>
-                            </FormControl>
 
-                            <FormControl
-                                component="fieldset"
-                                className={classes.formControl}
+                    <Grid container spacing={8}>
+                        <FormControl
+                            component="fieldset"
+                            className={classes.formControl}
+                        >
+                            <FormLabel component="legend">
+                                Tax Category:
+                            </FormLabel>
+                            <RadioGroup
+                                name="taxCategory"
+                                className={classes.group}
+                                value={this.state.taxCategory}
+                                onChange={this.handleChangeTaxCategory}
                             >
-                                <FormLabel component="legend" />
-                                <Dropdown
-                                    placeholder="Tax Category"
-                                    fluid
-                                    multiple
-                                    search
-                                    selection
-                                    options={input.taxCategory}
-                                    value={this.state.taxValue}
-                                    disabled={
-                                        this.state.taxCategory === "all" ||
-                                        this.state.taxOrRmi === "rmi"
+                                <FormControlLabel
+                                    value="all"
+                                    control={
+                                        <Radio
+                                            disabled={
+                                                this.state.taxOrRmi === "rmi"
+                                            }
+                                        />
                                     }
-                                    onChange={this.handleSelectTax}
-                                    style={{
-                                        width: "400px",
-                                        marginTop: "70px",
-                                        marginLeft: "25px"
-                                    }}
+                                    label="All"
                                 />
-                            </FormControl>
-                        </div>
-                    </Grid.Column>
+                                <FormControlLabel
+                                    value="select"
+                                    control={
+                                        <Radio
+                                            disabled={
+                                                this.state.taxOrRmi === "rmi"
+                                            }
+                                        />
+                                    }
+                                    label="Select"
+                                />
+                            </RadioGroup>
+                        </FormControl>
+
+                        <FormControl
+                            component="fieldset"
+                            className={classes.formControl}
+                        >
+                            <FormLabel component="legend" />
+                            <Dropdown
+                                placeholder="Tax Category"
+                                fluid
+                                multiple
+                                search
+                                selection
+                                options={input.taxCategory}
+                                value={this.state.taxValue}
+                                disabled={
+                                    this.state.taxCategory === "all" ||
+                                    this.state.taxOrRmi === "rmi"
+                                }
+                                onChange={this.handleSelectTax}
+                                style={{
+                                    width: "400px",
+                                    marginTop: "70px",
+                                    marginLeft: "25px"
+                                }}
+                            />
+                        </FormControl>
+                    </Grid>
 
                     {/* //RMI */}
-                    <Grid.Column width={16}>
-                        <div>
-                            <FormControl
-                                component="fieldset"
-                                className={classes.formControl}
+                    <Grid container spacing={8}>
+                        <FormControl
+                            component="fieldset"
+                            className={classes.formControl}
+                        >
+                            <FormLabel component="legend">RMI:</FormLabel>
+                            <RadioGroup
+                                name="rmi"
+                                className={classes.group}
+                                value={this.state.rmi}
+                                onChange={this.handleChangeRMI}
                             >
-                                <FormLabel component="legend">RMI:</FormLabel>
-                                <RadioGroup
-                                    name="rmi"
-                                    className={classes.group}
-                                    value={this.state.rmi}
-                                    onChange={this.handleChangeRMI}
-                                >
-                                    <FormControlLabel
-                                        value="all"
-                                        control={
-                                            <Radio
-                                                disabled={
-                                                    this.state.taxOrRmi ===
-                                                    "tax"
-                                                }
-                                            />
-                                        }
-                                        label="All"
-                                    />
-                                    <FormControlLabel
-                                        value="select"
-                                        control={
-                                            <Radio
-                                                disabled={
-                                                    this.state.taxOrRmi ===
-                                                    "tax"
-                                                }
-                                            />
-                                        }
-                                        label="Select"
-                                    />
-                                </RadioGroup>
-                            </FormControl>
-
-                            <FormControl
-                                component="fieldset"
-                                className={classes.formControl}
-                            >
-                                <FormLabel component="legend" />
-                                <Dropdown
-                                    placeholder="RMI"
-                                    fluid
-                                    multiple
-                                    search
-                                    selection
-                                    options={input.rmi}
-                                    value={this.state.rmiValue}
-                                    disabled={
-                                        this.state.rmi === "all" ||
-                                        this.state.taxOrRmi === "tax"
+                                <FormControlLabel
+                                    value="all"
+                                    control={
+                                        <Radio
+                                            disabled={
+                                                this.state.taxOrRmi === "tax"
+                                            }
+                                        />
                                     }
-                                    onChange={this.handleSelectRmi}
-                                    style={{
-                                        width: "400px",
-                                        marginTop: "70px",
-                                        marginLeft: "25px"
-                                    }}
+                                    label="All"
                                 />
-                            </FormControl>
-                        </div>
-                    </Grid.Column>
+                                <FormControlLabel
+                                    value="select"
+                                    control={
+                                        <Radio
+                                            disabled={
+                                                this.state.taxOrRmi === "tax"
+                                            }
+                                        />
+                                    }
+                                    label="Select"
+                                />
+                            </RadioGroup>
+                        </FormControl>
+
+                        <FormControl
+                            component="fieldset"
+                            className={classes.formControl}
+                        >
+                            <FormLabel component="legend" />
+                            <Dropdown
+                                placeholder="RMI"
+                                fluid
+                                multiple
+                                search
+                                selection
+                                options={input.rmi}
+                                value={this.state.rmiValue}
+                                disabled={
+                                    this.state.rmi === "all" ||
+                                    this.state.taxOrRmi === "tax"
+                                }
+                                onChange={this.handleSelectRmi}
+                                style={{
+                                    width: "400px",
+                                    marginTop: "70px",
+                                    marginLeft: "25px"
+                                }}
+                            />
+                        </FormControl>
+                    </Grid>
 
                     {/* //Destination */}
-                    <Grid.Column width={16}>
-                        <div>
-                            <FormControl
-                                component="fieldset"
-                                className={classes.formControl}
+                    <Grid container spacing={8}>
+                        <FormControl
+                            component="fieldset"
+                            className={classes.formControl}
+                        >
+                            <FormLabel component="legend">
+                                Destinations:
+                            </FormLabel>
+                            <RadioGroup
+                                name="destination"
+                                className={classes.group}
+                                value={this.state.destination}
+                                onChange={this.handleChangeDestination}
                             >
-                                <FormLabel component="legend">
-                                    Destinations:
-                                </FormLabel>
-                                <RadioGroup
-                                    name="destination"
-                                    className={classes.group}
-                                    value={this.state.destination}
-                                    onChange={this.handleChangeDestination}
-                                >
-                                    <FormControlLabel
-                                        value="all"
-                                        control={
-                                            <Radio
-                                                disabled={
-                                                    (this.state.taxOrRmi ===
-                                                    "tax"
-                                                        ? this.state
-                                                              .taxCategory ===
-                                                          "all"
-                                                            ? false
-                                                            : this.state
-                                                                  .taxValue
-                                                                  .length === 0
-                                                        : this.state.rmi ===
-                                                          "all"
+                                <FormControlLabel
+                                    value="all"
+                                    control={
+                                        <Radio
+                                            disabled={
+                                                (this.state.taxOrRmi === "tax"
+                                                    ? this.state.taxCategory ===
+                                                      "all"
                                                         ? false
-                                                        : this.state.rmiValue
-                                                              .length === 0) ||
-                                                    (this.state.location !==
-                                                        "all" &&
-                                                        this.state.stateValue
-                                                            .length === 0 &&
-                                                        this.state.locationValue
-                                                            .length === 0)
-                                                }
-                                            />
-                                        }
-                                        label="All"
-                                    />
-                                    <FormControlLabel
-                                        value="select"
-                                        control={
-                                            <Radio
-                                                disabled={
-                                                    (this.state.taxOrRmi ===
-                                                    "tax"
-                                                        ? this.state
-                                                              .taxCategory ===
-                                                          "all"
-                                                            ? false
-                                                            : this.state
-                                                                  .taxValue
-                                                                  .length === 0
-                                                        : this.state.rmi ===
-                                                          "all"
-                                                        ? false
-                                                        : this.state.rmiValue
-                                                              .length === 0) ||
-                                                    (this.state.location !==
-                                                        "all" &&
-                                                        this.state.stateValue
-                                                            .length === 0 &&
-                                                        this.state.locationValue
-                                                            .length === 0)
-                                                }
-                                            />
-                                        }
-                                        label="Select"
-                                    />
-                                </RadioGroup>
-                            </FormControl>
-
-                            <FormControl
-                                component="fieldset"
-                                className={classes.formControl}
-                            >
-                                <FormLabel component="legend" />
-                                <Dropdown
-                                    placeholder="Destination"
-                                    fluid
-                                    multiple
-                                    search
-                                    selection
-                                    options={input.destination}
-                                    value={this.state.destinationValue}
-                                    disabled={
-                                        this.state.destination === "all" ||
-                                        (this.state.taxOrRmi === "tax"
-                                            ? this.state.taxCategory === "all"
-                                                ? false
-                                                : this.state.taxValue.length ===
-                                                  0
-                                            : this.state.rmi === "all"
-                                            ? false
-                                            : this.state.rmiValue.length ===
-                                              0) ||
-                                        (this.state.location !== "all" &&
-                                            this.state.stateValue.length ===
-                                                0 &&
-                                            this.state.locationValue.length ===
-                                                0)
+                                                        : this.state.taxValue
+                                                              .length === 0
+                                                    : this.state.rmi === "all"
+                                                    ? false
+                                                    : this.state.rmiValue
+                                                          .length === 0) ||
+                                                (this.state.location !==
+                                                    "all" &&
+                                                    this.state.stateValue
+                                                        .length === 0 &&
+                                                    this.state.locationValue
+                                                        .length === 0)
+                                            }
+                                        />
                                     }
-                                    onChange={this.handleSelectDestination}
-                                    style={{
-                                        width: "400px",
-                                        marginTop: "70px",
-                                        marginLeft: "25px"
-                                    }}
+                                    label="All"
                                 />
-                            </FormControl>
-                        </div>
+                                <FormControlLabel
+                                    value="select"
+                                    control={
+                                        <Radio
+                                            disabled={
+                                                (this.state.taxOrRmi === "tax"
+                                                    ? this.state.taxCategory ===
+                                                      "all"
+                                                        ? false
+                                                        : this.state.taxValue
+                                                              .length === 0
+                                                    : this.state.rmi === "all"
+                                                    ? false
+                                                    : this.state.rmiValue
+                                                          .length === 0) ||
+                                                (this.state.location !==
+                                                    "all" &&
+                                                    this.state.stateValue
+                                                        .length === 0 &&
+                                                    this.state.locationValue
+                                                        .length === 0)
+                                            }
+                                        />
+                                    }
+                                    label="Select"
+                                />
+                            </RadioGroup>
+                        </FormControl>
+
+                        <FormControl
+                            component="fieldset"
+                            className={classes.formControl}
+                        >
+                            <FormLabel component="legend" />
+                            <Dropdown
+                                placeholder="Destination"
+                                fluid
+                                multiple
+                                search
+                                selection
+                                options={input.destination}
+                                value={this.state.destinationValue}
+                                disabled={
+                                    this.state.destination === "all" ||
+                                    (this.state.taxOrRmi === "tax"
+                                        ? this.state.taxCategory === "all"
+                                            ? false
+                                            : this.state.taxValue.length === 0
+                                        : this.state.rmi === "all"
+                                        ? false
+                                        : this.state.rmiValue.length === 0) ||
+                                    (this.state.location !== "all" &&
+                                        this.state.stateValue.length === 0 &&
+                                        this.state.locationValue.length === 0)
+                                }
+                                onChange={this.handleSelectDestination}
+                                style={{
+                                    width: "400px",
+                                    marginTop: "70px",
+                                    marginLeft: "25px"
+                                }}
+                            />
+                        </FormControl>
+                    </Grid>
+                    <Grid container spacing={8}>
                         <Button
                             variant="contained"
                             color="primary"
@@ -548,7 +534,7 @@ class SelectionComponent extends Component {
                         >
                             Submit
                         </Button>
-                    </Grid.Column>
+                    </Grid>
                 </Grid>
             </div>
         );
