@@ -1,11 +1,9 @@
 import React, { Component } from "react";
-// import PropTypes from "prop-types";
 import { withStyles } from "@material-ui/core/styles";
 import Radio from "@material-ui/core/Radio";
 import Button from "@material-ui/core/Button";
 import RadioGroup from "@material-ui/core/RadioGroup";
 import FormControlLabel from "@material-ui/core/FormControlLabel";
-// import FormControl from "@material-ui/core/FormControl";
 import FormLabel from "@material-ui/core/FormLabel";
 import { input } from "./InputJson";
 import Select from "react-select";
@@ -61,11 +59,6 @@ class SelectionComponent extends Component {
         this.setState({ destination: event.target.value });
     };
 
-    //   handleSelectUrl = data => {
-    //     console.log("handleSelectUrl", data);
-    //     this.setState({ urlValue: data });
-    //   };
-
     handleSelectState = data => {
         this.setState({ stateValue: data });
     };
@@ -87,24 +80,50 @@ class SelectionComponent extends Component {
     };
 
     handleSubmit = () => {
+        let statesList = [];
+        let locationIdList = [];
+        let taxIdList = [];
+        let rmiIdList = [];
+        let destinationIdList = [];
+
+        for (let i = 0; i < this.state.stateValue.length; i++) {
+            statesList.push(this.state.stateValue[i].value);
+        }
+
+        for (let i = 0; i < this.state.locationValue.length; i++) {
+            locationIdList.push(this.state.locationValue[i].value);
+        }
+
+        for (let i = 0; i < this.state.taxValue.length; i++) {
+            taxIdList.push(this.state.taxValue[i].value);
+        }
+
+        for (let i = 0; i < this.state.rmiValue.length; i++) {
+            rmiIdList.push(this.state.rmiValue[i].value);
+        }
+
+        for (let i = 0; i < this.state.destinationValue.length; i++) {
+            destinationIdList.push(this.state.destinationValue[i].value);
+        }
+
         let output = {
             isRmiDriven: this.state.taxOrRmi === "rmi",
             location: {
                 all: this.state.location === "all",
-                stateList: this.state.stateValue,
-                idList: this.state.locationValue
+                stateList: statesList,
+                idList: locationIdList
             },
             taxCategory: {
                 all: this.state.taxCategory === "all",
-                idList: this.state.taxValue
+                idList: taxIdList
             },
             rmi: {
                 all: this.state.rmi === "all",
-                idList: this.state.rmiValue
+                idList: rmiIdList
             },
             destination: {
                 all: this.state.destination === "all",
-                idList: this.state.destinationValue
+                idList: destinationIdList
             }
         };
 
@@ -118,7 +137,6 @@ class SelectionComponent extends Component {
             stateValue: [],
             rmiValue: [],
             destinationValue: [],
-            //   urlValue: "",
             taxValue: []
         });
 
