@@ -1,20190 +1,20190 @@
 export const input = {
     destination: [
         {
-            value: "CFA DELIVERY",
-            label: "CFA DELIVERY"
+            text: "CFA DELIVERY",
+            value: "CFA DELIVERY"
         },
         {
-            value: "PICKUP",
-            label: "PICKUP"
+            text: "PICKUP",
+            value: "PICKUP"
         },
         {
-            value: "M-DRIVE-THRU",
-            label: "M-DRIVE-THRU"
+            text: "M-DRIVE-THRU",
+            value: "M-DRIVE-THRU"
         },
         {
-            value: "M-DINEIN",
-            label: "M-DINEIN"
+            text: "M-DINEIN",
+            value: "M-DINEIN"
         },
         {
-            value: "DINE IN",
-            label: "DINE IN"
+            text: "DINE IN",
+            value: "DINE IN"
         },
         {
-            value: "DRIVE THRU 2",
-            label: "DRIVE THRU 2"
+            text: "DRIVE THRU 2",
+            value: "DRIVE THRU 2"
         },
         {
-            value: "FULL SERVE",
-            label: "FULL SERVE"
+            text: "FULL SERVE",
+            value: "FULL SERVE"
         },
         {
-            value: "M-CARRYOUT",
-            label: "M-CARRYOUT"
+            text: "M-CARRYOUT",
+            value: "M-CARRYOUT"
         },
         {
-            value: "DRIVE THRU 3",
-            label: "DRIVE THRU 3"
+            text: "DRIVE THRU 3",
+            value: "DRIVE THRU 3"
         },
         {
-            value: "CARRY OUT",
-            label: "CARRY OUT"
+            text: "CARRY OUT",
+            value: "CARRY OUT"
         },
         {
-            value: "M-OUTSIDE",
-            label: "M-OUTSIDE"
+            text: "M-OUTSIDE",
+            value: "M-OUTSIDE"
         },
         {
-            value: "ON DEMAND",
-            label: "ON DEMAND"
+            text: "ON DEMAND",
+            value: "ON DEMAND"
         },
         {
-            value: "DELIVERY",
-            label: "DELIVERY"
+            text: "DELIVERY",
+            value: "DELIVERY"
         },
         {
-            value: "DRIVE THRU",
-            label: "DRIVE THRU"
+            text: "DRIVE THRU",
+            value: "DRIVE THRU"
         },
         {
-            value: "MOBILE",
-            label: "MOBILE"
+            text: "MOBILE",
+            value: "MOBILE"
         }
     ],
     location: [
         {
-            value: "Sandy Springs FSU, Atlanta, GA",
-            label: "00847"
+            text: "Sandy Springs FSU, Atlanta, GA",
+            value: "00847"
         },
         {
-            value: "Beechwood FSU, Atlanta, GA",
-            label: "00846"
+            text: "Beechwood FSU, Atlanta, GA",
+            value: "00846"
         },
         {
-            value: "Montgomery-Promenade FSU, Montgomery-Selma, AL",
-            label: "00845"
+            text: "Montgomery-Promenade FSU, Montgomery-Selma, AL",
+            value: "00845"
         },
         {
-            value: "Sam Nunn Blvd. FSU, Macon, GA",
-            label: "00844"
+            text: "Sam Nunn Blvd. FSU, Macon, GA",
+            value: "00844"
         },
         {
-            value: "Wendover FSU, Greensboro-High Point-Winston Salem, NC",
-            label: "00849"
+            text: "Wendover FSU, Greensboro-High Point-Winston Salem, NC",
+            value: "00849"
         },
         {
-            value: "Townridge Square FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "00848"
+            text: "Townridge Square FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "00848"
         },
         {
-            value:
+            text:
                 "Hartsfield-Jackson Atlanta Int'l Airport - Conc C, Atlanta, GA",
-            label: "80517"
+            value: "80517"
         },
         {
-            value: "Flagler College, Jacksonville, FL",
-            label: "80514"
+            text: "Flagler College, Jacksonville, FL",
+            value: "80514"
         },
         {
-            value: "Zebulon Road FSU, Macon, GA",
-            label: "00843"
+            text: "Zebulon Road FSU, Macon, GA",
+            value: "00843"
         },
         {
-            value: "High Point FSU, Greensboro-High Point-Winston Salem, NC",
-            label: "00842"
+            text: "High Point FSU, Greensboro-High Point-Winston Salem, NC",
+            value: "00842"
         },
         {
-            value: "University of South Dakota, Sioux Falls(Mitchell), SD",
-            label: "80519"
+            text: "University of South Dakota, Sioux Falls(Mitchell), SD",
+            value: "80519"
         },
         {
-            value: "Warner Robins FSU, Macon, GA",
-            label: "00840"
+            text: "Warner Robins FSU, Macon, GA",
+            value: "00840"
         },
         {
-            value:
+            text:
                 "Valdosta State University - Student Union, Tallahassee, FL-Thomasville, GA",
-            label: "80518"
+            value: "80518"
         },
         {
-            value:
+            text:
                 "Bob Jones University, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "80520"
+            value: "80520"
         },
         {
-            value: "Delaware State University, Philadelphia, PA",
-            label: "80524"
+            text: "Delaware State University, Philadelphia, PA",
+            value: "80524"
         },
         {
-            value: "Southern Arkansas University, Shreveport, LA",
-            label: "80523"
+            text: "Southern Arkansas University, Shreveport, LA",
+            value: "80523"
         },
         {
-            value:
+            text:
                 "University of Tennessee - Presidential Court, Knoxville, TN",
-            label: "80522"
+            value: "80522"
         },
         {
-            value: "Bradley University, Peoria-Bloomington, IL",
-            label: "80521"
+            text: "Bradley University, Peoria-Bloomington, IL",
+            value: "80521"
         },
         {
-            value: "Matthews FSU, Charlotte, NC",
-            label: "00836"
+            text: "Matthews FSU, Charlotte, NC",
+            value: "00836"
         },
         {
-            value: "Cherry Road FSU, Charlotte, NC",
-            label: "00835"
+            text: "Cherry Road FSU, Charlotte, NC",
+            value: "00835"
         },
         {
-            value: "104th & Federal FSU, Denver, CO",
-            label: "00834"
+            text: "104th & Federal FSU, Denver, CO",
+            value: "00834"
         },
         {
-            value:
+            text:
                 "Crossroads Plaza Cary FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "00833"
+            value: "00833"
         },
         {
-            value: "Decker Blvd. FSU, Columbia, SC",
-            label: "00839"
+            text: "Decker Blvd. FSU, Columbia, SC",
+            value: "00839"
         },
         {
-            value: "Peachtree City Midtown FSU, Atlanta, GA",
-            label: "00838"
+            text: "Peachtree City Midtown FSU, Atlanta, GA",
+            value: "00838"
         },
         {
-            value: "Arboretum FSU, Charlotte, NC",
-            label: "00837"
+            text: "Arboretum FSU, Charlotte, NC",
+            value: "00837"
         },
         {
-            value: "South Dakota State University, Sioux City, IA",
-            label: "80505"
+            text: "South Dakota State University, Sioux City, IA",
+            value: "80505"
         },
         {
-            value: "Bethel University, Jackson, TN",
-            label: "80504"
+            text: "Bethel University, Jackson, TN",
+            value: "80504"
         },
         {
-            value:
+            text:
                 "University of Texas - Rio Grande Valley, Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "80503"
+            value: "80503"
         },
         {
-            value:
+            text:
                 "Wildwood Centre FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "00832"
+            value: "00832"
         },
         {
-            value: "Pike Street FSU, Atlanta, GA",
-            label: "00831"
+            text: "Pike Street FSU, Atlanta, GA",
+            value: "00831"
         },
         {
-            value: "University of Mary Hardin - Baylor, Waco-Temple-Bryan, TX",
-            label: "80508"
+            text: "University of Mary Hardin - Baylor, Waco-Temple-Bryan, TX",
+            value: "80508"
         },
         {
-            value:
+            text:
                 "Taylors FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "00830"
+            value: "00830"
         },
         {
-            value: "Liberty University - Tilley, Roanoke-Lynchburg, VA",
-            label: "80507"
+            text: "Liberty University - Tilley, Roanoke-Lynchburg, VA",
+            value: "80507"
         },
         {
-            value: "St. Mary's University, San Antonio, TX",
-            label: "80513"
+            text: "St. Mary's University, San Antonio, TX",
+            value: "80513"
         },
         {
-            value: "Bloomsburg University, Wilkes Barre-Scranton, PA",
-            label: "80512"
+            text: "Bloomsburg University, Wilkes Barre-Scranton, PA",
+            value: "80512"
         },
         {
-            value: "College of Charleston - Berry Hall, Charleston, SC",
-            label: "80511"
+            text: "College of Charleston - Berry Hall, Charleston, SC",
+            value: "80511"
         },
         {
-            value: "Texas Medical Center, Houston, TX",
-            label: "80510"
+            text: "Texas Medical Center, Houston, TX",
+            value: "80510"
         },
         {
-            value: "Lake Mary Blvd. FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "00869"
+            text: "Lake Mary Blvd. FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "00869"
         },
         {
-            value: "Capital Crossing FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "00868"
+            text: "Capital Crossing FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "00868"
         },
         {
-            value: "The Ridge FSU, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "01715"
+            text: "The Ridge FSU, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "01715"
         },
         {
-            value: "North Dale Mabry FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "00867"
+            text: "North Dale Mabry FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "00867"
         },
         {
-            value:
+            text:
                 "International Speedway FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "00866"
+            value: "00866"
         },
         {
-            value: "Georgetown FSU, Austin, TX",
-            label: "01719"
+            text: "Georgetown FSU, Austin, TX",
+            value: "01719"
         },
         {
-            value: "Dallas Baptist University, Dallas-Ft. Worth, TX",
-            label: "80539"
+            text: "Dallas Baptist University, Dallas-Ft. Worth, TX",
+            value: "80539"
         },
         {
-            value: "Preston & Beltline FSU, Dallas-Ft. Worth, TX",
-            label: "00861"
+            text: "Preston & Beltline FSU, Dallas-Ft. Worth, TX",
+            value: "00861"
         },
         {
-            value: "Brigham Young University, Salt Lake City, UT",
-            label: "80538"
+            text: "Brigham Young University, Salt Lake City, UT",
+            value: "80538"
         },
         {
-            value: "Preston & Park FSU, Dallas-Ft. Worth, TX",
-            label: "00860"
+            text: "Preston & Park FSU, Dallas-Ft. Worth, TX",
+            value: "00860"
         },
         {
-            value:
+            text:
                 "Wal-Mart Headquarters, Ft. Smith-Fayetteville-Springdale-Rogers, AR",
-            label: "80537"
+            value: "80537"
         },
         {
-            value: "Northwest Missouri State University, Kansas City, MO",
-            label: "80536"
+            text: "Northwest Missouri State University, Kansas City, MO",
+            value: "80536"
         },
         {
-            value: "Mesquite FSU, Dallas-Ft. Worth, TX",
-            label: "00864"
+            text: "Mesquite FSU, Dallas-Ft. Worth, TX",
+            value: "00864"
         },
         {
-            value: "Barrett Parkway FSU, Atlanta, GA",
-            label: "00863"
+            text: "Barrett Parkway FSU, Atlanta, GA",
+            value: "00863"
         },
         {
-            value:
+            text:
                 "East Longview FSU, Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "00862"
+            value: "00862"
         },
         {
-            value: "Texas A&M International University, Laredo, TX",
-            label: "80542"
+            text: "Texas A&M International University, Laredo, TX",
+            value: "80542"
         },
         {
-            value: "Methodist University, Raleigh-Durham (Fayetteville), NC",
-            label: "80541"
+            text: "Methodist University, Raleigh-Durham (Fayetteville), NC",
+            value: "80541"
         },
         {
-            value: "Jacksonville University, Jacksonville, FL",
-            label: "80540"
+            text: "Jacksonville University, Jacksonville, FL",
+            value: "80540"
         },
         {
-            value: "Charleston Southern University, Charleston, SC",
-            label: "80545"
+            text: "Charleston Southern University, Charleston, SC",
+            value: "80545"
         },
         {
-            value: "Texas Christian University, Dallas-Ft. Worth, TX",
-            label: "80544"
+            text: "Texas Christian University, Dallas-Ft. Worth, TX",
+            value: "80544"
         },
         {
-            value:
+            text:
                 "University of Arkansas-Fort Smith, Ft. Smith-Fayetteville-Springdale-Rogers, AR",
-            label: "80543"
+            value: "80543"
         },
         {
-            value: "Hwy. 6 & Bellaire FSU, Houston, TX",
-            label: "00858"
+            text: "Hwy. 6 & Bellaire FSU, Houston, TX",
+            value: "00858"
         },
         {
-            value: "Centerton Square FSU, Philadelphia, PA",
-            label: "01704"
+            text: "Centerton Square FSU, Philadelphia, PA",
+            value: "01704"
         },
         {
-            value: "Northshore Mall, Boston, MA (Manchester, NH)",
-            label: "00857"
+            text: "Northshore Mall, Boston, MA (Manchester, NH)",
+            value: "00857"
         },
         {
-            value: "Boynton Beach Blvd. FSU, West Palm Beach-Ft. Pierce, FL",
-            label: "01703"
+            text: "Boynton Beach Blvd. FSU, West Palm Beach-Ft. Pierce, FL",
+            value: "01703"
         },
         {
-            value: "Franklin Square FSU, Charlotte, NC",
-            label: "00856"
+            text: "Franklin Square FSU, Charlotte, NC",
+            value: "00856"
         },
         {
-            value: "Rufe Snow FSU, Dallas-Ft. Worth, TX",
-            label: "00855"
+            text: "Rufe Snow FSU, Dallas-Ft. Worth, TX",
+            value: "00855"
         },
         {
-            value: "Bearss Avenue FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "01709"
+            text: "Bearss Avenue FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "01709"
         },
         {
-            value: "Madison (MS) FSU, Jackson, MS",
-            label: "01707"
+            text: "Madison (MS) FSU, Jackson, MS",
+            value: "01707"
         },
         {
-            value: "Huffman Mill FSU, Greensboro-High Point-Winston Salem, NC",
-            label: "00859"
+            text: "Huffman Mill FSU, Greensboro-High Point-Winston Salem, NC",
+            value: "00859"
         },
         {
-            value: "Conway Commons FSU, Little Rock-Pine Bluff, AR",
-            label: "01706"
+            text: "Conway Commons FSU, Little Rock-Pine Bluff, AR",
+            value: "01706"
         },
         {
-            value: "Oak Ridge FSU, Knoxville, TN",
-            label: "00850"
+            text: "Oak Ridge FSU, Knoxville, TN",
+            value: "00850"
         },
         {
-            value:
+            text:
                 "Hartsfield-Jackson Atlanta Int'l Airport - Conc A, Atlanta, GA",
-            label: "80527"
+            value: "80527"
         },
         {
-            value:
+            text:
                 "Birmingham-Shuttlesworth International Airport, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "80526"
+            value: "80526"
         },
         {
-            value: "Dayton International Airport, Dayton, OH",
-            label: "80525"
+            text: "Dayton International Airport, Dayton, OH",
+            value: "80525"
         },
         {
-            value: "Mt. Pleasant FSU, Charleston, SC",
-            label: "00854"
+            text: "Mt. Pleasant FSU, Charleston, SC",
+            value: "00854"
         },
         {
-            value: "Grapevine FSU, Dallas-Ft. Worth, TX",
-            label: "00852"
+            text: "Grapevine FSU, Dallas-Ft. Worth, TX",
+            value: "00852"
         },
         {
-            value: "South Cooper Street FSU, Dallas-Ft. Worth, TX",
-            label: "00851"
+            text: "South Cooper Street FSU, Dallas-Ft. Worth, TX",
+            value: "00851"
         },
         {
-            value: "University of North Florida, Jacksonville, FL",
-            label: "80529"
+            text: "University of North Florida, Jacksonville, FL",
+            value: "80529"
         },
         {
-            value: "One Allen Center, Houston, TX",
-            label: "80531"
+            text: "One Allen Center, Houston, TX",
+            value: "80531"
         },
         {
-            value:
+            text:
                 "North Mississippi Medical Center, Columbus-Tupelo-West Point-Houston, MS",
-            label: "80530"
+            value: "80530"
         },
         {
-            value: "Houston Baptist University, Houston, TX",
-            label: "80535"
+            text: "Houston Baptist University, Houston, TX",
+            value: "80535"
         },
         {
-            value: "Henderson State University, Little Rock-Pine Bluff, AR",
-            label: "80534"
+            text: "Henderson State University, Little Rock-Pine Bluff, AR",
+            value: "80534"
         },
         {
-            value: "University of Florida-Broward Complex, Gainesville, FL",
-            label: "80533"
+            text: "University of Florida-Broward Complex, Gainesville, FL",
+            value: "80533"
         },
         {
-            value: "Grand Canyon University, Phoenix (Prescott), AZ",
-            label: "80532"
+            text: "Grand Canyon University, Phoenix (Prescott), AZ",
+            value: "80532"
         },
         {
-            value: "Snellville FSU, Atlanta, GA",
-            label: "00803"
+            text: "Snellville FSU, Atlanta, GA",
+            value: "00803"
         },
         {
-            value: "Woodlawn Square FSU, Atlanta, GA",
-            label: "00802"
+            text: "Woodlawn Square FSU, Atlanta, GA",
+            value: "00802"
         },
         {
-            value: "North Druid Hills FSU, Atlanta, GA",
-            label: "00801"
+            text: "North Druid Hills FSU, Atlanta, GA",
+            value: "00801"
         },
         {
-            value: "Marietta Trade Center FSU, Atlanta, GA",
-            label: "00807"
+            text: "Marietta Trade Center FSU, Atlanta, GA",
+            value: "00807"
         },
         {
-            value: "Sprayberry FSU, Atlanta, GA",
-            label: "00806"
+            text: "Sprayberry FSU, Atlanta, GA",
+            value: "00806"
         },
         {
-            value: "Roswell Town Center FSU, Atlanta, GA",
-            label: "00805"
+            text: "Roswell Town Center FSU, Atlanta, GA",
+            value: "00805"
         },
         {
-            value: "Chamblee Plaza FSU, Atlanta, GA",
-            label: "00804"
+            text: "Chamblee Plaza FSU, Atlanta, GA",
+            value: "00804"
         },
         {
-            value: "Georgia Southwestern State University, Albany, GA",
-            label: "80559"
+            text: "Georgia Southwestern State University, Albany, GA",
+            value: "80559"
         },
         {
-            value: "California Baptist University, Los Angeles, CA",
-            label: "80558"
+            text: "California Baptist University, Los Angeles, CA",
+            value: "80558"
         },
         {
-            value:
+            text:
                 "Southeastern University, Tampa-St. Petersburg (Sarasota), FL",
-            label: "80564"
+            value: "80564"
         },
         {
-            value: "Sunset Hills FSU, St. Louis, MO",
-            label: "03077"
+            text: "Sunset Hills FSU, St. Louis, MO",
+            value: "03077"
         },
         {
-            value:
+            text:
                 "Pensacola International Airport, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "80563"
+            value: "80563"
         },
         {
-            value: "Belmont University, Nashville, TN",
-            label: "80562"
+            text: "Belmont University, Nashville, TN",
+            value: "80562"
         },
         {
-            value:
+            text:
                 "Brigham Young University - Idaho, Idaho Falls-Pocatello, ID (Jackson, WY)",
-            label: "80561"
+            value: "80561"
         },
         {
-            value: "Navy Blvd FSU, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "03072"
+            text: "Navy Blvd FSU, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "03072"
         },
         {
-            value: "University of Memphis-University Center, Memphis, TN",
-            label: "80568"
+            text: "University of Memphis-University Center, Memphis, TN",
+            value: "80568"
         },
         {
-            value: "Georgia Gwinnett College, Atlanta, GA",
-            label: "80567"
+            text: "Georgia Gwinnett College, Atlanta, GA",
+            value: "80567"
         },
         {
-            value: "Hammond FSU, New Orleans, LA",
-            label: "03074"
+            text: "Hammond FSU, New Orleans, LA",
+            value: "03074"
         },
         {
-            value: "Florida A&M University, Tallahassee, FL-Thomasville, GA",
-            label: "80566"
+            text: "Florida A&M University, Tallahassee, FL-Thomasville, GA",
+            value: "80566"
         },
         {
-            value: "Texas Southern University, Houston, TX",
-            label: "80565"
+            text: "Texas Southern University, Houston, TX",
+            value: "80565"
         },
         {
-            value: "45 & Wayside FSU, Houston, TX",
-            label: "03071"
+            text: "45 & Wayside FSU, Houston, TX",
+            value: "03071"
         },
         {
-            value: "Young Harris College, Atlanta, GA",
-            label: "80560"
+            text: "Young Harris College, Atlanta, GA",
+            value: "80560"
         },
         {
-            value: "College of DuPage, Chicago, IL",
-            label: "80548"
+            text: "College of DuPage, Chicago, IL",
+            value: "80548"
         },
         {
-            value: "Anderson University, Indianapolis, IN",
-            label: "80547"
+            text: "Anderson University, Indianapolis, IN",
+            value: "80547"
         },
         {
-            value:
+            text:
                 "Spartanburg FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "03069"
+            value: "03069"
         },
         {
-            value: "Dallas Love Field, Dallas-Ft. Worth, TX",
-            label: "80553"
+            text: "Dallas Love Field, Dallas-Ft. Worth, TX",
+            value: "80553"
         },
         {
-            value: "McCreless Marketplace FSU, San Antonio, TX",
-            label: "03068"
+            text: "McCreless Marketplace FSU, San Antonio, TX",
+            value: "03068"
         },
         {
-            value: "Oklahoma Baptist University, Oklahoma City, OK",
-            label: "80550"
+            text: "Oklahoma Baptist University, Oklahoma City, OK",
+            value: "80550"
         },
         {
-            value: "Carson Newman University, Knoxville, TN",
-            label: "80557"
+            text: "Carson Newman University, Knoxville, TN",
+            value: "80557"
         },
         {
-            value: "Indianapolis International Airport, Indianapolis, IN",
-            label: "80556"
+            text: "Indianapolis International Airport, Indianapolis, IN",
+            value: "80556"
         },
         {
-            value:
+            text:
                 "Southeastern Louisiana University - War Memorial, New Orleans, LA",
-            label: "80554"
+            value: "80554"
         },
         {
-            value: "North Lakeland FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "03060"
+            text: "North Lakeland FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "03060"
         },
         {
-            value: "Washington Road FSU, Augusta, GA-Aiken, SC",
-            label: "00825"
+            text: "Washington Road FSU, Augusta, GA-Aiken, SC",
+            value: "00825"
         },
         {
-            value: "Peachtree Corners FSU, Atlanta, GA",
-            label: "00824"
+            text: "Peachtree Corners FSU, Atlanta, GA",
+            value: "00824"
         },
         {
-            value: "Parkway East FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "00823"
+            text: "Parkway East FSU, Birmingham (Anniston and Tuscaloosa), AL",
+            value: "00823"
         },
         {
-            value:
+            text:
                 "Hoover Commons FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "00822"
+            value: "00822"
         },
         {
-            value: "Carrollton FSU, Atlanta, GA",
-            label: "00829"
+            text: "Carrollton FSU, Atlanta, GA",
+            value: "00829"
         },
         {
-            value: "Wesley Chapel Road FSU, Atlanta, GA",
-            label: "00828"
+            text: "Wesley Chapel Road FSU, Atlanta, GA",
+            value: "00828"
         },
         {
-            value: "Lake Park FSU, Tallahassee, FL-Thomasville, GA",
-            label: "00827"
+            text: "Lake Park FSU, Tallahassee, FL-Thomasville, GA",
+            value: "00827"
         },
         {
-            value: "Lilburn FSU, Atlanta, GA",
-            label: "00826"
+            text: "Lilburn FSU, Atlanta, GA",
+            value: "00826"
         },
         {
-            value: "Peachtree Ind. & Pleasant Hill FSU, Atlanta, GA",
-            label: "00821"
+            text: "Peachtree Ind. & Pleasant Hill FSU, Atlanta, GA",
+            value: "00821"
         },
         {
-            value: "Conyers FSU, Atlanta, GA",
-            label: "00820"
+            text: "Conyers FSU, Atlanta, GA",
+            value: "00820"
         },
         {
-            value: "Muncie FSU, Indianapolis, IN",
-            label: "03098"
+            text: "Muncie FSU, Indianapolis, IN",
+            value: "03098"
         },
         {
-            value:
+            text:
                 "Greenville Memorial Hospital, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "80102"
+            value: "80102"
         },
         {
-            value: "Lock Haven University, Wilkes Barre-Scranton, PA",
-            label: "80586"
+            text: "Lock Haven University, Wilkes Barre-Scranton, PA",
+            value: "80586"
         },
         {
-            value: "Troy (AL) FSU, Montgomery-Selma, AL",
-            label: "03099"
+            text: "Troy (AL) FSU, Montgomery-Selma, AL",
+            value: "03099"
         },
         {
-            value: "University of Pikeville, Bluefield-Beckley-Oak Hill, WV",
-            label: "80585"
+            text: "University of Pikeville, Bluefield-Beckley-Oak Hill, WV",
+            value: "80585"
         },
         {
-            value:
+            text:
                 "Anderson University-New Student Center, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "80584"
+            value: "80584"
         },
         {
-            value: "Taylor University, Indianapolis, IN",
-            label: "80589"
+            text: "Taylor University, Indianapolis, IN",
+            value: "80589"
         },
         {
-            value: "Angelo State University, San Angelo, TX",
-            label: "80105"
+            text: "Angelo State University, San Angelo, TX",
+            value: "80105"
         },
         {
-            value: "Baltimore-Washington International Airport, Baltimore, MD",
-            label: "80588"
+            text: "Baltimore-Washington International Airport, Baltimore, MD",
+            value: "80588"
         },
         {
-            value: "Virginia State University, Richmond-Petersburg, VA",
-            label: "80587"
+            text: "Virginia State University, Richmond-Petersburg, VA",
+            value: "80587"
         },
         {
-            value: "Arcadia FSU, Phoenix (Prescott), AZ",
-            label: "03091"
+            text: "Arcadia FSU, Phoenix (Prescott), AZ",
+            value: "03091"
         },
         {
-            value: "Novato FSU, San Francisco-Oakland-San Jose, CA",
-            label: "03092"
+            text: "Novato FSU, San Francisco-Oakland-San Jose, CA",
+            value: "03092"
         },
         {
-            value: "Doraville Plaza FSU, Atlanta, GA",
-            label: "00819"
+            text: "Doraville Plaza FSU, Atlanta, GA",
+            value: "00819"
         },
         {
-            value:
+            text:
                 "Valley Health Winchester Medical Center, Washington, DC (Hagerstown, MD)",
-            label: "80581"
+            value: "80581"
         },
         {
-            value: "Pennzoil Place, Houston, TX",
-            label: "80580"
+            text: "Pennzoil Place, Houston, TX",
+            value: "80580"
         },
         {
-            value: "Austell Road FSU, Atlanta, GA",
-            label: "00814"
+            text: "Austell Road FSU, Atlanta, GA",
+            value: "00814"
         },
         {
-            value: "Tom Hill Sr Blvd FSU, Macon, GA",
-            label: "00813"
+            text: "Tom Hill Sr Blvd FSU, Macon, GA",
+            value: "00813"
         },
         {
-            value: "Inverness FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "00812"
+            text: "Inverness FSU, Birmingham (Anniston and Tuscaloosa), AL",
+            value: "00812"
         },
         {
-            value: "Douglasville FSU, Atlanta, GA",
-            label: "00811"
+            text: "Douglasville FSU, Atlanta, GA",
+            value: "00811"
         },
         {
-            value: "Lanier Crossing FSU, Atlanta, GA",
-            label: "00818"
+            text: "Lanier Crossing FSU, Atlanta, GA",
+            value: "00818"
         },
         {
-            value: "Dalton FSU, Chattanooga, TN",
-            label: "00817"
+            text: "Dalton FSU, Chattanooga, TN",
+            value: "00817"
         },
         {
-            value: "Tucker Station FSU, Atlanta, GA",
-            label: "00816"
+            text: "Tucker Station FSU, Atlanta, GA",
+            value: "00816"
         },
         {
-            value: "Thornton Road FSU, Atlanta, GA",
-            label: "00815"
+            text: "Thornton Road FSU, Atlanta, GA",
+            value: "00815"
         },
         {
-            value: "Florida Atlantic University, Miami-Ft. Lauderdale, FL",
-            label: "80569"
+            text: "Florida Atlantic University, Miami-Ft. Lauderdale, FL",
+            value: "80569"
         },
         {
-            value: "South Cobb Drive FSU, Atlanta, GA",
-            label: "00810"
+            text: "South Cobb Drive FSU, Atlanta, GA",
+            value: "00810"
         },
         {
-            value: "Morehouse College, Atlanta, GA",
-            label: "80575"
+            text: "Morehouse College, Atlanta, GA",
+            value: "80575"
         },
         {
-            value:
+            text:
                 "Greenville-Spartanburg International Airport, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "80574"
+            value: "80574"
         },
         {
-            value: "Shops at Rossmoor FSU, Los Angeles, CA",
-            label: "03088"
+            text: "Shops at Rossmoor FSU, Los Angeles, CA",
+            value: "03088"
         },
         {
-            value: "Broadway & Front FSU, Boise, ID",
-            label: "03089"
+            text: "Broadway & Front FSU, Boise, ID",
+            value: "03089"
         },
         {
-            value: "Detroit Metropolitan Airport, Detroit, MI",
-            label: "80573"
+            text: "Detroit Metropolitan Airport, Detroit, MI",
+            value: "80573"
         },
         {
-            value:
+            text:
                 "Cleveland-Hopkins International Airport, Cleveland-Akron (Canton), OH",
-            label: "80572"
+            value: "80572"
         },
         {
-            value: "St. Vincent's Medical Center, Jacksonville, FL",
-            label: "80579"
+            text: "St. Vincent's Medical Center, Jacksonville, FL",
+            value: "80579"
         },
         {
-            value: "Flagstaff FSU, Phoenix (Prescott), AZ",
-            label: "03083"
+            text: "Flagstaff FSU, Phoenix (Prescott), AZ",
+            value: "03083"
         },
         {
-            value: "Village at Meridian FSU, Boise, ID",
-            label: "03084"
+            text: "Village at Meridian FSU, Boise, ID",
+            value: "03084"
         },
         {
-            value:
+            text:
                 "Wichita Dwight D. Eisenhower National Airport, Wichita-Hutchinson, KS Plus",
-            label: "80578"
+            value: "80578"
         },
         {
-            value:
+            text:
                 "Tyler Junior College, Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "80576"
+            value: "80576"
         },
         {
-            value: "Memorial Drive FSU, Atlanta, GA",
-            label: "00809"
+            text: "Memorial Drive FSU, Atlanta, GA",
+            value: "00809"
         },
         {
-            value: "Windy Hill Road FSU, Atlanta, GA",
-            label: "00808"
+            text: "Windy Hill Road FSU, Atlanta, GA",
+            value: "00808"
         },
         {
-            value: "Tanque Verde FSU, Tucson (Sierra Vista), AZ",
-            label: "03082"
+            text: "Tanque Verde FSU, Tucson (Sierra Vista), AZ",
+            value: "03082"
         },
         {
-            value: "Grady Memorial Hospital, Atlanta, GA",
-            label: "80571"
+            text: "Grady Memorial Hospital, Atlanta, GA",
+            value: "80571"
         },
         {
-            value: "University of Maryland-Eastern Shore, Salisbury, MD",
-            label: "80570"
+            text: "University of Maryland-Eastern Shore, Salisbury, MD",
+            value: "80570"
         },
         {
-            value: "Arnold FSU, St. Louis, MO",
-            label: "02629"
+            text: "Arnold FSU, St. Louis, MO",
+            value: "02629"
         },
         {
-            value: "Rivermont Station FSU, Atlanta, GA",
-            label: "00448"
+            text: "Rivermont Station FSU, Atlanta, GA",
+            value: "00448"
         },
         {
-            value: "Royal Palm Beach FSU, West Palm Beach-Ft. Pierce, FL",
-            label: "02621"
+            text: "Royal Palm Beach FSU, West Palm Beach-Ft. Pierce, FL",
+            value: "02621"
         },
         {
-            value: "Glenbrook Square, Ft. Wayne, IN",
-            label: "00443"
+            text: "Glenbrook Square, Ft. Wayne, IN",
+            value: "00443"
         },
         {
-            value: "Lincoln & Pacific DTO, Los Angeles, CA",
-            label: "03953"
+            text: "Lincoln & Pacific DTO, Los Angeles, CA",
+            value: "03953"
         },
         {
-            value: "Park Place FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "01773"
+            text: "Park Place FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "01773"
         },
         {
-            value: "College Mall, Indianapolis, IN",
-            label: "00442"
+            text: "College Mall, Indianapolis, IN",
+            value: "00442"
         },
         {
-            value: "College Drive FSU, Baton Rouge, LA",
-            label: "02620"
+            text: "College Drive FSU, Baton Rouge, LA",
+            value: "02620"
         },
         {
-            value: "Marley Station, Baltimore, MD",
-            label: "00441"
+            text: "Marley Station, Baltimore, MD",
+            value: "00441"
         },
         {
-            value: "Ward Parkway FSU, Kansas City, MO",
-            label: "01772"
+            text: "Ward Parkway FSU, Kansas City, MO",
+            value: "01772"
         },
         {
-            value: "Fort Pierce FSU, West Palm Beach-Ft. Pierce, FL",
-            label: "03955"
+            text: "Fort Pierce FSU, West Palm Beach-Ft. Pierce, FL",
+            value: "03955"
         },
         {
-            value: "Colony Square, Atlanta, GA",
-            label: "00440"
+            text: "Colony Square, Atlanta, GA",
+            value: "00440"
         },
         {
-            value: "Wolfchase Galleria, Memphis, TN",
-            label: "00447"
+            text: "Wolfchase Galleria, Memphis, TN",
+            value: "00447"
         },
         {
-            value: "Pavilions North FSU, San Antonio, TX",
-            label: "01777"
+            text: "Pavilions North FSU, San Antonio, TX",
+            value: "01777"
         },
         {
-            value: "Marlborough (MA) FSU, Boston, MA (Manchester, NH)",
-            label: "03951"
+            text: "Marlborough (MA) FSU, Boston, MA (Manchester, NH)",
+            value: "03951"
         },
         {
-            value: "Ingram Park FSU, San Antonio, TX",
-            label: "01776"
+            text: "Ingram Park FSU, San Antonio, TX",
+            value: "01776"
         },
         {
-            value: "Greenville Mall, Greenville-New Bern-Washington, NC",
-            label: "00444"
+            text: "Greenville Mall, Greenville-New Bern-Washington, NC",
+            value: "00444"
         },
         {
-            value: "Weston FSU, Miami-Ft. Lauderdale, FL",
-            label: "02622"
+            text: "Weston FSU, Miami-Ft. Lauderdale, FL",
+            value: "02622"
         },
         {
-            value: "Maple & Ridge FSU, Wichita-Hutchinson, KS Plus",
-            label: "03952"
+            text: "Maple & Ridge FSU, Wichita-Hutchinson, KS Plus",
+            value: "03952"
         },
         {
-            value: "Mullins Crossing FSU, Augusta, GA-Aiken, SC",
-            label: "01769"
+            text: "Mullins Crossing FSU, Augusta, GA-Aiken, SC",
+            value: "01769"
         },
         {
-            value: "Lake Worth South FSU, West Palm Beach-Ft. Pierce, FL",
-            label: "02616"
+            text: "Lake Worth South FSU, West Palm Beach-Ft. Pierce, FL",
+            value: "02616"
         },
         {
-            value: "Liberty Place, Philadelphia, PA",
-            label: "00437"
+            text: "Liberty Place, Philadelphia, PA",
+            value: "00437"
         },
         {
-            value: "East Dothan FSU, Dothan, AL",
-            label: "03946"
+            text: "East Dothan FSU, Dothan, AL",
+            value: "03946"
         },
         {
-            value: "Liberty Way FSU, Cincinnati, OH",
-            label: "03942"
+            text: "Liberty Way FSU, Cincinnati, OH",
+            value: "03942"
         },
         {
-            value: "Clayton FSU, Atlanta, GA",
-            label: "01763"
+            text: "Clayton FSU, Atlanta, GA",
+            value: "01763"
         },
         {
-            value: "CoolSprings Galleria (Mall), Nashville, TN",
-            label: "00431"
+            text: "CoolSprings Galleria (Mall), Nashville, TN",
+            value: "00431"
         },
         {
-            value: "Carolina Forest FSU, Myrtle Beach-Florence, SC",
-            label: "01762"
+            text: "Carolina Forest FSU, Myrtle Beach-Florence, SC",
+            value: "01762"
         },
         {
-            value: "The OSU In-Line, Columbus, OH",
-            label: "03944"
+            text: "The OSU In-Line, Columbus, OH",
+            value: "03944"
         },
         {
-            value: "Columbiana Centre, Columbia, SC",
-            label: "00430"
+            text: "Columbiana Centre, Columbia, SC",
+            value: "00430"
         },
         {
-            value: "Knightdale FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "01760"
+            text: "Knightdale FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "01760"
         },
         {
-            value: "Logan FSU, Salt Lake City, UT",
-            label: "02614"
+            text: "Logan FSU, Salt Lake City, UT",
+            value: "02614"
         },
         {
-            value: "Citrus Plaza FSU, Los Angeles, CA",
-            label: "01767"
+            text: "Citrus Plaza FSU, Los Angeles, CA",
+            value: "01767"
         },
         {
-            value: "Cheltenham FSU, Philadelphia, PA",
-            label: "02613"
+            text: "Cheltenham FSU, Philadelphia, PA",
+            value: "02613"
         },
         {
-            value: "South Hills FSU, Pittsburgh, PA",
-            label: "01765"
+            text: "South Hills FSU, Pittsburgh, PA",
+            value: "01765"
         },
         {
-            value: "2nd & Bryant FSU, Oklahoma City, OK",
-            label: "02612"
+            text: "2nd & Bryant FSU, Oklahoma City, OK",
+            value: "02612"
         },
         {
-            value:
+            text:
                 "St. Charles Towne Center Mall, Washington, DC (Hagerstown, MD)",
-            label: "00433"
+            value: "00433"
         },
         {
-            value: "Hermitage FSU, Nashville, TN",
-            label: "01764"
+            text: "Hermitage FSU, Nashville, TN",
+            value: "01764"
         },
         {
-            value:
+            text:
                 "Spanish Fort FSU, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "01796"
+            value: "01796"
         },
         {
-            value: "Waugh Chapel FSU, Baltimore, MD",
-            label: "01312"
+            text: "Waugh Chapel FSU, Baltimore, MD",
+            value: "01312"
         },
         {
-            value: "University Blvd Odessa FSU, Odessa-Midland, TX",
-            label: "03975"
+            text: "University Blvd Odessa FSU, Odessa-Midland, TX",
+            value: "03975"
         },
         {
-            value: "Airway & Edgemere FSU, El Paso, TX (Las Cruces, NM)",
-            label: "03976"
+            text: "Airway & Edgemere FSU, El Paso, TX (Las Cruces, NM)",
+            value: "03976"
         },
         {
-            value: "Cheektowaga FSU, Buffalo, NY",
-            label: "03977"
+            text: "Cheektowaga FSU, Buffalo, NY",
+            value: "03977"
         },
         {
-            value: "Alabaster FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "01794"
+            text: "Alabaster FSU, Birmingham (Anniston and Tuscaloosa), AL",
+            value: "01794"
         },
         {
-            value: "Bank of America Plaza, Charlotte, NC",
-            label: "00462"
+            text: "Bank of America Plaza, Charlotte, NC",
+            value: "00462"
         },
         {
-            value: "Marsh Landing Pkwy FSU, Jacksonville, FL",
-            label: "02640"
+            text: "Marsh Landing Pkwy FSU, Jacksonville, FL",
+            value: "02640"
         },
         {
-            value: "Madison Avenue FSU, Los Angeles, CA",
-            label: "01793"
+            text: "Madison Avenue FSU, Los Angeles, CA",
+            value: "01793"
         },
         {
-            value: "Olive & Alameda FSU, Los Angeles, CA",
-            label: "03971"
+            text: "Olive & Alameda FSU, Los Angeles, CA",
+            value: "03971"
         },
         {
-            value: "North Point Mall, Atlanta, GA",
-            label: "00468"
+            text: "North Point Mall, Atlanta, GA",
+            value: "00468"
         },
         {
-            value: "Robinson FSU, Pittsburgh, PA",
-            label: "03972"
+            text: "Robinson FSU, Pittsburgh, PA",
+            value: "03972"
         },
         {
-            value: "Concord Mall, Philadelphia, PA",
-            label: "00467"
+            text: "Concord Mall, Philadelphia, PA",
+            value: "00467"
         },
         {
-            value: "Eastland Mall (IN), Evansville, IN",
-            label: "01314"
+            text: "Eastland Mall (IN), Evansville, IN",
+            value: "01314"
         },
         {
-            value: "O'Fallon FSU, St. Louis, MO",
-            label: "02645"
+            text: "O'Fallon FSU, St. Louis, MO",
+            value: "02645"
         },
         {
-            value: "Quail Springs FSU, Oklahoma City, OK",
-            label: "02644"
+            text: "Quail Springs FSU, Oklahoma City, OK",
+            value: "02644"
         },
         {
-            value:
+            text:
                 "Laurens Road FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "00466"
+            value: "00466"
         },
         {
-            value:
+            text:
                 "Anderson Pavilion FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "01797"
+            value: "01797"
         },
         {
-            value: "Pembroke Lakes Mall, Miami-Ft. Lauderdale, FL",
-            label: "00461"
+            text: "Pembroke Lakes Mall, Miami-Ft. Lauderdale, FL",
+            value: "00461"
         },
         {
-            value:
+            text:
                 "Cherrydale Point FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "01309"
+            value: "01309"
         },
         {
-            value: "North Collins Street FSU, Dallas-Ft. Worth, TX",
-            label: "01307"
+            text: "North Collins Street FSU, Dallas-Ft. Worth, TX",
+            value: "01307"
         },
         {
-            value: "Orland Park FSU, Chicago, IL",
-            label: "02638"
+            text: "Orland Park FSU, Chicago, IL",
+            value: "02638"
         },
         {
-            value: "CNN Center, Atlanta, GA",
-            label: "01306"
+            text: "CNN Center, Atlanta, GA",
+            value: "01306"
         },
         {
-            value:
+            text:
                 "La Plaza & South 10th Street FSU, Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "03969"
+            value: "03969"
         },
         {
-            value: "Austin Highway FSU, San Antonio, TX",
-            label: "02632"
+            text: "Austin Highway FSU, San Antonio, TX",
+            value: "02632"
         },
         {
-            value: "Deptford Mall, Philadelphia, PA",
-            label: "00454"
+            text: "Deptford Mall, Philadelphia, PA",
+            value: "00454"
         },
         {
-            value: "Red Oak FSU, Dallas-Ft. Worth, TX",
-            label: "03964"
+            text: "Red Oak FSU, Dallas-Ft. Worth, TX",
+            value: "03964"
         },
         {
-            value: "Bensalem FSU, Philadelphia, PA",
-            label: "03965"
+            text: "Bensalem FSU, Philadelphia, PA",
+            value: "03965"
         },
         {
-            value:
+            text:
                 "Lincoln Highway East FSU, Harrisburg-Lancaster-Lebanon-York, PA",
-            label: "02631"
+            value: "02631"
         },
         {
-            value: "Park Meadows on County Line Rd FSU, Denver, CO",
-            label: "00452"
+            text: "Park Meadows on County Line Rd FSU, Denver, CO",
+            value: "00452"
         },
         {
-            value: "Victory at Skidaway FSU, Savannah, GA",
-            label: "02630"
+            text: "Victory at Skidaway FSU, Savannah, GA",
+            value: "02630"
         },
         {
-            value: "Englewood (NJ) In-Line, New York, NY",
-            label: "03966"
+            text: "Englewood (NJ) In-Line, New York, NY",
+            value: "03966"
         },
         {
-            value: "Egg Harbor FSU, Philadelphia, PA",
-            label: "01783"
+            text: "Egg Harbor FSU, Philadelphia, PA",
+            value: "01783"
         },
         {
-            value:
+            text:
                 "Travelers Rest FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "03967"
+            value: "03967"
         },
         {
-            value: "52nd and Wadsworth FSU, Denver, CO",
-            label: "02636"
+            text: "52nd and Wadsworth FSU, Denver, CO",
+            value: "02636"
         },
         {
-            value: "Howell Mill FSU, Atlanta, GA",
-            label: "00458"
+            text: "Howell Mill FSU, Atlanta, GA",
+            value: "00458"
         },
         {
-            value: "Monkey Junction FSU, Wilmington, NC",
-            label: "01305"
+            text: "Monkey Junction FSU, Wilmington, NC",
+            value: "01305"
         },
         {
-            value: "Chambers and Parker Road FSU, Denver, CO",
-            label: "01304"
+            text: "Chambers and Parker Road FSU, Denver, CO",
+            value: "01304"
         },
         {
-            value: "Bryan FSU, Waco-Temple-Bryan, TX",
-            label: "00457"
+            text: "Bryan FSU, Waco-Temple-Bryan, TX",
+            value: "00457"
         },
         {
-            value: "Kemah FSU, Houston, TX",
-            label: "01303"
+            text: "Kemah FSU, Houston, TX",
+            value: "01303"
         },
         {
-            value: "May and 63rd FSU, Oklahoma City, OK",
-            label: "02634"
+            text: "May and 63rd FSU, Oklahoma City, OK",
+            value: "02634"
         },
         {
-            value: "Kenwood Towne Centre, Cincinnati, OH",
-            label: "00456"
+            text: "Kenwood Towne Centre, Cincinnati, OH",
+            value: "00456"
         },
         {
-            value: "Canton Riverstone FSU, Atlanta, GA",
-            label: "00455"
+            text: "Canton Riverstone FSU, Atlanta, GA",
+            value: "00455"
         },
         {
-            value: "Carlisle FSU, Harrisburg-Lancaster-Lebanon-York, PA",
-            label: "03963"
+            text: "Carlisle FSU, Harrisburg-Lancaster-Lebanon-York, PA",
+            value: "03963"
         },
         {
-            value:
+            text:
                 "Hendersonville FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "01302"
+            value: "01302"
         },
         {
-            value: "Fox Valley Center FSU, Chicago, IL",
-            label: "02633"
+            text: "Fox Valley Center FSU, Chicago, IL",
+            value: "02633"
         },
         {
-            value: "Mesa Riverview FSU, Phoenix (Prescott), AZ",
-            label: "01738"
+            text: "Mesa Riverview FSU, Phoenix (Prescott), AZ",
+            value: "01738"
         },
         {
-            value: "Markham & University FSU, Little Rock-Pine Bluff, AR",
-            label: "01737"
+            text: "Markham & University FSU, Little Rock-Pine Bluff, AR",
+            value: "01737"
         },
         {
-            value: "Lake Worth (TX) FSU, Dallas-Ft. Worth, TX",
-            label: "01736"
+            text: "Lake Worth (TX) FSU, Dallas-Ft. Worth, TX",
+            value: "01736"
         },
         {
-            value: "Copperfield FSU, Houston, TX",
-            label: "00888"
+            text: "Copperfield FSU, Houston, TX",
+            value: "00888"
         },
         {
-            value: "St. Lucie West FSU, West Palm Beach-Ft. Pierce, FL",
-            label: "03913"
+            text: "St. Lucie West FSU, West Palm Beach-Ft. Pierce, FL",
+            value: "03913"
         },
         {
-            value: "Grassfield FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "03914"
+            text: "Grassfield FSU, Norfolk-Portsmouth-Newport News, VA",
+            value: "03914"
         },
         {
-            value: "Hwy. 290 & Jones Road FSU, Houston, TX",
-            label: "03915"
+            text: "Hwy. 290 & Jones Road FSU, Houston, TX",
+            value: "03915"
         },
         {
-            value: "Market at Springwoods Village FSU, Houston, TX",
-            label: "03916"
+            text: "Market at Springwoods Village FSU, Houston, TX",
+            value: "03916"
         },
         {
-            value: "Ashland FSU, Charleston-Huntington, WV",
-            label: "01739"
+            text: "Ashland FSU, Charleston-Huntington, WV",
+            value: "01739"
         },
         {
-            value: "Midlothian FSU, Dallas-Ft. Worth, TX",
-            label: "03910"
+            text: "Midlothian FSU, Dallas-Ft. Worth, TX",
+            value: "03910"
         },
         {
-            value: "Secor Road FSU, Toledo, OH",
-            label: "03911"
+            text: "Secor Road FSU, Toledo, OH",
+            value: "03911"
         },
         {
-            value: "Marlkress FSU, Philadelphia, PA",
-            label: "03912"
+            text: "Marlkress FSU, Philadelphia, PA",
+            value: "03912"
         },
         {
-            value: "Dressler Road FSU, Cleveland-Akron (Canton), OH",
-            label: "01734"
+            text: "Dressler Road FSU, Cleveland-Akron (Canton), OH",
+            value: "01734"
         },
         {
-            value: "University Place FSU, Charlotte, NC",
-            label: "00886"
+            text: "University Place FSU, Charlotte, NC",
+            value: "00886"
         },
         {
-            value: "Jasper FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "01732"
+            text: "Jasper FSU, Birmingham (Anniston and Tuscaloosa), AL",
+            value: "01732"
         },
         {
-            value: "Battlefield Blvd. FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "00884"
+            text: "Battlefield Blvd. FSU, Norfolk-Portsmouth-Newport News, VA",
+            value: "00884"
         },
         {
-            value: "University Place (NC), Raleigh-Durham (Fayetteville), NC",
-            label: "00400"
+            text: "University Place (NC), Raleigh-Durham (Fayetteville), NC",
+            value: "00400"
         },
         {
-            value: "Pleasant Grove FSU, Sacramento-Stockton-Modesto, CA",
-            label: "01731"
+            text: "Pleasant Grove FSU, Sacramento-Stockton-Modesto, CA",
+            value: "01731"
         },
         {
-            value: "Butler Pointe Plaza FSU, Jacksonville, FL",
-            label: "01727"
+            text: "Butler Pointe Plaza FSU, Jacksonville, FL",
+            value: "01727"
         },
         {
-            value: "Vista Ridge Village FSU, Dallas-Ft. Worth, TX",
-            label: "00879"
+            text: "Vista Ridge Village FSU, Dallas-Ft. Worth, TX",
+            value: "00879"
         },
         {
-            value: "Grand Parkway North FSU, Houston, TX",
-            label: "03907"
+            text: "Grand Parkway North FSU, Houston, TX",
+            value: "03907"
         },
         {
-            value: "Addison FSU, Dallas-Ft. Worth, TX",
-            label: "00878"
+            text: "Addison FSU, Dallas-Ft. Worth, TX",
+            value: "00878"
         },
         {
-            value: "Glastonbury FSU, Hartford & New Haven, CT",
-            label: "03908"
+            text: "Glastonbury FSU, Hartford & New Haven, CT",
+            value: "03908"
         },
         {
-            value: "Fire Road FSU, Philadelphia, PA",
-            label: "03909"
+            text: "Fire Road FSU, Philadelphia, PA",
+            value: "03909"
         },
         {
-            value: "Arden Fair FSU, Sacramento-Stockton-Modesto, CA",
-            label: "01724"
+            text: "Arden Fair FSU, Sacramento-Stockton-Modesto, CA",
+            value: "01724"
         },
         {
-            value: "Gleannloch Village FSU, Houston, TX",
-            label: "03902"
+            text: "Gleannloch Village FSU, Houston, TX",
+            value: "03902"
         },
         {
-            value: "Maumelle FSU, Little Rock-Pine Bluff, AR",
-            label: "03903"
+            text: "Maumelle FSU, Little Rock-Pine Bluff, AR",
+            value: "03903"
         },
         {
-            value: "Love Field DTO, Dallas-Ft. Worth, TX",
-            label: "03904"
+            text: "Love Field DTO, Dallas-Ft. Worth, TX",
+            value: "03904"
         },
         {
-            value: "Rancho Cucamonga FSU, Los Angeles, CA",
-            label: "01729"
+            text: "Rancho Cucamonga FSU, Los Angeles, CA",
+            value: "01729"
         },
         {
-            value: "Apalachee Parkway FSU, Tallahassee, FL-Thomasville, GA",
-            label: "00872"
+            text: "Apalachee Parkway FSU, Tallahassee, FL-Thomasville, GA",
+            value: "00872"
         },
         {
-            value:
+            text:
                 "Broadway Crossing FSU, Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "00871"
+            value: "00871"
         },
         {
-            value: "University Drive FSU, Huntsville-Decatur (Florence), AL",
-            label: "00870"
+            text: "University Drive FSU, Huntsville-Decatur (Florence), AL",
+            value: "00870"
         },
         {
-            value:
+            text:
                 "Whitaker Parkway FSU, Ft. Smith-Fayetteville-Springdale-Rogers, AR",
-            label: "03901"
+            value: "03901"
         },
         {
-            value: "Skibo Square FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "00875"
+            text: "Skibo Square FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "00875"
         },
         {
-            value: "The Fountains of Miramar FSU, Miami-Ft. Lauderdale, FL",
-            label: "01722"
+            text: "The Fountains of Miramar FSU, Miami-Ft. Lauderdale, FL",
+            value: "01722"
         },
         {
-            value: "Naples Center FSU, Ft. Myers-Naples, FL",
-            label: "01721"
+            text: "Naples Center FSU, Ft. Myers-Naples, FL",
+            value: "01721"
         },
         {
-            value: "Harbison Blvd. FSU, Columbia, SC",
-            label: "00874"
+            text: "Harbison Blvd. FSU, Columbia, SC",
+            value: "00874"
         },
         {
-            value: "I-35/Parmer Lane FSU, Austin, TX",
-            label: "01720"
+            text: "I-35/Parmer Lane FSU, Austin, TX",
+            value: "01720"
         },
         {
-            value: "North Point Parkway FSU, Atlanta, GA",
-            label: "00873"
+            text: "North Point Parkway FSU, Atlanta, GA",
+            value: "00873"
         },
         {
-            value: "Carolina Place, Charlotte, NC",
-            label: "00429"
+            text: "Carolina Place, Charlotte, NC",
+            value: "00429"
         },
         {
-            value: "Main Street (VA) FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "01759"
+            text: "Main Street (VA) FSU, Norfolk-Portsmouth-Newport News, VA",
+            value: "01759"
         },
         {
-            value: "Belleview Shores FSU, Denver, CO",
-            label: "02605"
+            text: "Belleview Shores FSU, Denver, CO",
+            value: "02605"
         },
         {
-            value: "Cary Towne Center, Raleigh-Durham (Fayetteville), NC",
-            label: "00427"
+            text: "Cary Towne Center, Raleigh-Durham (Fayetteville), NC",
+            value: "00427"
         },
         {
-            value: "Henderson FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "01758"
+            text: "Henderson FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "01758"
         },
         {
-            value: "North East Mall, Dallas-Ft. Worth, TX",
-            label: "00426"
+            text: "North East Mall, Dallas-Ft. Worth, TX",
+            value: "00426"
         },
         {
-            value: "Roanoke Rapids FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "01757"
+            text: "Roanoke Rapids FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "01757"
         },
         {
-            value: "Elizabethton FSU, Tri-Cities, TN-VA",
-            label: "02604"
+            text: "Elizabethton FSU, Tri-Cities, TN-VA",
+            value: "02604"
         },
         {
-            value: "Bankhead Hwy FSU, Atlanta, GA",
-            label: "03935"
+            text: "Bankhead Hwy FSU, Atlanta, GA",
+            value: "03935"
         },
         {
-            value: "Cerrillos Road FSU, Albuquerque-Santa Fe, NM",
-            label: "03936"
+            text: "Cerrillos Road FSU, Albuquerque-Santa Fe, NM",
+            value: "03936"
         },
         {
-            value: "Foundry Row FSU, Baltimore, MD",
-            label: "03937"
+            text: "Foundry Row FSU, Baltimore, MD",
+            value: "03937"
         },
         {
-            value: "District Heights FSU, Washington, DC (Hagerstown, MD)",
-            label: "02608"
+            text: "District Heights FSU, Washington, DC (Hagerstown, MD)",
+            value: "02608"
         },
         {
-            value: "Fort Payne FSU, Huntsville-Decatur (Florence), AL",
-            label: "03938"
+            text: "Fort Payne FSU, Huntsville-Decatur (Florence), AL",
+            value: "03938"
         },
         {
-            value: "Berkshire Mall, Philadelphia, PA",
-            label: "00421"
+            text: "Berkshire Mall, Philadelphia, PA",
+            value: "00421"
         },
         {
-            value: "Laurel (MS) FSU, Hattiesburg-Laurel, MS",
-            label: "03932"
+            text: "Laurel (MS) FSU, Hattiesburg-Laurel, MS",
+            value: "03932"
         },
         {
-            value: "Westminster FSU, Baltimore, MD",
-            label: "01751"
+            text: "Westminster FSU, Baltimore, MD",
+            value: "01751"
         },
         {
-            value: "Shrewsbury FSU, Harrisburg-Lancaster-Lebanon-York, PA",
-            label: "01750"
+            text: "Shrewsbury FSU, Harrisburg-Lancaster-Lebanon-York, PA",
+            value: "01750"
         },
         {
-            value: "Calera FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "03934"
+            text: "Calera FSU, Birmingham (Anniston and Tuscaloosa), AL",
+            value: "03934"
         },
         {
-            value: "Church Street FSU, Myrtle Beach-Florence, SC",
-            label: "01756"
+            text: "Church Street FSU, Myrtle Beach-Florence, SC",
+            value: "01756"
         },
         {
-            value: "Happy Valley FSU, Johnstown-Altoona-State College, PA",
-            label: "02603"
+            text: "Happy Valley FSU, Johnstown-Altoona-State College, PA",
+            value: "02603"
         },
         {
-            value: "Superstition Springs Center, Phoenix (Prescott), AZ",
-            label: "00425"
+            text: "Superstition Springs Center, Phoenix (Prescott), AZ",
+            value: "00425"
         },
         {
-            value: "Morgantown Mall, Pittsburgh, PA",
-            label: "00424"
+            text: "Morgantown Mall, Pittsburgh, PA",
+            value: "00424"
         },
         {
-            value: "Harbour View FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "02602"
+            text: "Harbour View FSU, Norfolk-Portsmouth-Newport News, VA",
+            value: "02602"
         },
         {
-            value: "Western Boulevard FSU, Greenville-New Bern-Washington, NC",
-            label: "01755"
+            text: "Western Boulevard FSU, Greenville-New Bern-Washington, NC",
+            value: "01755"
         },
         {
-            value: "Centre at Salisbury, Salisbury, MD",
-            label: "00423"
+            text: "Centre at Salisbury, Salisbury, MD",
+            value: "00423"
         },
         {
-            value: "Northlake Mall (NC), Charlotte, NC",
-            label: "01754"
+            text: "Northlake Mall (NC), Charlotte, NC",
+            value: "01754"
         },
         {
-            value: "Davie North FSU, Miami-Ft. Lauderdale, FL",
-            label: "02600"
+            text: "Davie North FSU, Miami-Ft. Lauderdale, FL",
+            value: "02600"
         },
         {
-            value: "Merritt Square Mall, Orlando-Daytona Beach-Melbourne, FL",
-            label: "00422"
+            text: "Merritt Square Mall, Orlando-Daytona Beach-Melbourne, FL",
+            value: "00422"
         },
         {
-            value: "Florida State University, Tallahassee, FL-Thomasville, GA",
-            label: "80502"
+            text: "Florida State University, Tallahassee, FL-Thomasville, GA",
+            value: "80502"
         },
         {
-            value:
+            text:
                 "Minneapolis - Saint Paul Intl Airport-Concourse C, Minneapolis-St. Paul, MN",
-            label: "80501"
+            value: "80501"
         },
         {
-            value:
+            text:
                 "Texas Health Presbyterian Hospital - Dallas, Dallas-Ft. Worth, TX",
-            label: "80500"
+            value: "80500"
         },
         {
-            value:
+            text:
                 "Barnes Crossing Mall, Columbus-Tupelo-West Point-Houston, MS",
-            label: "00418"
+            value: "00418"
         },
         {
-            value: "Stone Creek Village FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "01749"
+            text: "Stone Creek Village FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "01749"
         },
         {
-            value: "Avenues Mall, Jacksonville, FL",
-            label: "00415"
+            text: "Avenues Mall, Jacksonville, FL",
+            value: "00415"
         },
         {
-            value:
+            text:
                 "Blossom Hill & Almaden Expy FSU, San Francisco-Oakland-San Jose, CA",
-            label: "03924"
+            value: "03924"
         },
         {
-            value: "Saginaw FSU, Dallas-Ft. Worth, TX",
-            label: "03925"
+            text: "Saginaw FSU, Dallas-Ft. Worth, TX",
+            value: "03925"
         },
         {
-            value: "MetroCenter (TN) In-Line DT, Nashville, TN",
-            label: "03927"
+            text: "MetroCenter (TN) In-Line DT, Nashville, TN",
+            value: "03927"
         },
         {
-            value: "Pipeline Road at Loop 820 FSU, Dallas-Ft. Worth, TX",
-            label: "01741"
+            text: "Pipeline Road at Loop 820 FSU, Dallas-Ft. Worth, TX",
+            value: "01741"
         },
         {
-            value: "St. Pete Beach FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "01740"
+            text: "St. Pete Beach FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "01740"
         },
         {
-            value: "North Decatur FSU, Atlanta, GA",
-            label: "03923"
+            text: "North Decatur FSU, Atlanta, GA",
+            value: "03923"
         },
         {
-            value: "Neshaminy Mall, Philadelphia, PA",
-            label: "00412"
+            text: "Neshaminy Mall, Philadelphia, PA",
+            value: "00412"
         },
         {
-            value: "Plano Parkway FSU, Dallas-Ft. Worth, TX",
-            label: "00895"
+            text: "Plano Parkway FSU, Dallas-Ft. Worth, TX",
+            value: "00895"
         },
         {
-            value: "Clinton FSU, Jackson, MS",
-            label: "01257"
+            text: "Clinton FSU, Jackson, MS",
+            value: "01257"
         },
         {
-            value: "Owings Mills Square FSU, Baltimore, MD",
-            label: "02103"
+            text: "Owings Mills Square FSU, Baltimore, MD",
+            value: "02103"
         },
         {
-            value: "Seguin Road FSU, San Antonio, TX",
-            label: "02587"
+            text: "Seguin Road FSU, San Antonio, TX",
+            value: "02587"
         },
         {
-            value: "Black Lake & 192 FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "01256"
+            text: "Black Lake & 192 FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "01256"
         },
         {
-            value: "Rosenberg FSU, Houston, TX",
-            label: "02102"
+            text: "Rosenberg FSU, Houston, TX",
+            value: "02102"
         },
         {
-            value: "I-220 & Airline Drive FSU, Shreveport, LA",
-            label: "02101"
+            text: "I-220 & Airline Drive FSU, Shreveport, LA",
+            value: "02101"
         },
         {
-            value: "LBJ & Midway FSU, Dallas-Ft. Worth, TX",
-            label: "03439"
+            text: "LBJ & Midway FSU, Dallas-Ft. Worth, TX",
+            value: "03439"
         },
         {
-            value: "Pasadena Crossroads FSU, Baltimore, MD",
-            label: "02585"
+            text: "Pasadena Crossroads FSU, Baltimore, MD",
+            value: "02585"
         },
         {
-            value: "Enfield FSU, Hartford & New Haven, CT",
-            label: "03432"
+            text: "Enfield FSU, Hartford & New Haven, CT",
+            value: "03432"
         },
         {
-            value: "Clarksville FSU, Baltimore, MD",
-            label: "03433"
+            text: "Clarksville FSU, Baltimore, MD",
+            value: "03433"
         },
         {
-            value: "Lake Houston FSU, Houston, TX",
-            label: "01259"
+            text: "Lake Houston FSU, Houston, TX",
+            value: "01259"
         },
         {
-            value: "Kalispell FSU, Missoula, MT",
-            label: "03434"
+            text: "Kalispell FSU, Missoula, MT",
+            value: "03434"
         },
         {
-            value: "Viera FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "02106"
+            text: "Viera FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "02106"
         },
         {
-            value: "Auto Mall Parkway FSU, San Francisco-Oakland-San Jose, CA",
-            label: "03435"
+            text: "Auto Mall Parkway FSU, San Francisco-Oakland-San Jose, CA",
+            value: "03435"
         },
         {
-            value:
+            text:
                 "University of Arkansas-Fayetteville, Ft. Smith-Fayetteville-Springdale-Rogers, AR",
-            label: "80089"
+            value: "80089"
         },
         {
-            value: "Flemington FSU, New York, NY",
-            label: "03430"
+            text: "Flemington FSU, New York, NY",
+            value: "03430"
         },
         {
-            value: "Middletown Commons FSU, Louisville, KY",
-            label: "03431"
+            text: "Middletown Commons FSU, Louisville, KY",
+            value: "03431"
         },
         {
-            value: "Owensboro FSU, Evansville, IN",
-            label: "02584"
+            text: "Owensboro FSU, Evansville, IN",
+            value: "02584"
         },
         {
-            value: "Wilkesboro FSU, Greensboro-High Point-Winston Salem, NC",
-            label: "02583"
+            text: "Wilkesboro FSU, Greensboro-High Point-Winston Salem, NC",
+            value: "02583"
         },
         {
-            value: "West Valley FSU, Salt Lake City, UT",
-            label: "02582"
+            text: "West Valley FSU, Salt Lake City, UT",
+            value: "02582"
         },
         {
-            value:
+            text:
                 "E. Brandon/Valrico FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "01250"
+            value: "01250"
         },
         {
-            value: "Wichita State University, Wichita Falls, TX & Lawton, OK",
-            label: "80083"
+            text: "Wichita State University, Wichita Falls, TX & Lawton, OK",
+            value: "80083"
         },
         {
-            value: "University of Oklahoma, Oklahoma City, OK",
-            label: "80082"
+            text: "University of Oklahoma, Oklahoma City, OK",
+            value: "80082"
         },
         {
-            value: "University of Mississippi, Memphis, TN",
-            label: "80087"
+            text: "University of Mississippi, Memphis, TN",
+            value: "80087"
         },
         {
-            value: "Appalachian State University, Charlotte, NC",
-            label: "80086"
+            text: "Appalachian State University, Charlotte, NC",
+            value: "80086"
         },
         {
-            value: "University of Kansas, Kansas City, MO",
-            label: "80085"
+            text: "University of Kansas, Kansas City, MO",
+            value: "80085"
         },
         {
-            value: "St. Georges Ave FSU, New York, NY",
-            label: "03429"
+            text: "St. Georges Ave FSU, New York, NY",
+            value: "03429"
         },
         {
-            value: "Patrick Henry Mall, Norfolk-Portsmouth-Newport News, VA",
-            label: "00399"
+            text: "Patrick Henry Mall, Norfolk-Portsmouth-Newport News, VA",
+            value: "00399"
         },
         {
-            value: "Statesville FSU, Charlotte, NC",
-            label: "01246"
+            text: "Statesville FSU, Charlotte, NC",
+            value: "01246"
         },
         {
-            value: "Waynesboro FSU, Harrisonburg, VA",
-            label: "02577"
+            text: "Waynesboro FSU, Harrisonburg, VA",
+            value: "02577"
         },
         {
-            value: "Tomball FSU, Houston, TX",
-            label: "01244"
+            text: "Tomball FSU, Houston, TX",
+            value: "01244"
         },
         {
-            value: "American Fork FSU, Salt Lake City, UT",
-            label: "02575"
+            text: "American Fork FSU, Salt Lake City, UT",
+            value: "02575"
         },
         {
-            value: "Monterey Park Market Place FSU, Los Angeles, CA",
-            label: "03428"
+            text: "Monterey Park Market Place FSU, Los Angeles, CA",
+            value: "03428"
         },
         {
-            value: "Yukon FSU, Oklahoma City, OK",
-            label: "02574"
+            text: "Yukon FSU, Oklahoma City, OK",
+            value: "02574"
         },
         {
-            value: "East Peoria FSU, Peoria-Bloomington, IL",
-            label: "03421"
+            text: "East Peoria FSU, Peoria-Bloomington, IL",
+            value: "03421"
         },
         {
-            value: "Puyallup FSU, Seattle-Tacoma, WA",
-            label: "03422"
+            text: "Puyallup FSU, Seattle-Tacoma, WA",
+            value: "03422"
         },
         {
-            value: "Kernersville FSU, Greensboro-High Point-Winston Salem, NC",
-            label: "01248"
+            text: "Kernersville FSU, Greensboro-High Point-Winston Salem, NC",
+            value: "01248"
         },
         {
-            value: "Vero Beach FSU, West Palm Beach-Ft. Pierce, FL",
-            label: "03423"
+            text: "Vero Beach FSU, West Palm Beach-Ft. Pierce, FL",
+            value: "03423"
         },
         {
-            value: "Quebec Street FSU, Denver, CO",
-            label: "03424"
+            text: "Quebec Street FSU, Denver, CO",
+            value: "03424"
         },
         {
-            value: "South Hickory FSU, Charlotte, NC",
-            label: "01247"
+            text: "South Hickory FSU, Charlotte, NC",
+            value: "01247"
         },
         {
-            value: "Great Lakes Mall, Cleveland-Akron (Canton), OH",
-            label: "00391"
+            text: "Great Lakes Mall, Cleveland-Akron (Canton), OH",
+            value: "00391"
         },
         {
-            value: "Park Meadows Mall, Denver, CO",
-            label: "00390"
+            text: "Park Meadows Mall, Denver, CO",
+            value: "00390"
         },
         {
-            value: "Eastern Kentucky University, Lexington, KY",
-            label: "80077"
+            text: "Eastern Kentucky University, Lexington, KY",
+            value: "80077"
         },
         {
-            value: "Ridge Road FSU, Dallas-Ft. Worth, TX",
-            label: "01242"
+            text: "Ridge Road FSU, Dallas-Ft. Worth, TX",
+            value: "01242"
         },
         {
-            value: "240 & Western FSU, Oklahoma City, OK",
-            label: "02572"
+            text: "240 & Western FSU, Oklahoma City, OK",
+            value: "02572"
         },
         {
-            value: "Oak Court Mall, Memphis, TN",
-            label: "00394"
+            text: "Oak Court Mall, Memphis, TN",
+            value: "00394"
         },
         {
-            value:
+            text:
                 "Elon University Commons FSU, Greensboro-High Point-Winston Salem, NC",
-            label: "02571"
+            value: "02571"
         },
         {
-            value:
+            text:
                 "International Plaza Mall, Tampa-St. Petersburg (Sarasota), FL",
-            label: "01279"
+            value: "01279"
         },
         {
-            value: "Crofton FSU, Baltimore, MD",
-            label: "03458"
+            text: "Crofton FSU, Baltimore, MD",
+            value: "03458"
         },
         {
-            value: "Culpeper Colonnade FSU, Washington, DC (Hagerstown, MD)",
-            label: "02125"
+            text: "Culpeper Colonnade FSU, Washington, DC (Hagerstown, MD)",
+            value: "02125"
         },
         {
-            value: "Northeast Tower FSU, Philadelphia, PA",
-            label: "03450"
+            text: "Northeast Tower FSU, Philadelphia, PA",
+            value: "03450"
         },
         {
-            value: "Dave Lyle Boulevard FSU, Charlotte, NC",
-            label: "01270"
+            text: "Dave Lyle Boulevard FSU, Charlotte, NC",
+            value: "01270"
         },
         {
-            value: "Amarillo at Gem Lake Road FSU, Amarillo, TX",
-            label: "03452"
+            text: "Amarillo at Gem Lake Road FSU, Amarillo, TX",
+            value: "03452"
         },
         {
-            value:
+            text:
                 "RSA Battlehouse, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "03453"
+            value: "03453"
         },
         {
-            value:
+            text:
                 "Haywood Road FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "02122"
+            value: "02122"
         },
         {
-            value: "Seminole Plaza FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "01273"
+            text: "Seminole Plaza FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "01273"
         },
         {
-            value: "Winder FSU, Atlanta, GA",
-            label: "02599"
+            text: "Winder FSU, Atlanta, GA",
+            value: "02599"
         },
         {
-            value: "Princeton FSU, Bluefield-Beckley-Oak Hill, WV",
-            label: "03447"
+            text: "Princeton FSU, Bluefield-Beckley-Oak Hill, WV",
+            value: "03447"
         },
         {
-            value: "Emily Drive FSU, Clarksburg-Weston, WV",
-            label: "02598"
+            text: "Emily Drive FSU, Clarksburg-Weston, WV",
+            value: "02598"
         },
         {
-            value: "Beavercreek FSU, Dayton, OH",
-            label: "02114"
+            text: "Beavercreek FSU, Dayton, OH",
+            value: "02114"
         },
         {
-            value:
+            text:
                 "Parkside Town Commons FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "03448"
+            value: "03448"
         },
         {
-            value: "Frankfort (KY) FSU, Lexington, KY",
-            label: "03449"
+            text: "Frankfort (KY) FSU, Lexington, KY",
+            value: "03449"
         },
         {
-            value: "Garrisonville FSU, Washington, DC (Hagerstown, MD)",
-            label: "01266"
+            text: "Garrisonville FSU, Washington, DC (Hagerstown, MD)",
+            value: "01266"
         },
         {
-            value: "Blanco Road FSU, San Antonio, TX",
-            label: "01265"
+            text: "Blanco Road FSU, San Antonio, TX",
+            value: "01265"
         },
         {
-            value: "Eastchester FSU, Greensboro-High Point-Winston Salem, NC",
-            label: "02119"
+            text: "Eastchester FSU, Greensboro-High Point-Winston Salem, NC",
+            value: "02119"
         },
         {
-            value: "Newnan Crossing FSU, Atlanta, GA",
-            label: "03445"
+            text: "Newnan Crossing FSU, Atlanta, GA",
+            value: "03445"
         },
         {
-            value: "Baxter Village FSU, Charlotte, NC",
-            label: "02117"
+            text: "Baxter Village FSU, Charlotte, NC",
+            value: "02117"
         },
         {
-            value: "Rivergate Cordova FSU, Sacramento-Stockton-Modesto, CA",
-            label: "03446"
+            text: "Rivergate Cordova FSU, Sacramento-Stockton-Modesto, CA",
+            value: "03446"
         },
         {
-            value: "Warrenton FSU, Washington, DC (Hagerstown, MD)",
-            label: "02116"
+            text: "Warrenton FSU, Washington, DC (Hagerstown, MD)",
+            value: "02116"
         },
         {
-            value: "Olney FSU, Washington, DC (Hagerstown, MD)",
-            label: "03440"
+            text: "Olney FSU, Washington, DC (Hagerstown, MD)",
+            value: "03440"
         },
         {
-            value:
+            text:
                 "Madison Avenue Sacramento FSU, Sacramento-Stockton-Modesto, CA",
-            label: "03441"
+            value: "03441"
         },
         {
-            value: "Lehi Pointe FSU, Salt Lake City, UT",
-            label: "03442"
+            text: "Lehi Pointe FSU, Salt Lake City, UT",
+            value: "03442"
         },
         {
-            value: "Villa Rica FSU, Atlanta, GA",
-            label: "02111"
+            text: "Villa Rica FSU, Atlanta, GA",
+            value: "02111"
         },
         {
-            value: "Stonebridge Village FSU, Atlanta, GA",
-            label: "02110"
+            text: "Stonebridge Village FSU, Atlanta, GA",
+            value: "02110"
         },
         {
-            value: "Peachtree at Collier FSU, Atlanta, GA",
-            label: "01262"
+            text: "Peachtree at Collier FSU, Atlanta, GA",
+            value: "01262"
         },
         {
-            value: "Houston Road FSU, Cincinnati, OH",
-            label: "02593"
+            text: "Houston Road FSU, Cincinnati, OH",
+            value: "02593"
         },
         {
-            value: "Marshall University, Charleston-Huntington, WV",
-            label: "80093"
+            text: "Marshall University, Charleston-Huntington, WV",
+            value: "80093"
         },
         {
-            value: "University of Louisville, Louisville, KY",
-            label: "80095"
+            text: "University of Louisville, Louisville, KY",
+            value: "80095"
         },
         {
-            value: "Waverly Place FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "01218"
+            text: "Waverly Place FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "01218"
         },
         {
-            value: "Weatherford FSU, Dallas-Ft. Worth, TX",
-            label: "01697"
+            text: "Weatherford FSU, Dallas-Ft. Worth, TX",
+            value: "01697"
         },
         {
-            value: "Pell City FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "02544"
+            text: "Pell City FSU, Birmingham (Anniston and Tuscaloosa), AL",
+            value: "02544"
         },
         {
-            value: "Galleria I, Houston, TX",
-            label: "00366"
+            text: "Galleria I, Houston, TX",
+            value: "00366"
         },
         {
-            value: "Belden Village Mall, Cleveland-Akron (Canton), OH",
-            label: "00365"
+            text: "Belden Village Mall, Cleveland-Akron (Canton), OH",
+            value: "00365"
         },
         {
-            value: "Hinesville FSU, Savannah, GA",
-            label: "03877"
+            text: "Hinesville FSU, Savannah, GA",
+            value: "03877"
         },
         {
-            value: "Cinco Ranch FSU, Houston, TX",
-            label: "01695"
+            text: "Cinco Ranch FSU, Houston, TX",
+            value: "01695"
         },
         {
-            value: "Gilbert Gateway Towne Center FSU, Phoenix (Prescott), AZ",
-            label: "01694"
+            text: "Gilbert Gateway Towne Center FSU, Phoenix (Prescott), AZ",
+            value: "01694"
         },
         {
-            value: "Missouri City FSU, Houston, TX",
-            label: "01210"
+            text: "Missouri City FSU, Houston, TX",
+            value: "01210"
         },
         {
-            value: "Turner Hill Road FSU, Atlanta, GA",
-            label: "01217"
+            text: "Turner Hill Road FSU, Atlanta, GA",
+            value: "01217"
         },
         {
-            value:
+            text:
                 "Virginia Beach Blvd FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "03873"
+            value: "03873"
         },
         {
-            value: "North Laredo FSU, Laredo, TX",
-            label: "02547"
+            text: "North Laredo FSU, Laredo, TX",
+            value: "02547"
         },
         {
-            value: "St. Augustine Road FSU, Tallahassee, FL-Thomasville, GA",
-            label: "01216"
+            text: "St. Augustine Road FSU, Tallahassee, FL-Thomasville, GA",
+            value: "01216"
         },
         {
-            value: "Carolina Mall, Charlotte, NC",
-            label: "00368"
+            text: "Carolina Mall, Charlotte, NC",
+            value: "00368"
         },
         {
-            value: "Louetta Crossing FSU, Houston, TX",
-            label: "01215"
+            text: "Louetta Crossing FSU, Houston, TX",
+            value: "01215"
         },
         {
-            value: "Waxahachie FSU, Dallas-Ft. Worth, TX",
-            label: "01698"
+            text: "Waxahachie FSU, Dallas-Ft. Worth, TX",
+            value: "01698"
         },
         {
-            value: "Somerset Collection North, Detroit, MI",
-            label: "03875"
+            text: "Somerset Collection North, Detroit, MI",
+            value: "03875"
         },
         {
-            value: "University Mall (UT), Salt Lake City, UT",
-            label: "00367"
+            text: "University Mall (UT), Salt Lake City, UT",
+            value: "00367"
         },
         {
-            value: "Market at East Broad FSU, Columbus, OH",
-            label: "02545"
+            text: "Market at East Broad FSU, Columbus, OH",
+            value: "02545"
         },
         {
-            value:
+            text:
                 "Port Orange Gateway Center FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "01214"
+            value: "01214"
         },
         {
-            value: "Westnedge FSU, Grand Rapids-Kalamazoo-Battle Creek, MI",
-            label: "03870"
+            text: "Westnedge FSU, Grand Rapids-Kalamazoo-Battle Creek, MI",
+            value: "03870"
         },
         {
-            value: "Lakeland Square, Tampa-St. Petersburg (Sarasota), FL",
-            label: "00362"
+            text: "Lakeland Square, Tampa-St. Petersburg (Sarasota), FL",
+            value: "00362"
         },
         {
-            value: "Crossroads Towne Center FSU, Phoenix (Prescott), AZ",
-            label: "01693"
+            text: "Crossroads Towne Center FSU, Phoenix (Prescott), AZ",
+            value: "01693"
         },
         {
-            value: "San Tan Village Marketplace FSU, Phoenix (Prescott), AZ",
-            label: "01692"
+            text: "San Tan Village Marketplace FSU, Phoenix (Prescott), AZ",
+            value: "01692"
         },
         {
-            value: "The Parks at Arlington, Dallas-Ft. Worth, TX",
-            label: "00361"
+            text: "The Parks at Arlington, Dallas-Ft. Worth, TX",
+            value: "00361"
         },
         {
-            value: "Grand Junction FSU, Grand Junction-Montrose, CO",
-            label: "01691"
+            text: "Grand Junction FSU, Grand Junction-Montrose, CO",
+            value: "01691"
         },
         {
-            value: "North Academy FSU, Colorado Springs-Pueblo, CO",
-            label: "01690"
+            text: "North Academy FSU, Colorado Springs-Pueblo, CO",
+            value: "01690"
         },
         {
-            value: "Sugarloaf Corporate Center FSU, Atlanta, GA",
-            label: "01208"
+            text: "Sugarloaf Corporate Center FSU, Atlanta, GA",
+            value: "01208"
         },
         {
-            value: "West Tennessee Street FSU, Tallahassee, FL-Thomasville, GA",
-            label: "02538"
+            text: "West Tennessee Street FSU, Tallahassee, FL-Thomasville, GA",
+            value: "02538"
         },
         {
-            value: "Dogwood Festival FSU, Jackson, MS",
-            label: "01207"
+            text: "Dogwood Festival FSU, Jackson, MS",
+            value: "01207"
         },
         {
-            value: "Knickerbocker FSU, San Angelo, TX",
-            label: "03869"
+            text: "Knickerbocker FSU, San Angelo, TX",
+            value: "03869"
         },
         {
-            value: "Hagerstown FSU, Washington, DC (Hagerstown, MD)",
-            label: "01202"
+            text: "Hagerstown FSU, Washington, DC (Hagerstown, MD)",
+            value: "01202"
         },
         {
-            value: "Neshaminy FSU, Philadelphia, PA",
-            label: "01686"
+            text: "Neshaminy FSU, Philadelphia, PA",
+            value: "01686"
         },
         {
-            value: "Cityview FSU, Dallas-Ft. Worth, TX",
-            label: "01201"
+            text: "Cityview FSU, Dallas-Ft. Worth, TX",
+            value: "01201"
         },
         {
-            value: "Savannah Highway FSU, Charleston, SC",
-            label: "02531"
+            text: "Savannah Highway FSU, Charleston, SC",
+            value: "02531"
         },
         {
-            value: "Ridley FSU, Philadelphia, PA",
-            label: "01684"
+            text: "Ridley FSU, Philadelphia, PA",
+            value: "01684"
         },
         {
-            value: "Wiregrass Commons Mall, Dothan, AL",
-            label: "00353"
+            text: "Wiregrass Commons Mall, Dothan, AL",
+            value: "00353"
         },
         {
-            value: "Silver Spring In-Line, Washington, DC (Hagerstown, MD)",
-            label: "01683"
+            text: "Silver Spring In-Line, Washington, DC (Hagerstown, MD)",
+            value: "01683"
         },
         {
-            value: "Rolling Oaks Mall, San Antonio, TX",
-            label: "00359"
+            text: "Rolling Oaks Mall, San Antonio, TX",
+            value: "00359"
         },
         {
-            value: "Bradfordville FSU, Tallahassee, FL-Thomasville, GA",
-            label: "02537"
+            text: "Bradfordville FSU, Tallahassee, FL-Thomasville, GA",
+            value: "02537"
         },
         {
-            value: "Signal Hill FSU, Washington, DC (Hagerstown, MD)",
-            label: "01689"
+            text: "Signal Hill FSU, Washington, DC (Hagerstown, MD)",
+            value: "01689"
         },
         {
-            value: "Hudson Oaks FSU, Dallas-Ft. Worth, TX",
-            label: "03862"
+            text: "Hudson Oaks FSU, Dallas-Ft. Worth, TX",
+            value: "03862"
         },
         {
-            value: "Treasure Coast Square, West Palm Beach-Ft. Pierce, FL",
-            label: "00358"
+            text: "Treasure Coast Square, West Palm Beach-Ft. Pierce, FL",
+            value: "00358"
         },
         {
-            value:
+            text:
                 "Clemson FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "02536"
+            value: "02536"
         },
         {
-            value: "Cottonwood FSU, Albuquerque-Santa Fe, NM",
-            label: "01688"
+            text: "Cottonwood FSU, Albuquerque-Santa Fe, NM",
+            value: "01688"
         },
         {
-            value: "Indian River Mall, West Palm Beach-Ft. Pierce, FL",
-            label: "00357"
+            text: "Indian River Mall, West Palm Beach-Ft. Pierce, FL",
+            value: "00357"
         },
         {
-            value: "Gardendale FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "01687"
+            text: "Gardendale FSU, Birmingham (Anniston and Tuscaloosa), AL",
+            value: "01687"
         },
         {
-            value:
+            text:
                 "Tech Rd. Silver Spring In-Line, Washington, DC (Hagerstown, MD)",
-            label: "02534"
+            value: "02534"
         },
         {
-            value: "The Shops at Willow Lawn, Richmond-Petersburg, VA",
-            label: "00356"
+            text: "The Shops at Willow Lawn, Richmond-Petersburg, VA",
+            value: "00356"
         },
         {
-            value: "Eagle Harbor FSU, Jacksonville, FL",
-            label: "01203"
+            text: "Eagle Harbor FSU, Jacksonville, FL",
+            value: "01203"
         },
         {
-            value: "Palm Beach Lakes Blvd. FSU, West Palm Beach-Ft. Pierce, FL",
-            label: "01682"
+            text: "Palm Beach Lakes Blvd. FSU, West Palm Beach-Ft. Pierce, FL",
+            value: "01682"
         },
         {
-            value: "South Park Mall (TX), San Antonio, TX",
-            label: "00350"
+            text: "South Park Mall (TX), San Antonio, TX",
+            value: "00350"
         },
         {
-            value: "Southside Blvd at the Avenues FSU, Jacksonville, FL",
-            label: "01680"
+            text: "Southside Blvd at the Avenues FSU, Jacksonville, FL",
+            value: "01680"
         },
         {
-            value: "Staunton [VA] FSU, Harrisonburg, VA",
-            label: "03418"
+            text: "Staunton [VA] FSU, Harrisonburg, VA",
+            value: "03418"
         },
         {
-            value: "Hunter's Crossing FSU, Knoxville, TN",
-            label: "01235"
+            text: "Hunter's Crossing FSU, Knoxville, TN",
+            value: "01235"
         },
         {
-            value: "Plattsburgh FSU, Burlington, VT-Plattsburgh, NY",
-            label: "03898"
+            text: "Plattsburgh FSU, Burlington, VT-Plattsburgh, NY",
+            value: "03898"
         },
         {
-            value: "Somerset Plaza FSU, Boston, MA (Manchester, NH)",
-            label: "03414"
+            text: "Somerset Plaza FSU, Boston, MA (Manchester, NH)",
+            value: "03414"
         },
         {
-            value: "Howland Commons FSU, Youngstown, OH",
-            label: "03415"
+            text: "Howland Commons FSU, Youngstown, OH",
+            value: "03415"
         },
         {
-            value: "Mall of Louisiana, Baton Rouge, LA",
-            label: "00387"
+            text: "Mall of Louisiana, Baton Rouge, LA",
+            value: "00387"
         },
         {
-            value: "Aliso Viejo In-Line DT, Los Angeles, CA",
-            label: "02564"
+            text: "Aliso Viejo In-Line DT, Los Angeles, CA",
+            value: "02564"
         },
         {
-            value: "Crown Point Plaza FSU, Knoxville, TN",
-            label: "01233"
+            text: "Crown Point Plaza FSU, Knoxville, TN",
+            value: "01233"
         },
         {
-            value: "Randolph Mall, Greensboro-High Point-Winston Salem, NC",
-            label: "00386"
+            text: "Randolph Mall, Greensboro-High Point-Winston Salem, NC",
+            value: "00386"
         },
         {
-            value: "Park Plaza, Little Rock-Pine Bluff, AR",
-            label: "00385"
+            text: "Park Plaza, Little Rock-Pine Bluff, AR",
+            value: "00385"
         },
         {
-            value: "Virginia Center FSU, Richmond-Petersburg, VA",
-            label: "01232"
+            text: "Virginia Center FSU, Richmond-Petersburg, VA",
+            value: "01232"
         },
         {
-            value: "Tiffany Square Plaza FSU, Youngstown, OH",
-            label: "03410"
+            text: "Tiffany Square Plaza FSU, Youngstown, OH",
+            value: "03410"
         },
         {
-            value: "Five Points FSU, Columbia, SC",
-            label: "02569"
+            text: "Five Points FSU, Columbia, SC",
+            value: "02569"
         },
         {
-            value: "Highland Lakes FSU, Austin, TX",
-            label: "03895"
+            text: "Highland Lakes FSU, Austin, TX",
+            value: "03895"
         },
         {
-            value: "Foley FSU, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "01237"
+            text: "Foley FSU, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "01237"
         },
         {
-            value: "Central & McCord FSU, Toledo, OH",
-            label: "03896"
+            text: "Central & McCord FSU, Toledo, OH",
+            value: "03896"
         },
         {
-            value: "Stone Mountain FSU, Atlanta, GA",
-            label: "00389"
+            text: "Stone Mountain FSU, Atlanta, GA",
+            value: "00389"
         },
         {
-            value: "Thunderbird FSU, Phoenix (Prescott), AZ",
-            label: "03413"
+            text: "Thunderbird FSU, Phoenix (Prescott), AZ",
+            value: "03413"
         },
         {
-            value: "Chandler Festival FSU, Phoenix (Prescott), AZ",
-            label: "02567"
+            text: "Chandler Festival FSU, Phoenix (Prescott), AZ",
+            value: "02567"
         },
         {
-            value: "Woodland Hills Mall, Tulsa, OK",
-            label: "00380"
+            text: "Woodland Hills Mall, Tulsa, OK",
+            value: "00380"
         },
         {
-            value: "Plymouth FSU, Boston, MA (Manchester, NH)",
-            label: "03891"
+            text: "Plymouth FSU, Boston, MA (Manchester, NH)",
+            value: "03891"
         },
         {
-            value: "Gates Of Prosper FSU, Dallas-Ft. Worth, TX",
-            label: "03893"
+            text: "Gates Of Prosper FSU, Dallas-Ft. Worth, TX",
+            value: "03893"
         },
         {
-            value: "Cotswold FSU, Charlotte, NC",
-            label: "01231"
+            text: "Cotswold FSU, Charlotte, NC",
+            value: "01231"
         },
         {
-            value: "Victory Boulevard FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "01230"
+            text: "Victory Boulevard FSU, Norfolk-Portsmouth-Newport News, VA",
+            value: "01230"
         },
         {
-            value: "Charleston Town Center, Charleston-Huntington, WV",
-            label: "00381"
+            text: "Charleston Town Center, Charleston-Huntington, WV",
+            value: "00381"
         },
         {
-            value: "Bluffton FSU, Savannah, GA",
-            label: "01229"
+            text: "Bluffton FSU, Savannah, GA",
+            value: "01229"
         },
         {
-            value: "Fort Wright FSU, Cincinnati, OH",
-            label: "03407"
+            text: "Fort Wright FSU, Cincinnati, OH",
+            value: "03407"
         },
         {
-            value: "Legacy Village FSU, Omaha, NE",
-            label: "03403"
+            text: "Legacy Village FSU, Omaha, NE",
+            value: "03403"
         },
         {
-            value: "Murfreesboro Towne Centre FSU, Nashville, TN",
-            label: "01224"
+            text: "Murfreesboro Towne Centre FSU, Nashville, TN",
+            value: "01224"
         },
         {
-            value: "Penn Square Mall, Oklahoma City, OK",
-            label: "00376"
+            text: "Penn Square Mall, Oklahoma City, OK",
+            value: "00376"
         },
         {
-            value: "Oviedo/North UCF FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "03888"
+            text: "Oviedo/North UCF FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "03888"
         },
         {
-            value: "Parham Road FSU, Richmond-Petersburg, VA",
-            label: "02554"
+            text: "Parham Road FSU, Richmond-Petersburg, VA",
+            value: "02554"
         },
         {
-            value: "Daphne FSU, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "01223"
+            text: "Daphne FSU, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "01223"
         },
         {
-            value: "Whittwood FSU, Los Angeles, CA",
-            label: "03404"
+            text: "Whittwood FSU, Los Angeles, CA",
+            value: "03404"
         },
         {
-            value: "Coweta Crossroads FSU, Atlanta, GA",
-            label: "01222"
+            text: "Coweta Crossroads FSU, Atlanta, GA",
+            value: "01222"
         },
         {
-            value: "Renaissance Tower, Dallas-Ft. Worth, TX",
-            label: "00375"
+            text: "Renaissance Tower, Dallas-Ft. Worth, TX",
+            value: "00375"
         },
         {
-            value: "The Gardens, West Palm Beach-Ft. Pierce, FL",
-            label: "00374"
+            text: "The Gardens, West Palm Beach-Ft. Pierce, FL",
+            value: "00374"
         },
         {
-            value: "Chambersburg FSU, Harrisburg-Lancaster-Lebanon-York, PA",
-            label: "03406"
+            text: "Chambersburg FSU, Harrisburg-Lancaster-Lebanon-York, PA",
+            value: "03406"
         },
         {
-            value: "Hull Street at Brandermill FSU, Richmond-Petersburg, VA",
-            label: "01228"
+            text: "Hull Street at Brandermill FSU, Richmond-Petersburg, VA",
+            value: "01228"
         },
         {
-            value: "Palmhurst FSU, Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "03883"
+            text: "Palmhurst FSU, Harlingen-Weslaco-Brownsville-McAllen, TX",
+            value: "03883"
         },
         {
-            value: "DC USA In-Line, Washington, DC (Hagerstown, MD)",
-            label: "03400"
+            text: "DC USA In-Line, Washington, DC (Hagerstown, MD)",
+            value: "03400"
         },
         {
-            value:
+            text:
                 "Rockville Research Row FSU, Washington, DC (Hagerstown, MD)",
-            label: "03884"
+            value: "03884"
         },
         {
-            value: "Chesterfield Plaza FSU, Richmond-Petersburg, VA",
-            label: "01227"
+            text: "Chesterfield Plaza FSU, Richmond-Petersburg, VA",
+            value: "01227"
         },
         {
-            value: "Wylie FSU, Dallas-Ft. Worth, TX",
-            label: "03885"
+            text: "Wylie FSU, Dallas-Ft. Worth, TX",
+            value: "03885"
         },
         {
-            value: "Jackson & Macarthur FSU, Alexandria, LA",
-            label: "02557"
+            text: "Jackson & Macarthur FSU, Alexandria, LA",
+            value: "02557"
         },
         {
-            value: "Mall at Chesterfield Towne Center, Richmond-Petersburg, VA",
-            label: "00379"
+            text: "Mall at Chesterfield Towne Center, Richmond-Petersburg, VA",
+            value: "00379"
         },
         {
-            value: "Robson Crossing FSU, Atlanta, GA",
-            label: "01225"
+            text: "Robson Crossing FSU, Atlanta, GA",
+            value: "01225"
         },
         {
-            value: "I-35 at 15th FSU, Oklahoma City, OK",
-            label: "03881"
+            text: "I-35 at 15th FSU, Oklahoma City, OK",
+            value: "03881"
         },
         {
-            value:
+            text:
                 "Capitol Hill East Drive-Thru Only, Washington, DC (Hagerstown, MD)",
-            label: "03882"
+            value: "03882"
         },
         {
-            value: "Orange Avenue FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "02551"
+            text: "Orange Avenue FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "02551"
         },
         {
-            value: "Thoroughbred Square FSU, Nashville, TN",
-            label: "01220"
+            text: "Thoroughbred Square FSU, Nashville, TN",
+            value: "01220"
         },
         {
-            value: "Southpark (VA), Richmond-Petersburg, VA",
-            label: "00373"
+            text: "Southpark (VA), Richmond-Petersburg, VA",
+            value: "00373"
         },
         {
-            value: "Western Hills FSU, Cincinnati, OH",
-            label: "02550"
+            text: "Western Hills FSU, Cincinnati, OH",
+            value: "02550"
         },
         {
-            value: "Vicksburg FSU, Jackson, MS",
-            label: "03037"
+            text: "Vicksburg FSU, Jackson, MS",
+            value: "03037"
         },
         {
-            value: "Malabar Road FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "03039"
+            text: "Malabar Road FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "03039"
         },
         {
-            value: "East Tennessee State University, Tri-Cities, TN-VA",
-            label: "80003"
+            text: "East Tennessee State University, Tri-Cities, TN-VA",
+            value: "80003"
         },
         {
-            value: "St. Matthews FSU, Louisville, KY",
-            label: "02184"
+            text: "St. Matthews FSU, Louisville, KY",
+            value: "02184"
         },
         {
-            value:
+            text:
                 "Santa Barbara FSU, Santa Barbara-Santa Maria-San Luis Obispo, CA",
-            label: "03032"
+            value: "03032"
         },
         {
-            value: "Texas A&M University-Kingsville, Corpus Christi, TX",
-            label: "80487"
+            text: "Texas A&M University-Kingsville, Corpus Christi, TX",
+            value: "80487"
         },
         {
-            value: "University of NC-Charlotte, Charlotte, NC",
-            label: "80002"
+            text: "University of NC-Charlotte, Charlotte, NC",
+            value: "80002"
         },
         {
-            value: "Garden State Park In-Line, Philadelphia, PA",
-            label: "02183"
+            text: "Garden State Park In-Line, Philadelphia, PA",
+            value: "02183"
         },
         {
-            value: "Tennessee State University, Nashville, TN",
-            label: "80486"
+            text: "Tennessee State University, Nashville, TN",
+            value: "80486"
         },
         {
-            value:
+            text:
                 "East Carolina University - Croatan, Greenville-New Bern-Washington, NC",
-            label: "80485"
+            value: "80485"
         },
         {
-            value:
+            text:
                 "Clemson University, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "80001"
+            value: "80001"
         },
         {
-            value: "Benchwood FSU, Dayton, OH",
-            label: "02182"
+            text: "Benchwood FSU, Dayton, OH",
+            value: "02182"
         },
         {
-            value: "Beach Boulevard FSU, Los Angeles, CA",
-            label: "03035"
+            text: "Beach Boulevard FSU, Los Angeles, CA",
+            value: "03035"
         },
         {
-            value: "Georgia Tech, Atlanta, GA",
-            label: "80000"
+            text: "Georgia Tech, Atlanta, GA",
+            value: "80000"
         },
         {
-            value: "Gardner-Webb University, Charlotte, NC",
-            label: "80484"
+            text: "Gardner-Webb University, Charlotte, NC",
+            value: "80484"
         },
         {
-            value: "Holly Springs FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "02181"
+            text: "Holly Springs FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "02181"
         },
         {
-            value: "Hot Springs FSU, Little Rock-Pine Bluff, AR",
-            label: "02188"
+            text: "Hot Springs FSU, Little Rock-Pine Bluff, AR",
+            value: "02188"
         },
         {
-            value: "Sudley Manor Drive FSU, Washington, DC (Hagerstown, MD)",
-            label: "02186"
+            text: "Sudley Manor Drive FSU, Washington, DC (Hagerstown, MD)",
+            value: "02186"
         },
         {
-            value:
+            text:
                 "University of South Alabama, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "80489"
+            value: "80489"
         },
         {
-            value: "Jefferson City FSU, Columbia-Jefferson City, MO",
-            label: "03031"
+            text: "Jefferson City FSU, Columbia-Jefferson City, MO",
+            value: "03031"
         },
         {
-            value: "Longmont FSU, Denver, CO",
-            label: "02185"
+            text: "Longmont FSU, Denver, CO",
+            value: "02185"
         },
         {
-            value: "Arkansas Tech University, Little Rock-Pine Bluff, AR",
-            label: "80483"
+            text: "Arkansas Tech University, Little Rock-Pine Bluff, AR",
+            value: "80483"
         },
         {
-            value: "Ramsey Street FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "02180"
+            text: "Ramsey Street FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "02180"
         },
         {
-            value: "Stockton University, Philadelphia, PA",
-            label: "80482"
+            text: "Stockton University, Philadelphia, PA",
+            value: "80482"
         },
         {
-            value: "University of Texas-Austin-SAC, Austin, TX",
-            label: "80481"
+            text: "University of Texas-Austin-SAC, Austin, TX",
+            value: "80481"
         },
         {
-            value:
+            text:
                 "Palm Beach Atlantic University, West Palm Beach-Ft. Pierce, FL",
-            label: "80480"
+            value: "80480"
         },
         {
-            value: "South Franklin FSU, Nashville, TN",
-            label: "02179"
+            text: "South Franklin FSU, Nashville, TN",
+            value: "02179"
         },
         {
-            value: "72nd & Sorensen FSU, Omaha, NE",
-            label: "03026"
+            text: "72nd & Sorensen FSU, Omaha, NE",
+            value: "03026"
         },
         {
-            value: "Bellevue FSU, Omaha, NE",
-            label: "03027"
+            text: "Bellevue FSU, Omaha, NE",
+            value: "03027"
         },
         {
-            value: "Avondale FSU, Phoenix (Prescott), AZ",
-            label: "02173"
+            text: "Avondale FSU, Phoenix (Prescott), AZ",
+            value: "02173"
         },
         {
-            value: "West Virginia University, Pittsburgh, PA",
-            label: "80476"
+            text: "West Virginia University, Pittsburgh, PA",
+            value: "80476"
         },
         {
-            value: "Lindale FSU, Cedar Rapids-Waterloo-Iowa City & Dubuque, IA",
-            label: "03021"
+            text: "Lindale FSU, Cedar Rapids-Waterloo-Iowa City & Dubuque, IA",
+            value: "03021"
         },
         {
-            value:
+            text:
                 "Boiling Springs FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "02172"
+            value: "02172"
         },
         {
-            value: "Florida International University, Miami-Ft. Lauderdale, FL",
-            label: "80475"
+            text: "Florida International University, Miami-Ft. Lauderdale, FL",
+            value: "80475"
         },
         {
-            value: "Sergeant Road FSU, Sioux City, IA",
-            label: "03022"
+            text: "Sergeant Road FSU, Sioux City, IA",
+            value: "03022"
         },
         {
-            value:
+            text:
                 "University of Alabama - Huntsville, Huntsville-Decatur (Florence), AL",
-            label: "80473"
+            value: "80473"
         },
         {
-            value: "Aramingo FSU, Philadelphia, PA",
-            label: "02177"
+            text: "Aramingo FSU, Philadelphia, PA",
+            value: "02177"
         },
         {
-            value: "Kutztown University, Philadelphia, PA",
-            label: "80479"
+            text: "Kutztown University, Philadelphia, PA",
+            value: "80479"
         },
         {
-            value: "Mechanicsville FSU, Richmond-Petersburg, VA",
-            label: "02175"
+            text: "Mechanicsville FSU, Richmond-Petersburg, VA",
+            value: "02175"
         },
         {
-            value: "Terre Haute FSU, Terre Haute, IN",
-            label: "03020"
+            text: "Terre Haute FSU, Terre Haute, IN",
+            value: "03020"
         },
         {
-            value: "Oracle Road FSU, Tucson (Sierra Vista), AZ",
-            label: "02174"
+            text: "Oracle Road FSU, Tucson (Sierra Vista), AZ",
+            value: "02174"
         },
         {
-            value: "Boise State University, Boise, ID",
-            label: "80477"
+            text: "Boise State University, Boise, ID",
+            value: "80477"
         },
         {
-            value:
+            text:
                 "University of Texas - Tyler, Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "80472"
+            value: "80472"
         },
         {
-            value: "M.D. Anderson Cancer Center, Houston, TX",
-            label: "80471"
+            text: "M.D. Anderson Cancer Center, Houston, TX",
+            value: "80471"
         },
         {
-            value:
+            text:
                 "University of Alabama-Lloyd Hall, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "80470"
+            value: "80470"
         },
         {
-            value: "University of West Georgia, Atlanta, GA",
-            label: "80019"
+            text: "University of West Georgia, Atlanta, GA",
+            value: "80019"
         },
         {
-            value: "Fashion Island Shopping Center, Los Angeles, CA",
-            label: "03059"
+            text: "Fashion Island Shopping Center, Los Angeles, CA",
+            value: "03059"
         },
         {
-            value: "Raider Park FSU, Lubbock, TX",
-            label: "03055"
+            text: "Raider Park FSU, Lubbock, TX",
+            value: "03055"
         },
         {
-            value: "Marbach at 410 FSU, San Antonio, TX",
-            label: "03056"
+            text: "Marbach at 410 FSU, San Antonio, TX",
+            value: "03056"
         },
         {
-            value: "Alabama Power, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "80023"
+            text: "Alabama Power, Birmingham (Anniston and Tuscaloosa), AL",
+            value: "80023"
         },
         {
-            value: "West Ocean City FSU, Salisbury, MD",
-            label: "03048"
+            text: "West Ocean City FSU, Salisbury, MD",
+            value: "03048"
         },
         {
-            value: "Perimeter at Hammond Drive FSU, Atlanta, GA",
-            label: "03049"
+            text: "Perimeter at Hammond Drive FSU, Atlanta, GA",
+            value: "03049"
         },
         {
-            value: "Berry College, Atlanta, GA",
-            label: "80498"
+            text: "Berry College, Atlanta, GA",
+            value: "80498"
         },
         {
-            value: "Wall Street FSU, Odessa-Midland, TX",
-            label: "03043"
+            text: "Wall Street FSU, Odessa-Midland, TX",
+            value: "03043"
         },
         {
-            value: "University of New Orleans, New Orleans, LA",
-            label: "80013"
+            text: "University of New Orleans, New Orleans, LA",
+            value: "80013"
         },
         {
-            value: "Paducah FSU, Paducah, KY-Cape Girardeau, MO-Harrisburg, IL",
-            label: "02194"
+            text: "Paducah FSU, Paducah, KY-Cape Girardeau, MO-Harrisburg, IL",
+            value: "02194"
         },
         {
-            value: "Kent Island FSU, Baltimore, MD",
-            label: "02193"
+            text: "Kent Island FSU, Baltimore, MD",
+            value: "02193"
         },
         {
-            value: "University of NC-Wilmington, Wilmington, NC",
-            label: "80012"
+            text: "University of NC-Wilmington, Wilmington, NC",
+            value: "80012"
         },
         {
-            value: "Youngstown State University, Youngstown, OH",
-            label: "80496"
+            text: "Youngstown State University, Youngstown, OH",
+            value: "80496"
         },
         {
-            value: "Jackson State University, Jackson, MS",
-            label: "80495"
+            text: "Jackson State University, Jackson, MS",
+            value: "80495"
         },
         {
-            value: "University of Houston-University Center, Houston, TX",
-            label: "80011"
+            text: "University of Houston-University Center, Houston, TX",
+            value: "80011"
         },
         {
-            value: "Oklahoma State University, Oklahoma City, OK",
-            label: "80017"
+            text: "Oklahoma State University, Oklahoma City, OK",
+            value: "80017"
         },
         {
-            value: "Mandarin FSU, Jacksonville, FL",
-            label: "03040"
+            text: "Mandarin FSU, Jacksonville, FL",
+            value: "03040"
         },
         {
-            value: "Abilene Christian University, Abilene-Sweetwater, TX",
-            label: "80016"
+            text: "Abilene Christian University, Abilene-Sweetwater, TX",
+            value: "80016"
         },
         {
-            value: "Chapel Hill FSU, Cleveland-Akron (Canton), OH",
-            label: "02197"
+            text: "Chapel Hill FSU, Cleveland-Akron (Canton), OH",
+            value: "02197"
         },
         {
-            value:
+            text:
                 "University of North Alabama, Huntsville-Decatur (Florence), AL",
-            label: "80499"
+            value: "80499"
         },
         {
-            value: "Bolingbrook FSU, Chicago, IL",
-            label: "03042"
+            text: "Bolingbrook FSU, Chicago, IL",
+            value: "03042"
         },
         {
-            value:
+            text:
                 "Razorback Road FSU, Ft. Smith-Fayetteville-Springdale-Rogers, AR",
-            label: "02196"
+            value: "02196"
         },
         {
-            value: "Smyrna (GA) FSU, Atlanta, GA",
-            label: "02191"
+            text: "Smyrna (GA) FSU, Atlanta, GA",
+            value: "02191"
         },
         {
-            value: "Middle Tennessee State University, Nashville, TN",
-            label: "80010"
+            text: "Middle Tennessee State University, Nashville, TN",
+            value: "80010"
         },
         {
-            value: "Columbus State University, Columbus, GA (Opelika, AL)",
-            label: "80494"
+            text: "Columbus State University, Columbus, GA (Opelika, AL)",
+            value: "80494"
         },
         {
-            value: "Campbellsville University, Louisville, KY",
-            label: "80493"
+            text: "Campbellsville University, Louisville, KY",
+            value: "80493"
         },
         {
-            value: "Indiana Wesleyan University, Indianapolis, IN",
-            label: "80492"
+            text: "Indiana Wesleyan University, Indianapolis, IN",
+            value: "80492"
         },
         {
-            value: "Florida Gulf Coast University, Ft. Myers-Naples, FL",
-            label: "80491"
+            text: "Florida Gulf Coast University, Ft. Myers-Naples, FL",
+            value: "80491"
         },
         {
-            value: "Mentor FSU, Cleveland-Akron (Canton), OH",
-            label: "02148"
+            text: "Mentor FSU, Cleveland-Akron (Canton), OH",
+            value: "02148"
         },
         {
-            value: "Chastain Road In-Line DT, Atlanta, GA",
-            label: "02146"
+            text: "Chastain Road In-Line DT, Atlanta, GA",
+            value: "02146"
         },
         {
-            value: "Oxnard FSU, Los Angeles, CA",
-            label: "02145"
+            text: "Oxnard FSU, Los Angeles, CA",
+            value: "02145"
         },
         {
-            value: "Katy Green FSU, Houston, TX",
-            label: "03478"
+            text: "Katy Green FSU, Houston, TX",
+            value: "03478"
         },
         {
-            value: "Coliseum Boulevard FSU, Ft. Wayne, IN",
-            label: "03479"
+            text: "Coliseum Boulevard FSU, Ft. Wayne, IN",
+            value: "03479"
         },
         {
-            value: "Kennesaw State University, Atlanta, GA",
-            label: "80047"
+            text: "Kennesaw State University, Atlanta, GA",
+            value: "80047"
         },
         {
-            value: "Monroe (GA) FSU, Atlanta, GA",
-            label: "02140"
+            text: "Monroe (GA) FSU, Atlanta, GA",
+            value: "02140"
         },
         {
-            value: "Arundel Mills FSU, Baltimore, MD",
-            label: "01293"
+            text: "Arundel Mills FSU, Baltimore, MD",
+            value: "01293"
         },
         {
-            value: "Georgia College and State University, Macon, GA",
-            label: "80046"
+            text: "Georgia College and State University, Macon, GA",
+            value: "80046"
         },
         {
-            value: "Stonebriar Centre, Dallas-Ft. Worth, TX",
-            label: "01292"
+            text: "Stonebriar Centre, Dallas-Ft. Worth, TX",
+            value: "01292"
         },
         {
-            value: "North Point Village FSU, Washington, DC (Hagerstown, MD)",
-            label: "03473"
+            text: "North Point Village FSU, Washington, DC (Hagerstown, MD)",
+            value: "03473"
         },
         {
-            value:
+            text:
                 "Samford University, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "80045"
+            value: "80045"
         },
         {
-            value: "120th & Washington FSU, Denver, CO",
-            label: "01291"
+            text: "120th & Washington FSU, Denver, CO",
+            value: "01291"
         },
         {
-            value:
+            text:
                 "Dulles 28 and Waxpool Road FSU, Washington, DC (Hagerstown, MD)",
-            label: "03474"
+            value: "03474"
         },
         {
-            value: "Ball State University, Indianapolis, IN",
-            label: "80044"
+            text: "Ball State University, Indianapolis, IN",
+            value: "80044"
         },
         {
-            value: "Flatiron FSU, Denver, CO",
-            label: "01290"
+            text: "Flatiron FSU, Denver, CO",
+            value: "01290"
         },
         {
-            value: "The Mall at Robinson, Pittsburgh, PA",
-            label: "01297"
+            text: "The Mall at Robinson, Pittsburgh, PA",
+            value: "01297"
         },
         {
-            value: "Mountain Island FSU, Charlotte, NC",
-            label: "01296"
+            text: "Mountain Island FSU, Charlotte, NC",
+            value: "01296"
         },
         {
-            value: "Greenville In-Line DT, Dallas-Ft. Worth, TX",
-            label: "02143"
+            text: "Greenville In-Line DT, Dallas-Ft. Worth, TX",
+            value: "02143"
         },
         {
-            value: "N. Tarrant Pkwy & Davis Blvd. FSU, Dallas-Ft. Worth, TX",
-            label: "03470"
+            text: "N. Tarrant Pkwy & Davis Blvd. FSU, Dallas-Ft. Worth, TX",
+            value: "03470"
         },
         {
-            value: "Chambers Town Center FSU, Houston, TX",
-            label: "03471"
+            text: "Chambers Town Center FSU, Houston, TX",
+            value: "03471"
         },
         {
-            value: "University of South Carolina, Columbia, SC",
-            label: "80048"
+            text: "University of South Carolina, Columbia, SC",
+            value: "80048"
         },
         {
-            value: "The Mall at Stonecrest, Atlanta, GA",
-            label: "01294"
+            text: "The Mall at Stonecrest, Atlanta, GA",
+            value: "01294"
         },
         {
-            value: "Alamo Ranch Marketplace FSU, San Antonio, TX",
-            label: "02141"
+            text: "Alamo Ranch Marketplace FSU, San Antonio, TX",
+            value: "02141"
         },
         {
-            value: "University of Central Arkansas, Little Rock-Pine Bluff, AR",
-            label: "80040"
+            text: "University of Central Arkansas, Little Rock-Pine Bluff, AR",
+            value: "80040"
         },
         {
-            value: "Huebner & Babcock FSU, San Antonio, TX",
-            label: "03469"
+            text: "Huebner & Babcock FSU, San Antonio, TX",
+            value: "03469"
         },
         {
-            value: "Lancaster FSU, Charlotte, NC",
-            label: "01289"
+            text: "Lancaster FSU, Charlotte, NC",
+            value: "01289"
         },
         {
-            value: "South Towne Marketplace FSU, Salt Lake City, UT",
-            label: "01288"
+            text: "South Towne Marketplace FSU, Salt Lake City, UT",
+            value: "01288"
         },
         {
-            value: "Garners Ferry Road FSU, Columbia, SC",
-            label: "01287"
+            text: "Garners Ferry Road FSU, Columbia, SC",
+            value: "01287"
         },
         {
-            value: "Morehead City FSU, Greenville-New Bern-Washington, NC",
-            label: "02134"
+            text: "Morehead City FSU, Greenville-New Bern-Washington, NC",
+            value: "02134"
         },
         {
-            value: "Grossmont FSU, San Diego, CA",
-            label: "03465"
+            text: "Grossmont FSU, San Diego, CA",
+            value: "03465"
         },
         {
-            value: "Iowa & 27th (KS) FSU, Kansas City, MO",
-            label: "03466"
+            text: "Iowa & 27th (KS) FSU, Kansas City, MO",
+            value: "03466"
         },
         {
-            value: "Southern Hills Drive FSU, Roanoke-Lynchburg, VA",
-            label: "02139"
+            text: "Southern Hills Drive FSU, Roanoke-Lynchburg, VA",
+            value: "02139"
         },
         {
-            value: "Renaissance Village FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "02138"
+            text: "Renaissance Village FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "02138"
         },
         {
-            value: "Palm Coast FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "03468"
+            text: "Palm Coast FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "03468"
         },
         {
-            value: "Tarleton State University, Dallas-Ft. Worth, TX",
-            label: "80036"
+            text: "Tarleton State University, Dallas-Ft. Worth, TX",
+            value: "80036"
         },
         {
-            value: "Coit & Spring Creek FSU, Dallas-Ft. Worth, TX",
-            label: "01282"
+            text: "Coit & Spring Creek FSU, Dallas-Ft. Worth, TX",
+            value: "01282"
         },
         {
-            value:
+            text:
                 "California Polytechnic State University, Santa Barbara-Santa Maria-San Luis Obispo, CA",
-            label: "80035"
+            value: "80035"
         },
         {
-            value: "Willow Bend Mall, Dallas-Ft. Worth, TX",
-            label: "01281"
+            text: "Willow Bend Mall, Dallas-Ft. Worth, TX",
+            value: "01281"
         },
         {
-            value: "Lindle Road FSU, Harrisburg-Lancaster-Lebanon-York, PA",
-            label: "03462"
+            text: "Lindle Road FSU, Harrisburg-Lancaster-Lebanon-York, PA",
+            value: "03462"
         },
         {
-            value:
+            text:
                 "The Mall at Wellington Green, West Palm Beach-Ft. Pierce, FL",
-            label: "01280"
+            value: "01280"
         },
         {
-            value: "Warminster FSU, Philadelphia, PA",
-            label: "03463"
+            text: "Warminster FSU, Philadelphia, PA",
+            value: "03463"
         },
         {
-            value: "Texas A&M-SBISA, Waco-Temple-Bryan, TX",
-            label: "80034"
+            text: "Texas A&M-SBISA, Waco-Temple-Bryan, TX",
+            value: "80034"
         },
         {
-            value: "Texas Tech University, Lubbock, TX",
-            label: "80033"
+            text: "Texas Tech University, Lubbock, TX",
+            value: "80033"
         },
         {
-            value: "Pearland FSU, Houston, TX",
-            label: "01284"
+            text: "Pearland FSU, Houston, TX",
+            value: "01284"
         },
         {
-            value: "Ranson FSU, Washington, DC (Hagerstown, MD)",
-            label: "02131"
+            text: "Ranson FSU, Washington, DC (Hagerstown, MD)",
+            value: "02131"
         },
         {
-            value: "Baylor University Student Union, Waco-Temple-Bryan, TX",
-            label: "80037"
+            text: "Baylor University Student Union, Waco-Temple-Bryan, TX",
+            value: "80037"
         },
         {
-            value: "Rockford FSU, Rockford, IL",
-            label: "03018"
+            text: "Rockford FSU, Rockford, IL",
+            value: "03018"
         },
         {
-            value: "Mechanicsburg FSU, Harrisburg-Lancaster-Lebanon-York, PA",
-            label: "02167"
+            text: "Mechanicsburg FSU, Harrisburg-Lancaster-Lebanon-York, PA",
+            value: "02167"
         },
         {
-            value: "Middletown (DE) FSU, Philadelphia, PA",
-            label: "03014"
+            text: "Middletown (DE) FSU, Philadelphia, PA",
+            value: "03014"
         },
         {
-            value: "Stadium Boulevard FSU, Columbia-Jefferson City, MO",
-            label: "03498"
+            text: "Stadium Boulevard FSU, Columbia-Jefferson City, MO",
+            value: "03498"
         },
         {
-            value: "21st & Maize FSU, Wichita-Hutchinson, KS Plus",
-            label: "03015"
+            text: "21st & Maize FSU, Wichita-Hutchinson, KS Plus",
+            value: "03015"
         },
         {
-            value: "South County FSU, St. Louis, MO",
-            label: "03499"
+            text: "South County FSU, St. Louis, MO",
+            value: "03499"
         },
         {
-            value: "East York FSU, Harrisburg-Lancaster-Lebanon-York, PA",
-            label: "03017"
+            text: "East York FSU, Harrisburg-Lancaster-Lebanon-York, PA",
+            value: "03017"
         },
         {
-            value: "Reynolds Road FSU, Little Rock-Pine Bluff, AR",
-            label: "02161"
+            text: "Reynolds Road FSU, Little Rock-Pine Bluff, AR",
+            value: "02161"
         },
         {
-            value: "Broad and 360 FSU, Dallas-Ft. Worth, TX",
-            label: "03011"
+            text: "Broad and 360 FSU, Dallas-Ft. Worth, TX",
+            value: "03011"
         },
         {
-            value: "The Loop FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "03495"
+            text: "The Loop FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "03495"
         },
         {
-            value: "Brentwood (MO) FSU, St. Louis, MO",
-            label: "03497"
+            text: "Brentwood (MO) FSU, St. Louis, MO",
+            value: "03497"
         },
         {
-            value: "South Square FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "03490"
+            text: "South Square FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "03490"
         },
         {
-            value: "Burnsville FSU  (MN), Minneapolis-St. Paul, MN",
-            label: "03491"
+            text: "Burnsville FSU  (MN), Minneapolis-St. Paul, MN",
+            value: "03491"
         },
         {
-            value: "Spanish Fork FSU, Salt Lake City, UT",
-            label: "03492"
+            text: "Spanish Fork FSU, Salt Lake City, UT",
+            value: "03492"
         },
         {
-            value: "Ogden FSU, Salt Lake City, UT",
-            label: "03007"
+            text: "Ogden FSU, Salt Lake City, UT",
+            value: "03007"
         },
         {
-            value:
+            text:
                 "Coral Ridge Mall, Cedar Rapids-Waterloo-Iowa City & Dubuque, IA",
-            label: "02158"
+            value: "02158"
         },
         {
-            value: "Twin Falls FSU, Twin Falls, ID",
-            label: "03008"
+            text: "Twin Falls FSU, Twin Falls, ID",
+            value: "03008"
         },
         {
-            value: "Peoria FSU, Peoria-Bloomington, IL",
-            label: "03003"
+            text: "Peoria FSU, Peoria-Bloomington, IL",
+            value: "03003"
         },
         {
-            value: "Tanasbourne FSU, Portland, OR",
-            label: "03489"
+            text: "Tanasbourne FSU, Portland, OR",
+            value: "03489"
         },
         {
-            value: "Red Rock Commons FSU, Salt Lake City, UT",
-            label: "03006"
+            text: "Red Rock Commons FSU, Salt Lake City, UT",
+            value: "03006"
         },
         {
-            value: "Wyoming Boulevard FSU, Albuquerque-Santa Fe, NM",
-            label: "03484"
+            text: "Wyoming Boulevard FSU, Albuquerque-Santa Fe, NM",
+            value: "03484"
         },
         {
-            value: "University of Louisiana Lafayette, Lafayette, LA",
-            label: "80057"
+            text: "University of Louisiana Lafayette, Lafayette, LA",
+            value: "80057"
         },
         {
-            value: "Fiserv Forum OCL, Milwaukee, WI",
-            label: "04331"
+            text: "Fiserv Forum OCL, Milwaukee, WI",
+            value: "04331"
         },
         {
-            value: "Clackamas Promenade FSU, Portland, OR",
-            label: "03485"
+            text: "Clackamas Promenade FSU, Portland, OR",
+            value: "03485"
         },
         {
-            value: "Gibson Boulevard FSU, Albuquerque-Santa Fe, NM",
-            label: "03486"
+            text: "Gibson Boulevard FSU, Albuquerque-Santa Fe, NM",
+            value: "03486"
         },
         {
-            value: "Norman FSU, Oklahoma City, OK",
-            label: "02153"
+            text: "Norman FSU, Oklahoma City, OK",
+            value: "02153"
         },
         {
-            value: "Hicksville NY FSU, New York, NY",
-            label: "03482"
+            text: "Hicksville NY FSU, New York, NY",
+            value: "03482"
         },
         {
-            value: "Arizona State University, Phoenix (Prescott), AZ",
-            label: "80050"
+            text: "Arizona State University, Phoenix (Prescott), AZ",
+            value: "80050"
         },
         {
-            value:
+            text:
                 "Duke University Medical Center, Raleigh-Durham (Fayetteville), NC",
-            label: "80054"
+            value: "80054"
         },
         {
-            value: "Phenix City FSU, Columbus, GA (Opelika, AL)",
-            label: "01815"
+            text: "Phenix City FSU, Columbus, GA (Opelika, AL)",
+            value: "01815"
         },
         {
-            value: "Celebrate Virginia FSU, Washington, DC (Hagerstown, MD)",
-            label: "01814"
+            text: "Celebrate Virginia FSU, Washington, DC (Hagerstown, MD)",
+            value: "01814"
         },
         {
-            value: "Long Beach FSU, Los Angeles, CA",
-            label: "01813"
+            text: "Long Beach FSU, Los Angeles, CA",
+            value: "01813"
         },
         {
-            value:
+            text:
                 "The Village at North Elm FSU, Greensboro-High Point-Winston Salem, NC",
-            label: "01818"
+            value: "01818"
         },
         {
-            value: "Davis Lake FSU, Charlotte, NC",
-            label: "01817"
+            text: "Davis Lake FSU, Charlotte, NC",
+            value: "01817"
         },
         {
-            value: "Charlotte-Douglas International Airport, Charlotte, NC",
-            label: "80638"
+            text: "Charlotte-Douglas International Airport, Charlotte, NC",
+            value: "80638"
         },
         {
-            value: "Misericordia University, Wilkes Barre-Scranton, PA",
-            label: "80635"
+            text: "Misericordia University, Wilkes Barre-Scranton, PA",
+            value: "80635"
         },
         {
-            value: "Beckley Galleria FSU, Bluefield-Beckley-Oak Hill, WV",
-            label: "01811"
+            text: "Beckley Galleria FSU, Bluefield-Beckley-Oak Hill, WV",
+            value: "01811"
         },
         {
-            value: "Northridge Drive-Thru Only, Atlanta, GA",
-            label: "00962"
+            text: "Northridge Drive-Thru Only, Atlanta, GA",
+            value: "00962"
         },
         {
-            value: "University of Toledo, Toledo, OH",
-            label: "80641"
+            text: "University of Toledo, Toledo, OH",
+            value: "80641"
         },
         {
-            value: "Pleasant Prairie (WI) FSU, Milwaukee, WI",
-            label: "04088"
+            text: "Pleasant Prairie (WI) FSU, Milwaukee, WI",
+            value: "04088"
         },
         {
-            value: "Mississippi Baptist Medical Center, Jackson, MS",
-            label: "80640"
+            text: "Mississippi Baptist Medical Center, Jackson, MS",
+            value: "80640"
         },
         {
-            value: "Lincolnton [NC] FSU, Charlotte, NC",
-            label: "04089"
+            text: "Lincolnton [NC] FSU, Charlotte, NC",
+            value: "04089"
         },
         {
-            value: "Xavier University, New Orleans, LA",
-            label: "80645"
+            text: "Xavier University, New Orleans, LA",
+            value: "80645"
         },
         {
-            value: "Southeast Decatur FSU, Huntsville-Decatur (Florence), AL",
-            label: "04084"
+            text: "Southeast Decatur FSU, Huntsville-Decatur (Florence), AL",
+            value: "04084"
         },
         {
-            value: "Ballston Quarter, Washington, DC (Hagerstown, MD)",
-            label: "04085"
+            text: "Ballston Quarter, Washington, DC (Hagerstown, MD)",
+            value: "04085"
         },
         {
-            value: "University of NC - Pembroke, Myrtle Beach-Florence, SC",
-            label: "80644"
+            text: "University of NC - Pembroke, Myrtle Beach-Florence, SC",
+            value: "80644"
         },
         {
-            value: "Eastern Michigan University, Detroit, MI",
-            label: "80643"
+            text: "Eastern Michigan University, Detroit, MI",
+            value: "80643"
         },
         {
-            value: "Methuen FSU, Boston, MA (Manchester, NH)",
-            label: "04086"
+            text: "Methuen FSU, Boston, MA (Manchester, NH)",
+            value: "04086"
         },
         {
-            value: "Staten Island Mall, New York, NY",
-            label: "04087"
+            text: "Staten Island Mall, New York, NY",
+            value: "04087"
         },
         {
-            value: "East Ridge FSU, Chattanooga, TN",
-            label: "04080"
+            text: "East Ridge FSU, Chattanooga, TN",
+            value: "04080"
         },
         {
-            value: "Desert Blvd. FSU, El Paso, TX (Las Cruces, NM)",
-            label: "04081"
+            text: "Desert Blvd. FSU, El Paso, TX (Las Cruces, NM)",
+            value: "04081"
         },
         {
-            value: "Porters Neck Rd FSU, Wilmington, NC",
-            label: "04082"
+            text: "Porters Neck Rd FSU, Wilmington, NC",
+            value: "04082"
         },
         {
-            value: "Getwell Road FSU, Memphis, TN",
-            label: "04083"
+            text: "Getwell Road FSU, Memphis, TN",
+            value: "04083"
         },
         {
-            value: "Everhart FSU, Corpus Christi, TX",
-            label: "00957"
+            text: "Everhart FSU, Corpus Christi, TX",
+            value: "00957"
         },
         {
-            value: "59 & Kirby FSU, Houston, TX",
-            label: "01801"
+            text: "59 & Kirby FSU, Houston, TX",
+            value: "01801"
         },
         {
-            value: "Rowlett FSU, Dallas-Ft. Worth, TX",
-            label: "01808"
+            text: "Rowlett FSU, Dallas-Ft. Worth, TX",
+            value: "01808"
         },
         {
-            value: "City Base Landing FSU, San Antonio, TX",
-            label: "01807"
+            text: "City Base Landing FSU, San Antonio, TX",
+            value: "01807"
         },
         {
-            value: "Southpark Meadows FSU, Austin, TX",
-            label: "01805"
+            text: "Southpark Meadows FSU, Austin, TX",
+            value: "01805"
         },
         {
-            value:
+            text:
                 "Ronald Reagan Washington National Airport, Washington, DC (Hagerstown, MD)",
-            label: "80627"
+            value: "80627"
         },
         {
-            value: "DFW Airport - Terminal E, Dallas-Ft. Worth, TX",
-            label: "80626"
+            text: "DFW Airport - Terminal E, Dallas-Ft. Worth, TX",
+            value: "80626"
         },
         {
-            value: "Newberry College, Columbia, SC",
-            label: "80625"
+            text: "Newberry College, Columbia, SC",
+            value: "80625"
         },
         {
-            value: "DFW Airport - Terminal C, Dallas-Ft. Worth, TX",
-            label: "80624"
+            text: "DFW Airport - Terminal C, Dallas-Ft. Worth, TX",
+            value: "80624"
         },
         {
-            value: "I-35 & Louis Henna Blvd FSU, Austin, TX",
-            label: "00952"
+            text: "I-35 & Louis Henna Blvd FSU, Austin, TX",
+            value: "00952"
         },
         {
-            value:
+            text:
                 "University of Arkansas - Pine Bluff, Little Rock-Pine Bluff, AR",
-            label: "80629"
+            value: "80629"
         },
         {
-            value: "Trinity Mills FSU, Dallas-Ft. Worth, TX",
-            label: "00951"
+            text: "Trinity Mills FSU, Dallas-Ft. Worth, TX",
+            value: "00951"
         },
         {
-            value: "Carolina Pavilion FSU, Charlotte, NC",
-            label: "00950"
+            text: "Carolina Pavilion FSU, Charlotte, NC",
+            value: "00950"
         },
         {
-            value:
+            text:
                 "George Washington University, Washington, DC (Hagerstown, MD)",
-            label: "80628"
+            value: "80628"
         },
         {
-            value: "Salisbury University, Salisbury, MD",
-            label: "80630"
+            text: "Salisbury University, Salisbury, MD",
+            value: "80630"
         },
         {
-            value: "St. Cloud State University, Minneapolis-St. Paul, MN",
-            label: "80634"
+            text: "St. Cloud State University, Minneapolis-St. Paul, MN",
+            value: "80634"
         },
         {
-            value: "University of Illinois - Chicago, Chicago, IL",
-            label: "80633"
+            text: "University of Illinois - Chicago, Chicago, IL",
+            value: "80633"
         },
         {
-            value:
+            text:
                 "King's College - King's on the Square, Wilkes Barre-Scranton, PA",
-            label: "80632"
+            value: "80632"
         },
         {
-            value: "California University of Pennsylvania, Pittsburgh, PA",
-            label: "80631"
+            text: "California University of Pennsylvania, Pittsburgh, PA",
+            value: "80631"
         },
         {
-            value: "Pelican Plaza FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "04072"
+            text: "Pelican Plaza FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "04072"
         },
         {
-            value:
+            text:
                 "Sharyland Towne Crossing FSU, Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "01837"
+            value: "01837"
         },
         {
-            value: "Oak Park Plaza FSU, Kansas City, MO",
-            label: "01836"
+            text: "Oak Park Plaza FSU, Kansas City, MO",
+            value: "01836"
         },
         {
-            value: "Mall at Fairfield Commons, Dayton, OH",
-            label: "00504"
+            text: "Mall at Fairfield Commons, Dayton, OH",
+            value: "00504"
         },
         {
-            value: "North 31st Street FSU, Waco-Temple-Bryan, TX",
-            label: "01834"
+            text: "North 31st Street FSU, Waco-Temple-Bryan, TX",
+            value: "01834"
         },
         {
-            value:
+            text:
                 "Jacksonville Mall Drive-Thru Only, Greenville-New Bern-Washington, NC",
-            label: "00503"
+            value: "00503"
         },
         {
-            value: "West Florence FSU, Myrtle Beach-Florence, SC",
-            label: "00509"
+            text: "West Florence FSU, Myrtle Beach-Florence, SC",
+            value: "00509"
         },
         {
-            value: "South 31st Street Drive-Thru Only, Waco-Temple-Bryan, TX",
-            label: "00508"
+            text: "South 31st Street Drive-Thru Only, Waco-Temple-Bryan, TX",
+            value: "00508"
         },
         {
-            value: "Duquesne University, Pittsburgh, PA",
-            label: "80659"
+            text: "Duquesne University, Pittsburgh, PA",
+            value: "80659"
         },
         {
-            value: "Germantown Pkwy. FSU, Memphis, TN",
-            label: "00981"
+            text: "Germantown Pkwy. FSU, Memphis, TN",
+            value: "00981"
         },
         {
-            value: "Clinton National Airport, null",
-            label: "80658"
+            text: "Clinton National Airport, null",
+            value: "80658"
         },
         {
-            value:
+            text:
                 "Greenwood Drive-Thru Only, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "00502"
+            value: "00502"
         },
         {
-            value:
+            text:
                 "Thompson Square FSU, Columbus-Tupelo-West Point-Houston, MS",
-            label: "00986"
+            value: "00986"
         },
         {
-            value: "Fairmont Parkway FSU, Houston, TX",
-            label: "01832"
+            text: "Fairmont Parkway FSU, Houston, TX",
+            value: "01832"
         },
         {
-            value: "Winchester Road FSU, Memphis, TN",
-            label: "00984"
+            text: "Winchester Road FSU, Memphis, TN",
+            value: "00984"
         },
         {
-            value: "Fairfax Circle FSU, Washington, DC (Hagerstown, MD)",
-            label: "01831"
+            text: "Fairfax Circle FSU, Washington, DC (Hagerstown, MD)",
+            value: "01831"
         },
         {
-            value: "Detroit Medical Center, Detroit, MI",
-            label: "80663"
+            text: "Detroit Medical Center, Detroit, MI",
+            value: "80663"
         },
         {
-            value:
+            text:
                 "University of Nebraska at Kearney, Lincoln & Hastings-Kearney, NE",
-            label: "80662"
+            value: "80662"
         },
         {
-            value: "University of the Cumberlands, Lexington, KY",
-            label: "80661"
+            text: "University of the Cumberlands, Lexington, KY",
+            value: "80661"
         },
         {
-            value:
+            text:
                 "Arizona State University - West Campus, Phoenix (Prescott), AZ",
-            label: "80660"
+            value: "80660"
         },
         {
-            value: "Missouri Western State University, St. Joseph, MO",
-            label: "80667"
+            text: "Missouri Western State University, St. Joseph, MO",
+            value: "80667"
         },
         {
-            value:
+            text:
                 "Winston Salem State University, Greensboro-High Point-Winston Salem, NC",
-            label: "80666"
+            value: "80666"
         },
         {
-            value: "Southern University, Baton Rouge, LA",
-            label: "80665"
+            text: "Southern University, Baton Rouge, LA",
+            value: "80665"
         },
         {
-            value: "Winthrop University, Charlotte, NC",
-            label: "80664"
+            text: "Winthrop University, Charlotte, NC",
+            value: "80664"
         },
         {
-            value: "Athens (AL) FSU, Huntsville-Decatur (Florence), AL",
-            label: "01826"
+            text: "Athens (AL) FSU, Huntsville-Decatur (Florence), AL",
+            value: "01826"
         },
         {
-            value: "Quarterfield Crossing FSU, Baltimore, MD",
-            label: "01825"
+            text: "Quarterfield Crossing FSU, Baltimore, MD",
+            value: "01825"
         },
         {
-            value: "Temple Terrace FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "00978"
+            text: "Temple Terrace FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "00978"
         },
         {
-            value: "Midland Drive FSU, Odessa-Midland, TX",
-            label: "00976"
+            text: "Midland Drive FSU, Odessa-Midland, TX",
+            value: "00976"
         },
         {
-            value: "Northlake Boulevard FSU, West Palm Beach-Ft. Pierce, FL",
-            label: "01827"
+            text: "Northlake Boulevard FSU, West Palm Beach-Ft. Pierce, FL",
+            value: "01827"
         },
         {
-            value: "Delta Air Lines Headquarters, Atlanta, GA",
-            label: "80649"
+            text: "Delta Air Lines Headquarters, Atlanta, GA",
+            value: "80649"
         },
         {
-            value: "Delaware Gap Travel Plaza, New York, NY",
-            label: "80648"
+            text: "Delaware Gap Travel Plaza, New York, NY",
+            value: "80648"
         },
         {
-            value: "University of Virginia - Wise, Tri-Cities, TN-VA",
-            label: "80646"
+            text: "University of Virginia - Wise, Tri-Cities, TN-VA",
+            value: "80646"
         },
         {
-            value: "Mall of America, Minneapolis-St. Paul, MN",
-            label: "04099"
+            text: "Mall of America, Minneapolis-St. Paul, MN",
+            value: "04099"
         },
         {
-            value: "Georgetown University, Washington, DC (Hagerstown, MD)",
-            label: "80651"
+            text: "Georgetown University, Washington, DC (Hagerstown, MD)",
+            value: "80651"
         },
         {
-            value: "Temple University, Philadelphia, PA",
-            label: "80650"
+            text: "Temple University, Philadelphia, PA",
+            value: "80650"
         },
         {
-            value: "Harris Square (NC) FSU, Charlotte, NC",
-            label: "04095"
+            text: "Harris Square (NC) FSU, Charlotte, NC",
+            value: "04095"
         },
         {
-            value: "Lamar University, Beaumont-Port Arthur, TX",
-            label: "80656"
+            text: "Lamar University, Beaumont-Port Arthur, TX",
+            value: "80656"
         },
         {
-            value: "Utah Valley University, Salt Lake City, UT",
-            label: "80654"
+            text: "Utah Valley University, Salt Lake City, UT",
+            value: "80654"
         },
         {
-            value: "Mercedes-Benz Stadium OCL, Atlanta, GA",
-            label: "04097"
+            text: "Mercedes-Benz Stadium OCL, Atlanta, GA",
+            value: "04097"
         },
         {
-            value: "I-5 & Firestone FSU, Los Angeles, CA",
-            label: "04092"
+            text: "I-5 & Firestone FSU, Los Angeles, CA",
+            value: "04092"
         },
         {
-            value: "Southcenter Parkway FSU, Seattle-Tacoma, WA",
-            label: "04094"
+            text: "Southcenter Parkway FSU, Seattle-Tacoma, WA",
+            value: "04094"
         },
         {
-            value: "Albany FSU, Albany, GA",
-            label: "04090"
+            text: "Albany FSU, Albany, GA",
+            value: "04090"
         },
         {
-            value: "Braker Lane FSU, Austin, TX",
-            label: "00923"
+            text: "Braker Lane FSU, Austin, TX",
+            value: "00923"
         },
         {
-            value: "Cedar Hills Blvd FSU, Portland, OR",
-            label: "04048"
+            text: "Cedar Hills Blvd FSU, Portland, OR",
+            value: "04048"
         },
         {
-            value:
+            text:
                 "College of William & Mary, Norfolk-Portsmouth-Newport News, VA",
-            label: "80685"
+            value: "80685"
         },
         {
-            value:
+            text:
                 "Sylacauga [AL] FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "04044"
+            value: "04044"
         },
         {
-            value: "Haymarket FSU, Washington, DC (Hagerstown, MD)",
-            label: "03197"
+            text: "Haymarket FSU, Washington, DC (Hagerstown, MD)",
+            value: "03197"
         },
         {
-            value: "I-45 & Almeda FSU, Houston, TX",
-            label: "04045"
+            text: "I-45 & Almeda FSU, Houston, TX",
+            value: "04045"
         },
         {
-            value:
+            text:
                 "Dallas/Fort Worth International Airport-Terminal D, Dallas-Ft. Worth, TX",
-            label: "80684"
+            value: "80684"
         },
         {
-            value:
+            text:
                 "Myrtle Beach International Airport, Myrtle Beach-Florence, SC",
-            label: "80683"
+            value: "80683"
         },
         {
-            value: "Northwestern State University, Shreveport, LA",
-            label: "80682"
+            text: "Northwestern State University, Shreveport, LA",
+            value: "80682"
         },
         {
-            value: "Lincoln Memorial University, Knoxville, TN",
-            label: "80689"
+            text: "Lincoln Memorial University, Knoxville, TN",
+            value: "80689"
         },
         {
-            value: "University of Louisiana Monroe, Monroe, LA-El Dorado, AR",
-            label: "80204"
+            text: "University of Louisiana Monroe, Monroe, LA-El Dorado, AR",
+            value: "80204"
         },
         {
-            value: "Cedar Point Theme Park, Cleveland-Akron (Canton), OH",
-            label: "80688"
+            text: "Cedar Point Theme Park, Cleveland-Akron (Canton), OH",
+            value: "80688"
         },
         {
-            value: "Schertz FSU, San Antonio, TX",
-            label: "03195"
+            text: "Schertz FSU, San Antonio, TX",
+            value: "03195"
         },
         {
-            value: "Albany International Airport, Albany-Schenectady-Troy, NY",
-            label: "80687"
+            text: "Albany International Airport, Albany-Schenectady-Troy, NY",
+            value: "80687"
         },
         {
-            value:
+            text:
                 "Minneapolis - Saint Paul Intl Airport-Concourse F, Minneapolis-St. Paul, MN",
-            label: "80686"
+            value: "80686"
         },
         {
-            value: "UCLA In-Line, Los Angeles, CA",
-            label: "03196"
+            text: "UCLA In-Line, Los Angeles, CA",
+            value: "03196"
         },
         {
-            value: "Medical College of Virginia, Richmond-Petersburg, VA",
-            label: "80202"
+            text: "Medical College of Virginia, Richmond-Petersburg, VA",
+            value: "80202"
         },
         {
-            value: "Camelback & 16th Street FSU, Phoenix (Prescott), AZ",
-            label: "03191"
+            text: "Camelback & 16th Street FSU, Phoenix (Prescott), AZ",
+            value: "03191"
         },
         {
-            value: "Palm Harbor FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "00919"
+            text: "Palm Harbor FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "00919"
         },
         {
-            value: "Burlington Township FSU, Philadelphia, PA",
-            label: "03192"
+            text: "Burlington Township FSU, Philadelphia, PA",
+            value: "03192"
         },
         {
-            value: "Albany State University, Albany, GA",
-            label: "80681"
+            text: "Albany State University, Albany, GA",
+            value: "80681"
         },
         {
-            value:
+            text:
                 "North Greenville University, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "80680"
+            value: "80680"
         },
         {
-            value: "Loganville FSU, Atlanta, GA",
-            label: "00916"
+            text: "Loganville FSU, Atlanta, GA",
+            value: "00916"
         },
         {
-            value: "The Citadel Military College, Charleston, SC",
-            label: "80669"
+            text: "The Citadel Military College, Charleston, SC",
+            value: "80669"
         },
         {
-            value: "Missouri University of Science & Technology, St. Louis, MO",
-            label: "80668"
+            text: "Missouri University of Science & Technology, St. Louis, MO",
+            value: "80668"
         },
         {
-            value: "Balcones Heights FSU, San Antonio, TX",
-            label: "04037"
+            text: "Balcones Heights FSU, San Antonio, TX",
+            value: "04037"
         },
         {
-            value: "Merritt Island FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "04038"
+            text: "Merritt Island FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "04038"
         },
         {
-            value: "Oklahoma City University, Oklahoma City, OK",
-            label: "80674"
+            text: "Oklahoma City University, Oklahoma City, OK",
+            value: "80674"
         },
         {
-            value: "St. Louis College of Pharmacy, St. Louis, MO",
-            label: "80673"
+            text: "St. Louis College of Pharmacy, St. Louis, MO",
+            value: "80673"
         },
         {
-            value:
+            text:
                 "Countryside & US Hwy 19 FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "04034"
+            value: "04034"
         },
         {
-            value: "Pantops FSU, Charlottesville, VA",
-            label: "03187"
+            text: "Pantops FSU, Charlottesville, VA",
+            value: "03187"
         },
         {
-            value: "Ghent FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "03189"
+            text: "Ghent FSU, Norfolk-Portsmouth-Newport News, VA",
+            value: "03189"
         },
         {
-            value: "Alabama State University, Montgomery-Selma, AL",
-            label: "80678"
+            text: "Alabama State University, Montgomery-Selma, AL",
+            value: "80678"
         },
         {
-            value: "Union Station, Washington, DC (Hagerstown, MD)",
-            label: "80677"
+            text: "Union Station, Washington, DC (Hagerstown, MD)",
+            value: "80677"
         },
         {
-            value: "Highlands Ranch Town Center FSU, Denver, CO",
-            label: "03183"
+            text: "Highlands Ranch Town Center FSU, Denver, CO",
+            value: "03183"
         },
         {
-            value:
+            text:
                 "Fayetteville State University, Raleigh-Durham (Fayetteville), NC",
-            label: "80676"
+            value: "80676"
         },
         {
-            value: "Ooltewah FSU, Chattanooga, TN",
-            label: "04031"
+            text: "Ooltewah FSU, Chattanooga, TN",
+            value: "04031"
         },
         {
-            value: "N. Loop 610 & Shepherd FSU, Houston, TX",
-            label: "03184"
+            text: "N. Loop 610 & Shepherd FSU, Houston, TX",
+            value: "03184"
         },
         {
-            value: "University of Evansville, Evansville, IN",
-            label: "80675"
+            text: "University of Evansville, Evansville, IN",
+            value: "80675"
         },
         {
-            value: "Dumfries FSU, Washington, DC (Hagerstown, MD)",
-            label: "03185"
+            text: "Dumfries FSU, Washington, DC (Hagerstown, MD)",
+            value: "03185"
         },
         {
-            value: "Del Rio FSU, San Antonio, TX",
-            label: "03180"
+            text: "Del Rio FSU, San Antonio, TX",
+            value: "03180"
         },
         {
-            value: "Preston Road and Gary Burns FSU, Dallas-Ft. Worth, TX",
-            label: "03181"
+            text: "Preston Road and Gary Burns FSU, Dallas-Ft. Worth, TX",
+            value: "03181"
         },
         {
-            value: "Forest Drive FSU, Columbia, SC",
-            label: "00945"
+            text: "Forest Drive FSU, Columbia, SC",
+            value: "00945"
         },
         {
-            value: "Mason Road FSU, Houston, TX",
-            label: "00943"
+            text: "Mason Road FSU, Houston, TX",
+            value: "00943"
         },
         {
-            value: "Cache Road FSU, Wichita Falls, TX & Lawton, OK",
-            label: "00941"
+            text: "Cache Road FSU, Wichita Falls, TX & Lawton, OK",
+            value: "00941"
         },
         {
-            value: "Fairburn Road Drive-Thru Only, Atlanta, GA",
-            label: "00940"
+            text: "Fairburn Road Drive-Thru Only, Atlanta, GA",
+            value: "00940"
         },
         {
-            value: "Buda FSU, Austin, TX",
-            label: "04066"
+            text: "Buda FSU, Austin, TX",
+            value: "04066"
         },
         {
-            value: "Virginia Commonwealth University, Richmond-Petersburg, VA",
-            label: "80221"
+            text: "Virginia Commonwealth University, Richmond-Petersburg, VA",
+            value: "80221"
         },
         {
-            value: "Hampton & Chippewa FSU, St. Louis, MO",
-            label: "04068"
+            text: "Hampton & Chippewa FSU, St. Louis, MO",
+            value: "04068"
         },
         {
-            value:
+            text:
                 "Lexington Parkway Plaza FSU, Greensboro-High Point-Winston Salem, NC",
-            label: "04069"
+            value: "04069"
         },
         {
-            value: "Leander FSU, Austin, TX",
-            label: "04062"
+            text: "Leander FSU, Austin, TX",
+            value: "04062"
         },
         {
-            value: "288 & Southfork Drive DTO, Houston, TX",
-            label: "04063"
+            text: "288 & Southfork Drive DTO, Houston, TX",
+            value: "04063"
         },
         {
-            value: "Spencer Hwy & Burke Rd FSU, Houston, TX",
-            label: "04060"
+            text: "Spencer Hwy & Burke Rd FSU, Houston, TX",
+            value: "04060"
         },
         {
-            value: "Destin FSU, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "00934"
+            text: "Destin FSU, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "00934"
         },
         {
-            value: "West Paces Ferry FSU, Atlanta, GA",
-            label: "00931"
+            text: "West Paces Ferry FSU, Atlanta, GA",
+            value: "00931"
         },
         {
-            value: "Westheimer & Kirkwood FSU, Houston, TX",
-            label: "00930"
+            text: "Westheimer & Kirkwood FSU, Houston, TX",
+            value: "00930"
         },
         {
-            value: "La Vale FSU, Washington, DC (Hagerstown, MD)",
-            label: "04055"
+            text: "La Vale FSU, Washington, DC (Hagerstown, MD)",
+            value: "04055"
         },
         {
-            value: "University Hospital-Augusta, Augusta, GA-Aiken, SC",
-            label: "80211"
+            text: "University Hospital-Augusta, Augusta, GA-Aiken, SC",
+            value: "80211"
         },
         {
-            value: "Tusculum University, Tri-Cities, TN-VA",
-            label: "80694"
+            text: "Tusculum University, Tri-Cities, TN-VA",
+            value: "80694"
         },
         {
-            value: "ExxonMobil, Houston, TX",
-            label: "80693"
+            text: "ExxonMobil, Houston, TX",
+            value: "80693"
         },
         {
-            value: "University of Southern Mississippi, Hattiesburg-Laurel, MS",
-            label: "80216"
+            text: "University of Southern Mississippi, Hattiesburg-Laurel, MS",
+            value: "80216"
         },
         {
-            value: "SkyView Container OCL, Atlanta, GA",
-            label: "04052"
+            text: "SkyView Container OCL, Atlanta, GA",
+            value: "04052"
         },
         {
-            value: "Mayfield Heights (OH) FSU, Cleveland-Akron (Canton), OH",
-            label: "04053"
+            text: "Mayfield Heights (OH) FSU, Cleveland-Akron (Canton), OH",
+            value: "04053"
         },
         {
-            value: "Miami Central, Miami-Ft. Lauderdale, FL",
-            label: "80698"
+            text: "Miami Central, Miami-Ft. Lauderdale, FL",
+            value: "80698"
         },
         {
-            value: "Georgia Southern University, Savannah, GA",
-            label: "80213"
+            text: "Georgia Southern University, Savannah, GA",
+            value: "80213"
         },
         {
-            value: "918 8th Avenue In-Line, New York, NY",
-            label: "04054"
+            text: "918 8th Avenue In-Line, New York, NY",
+            value: "04054"
         },
         {
-            value: "James Madison University - D-Hub, Harrisonburg, VA",
-            label: "80697"
+            text: "James Madison University - D-Hub, Harrisonburg, VA",
+            value: "80697"
         },
         {
-            value: "Hwy. 287 & Sublett FSU, Dallas-Ft. Worth, TX",
-            label: "04050"
+            text: "Hwy. 287 & Sublett FSU, Dallas-Ft. Worth, TX",
+            value: "04050"
         },
         {
-            value:
+            text:
                 "Philadelphia International Airport - Concourse E, Philadelphia, PA",
-            label: "80692"
+            value: "80692"
         },
         {
-            value: "Los Angeles International Airport, Los Angeles, CA",
-            label: "80690"
+            text: "Los Angeles International Airport, Los Angeles, CA",
+            value: "80690"
         },
         {
-            value: "Siegen Lane FSU, Baton Rouge, LA",
-            label: "01419"
+            text: "Siegen Lane FSU, Baton Rouge, LA",
+            value: "01419"
         },
         {
-            value: "Hamilton Marketplace FSU, Philadelphia, PA",
-            label: "01418"
+            text: "Hamilton Marketplace FSU, Philadelphia, PA",
+            value: "01418"
         },
         {
-            value: "LaFayette Parkway FSU, Atlanta, GA",
-            label: "02749"
+            text: "LaFayette Parkway FSU, Atlanta, GA",
+            value: "02749"
         },
         {
-            value: "Burleson FSU, Dallas-Ft. Worth, TX",
-            label: "01417"
+            text: "Burleson FSU, Dallas-Ft. Worth, TX",
+            value: "01417"
         },
         {
-            value: "Bass Road FSU, Macon, GA",
-            label: "02748"
+            text: "Bass Road FSU, Macon, GA",
+            value: "02748"
         },
         {
-            value: "East Norriton FSU, Philadelphia, PA",
-            label: "01416"
+            text: "East Norriton FSU, Philadelphia, PA",
+            value: "01416"
         },
         {
-            value: "Newtown FSU, Philadelphia, PA",
-            label: "01411"
+            text: "Newtown FSU, Philadelphia, PA",
+            value: "01411"
         },
         {
-            value: "Sugar House FSU, Salt Lake City, UT",
-            label: "02742"
+            text: "Sugar House FSU, Salt Lake City, UT",
+            value: "02742"
         },
         {
-            value: "Westheimer & Fondren FSU, Houston, TX",
-            label: "01895"
+            text: "Westheimer & Fondren FSU, Houston, TX",
+            value: "01895"
         },
         {
-            value: "Chenal & Markham FSU, Little Rock-Pine Bluff, AR",
-            label: "02740"
+            text: "Chenal & Markham FSU, Little Rock-Pine Bluff, AR",
+            value: "02740"
         },
         {
-            value:
+            text:
                 "Lake Brandon Village FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "00562"
+            value: "00562"
         },
         {
-            value: "North Orange FSU, Los Angeles, CA",
-            label: "01892"
+            text: "North Orange FSU, Los Angeles, CA",
+            value: "01892"
         },
         {
-            value: "Olive Branch FSU, Memphis, TN",
-            label: "01415"
+            text: "Olive Branch FSU, Memphis, TN",
+            value: "01415"
         },
         {
-            value: "5 Points In-Line, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "02746"
+            text: "5 Points In-Line, Birmingham (Anniston and Tuscaloosa), AL",
+            value: "02746"
         },
         {
-            value: "The Rim FSU, San Antonio, TX",
-            label: "01899"
+            text: "The Rim FSU, San Antonio, TX",
+            value: "01899"
         },
         {
-            value: "Avon FSU, Indianapolis, IN",
-            label: "01414"
+            text: "Avon FSU, Indianapolis, IN",
+            value: "01414"
         },
         {
-            value: "Greenwood FSU, Indianapolis, IN",
-            label: "01413"
+            text: "Greenwood FSU, Indianapolis, IN",
+            value: "01413"
         },
         {
-            value: "Brick Township FSU, New York, NY",
-            label: "02744"
+            text: "Brick Township FSU, New York, NY",
+            value: "02744"
         },
         {
-            value: "Southern Pines FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "01412"
+            text: "Southern Pines FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "01412"
         },
         {
-            value: "Bristol & MacArthur FSU, Los Angeles, CA",
-            label: "01891"
+            text: "Bristol & MacArthur FSU, Los Angeles, CA",
+            value: "01891"
         },
         {
-            value: "Northlake Parkway FSU, Charlotte, NC",
-            label: "01890"
+            text: "Northlake Parkway FSU, Charlotte, NC",
+            value: "01890"
         },
         {
-            value:
+            text:
                 "The Streets at Southpoint, Raleigh-Durham (Fayetteville), NC",
-            label: "01408"
+            value: "01408"
         },
         {
-            value: "Gloucester FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "02739"
+            text: "Gloucester FSU, Norfolk-Portsmouth-Newport News, VA",
+            value: "02739"
         },
         {
-            value:
+            text:
                 "Orlando Ave. at Fairbanks FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "01406"
+            value: "01406"
         },
         {
-            value: "Plainfield FSU, Indianapolis, IN",
-            label: "01405"
+            text: "Plainfield FSU, Indianapolis, IN",
+            value: "01405"
         },
         {
-            value: "Lafayette FSU, Lafayette, IN",
-            label: "01409"
+            text: "Lafayette FSU, Lafayette, IN",
+            value: "01409"
         },
         {
-            value: "Town Center at Boca Raton, West Palm Beach-Ft. Pierce, FL",
-            label: "01400"
+            text: "Town Center at Boca Raton, West Palm Beach-Ft. Pierce, FL",
+            value: "01400"
         },
         {
-            value: "Patteson Drive FSU, Pittsburgh, PA",
-            label: "01884"
+            text: "Patteson Drive FSU, Pittsburgh, PA",
+            value: "01884"
         },
         {
-            value: "Schaumburg FSU, Chicago, IL",
-            label: "02730"
+            text: "Schaumburg FSU, Chicago, IL",
+            value: "02730"
         },
         {
-            value: "Harrisonburg FSU, Harrisonburg, VA",
-            label: "01883"
+            text: "Harrisonburg FSU, Harrisonburg, VA",
+            value: "01883"
         },
         {
-            value: "Dorchester Road FSU, Charleston, SC",
-            label: "01882"
+            text: "Dorchester Road FSU, Charleston, SC",
+            value: "01882"
         },
         {
-            value: "County Line Road FSU, Jackson, MS",
-            label: "00551"
+            text: "County Line Road FSU, Jackson, MS",
+            value: "00551"
         },
         {
-            value: "Dahlonega FSU, Atlanta, GA",
-            label: "01881"
+            text: "Dahlonega FSU, Atlanta, GA",
+            value: "01881"
         },
         {
-            value: "Elmhurst FSU, Chicago, IL",
-            label: "02735"
+            text: "Elmhurst FSU, Chicago, IL",
+            value: "02735"
         },
         {
-            value: "Heights Corner FSU, Dallas-Ft. Worth, TX",
-            label: "01404"
+            text: "Heights Corner FSU, Dallas-Ft. Worth, TX",
+            value: "01404"
         },
         {
-            value: "Loveland FSU, Denver, CO",
-            label: "01888"
+            text: "Loveland FSU, Denver, CO",
+            value: "01888"
         },
         {
-            value: "Wheaton FSU, Chicago, IL",
-            label: "02734"
+            text: "Wheaton FSU, Chicago, IL",
+            value: "02734"
         },
         {
-            value: "Range Line Road FSU, Joplin, MO-Pittsburg, KS",
-            label: "01886"
+            text: "Range Line Road FSU, Joplin, MO-Pittsburg, KS",
+            value: "01886"
         },
         {
-            value:
+            text:
                 "Bayou Boulevard FSU, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "01402"
+            value: "01402"
         },
         {
-            value: "Polaris Fashion Place Mall, Columbus, OH",
-            label: "01401"
+            text: "Polaris Fashion Place Mall, Columbus, OH",
+            value: "01401"
         },
         {
-            value: "Frontier Mall, Cheyenne, WY-Scottsbluff, NE",
-            label: "00109"
+            text: "Frontier Mall, Cheyenne, WY-Scottsbluff, NE",
+            value: "00109"
         },
         {
-            value: "Jefferson Pointe FSU, Ft. Wayne, IN",
-            label: "01439"
+            text: "Jefferson Pointe FSU, Ft. Wayne, IN",
+            value: "01439"
         },
         {
-            value: "Franklin Park Mall, Toledo, OH",
-            label: "00107"
+            text: "Franklin Park Mall, Toledo, OH",
+            value: "00107"
         },
         {
-            value: "Noblesville FSU, Indianapolis, IN",
-            label: "01438"
+            text: "Noblesville FSU, Indianapolis, IN",
+            value: "01438"
         },
         {
-            value: "Clemmons FSU, Greensboro-High Point-Winston Salem, NC",
-            label: "03617"
+            text: "Clemmons FSU, Greensboro-High Point-Winston Salem, NC",
+            value: "03617"
         },
         {
-            value:
+            text:
                 "Ruben Torres FSU, Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "03619"
+            value: "03619"
         },
         {
-            value: "Centre at Glen Burnie FSU, Baltimore, MD",
-            label: "01433"
+            text: "Centre at Glen Burnie FSU, Baltimore, MD",
+            value: "01433"
         },
         {
-            value:
+            text:
                 "Sunshine Strip FSU, Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "03613"
+            value: "03613"
         },
         {
-            value: "Kinston FSU, Greenville-New Bern-Washington, NC",
-            label: "02763"
+            text: "Kinston FSU, Greenville-New Bern-Washington, NC",
+            value: "02763"
         },
         {
-            value: "Fayette Mall, Lexington, KY",
-            label: "00102"
+            text: "Fayette Mall, Lexington, KY",
+            value: "00102"
         },
         {
-            value: "Sycamore Square FSU, Los Angeles, CA",
-            label: "03614"
+            text: "Sycamore Square FSU, Los Angeles, CA",
+            value: "03614"
         },
         {
-            value: "East Pearland FSU, Houston, TX",
-            label: "02762"
+            text: "East Pearland FSU, Houston, TX",
+            value: "02762"
         },
         {
-            value: "Woodbridge FSU, Washington, DC (Hagerstown, MD)",
-            label: "01431"
+            text: "Woodbridge FSU, Washington, DC (Hagerstown, MD)",
+            value: "01431"
         },
         {
-            value: "Yoder Plaza FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "00583"
+            text: "Yoder Plaza FSU, Norfolk-Portsmouth-Newport News, VA",
+            value: "00583"
         },
         {
-            value: "Exton Square, Philadelphia, PA",
-            label: "00100"
+            text: "Exton Square, Philadelphia, PA",
+            value: "00100"
         },
         {
-            value: "Smith Crossroads FSU, Charlotte, NC",
-            label: "03615"
+            text: "Smith Crossroads FSU, Charlotte, NC",
+            value: "03615"
         },
         {
-            value: "Turfland FSU, Lexington, KY",
-            label: "01437"
+            text: "Turfland FSU, Lexington, KY",
+            value: "01437"
         },
         {
-            value: "Foothills Mall (TN), Knoxville, TN",
-            label: "00105"
+            text: "Foothills Mall (TN), Knoxville, TN",
+            value: "00105"
         },
         {
-            value: "Georgetown (KY) FSU, Lexington, KY",
-            label: "02767"
+            text: "Georgetown (KY) FSU, Lexington, KY",
+            value: "02767"
         },
         {
-            value: "Tifton FSU, Albany, GA",
-            label: "00589"
+            text: "Tifton FSU, Albany, GA",
+            value: "00589"
         },
         {
-            value: "Fashion Place, Salt Lake City, UT",
-            label: "00106"
+            text: "Fashion Place, Salt Lake City, UT",
+            value: "00106"
         },
         {
-            value: "Oxford FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "00588"
+            text: "Oxford FSU, Birmingham (Anniston and Tuscaloosa), AL",
+            value: "00588"
         },
         {
-            value: "Walnut Creek FSU, San Francisco-Oakland-San Jose, CA",
-            label: "02765"
+            text: "Walnut Creek FSU, San Francisco-Oakland-San Jose, CA",
+            value: "02765"
         },
         {
-            value: "76th & Dodge FSU, Omaha, NE",
-            label: "03611"
+            text: "76th & Dodge FSU, Omaha, NE",
+            value: "03611"
         },
         {
-            value: "Youree Drive FSU, Shreveport, LA",
-            label: "01434"
+            text: "Youree Drive FSU, Shreveport, LA",
+            value: "01434"
         },
         {
-            value: "Magwood FSU, Charleston, SC",
-            label: "00582"
+            text: "Magwood FSU, Charleston, SC",
+            value: "00582"
         },
         {
-            value: "Tuskawilla Road FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "00581"
+            text: "Tuskawilla Road FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "00581"
         },
         {
-            value: "Jesse Jewell Parkway FSU, Atlanta, GA",
-            label: "03609"
+            text: "Jesse Jewell Parkway FSU, Atlanta, GA",
+            value: "03609"
         },
         {
-            value: "Streets at Southglenn In-Line DT, Denver, CO",
-            label: "02759"
+            text: "Streets at Southglenn In-Line DT, Denver, CO",
+            value: "02759"
         },
         {
-            value: "Menlo Park Mall, New York, NY",
-            label: "01428"
+            text: "Menlo Park Mall, New York, NY",
+            value: "01428"
         },
         {
-            value: "Panama City Beach FSU, Panama City, FL",
-            label: "01427"
+            text: "Panama City Beach FSU, Panama City, FL",
+            value: "01427"
         },
         {
-            value: "Holland FSU, Grand Rapids-Kalamazoo-Battle Creek, MI",
-            label: "03605"
+            text: "Holland FSU, Grand Rapids-Kalamazoo-Battle Creek, MI",
+            value: "03605"
         },
         {
-            value: "123rd & Dodge FSU, Omaha, NE",
-            label: "03606"
+            text: "123rd & Dodge FSU, Omaha, NE",
+            value: "03606"
         },
         {
-            value: "Hwy 26 at Precinct Line FSU, Dallas-Ft. Worth, TX",
-            label: "03608"
+            text: "Hwy 26 at Precinct Line FSU, Dallas-Ft. Worth, TX",
+            value: "03608"
         },
         {
-            value: "East Madison FSU, Madison, WI",
-            label: "03601"
+            text: "East Madison FSU, Madison, WI",
+            value: "03601"
         },
         {
-            value: "Two Notch Road FSU, Columbia, SC",
-            label: "00574"
+            text: "Two Notch Road FSU, Columbia, SC",
+            value: "00574"
         },
         {
-            value: "Racine FSU, Milwaukee, WI",
-            label: "03602"
+            text: "Racine FSU, Milwaukee, WI",
+            value: "03602"
         },
         {
-            value: "Cherry Hill FSU, Philadelphia, PA",
-            label: "01421"
+            text: "Cherry Hill FSU, Philadelphia, PA",
+            value: "01421"
         },
         {
-            value: "West St. Paul FSU, Minneapolis-St. Paul, MN",
-            label: "03603"
+            text: "West St. Paul FSU, Minneapolis-St. Paul, MN",
+            value: "03603"
         },
         {
-            value: "Russellville FSU, Little Rock-Pine Bluff, AR",
-            label: "02750"
+            text: "Russellville FSU, Little Rock-Pine Bluff, AR",
+            value: "02750"
         },
         {
-            value: "Old Orchard FSU, Chicago, IL",
-            label: "03604"
+            text: "Old Orchard FSU, Chicago, IL",
+            value: "03604"
         },
         {
-            value: "First Colony Mall, Houston, TX",
-            label: "00572"
+            text: "First Colony Mall, Houston, TX",
+            value: "00572"
         },
         {
-            value: "Whitesburg Drive FSU, Huntsville-Decatur (Florence), AL",
-            label: "00579"
+            text: "Whitesburg Drive FSU, Huntsville-Decatur (Florence), AL",
+            value: "00579"
         },
         {
-            value: "Hanover FSU, Harrisburg-Lancaster-Lebanon-York, PA",
-            label: "02756"
+            text: "Hanover FSU, Harrisburg-Lancaster-Lebanon-York, PA",
+            value: "02756"
         },
         {
-            value: "Oleander FSU, Wilmington, NC",
-            label: "01425"
+            text: "Oleander FSU, Wilmington, NC",
+            value: "01425"
         },
         {
-            value: "Mayfaire FSU, Wilmington, NC",
-            label: "01424"
+            text: "Mayfaire FSU, Wilmington, NC",
+            value: "01424"
         },
         {
-            value: "Knollwood FSU, Minneapolis-St. Paul, MN",
-            label: "03600"
+            text: "Knollwood FSU, Minneapolis-St. Paul, MN",
+            value: "03600"
         },
         {
-            value: "Johnson City Crossing FSU, Tri-Cities, TN-VA",
-            label: "00571"
+            text: "Johnson City Crossing FSU, Tri-Cities, TN-VA",
+            value: "00571"
         },
         {
-            value:
+            text:
                 "Clemson Blvd. FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "00570"
+            value: "00570"
         },
         {
-            value: "Hunt Club FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "00528"
+            text: "Hunt Club FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "00528"
         },
         {
-            value: "Millerville Road FSU, Baton Rouge, LA",
-            label: "01858"
+            text: "Millerville Road FSU, Baton Rouge, LA",
+            value: "01858"
         },
         {
-            value: "Lakeline Mall, Austin, TX",
-            label: "00527"
+            text: "Lakeline Mall, Austin, TX",
+            value: "00527"
         },
         {
-            value: "Mooretown Road FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "01857"
+            text: "Mooretown Road FSU, Norfolk-Portsmouth-Newport News, VA",
+            value: "01857"
         },
         {
-            value: "Woodbrook Drive FSU, Charlottesville, VA",
-            label: "01856"
+            text: "Woodbrook Drive FSU, Charlottesville, VA",
+            value: "01856"
         },
         {
-            value: "Hollywood Drive-Thru Only, Los Angeles, CA",
-            label: "02703"
+            text: "Hollywood Drive-Thru Only, Los Angeles, CA",
+            value: "02703"
         },
         {
-            value:
+            text:
                 "Grapevine Hwy and Mid-Cities Blvd FSU, Dallas-Ft. Worth, TX",
-            label: "00525"
+            value: "00525"
         },
         {
-            value: "Union Township FSU, New York, NY",
-            label: "02709"
+            text: "Union Township FSU, New York, NY",
+            value: "02709"
         },
         {
-            value: "I-635 and MacArthur FSU, Dallas-Ft. Worth, TX",
-            label: "00529"
+            text: "I-635 and MacArthur FSU, Dallas-Ft. Worth, TX",
+            value: "00529"
         },
         {
-            value:
+            text:
                 "North Hills In-Line (NC), Raleigh-Durham (Fayetteville), NC",
-            label: "01851"
+            value: "01851"
         },
         {
-            value: "Commerce Avenue FSU, Atlanta, GA",
-            label: "00520"
+            text: "Commerce Avenue FSU, Atlanta, GA",
+            value: "00520"
         },
         {
-            value: "Veterans Parkway FSU, Louisville, KY",
-            label: "01855"
+            text: "Veterans Parkway FSU, Louisville, KY",
+            value: "01855"
         },
         {
-            value: "Vann Drive FSU, Jackson, TN",
-            label: "00524"
+            text: "Vann Drive FSU, Jackson, TN",
+            value: "00524"
         },
         {
-            value: "Portsmouth Blvd. FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "00523"
+            text: "Portsmouth Blvd. FSU, Norfolk-Portsmouth-Newport News, VA",
+            value: "00523"
         },
         {
-            value: "Providence Marketplace FSU, Nashville, TN",
-            label: "01854"
+            text: "Providence Marketplace FSU, Nashville, TN",
+            value: "01854"
         },
         {
-            value: "Ann Street FSU, Montgomery-Selma, AL",
-            label: "01853"
+            text: "Ann Street FSU, Montgomery-Selma, AL",
+            value: "01853"
         },
         {
-            value: "Rivergate Parkway FSU, Charlotte, NC",
-            label: "01852"
+            text: "Rivergate Parkway FSU, Charlotte, NC",
+            value: "01852"
         },
         {
-            value:
+            text:
                 "Houston George Bush Inter'l Airport - Terminal B, Houston, TX",
-            label: "80601"
+            value: "80601"
         },
         {
-            value:
+            text:
                 "Houston George Bush Inter'l Airport - Terminal A, Houston, TX",
-            label: "80600"
+            value: "80600"
         },
         {
-            value: "Midtown Plaza, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "00517"
+            text: "Midtown Plaza, Birmingham (Anniston and Tuscaloosa), AL",
+            value: "00517"
         },
         {
-            value:
+            text:
                 "Candlers Mountain Road Drive-Thru Only, Roanoke-Lynchburg, VA",
-            label: "00515"
+            value: "00515"
         },
         {
-            value: "Olathe Pointe FSU, Kansas City, MO",
-            label: "01846"
+            text: "Olathe Pointe FSU, Kansas City, MO",
+            value: "01846"
         },
         {
-            value: "Sugar Land FSU, Houston, TX",
-            label: "00998"
+            text: "Sugar Land FSU, Houston, TX",
+            value: "00998"
         },
         {
-            value: "Camden Town Center FSU, Philadelphia, PA",
-            label: "01849"
+            text: "Camden Town Center FSU, Philadelphia, PA",
+            value: "01849"
         },
         {
-            value: "Mall Blvd Drive-Thru Only, Savannah, GA",
-            label: "00518"
+            text: "Mall Blvd Drive-Thru Only, Savannah, GA",
+            value: "00518"
         },
         {
-            value: "North Olmsted FSU, Cleveland-Akron (Canton), OH",
-            label: "01840"
+            text: "North Olmsted FSU, Cleveland-Akron (Canton), OH",
+            value: "01840"
         },
         {
-            value: "Akers Mill Drive-Thru Only, Atlanta, GA",
-            label: "00513"
+            text: "Akers Mill Drive-Thru Only, Atlanta, GA",
+            value: "00513"
         },
         {
-            value: "Kingston Overlook FSU, Knoxville, TN",
-            label: "00994"
+            text: "Kingston Overlook FSU, Knoxville, TN",
+            value: "00994"
         },
         {
-            value: "Elizabeth City FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "02727"
+            text: "Elizabeth City FSU, Norfolk-Portsmouth-Newport News, VA",
+            value: "02727"
         },
         {
-            value: "Erie FSU, Erie, PA",
-            label: "01879"
+            text: "Erie FSU, Erie, PA",
+            value: "01879"
         },
         {
-            value: "Merrillville FSU, Chicago, IL",
-            label: "02729"
+            text: "Merrillville FSU, Chicago, IL",
+            value: "02729"
         },
         {
-            value: "Colorado Mesa University, Grand Junction-Montrose, CO",
-            label: "80616"
+            text: "Colorado Mesa University, Grand Junction-Montrose, CO",
+            value: "80616"
         },
         {
-            value: "Downtown Decatur FSU, Atlanta, GA",
-            label: "01873"
+            text: "Downtown Decatur FSU, Atlanta, GA",
+            value: "01873"
         },
         {
-            value:
+            text:
                 "Arizona State University - Downtown, Phoenix (Prescott), AZ",
-            label: "80615"
+            value: "80615"
         },
         {
-            value: "Texas Tech University - College of Business, Lubbock, TX",
-            label: "80614"
+            text: "Texas Tech University - College of Business, Lubbock, TX",
+            value: "80614"
         },
         {
-            value: "Houma FSU, New Orleans, LA",
-            label: "01871"
+            text: "Houma FSU, New Orleans, LA",
+            value: "01871"
         },
         {
-            value: "Sawgrass Square FSU, Miami-Ft. Lauderdale, FL",
-            label: "01870"
+            text: "Sawgrass Square FSU, Miami-Ft. Lauderdale, FL",
+            value: "01870"
         },
         {
-            value: "Morgan State University, Baltimore, MD",
-            label: "80613"
+            text: "Morgan State University, Baltimore, MD",
+            value: "80613"
         },
         {
-            value: "Sawmill Road FSU, Columbus, OH",
-            label: "02724"
+            text: "Sawmill Road FSU, Columbus, OH",
+            value: "02724"
         },
         {
-            value: "Coral Springs FSU, Miami-Ft. Lauderdale, FL",
-            label: "01877"
+            text: "Coral Springs FSU, Miami-Ft. Lauderdale, FL",
+            value: "01877"
         },
         {
-            value: "Owasso Market FSU, Tulsa, OK",
-            label: "01876"
+            text: "Owasso Market FSU, Tulsa, OK",
+            value: "01876"
         },
         {
-            value: "Granite Bay FSU, Sacramento-Stockton-Modesto, CA",
-            label: "02723"
+            text: "Granite Bay FSU, Sacramento-Stockton-Modesto, CA",
+            value: "02723"
         },
         {
-            value: "Lindenwood University, St. Louis, MO",
-            label: "80619"
+            text: "Lindenwood University, St. Louis, MO",
+            value: "80619"
         },
         {
-            value: "Mantua Square FSU, Philadelphia, PA",
-            label: "02722"
+            text: "Mantua Square FSU, Philadelphia, PA",
+            value: "02722"
         },
         {
-            value: "Truman State University, Ottumwa, IA-Kirksville, MO",
-            label: "80617"
+            text: "Truman State University, Ottumwa, IA-Kirksville, MO",
+            value: "80617"
         },
         {
-            value: "Wadsworth Blvd at 80th Avenue FSU, Denver, CO",
-            label: "02721"
+            text: "Wadsworth Blvd at 80th Avenue FSU, Denver, CO",
+            value: "02721"
         },
         {
-            value: "Mohegan Sun Resort, Hartford & New Haven, CT",
-            label: "80623"
+            text: "Mohegan Sun Resort, Hartford & New Haven, CT",
+            value: "80623"
         },
         {
-            value: "Kennesaw State University - Marietta, Atlanta, GA",
-            label: "80622"
+            text: "Kennesaw State University - Marietta, Atlanta, GA",
+            value: "80622"
         },
         {
-            value: "University of Southern Indiana, Evansville, IN",
-            label: "80621"
+            text: "University of Southern Indiana, Evansville, IN",
+            value: "80621"
         },
         {
-            value: "University of Arkansas - Monticello, null",
-            label: "80620"
+            text: "University of Arkansas - Monticello, null",
+            value: "80620"
         },
         {
-            value: "33rd & Broadway FSU, Oklahoma City, OK",
-            label: "00539"
+            text: "33rd & Broadway FSU, Oklahoma City, OK",
+            value: "00539"
         },
         {
-            value: "North Mopac & Parmer Lane FSU, Austin, TX",
-            label: "00537"
+            text: "North Mopac & Parmer Lane FSU, Austin, TX",
+            value: "00537"
         },
         {
-            value: "Alliance Town Center FSU, Dallas-Ft. Worth, TX",
-            label: "02715"
+            text: "Alliance Town Center FSU, Dallas-Ft. Worth, TX",
+            value: "02715"
         },
         {
-            value:
+            text:
                 "Gadsden at 4th Street FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "01867"
+            value: "01867"
         },
         {
-            value: "82nd & Milwaukee FSU, Lubbock, TX",
-            label: "02719"
+            text: "82nd & Milwaukee FSU, Lubbock, TX",
+            value: "02719"
         },
         {
-            value: "Murrells Inlet FSU, Charleston, SC",
-            label: "01862"
+            text: "Murrells Inlet FSU, Charleston, SC",
+            value: "01862"
         },
         {
-            value:
+            text:
                 "Tampa International Airport-Airside A, Tampa-St. Petersburg (Sarasota), FL",
-            label: "80605"
+            value: "80605"
         },
         {
-            value: "Suwanee Road FSU, Atlanta, GA",
-            label: "00530"
+            text: "Suwanee Road FSU, Atlanta, GA",
+            value: "00530"
         },
         {
-            value: "Pittsburgh International Airport, Pittsburgh, PA",
-            label: "80604"
+            text: "Pittsburgh International Airport, Pittsburgh, PA",
+            value: "80604"
         },
         {
-            value: "McDonough FSU, Atlanta, GA",
-            label: "01860"
+            text: "McDonough FSU, Atlanta, GA",
+            value: "01860"
         },
         {
-            value: "Blue Springs FSU, Kansas City, MO",
-            label: "02713"
+            text: "Blue Springs FSU, Kansas City, MO",
+            value: "02713"
         },
         {
-            value: "Mt. Dora FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "01866"
+            text: "Mt. Dora FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "01866"
         },
         {
-            value:
+            text:
                 "University of Akron-Student Center, Cleveland-Akron (Canton), OH",
-            label: "80608"
+            value: "80608"
         },
         {
-            value: "Cherokee Place FSU, Atlanta, GA",
-            label: "00534"
+            text: "Cherokee Place FSU, Atlanta, GA",
+            value: "00534"
         },
         {
-            value: "Abilene FSU, Abilene-Sweetwater, TX",
-            label: "01864"
+            text: "Abilene FSU, Abilene-Sweetwater, TX",
+            value: "01864"
         },
         {
-            value:
+            text:
                 "University of Akron-Summit College, Cleveland-Akron (Canton), OH",
-            label: "80607"
+            value: "80607"
         },
         {
-            value:
+            text:
                 "North College Avenue FSU, Ft. Smith-Fayetteville-Springdale-Rogers, AR",
-            label: "00532"
+            value: "00532"
         },
         {
-            value: "Leesburg FSU, Washington, DC (Hagerstown, MD)",
-            label: "02710"
+            text: "Leesburg FSU, Washington, DC (Hagerstown, MD)",
+            value: "02710"
         },
         {
-            value:
+            text:
                 "Tampa International Airport-Main Terminal, Tampa-St. Petersburg (Sarasota), FL",
-            label: "80606"
+            value: "80606"
         },
         {
-            value: "Hersheypark, Harrisburg-Lancaster-Lebanon-York, PA",
-            label: "80612"
+            text: "Hersheypark, Harrisburg-Lancaster-Lebanon-York, PA",
+            value: "80612"
         },
         {
-            value: "Denver International Airport, Denver, CO",
-            label: "80610"
+            text: "Denver International Airport, Denver, CO",
+            value: "80610"
         },
         {
-            value: "Tennessee Tower, Nashville, TN",
-            label: "03557"
+            text: "Tennessee Tower, Nashville, TN",
+            value: "03557"
         },
         {
-            value: "Athens/Atlanta Highway FSU, Atlanta, GA",
-            label: "01378"
+            text: "Athens/Atlanta Highway FSU, Atlanta, GA",
+            value: "01378"
         },
         {
-            value: "Unser & Southern FSU, Albuquerque-Santa Fe, NM",
-            label: "03558"
+            text: "Unser & Southern FSU, Albuquerque-Santa Fe, NM",
+            value: "03558"
         },
         {
-            value: "El Con FSU, Tucson (Sierra Vista), AZ",
-            label: "02224"
+            text: "El Con FSU, Tucson (Sierra Vista), AZ",
+            value: "02224"
         },
         {
-            value: "Treasure Valley Nampa FSU, Boise, ID",
-            label: "03559"
+            text: "Treasure Valley Nampa FSU, Boise, ID",
+            value: "03559"
         },
         {
-            value: "Holcombe & Buffalo Speedway FSU, Houston, TX",
-            label: "01376"
+            text: "Holcombe & Buffalo Speedway FSU, Houston, TX",
+            value: "01376"
         },
         {
-            value: "Eastpoint FSU, Baltimore, MD",
-            label: "02222"
+            text: "Eastpoint FSU, Baltimore, MD",
+            value: "02222"
         },
         {
-            value:
+            text:
                 "Eastwood Village FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "02229"
+            value: "02229"
         },
         {
-            value: "McCalla FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "02228"
+            text: "McCalla FSU, Birmingham (Anniston and Tuscaloosa), AL",
+            value: "02228"
         },
         {
-            value: "Chapel Hills Mall, Colorado Springs-Pueblo, CO",
-            label: "00048"
+            text: "Chapel Hills Mall, Colorado Springs-Pueblo, CO",
+            value: "00048"
         },
         {
-            value: "Kerrville FSU, San Antonio, TX",
-            label: "03555"
+            text: "Kerrville FSU, San Antonio, TX",
+            value: "03555"
         },
         {
-            value:
+            text:
                 "27th & Nolana FSU, Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "03556"
+            value: "03556"
         },
         {
-            value: "Deer Valley FSU, Phoenix (Prescott), AZ",
-            label: "02226"
+            text: "Deer Valley FSU, Phoenix (Prescott), AZ",
+            value: "02226"
         },
         {
-            value:
+            text:
                 "Anderson Mall, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "00049"
+            value: "00049"
         },
         {
-            value: "North Monroe Street FSU, Tallahassee, FL-Thomasville, GA",
-            label: "01370"
+            text: "North Monroe Street FSU, Tallahassee, FL-Thomasville, GA",
+            value: "01370"
         },
         {
-            value: "West Midtown FSU, Atlanta, GA",
-            label: "03551"
+            text: "West Midtown FSU, Atlanta, GA",
+            value: "03551"
         },
         {
-            value: "Woburn FSU, Boston, MA (Manchester, NH)",
-            label: "03552"
+            text: "Woburn FSU, Boston, MA (Manchester, NH)",
+            value: "03552"
         },
         {
-            value: "Scenic Highway FSU, Atlanta, GA",
-            label: "01374"
+            text: "Scenic Highway FSU, Atlanta, GA",
+            value: "01374"
         },
         {
-            value: "Bel Air Mall, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "00042"
+            text: "Bel Air Mall, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "00042"
         },
         {
-            value: "League City Towne Center FSU, Houston, TX",
-            label: "02221"
+            text: "League City Towne Center FSU, Houston, TX",
+            value: "02221"
         },
         {
-            value: "Columbia Mall (MD), Baltimore, MD",
-            label: "00041"
+            text: "Columbia Mall (MD), Baltimore, MD",
+            value: "00041"
         },
         {
-            value: "Quakertown FSU, Philadelphia, PA",
-            label: "02219"
+            text: "Quakertown FSU, Philadelphia, PA",
+            value: "02219"
         },
         {
-            value: "Ellijay FSU, Atlanta, GA",
-            label: "02214"
+            text: "Ellijay FSU, Atlanta, GA",
+            value: "02214"
         },
         {
-            value: "Westchester Commons FSU, Richmond-Petersburg, VA",
-            label: "02698"
+            text: "Westchester Commons FSU, Richmond-Petersburg, VA",
+            value: "02698"
         },
         {
-            value: "Cleveland Mall, Charlotte, NC",
-            label: "00035"
+            text: "Cleveland Mall, Charlotte, NC",
+            value: "00035"
         },
         {
-            value: "Buena Park FSU, Los Angeles, CA",
-            label: "02697"
+            text: "Buena Park FSU, Los Angeles, CA",
+            value: "02697"
         },
         {
-            value: "Rayzor Ranch FSU, Dallas-Ft. Worth, TX",
-            label: "02213"
+            text: "Rayzor Ranch FSU, Dallas-Ft. Worth, TX",
+            value: "02213"
         },
         {
-            value: "Gainesville West FSU, Atlanta, GA",
-            label: "03548"
+            text: "Gainesville West FSU, Atlanta, GA",
+            value: "03548"
         },
         {
-            value: "Cielo Vista Mall, El Paso, TX (Las Cruces, NM)",
-            label: "00033"
+            text: "Cielo Vista Mall, El Paso, TX (Las Cruces, NM)",
+            value: "00033"
         },
         {
-            value: "Brookstone FSU, Atlanta, GA",
-            label: "02212"
+            text: "Brookstone FSU, Atlanta, GA",
+            value: "02212"
         },
         {
-            value: "Danbury Fair Mall, New York, NY",
-            label: "03549"
+            text: "Danbury Fair Mall, New York, NY",
+            value: "03549"
         },
         {
-            value: "Coastland Center, Ft. Myers-Naples, FL",
-            label: "00039"
+            text: "Coastland Center, Ft. Myers-Naples, FL",
+            value: "00039"
         },
         {
-            value: "Inner Harbor In-Line, Baltimore, MD",
-            label: "03544"
+            text: "Inner Harbor In-Line, Baltimore, MD",
+            value: "03544"
         },
         {
-            value: "Macedonia FSU, Cleveland-Akron (Canton), OH",
-            label: "02216"
+            text: "Macedonia FSU, Cleveland-Akron (Canton), OH",
+            value: "02216"
         },
         {
-            value: "Cape Cod FSU, Boston, MA (Manchester, NH)",
-            label: "03545"
+            text: "Cape Cod FSU, Boston, MA (Manchester, NH)",
+            value: "03545"
         },
         {
-            value: "Millington FSU, Memphis, TN",
-            label: "02699"
+            text: "Millington FSU, Memphis, TN",
+            value: "02699"
         },
         {
-            value: "Capital Centre FSU, Washington, DC (Hagerstown, MD)",
-            label: "01368"
+            text: "Capital Centre FSU, Washington, DC (Hagerstown, MD)",
+            value: "01368"
         },
         {
-            value: "Annapolis FSU, Baltimore, MD",
-            label: "03540"
+            text: "Annapolis FSU, Baltimore, MD",
+            value: "03540"
         },
         {
-            value: "Charlottesville Fashion Square, Charlottesville, VA",
-            label: "00031"
+            text: "Charlottesville Fashion Square, Charlottesville, VA",
+            value: "00031"
         },
         {
-            value: "Wichita Falls FSU, Wichita Falls, TX & Lawton, OK",
-            label: "02210"
+            text: "Wichita Falls FSU, Wichita Falls, TX & Lawton, OK",
+            value: "02210"
         },
         {
-            value: "Citadel Mall, Charleston, SC",
-            label: "00032"
+            text: "Citadel Mall, Charleston, SC",
+            value: "00032"
         },
         {
-            value: "St. Augustine FSU, Jacksonville, FL",
-            label: "01362"
+            text: "St. Augustine FSU, Jacksonville, FL",
+            value: "01362"
         },
         {
-            value: "George Washington FSU, Washington, DC (Hagerstown, MD)",
-            label: "02693"
+            text: "George Washington FSU, Washington, DC (Hagerstown, MD)",
+            value: "02693"
         },
         {
-            value: "Wells Road FSU, Jacksonville, FL",
-            label: "01360"
+            text: "Wells Road FSU, Jacksonville, FL",
+            value: "01360"
         },
         {
-            value: "Erlanger Health Systems, Chattanooga, TN",
-            label: "80197"
+            text: "Erlanger Health Systems, Chattanooga, TN",
+            value: "80197"
         },
         {
-            value: "Crossroads Mall (WV), Bluefield-Beckley-Oak Hill, WV",
-            label: "00068"
+            text: "Crossroads Mall (WV), Bluefield-Beckley-Oak Hill, WV",
+            value: "00068"
         },
         {
-            value: "Viewmont FSU, Charlotte, NC",
-            label: "03579"
+            text: "Viewmont FSU, Charlotte, NC",
+            value: "03579"
         },
         {
-            value: "Willow Grove Park, Philadelphia, PA",
-            label: "02246"
+            text: "Willow Grove Park, Philadelphia, PA",
+            value: "02246"
         },
         {
-            value:
+            text:
                 "Westfield Countryside Mall, Tampa-St. Petersburg (Sarasota), FL",
-            label: "00069"
+            value: "00069"
         },
         {
-            value: "South Dale Mabry FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "01399"
+            text: "South Dale Mabry FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "01399"
         },
         {
-            value: "Jordan Landing FSU, Salt Lake City, UT",
-            label: "02245"
+            text: "Jordan Landing FSU, Salt Lake City, UT",
+            value: "02245"
         },
         {
-            value: "Broward Mall, Miami-Ft. Lauderdale, FL",
-            label: "00066"
+            text: "Broward Mall, Miami-Ft. Lauderdale, FL",
+            value: "00066"
         },
         {
-            value: "The Mall at Millenia, Orlando-Daytona Beach-Melbourne, FL",
-            label: "01398"
+            text: "The Mall at Millenia, Orlando-Daytona Beach-Melbourne, FL",
+            value: "01398"
         },
         {
-            value: "Queen Creek FSU, Phoenix (Prescott), AZ",
-            label: "02244"
+            text: "Queen Creek FSU, Phoenix (Prescott), AZ",
+            value: "02244"
         },
         {
-            value: "Drexel Town Square FSU, Milwaukee, WI",
-            label: "03576"
+            text: "Drexel Town Square FSU, Milwaukee, WI",
+            value: "03576"
         },
         {
-            value: "Marketplace at Bob Bullock FSU, Laredo, TX",
-            label: "02249"
+            text: "Marketplace at Bob Bullock FSU, Laredo, TX",
+            value: "02249"
         },
         {
-            value: "Moultrie FSU, Albany, GA",
-            label: "02248"
+            text: "Moultrie FSU, Albany, GA",
+            value: "02248"
         },
         {
-            value: "Veterans & College FSU, Peoria-Bloomington, IL",
-            label: "03578"
+            text: "Veterans & College FSU, Peoria-Bloomington, IL",
+            value: "03578"
         },
         {
-            value: "Merle Hay FSU, Des Moines-Ames, IA",
-            label: "03571"
+            text: "Merle Hay FSU, Des Moines-Ames, IA",
+            value: "03571"
         },
         {
-            value: "Crabtree Valley Mall, Raleigh-Durham (Fayetteville), NC",
-            label: "00060"
+            text: "Crabtree Valley Mall, Raleigh-Durham (Fayetteville), NC",
+            value: "00060"
         },
         {
-            value: "Dubuque FSU, Cedar Rapids-Waterloo-Iowa City & Dubuque, IA",
-            label: "03572"
+            text: "Dubuque FSU, Cedar Rapids-Waterloo-Iowa City & Dubuque, IA",
+            value: "03572"
         },
         {
-            value: "Country Club Mall, Washington, DC (Hagerstown, MD)",
-            label: "00061"
+            text: "Country Club Mall, Washington, DC (Hagerstown, MD)",
+            value: "00061"
         },
         {
-            value: "Wake Forest FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "01391"
+            text: "Wake Forest FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "01391"
         },
         {
-            value: "Lassiter FSU, Atlanta, GA",
-            label: "03573"
+            text: "Lassiter FSU, Atlanta, GA",
+            value: "03573"
         },
         {
-            value:
+            text:
                 "Rogers Avenue FSU, Ft. Smith-Fayetteville-Springdale-Rogers, AR",
-            label: "01390"
+            value: "01390"
         },
         {
-            value: "Cross Creek Mall (NC), Raleigh-Durham (Fayetteville), NC",
-            label: "00065"
+            text: "Cross Creek Mall (NC), Raleigh-Durham (Fayetteville), NC",
+            value: "00065"
         },
         {
-            value: "The Collection Forsyth FSU, Atlanta, GA",
-            label: "02242"
+            text: "The Collection Forsyth FSU, Atlanta, GA",
+            value: "02242"
         },
         {
-            value: "Day Street FSU, Los Angeles, CA",
-            label: "02241"
+            text: "Day Street FSU, Los Angeles, CA",
+            value: "02241"
         },
         {
-            value: "Central & Southwestern FSU, Dallas-Ft. Worth, TX",
-            label: "01393"
+            text: "Central & Southwestern FSU, Dallas-Ft. Worth, TX",
+            value: "01393"
         },
         {
-            value: "Mercury Boulevard FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "02240"
+            text: "Mercury Boulevard FSU, Norfolk-Portsmouth-Newport News, VA",
+            value: "02240"
         },
         {
-            value:
+            text:
                 "Nine Mile Road FSU, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "01389"
+            value: "01389"
         },
         {
-            value: "Town Center At Cobb, Atlanta, GA",
-            label: "00057"
+            text: "Town Center At Cobb, Atlanta, GA",
+            value: "00057"
         },
         {
-            value: "272nd at Wax FSU, Seattle-Tacoma, WA",
-            label: "03568"
+            text: "272nd at Wax FSU, Seattle-Tacoma, WA",
+            value: "03568"
         },
         {
-            value: "Doral FSU, Miami-Ft. Lauderdale, FL",
-            label: "02235"
+            text: "Doral FSU, Miami-Ft. Lauderdale, FL",
+            value: "02235"
         },
         {
-            value:
+            text:
                 "Downtown Bentonville FSU, Ft. Smith-Fayetteville-Springdale-Rogers, AR",
-            label: "02234"
+            value: "02234"
         },
         {
-            value: "Warrington Crossing FSU, Philadelphia, PA",
-            label: "01387"
+            text: "Warrington Crossing FSU, Philadelphia, PA",
+            value: "01387"
         },
         {
-            value: "Bristow FSU, Washington, DC (Hagerstown, MD)",
-            label: "02233"
+            text: "Bristow FSU, Washington, DC (Hagerstown, MD)",
+            value: "02233"
         },
         {
-            value: "Fayetteville Towne Center FSU, Atlanta, GA",
-            label: "01386"
+            text: "Fayetteville Towne Center FSU, Atlanta, GA",
+            value: "01386"
         },
         {
-            value: "Rocky River FSU, Cleveland-Akron (Canton), OH",
-            label: "02239"
+            text: "Rocky River FSU, Cleveland-Akron (Canton), OH",
+            value: "02239"
         },
         {
-            value: "Pflugerville FSU, Austin, TX",
-            label: "02237"
+            text: "Pflugerville FSU, Austin, TX",
+            value: "02237"
         },
         {
-            value: "Commack FSU, New York, NY",
-            label: "03567"
+            text: "Commack FSU, New York, NY",
+            value: "03567"
         },
         {
-            value: "Northgate FSU, Colorado Springs-Pueblo, CO",
-            label: "03560"
+            text: "Northgate FSU, Colorado Springs-Pueblo, CO",
+            value: "03560"
         },
         {
-            value:
+            text:
                 "Cordova Mall (Inside), Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "00050"
+            value: "00050"
         },
         {
-            value: "Muscle Shoals FSU, Huntsville-Decatur (Florence), AL",
-            label: "03561"
+            text: "Muscle Shoals FSU, Huntsville-Decatur (Florence), AL",
+            value: "03561"
         },
         {
-            value: "East Gate Square FSU, Philadelphia, PA",
-            label: "01380"
+            text: "East Gate Square FSU, Philadelphia, PA",
+            value: "01380"
         },
         {
-            value: "Sunshine & Campbell FSU, Springfield, MO",
-            label: "03562"
+            text: "Sunshine & Campbell FSU, Springfield, MO",
+            value: "03562"
         },
         {
-            value: "Delran FSU, Philadelphia, PA",
-            label: "01385"
+            text: "Delran FSU, Philadelphia, PA",
+            value: "01385"
         },
         {
-            value: "Broadcasting Square FSU, Philadelphia, PA",
-            label: "01384"
+            text: "Broadcasting Square FSU, Philadelphia, PA",
+            value: "01384"
         },
         {
-            value: "Harvard Park FSU, Cleveland-Akron (Canton), OH",
-            label: "02231"
+            text: "Harvard Park FSU, Cleveland-Akron (Canton), OH",
+            value: "02231"
         },
         {
-            value: "Sumter FSU, Columbia, SC",
-            label: "01383"
+            text: "Sumter FSU, Columbia, SC",
+            value: "01383"
         },
         {
-            value: "Westfield Annapolis Mall, Baltimore, MD",
-            label: "00008"
+            text: "Westfield Annapolis Mall, Baltimore, MD",
+            value: "00008"
         },
         {
-            value: "Augusta Mall, Augusta, GA-Aiken, SC",
-            label: "00009"
+            text: "Augusta Mall, Augusta, GA-Aiken, SC",
+            value: "00009"
         },
         {
-            value: "Pharr FSU, Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "03518"
+            text: "Pharr FSU, Harlingen-Weslaco-Brownsville-McAllen, TX",
+            value: "03518"
         },
         {
-            value: "Crossroads Center FSU, Minneapolis-St. Paul, MN",
-            label: "03513"
+            text: "Crossroads Center FSU, Minneapolis-St. Paul, MN",
+            value: "03513"
         },
         {
-            value: "Tuttle Crossing Mall, Columbus, OH",
-            label: "00002"
+            text: "Tuttle Crossing Mall, Columbus, OH",
+            value: "00002"
         },
         {
-            value: "Hwy 210 & Ayala Drive FSU, Los Angeles, CA",
-            label: "03997"
+            text: "Hwy 210 & Ayala Drive FSU, Los Angeles, CA",
+            value: "03997"
         },
         {
-            value:
+            text:
                 "Tunnel Road Drive-Thru Only, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "00487"
+            value: "00487"
         },
         {
-            value: "Des Peres FSU, St. Louis, MO",
-            label: "02665"
+            text: "Des Peres FSU, St. Louis, MO",
+            value: "02665"
         },
         {
-            value: "Mid Rivers Mall Dr & 94 FSU, St. Louis, MO",
-            label: "02664"
+            text: "Mid Rivers Mall Dr & 94 FSU, St. Louis, MO",
+            value: "02664"
         },
         {
-            value: "Florence FSU, Huntsville-Decatur (Florence), AL",
-            label: "00486"
+            text: "Florence FSU, Huntsville-Decatur (Florence), AL",
+            value: "00486"
         },
         {
-            value: "Muskogee FSU, Tulsa, OK",
-            label: "03514"
+            text: "Muskogee FSU, Tulsa, OK",
+            value: "03514"
         },
         {
-            value: "Prosperity Church Rd FSU, Charlotte, NC",
-            label: "03998"
+            text: "Prosperity Church Rd FSU, Charlotte, NC",
+            value: "03998"
         },
         {
-            value: "Rivergate FSU, Nashville, TN",
-            label: "01333"
+            text: "Rivergate FSU, Nashville, TN",
+            value: "01333"
         },
         {
-            value: "Acadiana Mall, Lafayette, LA",
-            label: "00003"
+            text: "Acadiana Mall, Lafayette, LA",
+            value: "00003"
         },
         {
-            value: "Surfside FSU, Myrtle Beach-Florence, SC",
-            label: "01332"
+            text: "Surfside FSU, Myrtle Beach-Florence, SC",
+            value: "01332"
         },
         {
-            value: "North Druid Hills Drive-Thru Only, Atlanta, GA",
-            label: "00485"
+            text: "North Druid Hills Drive-Thru Only, Atlanta, GA",
+            value: "00485"
         },
         {
-            value: "S. Colorado & Yale FSU, Denver, CO",
-            label: "03516"
+            text: "S. Colorado & Yale FSU, Denver, CO",
+            value: "03516"
         },
         {
-            value: "Alexandria Mall, Alexandria, LA",
-            label: "00001"
+            text: "Alexandria Mall, Alexandria, LA",
+            value: "00001"
         },
         {
-            value: "Wentzville FSU, St. Louis, MO",
-            label: "02662"
+            text: "Wentzville FSU, St. Louis, MO",
+            value: "02662"
         },
         {
-            value: "Baybrook Mall, Houston, TX",
-            label: "00006"
+            text: "Baybrook Mall, Houston, TX",
+            value: "00006"
         },
         {
-            value: "West 7th at Montgomery Plaza FSU, Dallas-Ft. Worth, TX",
-            label: "02669"
+            text: "West 7th at Montgomery Plaza FSU, Dallas-Ft. Worth, TX",
+            value: "02669"
         },
         {
-            value: "249 at Jones Road FSU, Houston, TX",
-            label: "01337"
+            text: "249 at Jones Road FSU, Houston, TX",
+            value: "01337"
         },
         {
-            value: "North Myrtle Beach FSU, Myrtle Beach-Florence, SC",
-            label: "01336"
+            text: "North Myrtle Beach FSU, Myrtle Beach-Florence, SC",
+            value: "01336"
         },
         {
-            value: "Jefferson Commons FSU, Louisville, KY",
-            label: "03511"
+            text: "Jefferson Commons FSU, Louisville, KY",
+            value: "03511"
         },
         {
-            value: "South Nevada Ave. FSU, Colorado Springs-Pueblo, CO",
-            label: "03995"
+            text: "South Nevada Ave. FSU, Colorado Springs-Pueblo, CO",
+            value: "03995"
         },
         {
-            value: "Apple Blossom Mall, Washington, DC (Hagerstown, MD)",
-            label: "00004"
+            text: "Apple Blossom Mall, Washington, DC (Hagerstown, MD)",
+            value: "00004"
         },
         {
-            value: "Albany Mall, Albany, GA",
-            label: "00005"
+            text: "Albany Mall, Albany, GA",
+            value: "00005"
         },
         {
-            value: "Sienna Crossing FSU, Houston, TX",
-            label: "03990"
+            text: "Sienna Crossing FSU, Houston, TX",
+            value: "03990"
         },
         {
-            value: "Saratoga FSU, Corpus Christi, TX",
-            label: "03991"
+            text: "Saratoga FSU, Corpus Christi, TX",
+            value: "03991"
         },
         {
-            value: "McCain Boulevard FSU, Little Rock-Pine Bluff, AR",
-            label: "02661"
+            text: "McCain Boulevard FSU, Little Rock-Pine Bluff, AR",
+            value: "02661"
         },
         {
-            value: "Westfield Brandon, Tampa-St. Petersburg (Sarasota), FL",
-            label: "00482"
+            text: "Westfield Brandon, Tampa-St. Petersburg (Sarasota), FL",
+            value: "00482"
         },
         {
-            value: "St. Cloud FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "02659"
+            text: "St. Cloud FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "02659"
         },
         {
-            value: "Cascade Park FSU, Portland, OR",
-            label: "03507"
+            text: "Cascade Park FSU, Portland, OR",
+            value: "03507"
         },
         {
-            value:
+            text:
                 "Cypress Creek Town Center FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "03508"
+            value: "03508"
         },
         {
-            value: "Cypress Towne Lake FSU, Houston, TX",
-            label: "03509"
+            text: "Cypress Towne Lake FSU, Houston, TX",
+            value: "03509"
         },
         {
-            value: "Turtle Creek Mall, Hattiesburg-Laurel, MS",
-            label: "00476"
+            text: "Turtle Creek Mall, Hattiesburg-Laurel, MS",
+            value: "00476"
         },
         {
-            value: "Crestview FSU, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "03986"
+            text: "Crestview FSU, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "03986"
         },
         {
-            value: "Sorrento Valley FSU, San Diego, CA",
-            label: "03502"
+            text: "Sorrento Valley FSU, San Diego, CA",
+            value: "03502"
         },
         {
-            value: "Creekwood FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "01322"
+            text: "Creekwood FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "01322"
         },
         {
-            value: "Northampton Blvd. FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "03987"
+            text: "Northampton Blvd. FSU, Norfolk-Portsmouth-Newport News, VA",
+            value: "03987"
         },
         {
-            value:
+            text:
                 "Westfield Montgomery Mall (MD), Washington, DC (Hagerstown, MD)",
-            label: "00475"
+            value: "00475"
         },
         {
-            value: "Regions Plaza, Jackson, MS",
-            label: "00473"
+            text: "Regions Plaza, Jackson, MS",
+            value: "00473"
         },
         {
-            value: "Eagan FSU, Minneapolis-St. Paul, MN",
-            label: "03989"
+            text: "Eagan FSU, Minneapolis-St. Paul, MN",
+            value: "03989"
         },
         {
-            value: "Greengate Centre FSU, Pittsburgh, PA",
-            label: "02657"
+            text: "Greengate Centre FSU, Pittsburgh, PA",
+            value: "02657"
         },
         {
-            value: "Perry Hall Shopping Center FSU, Baltimore, MD",
-            label: "01326"
+            text: "Perry Hall Shopping Center FSU, Baltimore, MD",
+            value: "01326"
         },
         {
-            value: "Seminole Towne Center, Orlando-Daytona Beach-Melbourne, FL",
-            label: "00478"
+            text: "Seminole Towne Center, Orlando-Daytona Beach-Melbourne, FL",
+            value: "00478"
         },
         {
-            value: "Raleigh Hills FSU, Portland, OR",
-            label: "03984"
+            text: "Raleigh Hills FSU, Portland, OR",
+            value: "03984"
         },
         {
-            value: "Mira Mesa FSU, San Diego, CA",
-            label: "02656"
+            text: "Mira Mesa FSU, San Diego, CA",
+            value: "02656"
         },
         {
-            value: "SouthPointe Pavilions FSU, Lincoln & Hastings-Kearney, NE",
-            label: "03500"
+            text: "SouthPointe Pavilions FSU, Lincoln & Hastings-Kearney, NE",
+            value: "03500"
         },
         {
-            value: "Dublin Commons FSU, Colorado Springs-Pueblo, CO",
-            label: "03985"
+            text: "Dublin Commons FSU, Colorado Springs-Pueblo, CO",
+            value: "03985"
         },
         {
-            value: "Spring Creek & Hwy. 121 FSU, Dallas-Ft. Worth, TX",
-            label: "03981"
+            text: "Spring Creek & Hwy. 121 FSU, Dallas-Ft. Worth, TX",
+            value: "03981"
         },
         {
-            value: "USC In-Line, Los Angeles, CA",
-            label: "02650"
+            text: "USC In-Line, Los Angeles, CA",
+            value: "02650"
         },
         {
-            value: "Aggieland FSU, Waco-Temple-Bryan, TX",
-            label: "02209"
+            text: "Aggieland FSU, Waco-Temple-Bryan, TX",
+            value: "02209"
         },
         {
-            value: "Lake Charles FSU, Lake Charles, LA",
-            label: "02203"
+            text: "Lake Charles FSU, Lake Charles, LA",
+            value: "02203"
         },
         {
-            value: "Saint Simons FSU, Jacksonville, FL",
-            label: "02202"
+            text: "Saint Simons FSU, Jacksonville, FL",
+            value: "02202"
         },
         {
-            value: "Cobb Corners FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "01355"
+            text: "Cobb Corners FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "01355"
         },
         {
-            value: "Frederick North FSU, Washington, DC (Hagerstown, MD)",
-            label: "03536"
+            text: "Frederick North FSU, Washington, DC (Hagerstown, MD)",
+            value: "03536"
         },
         {
-            value:
+            text:
                 "Okeechobee and Turnpike FSU, West Palm Beach-Ft. Pierce, FL",
-            label: "02201"
+            value: "02201"
         },
         {
-            value: "Station Park FSU, Salt Lake City, UT",
-            label: "03538"
+            text: "Station Park FSU, Salt Lake City, UT",
+            value: "03538"
         },
         {
-            value: "Stone Ridge FSU, San Antonio, TX",
-            label: "03531"
+            text: "Stone Ridge FSU, San Antonio, TX",
+            value: "03531"
         },
         {
-            value: "Colerain Commons FSU, Cincinnati, OH",
-            label: "03532"
+            text: "Colerain Commons FSU, Cincinnati, OH",
+            value: "03532"
         },
         {
-            value: "Fuquay Varina FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "01359"
+            text: "Fuquay Varina FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "01359"
         },
         {
-            value: "Central Mall (OK), Wichita Falls, TX & Lawton, OK",
-            label: "00029"
+            text: "Central Mall (OK), Wichita Falls, TX & Lawton, OK",
+            value: "00029"
         },
         {
-            value: "Nicholasville Road FSU, Lexington, KY",
-            label: "02206"
+            text: "Nicholasville Road FSU, Lexington, KY",
+            value: "02206"
         },
         {
-            value: "West Allis Center FSU, Milwaukee, WI",
-            label: "03533"
+            text: "West Allis Center FSU, Milwaukee, WI",
+            value: "03533"
         },
         {
-            value: "Central Mall (TX), Shreveport, LA",
-            label: "00026"
+            text: "Central Mall (TX), Shreveport, LA",
+            value: "00026"
         },
         {
-            value: "Potranco Road FSU, San Antonio, TX",
-            label: "02688"
+            text: "Potranco Road FSU, San Antonio, TX",
+            value: "02688"
         },
         {
-            value: "Northtown FSU, Minneapolis-St. Paul, MN",
-            label: "03534"
+            text: "Northtown FSU, Minneapolis-St. Paul, MN",
+            value: "03534"
         },
         {
-            value:
+            text:
                 "Brookwood Village Mall, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "00020"
+            value: "00020"
         },
         {
-            value: "Laguna Niguel FSU, Los Angeles, CA",
-            label: "02682"
+            text: "Laguna Niguel FSU, Los Angeles, CA",
+            value: "02682"
         },
         {
-            value: "Castleton Square, Indianapolis, IN",
-            label: "00021"
+            text: "Castleton Square, Indianapolis, IN",
+            value: "00021"
         },
         {
-            value: "Peters Creek FSU, Greensboro-High Point-Winston Salem, NC",
-            label: "02681"
+            text: "Peters Creek FSU, Greensboro-High Point-Winston Salem, NC",
+            value: "02681"
         },
         {
-            value:
+            text:
                 "Dauphin Street FSU, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "01350"
+            value: "01350"
         },
         {
-            value: "North Dover FSU, Philadelphia, PA",
-            label: "02680"
+            text: "North Dover FSU, Philadelphia, PA",
+            value: "02680"
         },
         {
-            value: "37th & 6th In-Line, New York, NY",
-            label: "03528"
+            text: "37th & 6th In-Line, New York, NY",
+            value: "03528"
         },
         {
-            value: "The Pinnacle FSU, Tri-Cities, TN-VA",
-            label: "03529"
+            text: "The Pinnacle FSU, Tri-Cities, TN-VA",
+            value: "03529"
         },
         {
-            value: "Hwy. 6 at West Little York FSU, Houston, TX",
-            label: "03524"
+            text: "Hwy. 6 at West Little York FSU, Houston, TX",
+            value: "03524"
         },
         {
-            value: "Southlake FSU, Dallas-Ft. Worth, TX",
-            label: "00498"
+            text: "Southlake FSU, Dallas-Ft. Worth, TX",
+            value: "00498"
         },
         {
-            value: "Terrell FSU, Dallas-Ft. Worth, TX",
-            label: "03525"
+            text: "Terrell FSU, Dallas-Ft. Worth, TX",
+            value: "03525"
         },
         {
-            value: "Houston County Galleria, Macon, GA",
-            label: "00497"
+            text: "Houston County Galleria, Macon, GA",
+            value: "00497"
         },
         {
-            value: "Southport Road FSU, Indianapolis, IN",
-            label: "01344"
+            text: "Southport Road FSU, Indianapolis, IN",
+            value: "01344"
         },
         {
-            value: "Granbury FSU, Dallas-Ft. Worth, TX",
-            label: "02674"
+            text: "Granbury FSU, Dallas-Ft. Worth, TX",
+            value: "02674"
         },
         {
-            value: "University Ave (IA) FSU, Des Moines-Ames, IA",
-            label: "03526"
+            text: "University Ave (IA) FSU, Des Moines-Ames, IA",
+            value: "03526"
         },
         {
-            value: "Town Center at Aurora, Denver, CO",
-            label: "00011"
+            text: "Town Center at Aurora, Denver, CO",
+            value: "00011"
         },
         {
-            value:
+            text:
                 "Asheville Mall, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "00012"
+            value: "00012"
         },
         {
-            value: "Stratford Hills FSU, Richmond-Petersburg, VA",
-            label: "01342"
+            text: "Stratford Hills FSU, Richmond-Petersburg, VA",
+            value: "01342"
         },
         {
-            value: "Crystal City In-Line, Washington, DC (Hagerstown, MD)",
-            label: "02673"
+            text: "Crystal City In-Line, Washington, DC (Hagerstown, MD)",
+            value: "02673"
         },
         {
-            value: "Chastain Square FSU, Atlanta, GA",
-            label: "00495"
+            text: "Chastain Square FSU, Atlanta, GA",
+            value: "00495"
         },
         {
-            value: "Barton Creek Square Mall, Austin, TX",
-            label: "00017"
+            text: "Barton Creek Square Mall, Austin, TX",
+            value: "00017"
         },
         {
-            value: "Waverly FSU, Charlotte, NC",
-            label: "03521"
+            text: "Waverly FSU, Charlotte, NC",
+            value: "03521"
         },
         {
-            value: "Battlefield Mall, Springfield, MO",
-            label: "00018"
+            text: "Battlefield Mall, Springfield, MO",
+            value: "00018"
         },
         {
-            value: "Dallas (GA) FSU, Atlanta, GA",
-            label: "02679"
+            text: "Dallas (GA) FSU, Atlanta, GA",
+            value: "02679"
         },
         {
-            value:
+            text:
                 "Broadway Square Mall, Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "00015"
+            value: "00015"
         },
         {
-            value: "Ballentine FSU, Columbia, SC",
-            label: "02678"
+            text: "Ballentine FSU, Columbia, SC",
+            value: "02678"
         },
         {
-            value: "Beachwood Place Mall, Cleveland-Akron (Canton), OH",
-            label: "00016"
+            text: "Beachwood Place Mall, Cleveland-Akron (Canton), OH",
+            value: "00016"
         },
         {
-            value: "Staples and McArdle FSU, Corpus Christi, TX",
-            label: "03523"
+            text: "Staples and McArdle FSU, Corpus Christi, TX",
+            value: "03523"
         },
         {
-            value: "Bloomfield Road Drive-Thru Only, Macon, GA",
-            label: "00490"
+            text: "Bloomfield Road Drive-Thru Only, Macon, GA",
+            value: "00490"
         },
         {
-            value:
+            text:
                 "Tuscaloosa Drive-Thru Only, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "00494"
+            value: "00494"
         },
         {
-            value: "Altamonte Mall, Orlando-Daytona Beach-Melbourne, FL",
-            label: "00010"
+            text: "Altamonte Mall, Orlando-Daytona Beach-Melbourne, FL",
+            value: "00010"
         },
         {
-            value: "Ortega Park FSU, Jacksonville, FL",
-            label: "01340"
+            text: "Ortega Park FSU, Jacksonville, FL",
+            value: "01340"
         },
         {
-            value: "The Woodlands Mall, Houston, TX",
-            label: "00492"
+            text: "The Woodlands Mall, Houston, TX",
+            value: "00492"
         },
         {
-            value: "Rockmart FSU, Atlanta, GA",
-            label: "04008"
+            text: "Rockmart FSU, Atlanta, GA",
+            value: "04008"
         },
         {
-            value: "Greece FSU, Rochester, NY",
-            label: "04005"
+            text: "Greece FSU, Rochester, NY",
+            value: "04005"
         },
         {
-            value: "Apple Valley FSU, Minneapolis-St. Paul, MN",
-            label: "03158"
+            text: "Apple Valley FSU, Minneapolis-St. Paul, MN",
+            value: "03158"
         },
         {
-            value: "Braselton FSU, Atlanta, GA",
-            label: "04006"
+            text: "Braselton FSU, Atlanta, GA",
+            value: "04006"
         },
         {
-            value: "Shadow Creek Ranch FSU, Houston, TX",
-            label: "04000"
+            text: "Shadow Creek Ranch FSU, Houston, TX",
+            value: "04000"
         },
         {
-            value: "Bloomington (MN) FSU, Minneapolis-St. Paul, MN",
-            label: "03153"
+            text: "Bloomington (MN) FSU, Minneapolis-St. Paul, MN",
+            value: "03153"
         },
         {
-            value: "Coon Rapids at Riverdale FSU, Minneapolis-St. Paul, MN",
-            label: "03154"
+            text: "Coon Rapids at Riverdale FSU, Minneapolis-St. Paul, MN",
+            value: "03154"
         },
         {
-            value: "Burbank & Ben Hur FSU, Baton Rouge, LA",
-            label: "04002"
+            text: "Burbank & Ben Hur FSU, Baton Rouge, LA",
+            value: "04002"
         },
         {
-            value: "Texas State University, Austin, TX",
-            label: "80127"
+            text: "Texas State University, Austin, TX",
+            value: "80127"
         },
         {
-            value:
+            text:
                 "Tuscaloosa South FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "03151"
+            value: "03151"
         },
         {
-            value: "Louisiana Tech University, Monroe, LA-El Dorado, AR",
-            label: "80125"
+            text: "Louisiana Tech University, Monroe, LA-El Dorado, AR",
+            value: "80125"
         },
         {
-            value: "Delray Beach FSU, West Palm Beach-Ft. Pierce, FL",
-            label: "03146"
+            text: "Delray Beach FSU, West Palm Beach-Ft. Pierce, FL",
+            value: "03146"
         },
         {
-            value: "Edinburg FSU, Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "03142"
+            text: "Edinburg FSU, Harlingen-Weslaco-Brownsville-McAllen, TX",
+            value: "03142"
         },
         {
-            value:
+            text:
                 "North Carolina State University, Raleigh-Durham (Fayetteville), NC",
-            label: "80113"
+            value: "80113"
         },
         {
-            value: "Southern Utah University, Salt Lake City, UT",
-            label: "80597"
+            text: "Southern Utah University, Salt Lake City, UT",
+            value: "80597"
         },
         {
-            value: "Boca Chica FSU, Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "03143"
+            text: "Boca Chica FSU, Harlingen-Weslaco-Brownsville-McAllen, TX",
+            value: "03143"
         },
         {
-            value: "Oklahoma Christian University, Oklahoma City, OK",
-            label: "80596"
+            text: "Oklahoma Christian University, Oklahoma City, OK",
+            value: "80596"
         },
         {
-            value:
+            text:
                 "Eastern Florida State College OCL, Orlando-Daytona Beach-Melbourne, FL",
-            label: "04474"
+            value: "04474"
         },
         {
-            value:
+            text:
                 "Mauldin FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "03144"
+            value: "03144"
         },
         {
-            value: "Bixby FSU, Tulsa, OK",
-            label: "02292"
+            text: "Bixby FSU, Tulsa, OK",
+            value: "02292"
         },
         {
-            value:
+            text:
                 "Midwestern State University, Wichita Falls, TX & Lawton, OK",
-            label: "80594"
+            value: "80594"
         },
         {
-            value: "Morehead State University, Lexington, KY",
-            label: "80110"
+            text: "Morehead State University, Lexington, KY",
+            value: "80110"
         },
         {
-            value: "White Oak Village FSU, Richmond-Petersburg, VA",
-            label: "02298"
+            text: "White Oak Village FSU, Richmond-Petersburg, VA",
+            value: "02298"
         },
         {
-            value: "Rehoboth Beach FSU, Salisbury, MD",
-            label: "03140"
+            text: "Rehoboth Beach FSU, Salisbury, MD",
+            value: "03140"
         },
         {
-            value:
+            text:
                 "University of NC-Chapel Hill (Lenoir Hall), Raleigh-Durham (Fayetteville), NC",
-            label: "80115"
+            value: "80115"
         },
         {
-            value:
+            text:
                 "Gaylord Family Oklahoma Memorial Stadium, Oklahoma City, OK",
-            label: "80599"
+            value: "80599"
         },
         {
-            value: "Severna Park FSU, Baltimore, MD",
-            label: "03141"
+            text: "Severna Park FSU, Baltimore, MD",
+            value: "03141"
         },
         {
-            value: "Pleasure Pier, Houston, TX",
-            label: "80598"
+            text: "Pleasure Pier, Houston, TX",
+            value: "80598"
         },
         {
-            value: "Moore FSU, Oklahoma City, OK",
-            label: "02290"
+            text: "Moore FSU, Oklahoma City, OK",
+            value: "02290"
         },
         {
-            value: "William P. Hobby Airport, Houston, TX",
-            label: "80593"
+            text: "William P. Hobby Airport, Houston, TX",
+            value: "80593"
         },
         {
-            value:
+            text:
                 "Wake Forest Baptist Medical Center, Greensboro-High Point-Winston Salem, NC",
-            label: "80592"
+            value: "80592"
         },
         {
-            value: "University of Texas Medical Branch, Houston, TX",
-            label: "80591"
+            text: "University of Texas Medical Branch, Houston, TX",
+            value: "80591"
         },
         {
-            value: "University of Idaho, Spokane, WA",
-            label: "80590"
+            text: "University of Idaho, Spokane, WA",
+            value: "80590"
         },
         {
-            value:
+            text:
                 "Westgate Drive-Thru Only, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "00905"
+            value: "00905"
         },
         {
-            value: "Promenade at Castle Rock FSU, Denver, CO",
-            label: "04027"
+            text: "Promenade at Castle Rock FSU, Denver, CO",
+            value: "04027"
         },
         {
-            value: "Texas City FSU, Houston, TX",
-            label: "04022"
+            text: "Texas City FSU, Houston, TX",
+            value: "04022"
         },
         {
-            value: "Moorpark Road FSU, Los Angeles, CA",
-            label: "03175"
+            text: "Moorpark Road FSU, Los Angeles, CA",
+            value: "03175"
         },
         {
-            value: "The Shoppes at Bartlett FSU, Memphis, TN",
-            label: "04023"
+            text: "The Shoppes at Bartlett FSU, Memphis, TN",
+            value: "04023"
         },
         {
-            value: "Augusta Woods & Kuykendahl FSU, Houston, TX",
-            label: "04024"
+            text: "Augusta Woods & Kuykendahl FSU, Houston, TX",
+            value: "04024"
         },
         {
-            value: "Cockrell Hill Drive-Thru Only, Dallas-Ft. Worth, TX",
-            label: "03177"
+            text: "Cockrell Hill Drive-Thru Only, Dallas-Ft. Worth, TX",
+            value: "03177"
         },
         {
-            value: "Bella Terra FSU, Houston, TX",
-            label: "03178"
+            text: "Bella Terra FSU, Houston, TX",
+            value: "03178"
         },
         {
-            value: "Cortez Plaza FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "03172"
+            text: "Cortez Plaza FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "03172"
         },
         {
-            value: "Georgia State University, Atlanta, GA",
-            label: "80148"
+            text: "Georgia State University, Atlanta, GA",
+            value: "80148"
         },
         {
-            value: "Westfield Century City, Los Angeles, CA",
-            label: "04020"
+            text: "Westfield Century City, Los Angeles, CA",
+            value: "04020"
         },
         {
-            value:
+            text:
                 "Western Carolina University, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "80147"
+            value: "80147"
         },
         {
-            value: "North Riverside FSU, Chicago, IL",
-            label: "03174"
+            text: "North Riverside FSU, Chicago, IL",
+            value: "03174"
         },
         {
-            value: "University of Central Oklahoma, Oklahoma City, OK",
-            label: "80142"
+            text: "University of Central Oklahoma, Oklahoma City, OK",
+            value: "80142"
         },
         {
-            value:
+            text:
                 "University of Alabama, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "80141"
+            value: "80141"
         },
         {
-            value: "University of Texas-Austin, Austin, TX",
-            label: "80140"
+            text: "University of Texas-Austin, Austin, TX",
+            value: "80140"
         },
         {
-            value: "42nd & Madison In-Line, New York, NY",
-            label: "04019"
+            text: "42nd & Madison In-Line, New York, NY",
+            value: "04019"
         },
         {
-            value: "Prince Frederick FSU, Washington, DC (Hagerstown, MD)",
-            label: "04016"
+            text: "Prince Frederick FSU, Washington, DC (Hagerstown, MD)",
+            value: "04016"
         },
         {
-            value: "Cicero FSU, Syracuse, NY",
-            label: "04018"
+            text: "Cicero FSU, Syracuse, NY",
+            value: "04018"
         },
         {
-            value: "Mountain View Village (UT) FSU, Salt Lake City, UT",
-            label: "04011"
+            text: "Mountain View Village (UT) FSU, Salt Lake City, UT",
+            value: "04011"
         },
         {
-            value: "University at Mill FSU, Phoenix (Prescott), AZ",
-            label: "03164"
+            text: "University at Mill FSU, Phoenix (Prescott), AZ",
+            value: "03164"
         },
         {
-            value: "Frederick Blvd. FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "03165"
+            text: "Frederick Blvd. FSU, Norfolk-Portsmouth-Newport News, VA",
+            value: "03165"
         },
         {
-            value: "Covenant Medical Ctr (Methodist Hosp), Lubbock, TX",
-            label: "80134"
+            text: "Covenant Medical Ctr (Methodist Hosp), Lubbock, TX",
+            value: "80134"
         },
         {
-            value: "Whittier Blvd & Rosemead FSU, Los Angeles, CA",
-            label: "04014"
+            text: "Whittier Blvd & Rosemead FSU, Los Angeles, CA",
+            value: "04014"
         },
         {
-            value: "University of Florida, Gainesville, FL",
-            label: "80139"
+            text: "University of Florida, Gainesville, FL",
+            value: "80139"
         },
         {
-            value: "University of Delaware, Philadelphia, PA",
-            label: "80138"
+            text: "University of Delaware, Philadelphia, PA",
+            value: "80138"
         },
         {
-            value: "Gate City FSU, Greensboro-High Point-Winston Salem, NC",
-            label: "04010"
+            text: "Gate City FSU, Greensboro-High Point-Winston Salem, NC",
+            value: "04010"
         },
         {
-            value: "Estero FSU, Ft. Myers-Naples, FL",
-            label: "02268"
+            text: "Estero FSU, Ft. Myers-Naples, FL",
+            value: "02268"
         },
         {
-            value: "Lake City FSU, Jacksonville, FL",
-            label: "03119"
+            text: "Lake City FSU, Jacksonville, FL",
+            value: "03119"
         },
         {
-            value: "Fair Lakes (VA) FSU, Washington, DC (Hagerstown, MD)",
-            label: "03113"
+            text: "Fair Lakes (VA) FSU, Washington, DC (Hagerstown, MD)",
+            value: "03113"
         },
         {
-            value: "Melrose Park FSU, Chicago, IL",
-            label: "03597"
+            text: "Melrose Park FSU, Chicago, IL",
+            value: "03597"
         },
         {
-            value: "Chicago Ridge FSU, Chicago, IL",
-            label: "03116"
+            text: "Chicago Ridge FSU, Chicago, IL",
+            value: "03116"
         },
         {
-            value: "Eastdale Mall, Montgomery-Selma, AL",
-            label: "00082"
+            text: "Eastdale Mall, Montgomery-Selma, AL",
+            value: "00082"
         },
         {
-            value: "The Grove FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "03593"
+            text: "The Grove FSU, Birmingham (Anniston and Tuscaloosa), AL",
+            value: "03593"
         },
         {
-            value: "Beltway 8 at West Road FSU, Houston, TX",
-            label: "03110"
+            text: "Beltway 8 at West Road FSU, Houston, TX",
+            value: "03110"
         },
         {
-            value: "Memorial Blvd (TN) FSU, Nashville, TN",
-            label: "03595"
+            text: "Memorial Blvd (TN) FSU, Nashville, TN",
+            value: "03595"
         },
         {
-            value: "Parkway Village FSU, Houston, TX",
-            label: "03111"
+            text: "Parkway Village FSU, Houston, TX",
+            value: "03111"
         },
         {
-            value: "Countryside FSU, Chicago, IL",
-            label: "03596"
+            text: "Countryside FSU, Chicago, IL",
+            value: "03596"
         },
         {
-            value: "Shands Hospital (Sun Terrace)-Gainesville, Gainesville, FL",
-            label: "80165"
+            text: "Shands Hospital (Sun Terrace)-Gainesville, Gainesville, FL",
+            value: "80165"
         },
         {
-            value: "Northport FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "02264"
+            text: "Northport FSU, Birmingham (Anniston and Tuscaloosa), AL",
+            value: "02264"
         },
         {
-            value: "Fruitville Pike FSU, Harrisburg-Lancaster-Lebanon-York, PA",
-            label: "03591"
+            text: "Fruitville Pike FSU, Harrisburg-Lancaster-Lebanon-York, PA",
+            value: "03591"
         },
         {
-            value:
+            text:
                 "Montana Avenue at Joe Battle Blvd. FSU, El Paso, TX (Las Cruces, NM)",
-            label: "03592"
+            value: "03592"
         },
         {
-            value:
+            text:
                 "Old Dominion University, Norfolk-Portsmouth-Newport News, VA",
-            label: "80164"
+            value: "80164"
         },
         {
-            value: "Tullahoma FSU, Nashville, TN",
-            label: "03106"
+            text: "Tullahoma FSU, Nashville, TN",
+            value: "03106"
         },
         {
-            value: "Independence Center FSU, Kansas City, MO",
-            label: "02258"
+            text: "Independence Center FSU, Kansas City, MO",
+            value: "02258"
         },
         {
-            value: "City of Industry FSU, Los Angeles, CA",
-            label: "02257"
+            text: "City of Industry FSU, Los Angeles, CA",
+            value: "02257"
         },
         {
-            value: "Hillcrest & University In-Line, Dallas-Ft. Worth, TX",
-            label: "02256"
+            text: "Hillcrest & University In-Line, Dallas-Ft. Worth, TX",
+            value: "02256"
         },
         {
-            value: "WestPointe Village FSU, San Antonio, TX",
-            label: "03109"
+            text: "WestPointe Village FSU, San Antonio, TX",
+            value: "03109"
         },
         {
-            value: "Deerbrook Mall, Houston, TX",
-            label: "00078"
+            text: "Deerbrook Mall, Houston, TX",
+            value: "00078"
         },
         {
-            value: "Prestonwood FSU, Dallas-Ft. Worth, TX",
-            label: "03586"
+            text: "Prestonwood FSU, Dallas-Ft. Worth, TX",
+            value: "03586"
         },
         {
-            value: "Dixie Hwy (KY) FSU, Louisville, KY",
-            label: "03587"
+            text: "Dixie Hwy (KY) FSU, Louisville, KY",
+            value: "03587"
         },
         {
-            value: "Valley Ranch FSU, Houston, TX",
-            label: "03588"
+            text: "Valley Ranch FSU, Houston, TX",
+            value: "03588"
         },
         {
-            value: "Fairfield Towne Center FSU, Houston, TX",
-            label: "03104"
+            text: "Fairfield Towne Center FSU, Houston, TX",
+            value: "03104"
         },
         {
-            value: "Ames FSU, Des Moines-Ames, IA",
-            label: "03589"
+            text: "Ames FSU, Des Moines-Ames, IA",
+            value: "03589"
         },
         {
-            value: "Brainerd Village FSU, Chattanooga, TN",
-            label: "03105"
+            text: "Brainerd Village FSU, Chattanooga, TN",
+            value: "03105"
         },
         {
-            value: "University of Tennessee, Knoxville, TN",
-            label: "80157"
+            text: "University of Tennessee, Knoxville, TN",
+            value: "80157"
         },
         {
-            value: "Tennessee Tech University, Nashville, TN",
-            label: "80156"
+            text: "Tennessee Tech University, Nashville, TN",
+            value: "80156"
         },
         {
-            value: "Presidio Towne Crossing FSU, Dallas-Ft. Worth, TX",
-            label: "03583"
+            text: "Presidio Towne Crossing FSU, Dallas-Ft. Worth, TX",
+            value: "03583"
         },
         {
-            value: "Bastrop FSU, Austin, TX",
-            label: "03100"
+            text: "Bastrop FSU, Austin, TX",
+            value: "03100"
         },
         {
-            value:
+            text:
                 "Greenwood (SC) FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "03584"
+            value: "03584"
         },
         {
-            value:
+            text:
                 "Furman University-Student Center, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "80154"
+            value: "80154"
         },
         {
-            value: "Florissant (MO) FSU, St. Louis, MO",
-            label: "03585"
+            text: "Florissant (MO) FSU, St. Louis, MO",
+            value: "03585"
         },
         {
-            value: "Cumberland Mall, Atlanta, GA",
-            label: "00070"
+            text: "Cumberland Mall, Atlanta, GA",
+            value: "00070"
         },
         {
-            value: "Dayton Mall, Dayton, OH",
-            label: "00076"
+            text: "Dayton Mall, Dayton, OH",
+            value: "00076"
         },
         {
-            value: "Dadeland Mall, Miami-Ft. Lauderdale, FL",
-            label: "00073"
+            text: "Dadeland Mall, Miami-Ft. Lauderdale, FL",
+            value: "00073"
         },
         {
-            value: "I-10 and Uvalde FSU, Houston, TX",
-            label: "03580"
+            text: "I-10 and Uvalde FSU, Houston, TX",
+            value: "03580"
         },
         {
-            value: "Beach & Hodges FSU, Jacksonville, FL",
-            label: "02251"
+            text: "Beach & Hodges FSU, Jacksonville, FL",
+            value: "02251"
         },
         {
-            value: "Towson University, Baltimore, MD",
-            label: "80158"
+            text: "Towson University, Baltimore, MD",
+            value: "80158"
         },
         {
-            value: "West Columbia FSU, Columbia, SC",
-            label: "02289"
+            text: "West Columbia FSU, Columbia, SC",
+            value: "02289"
         },
         {
-            value: "Rutherford Crossing FSU, Washington, DC (Hagerstown, MD)",
-            label: "02288"
+            text: "Rutherford Crossing FSU, Washington, DC (Hagerstown, MD)",
+            value: "02288"
         },
         {
-            value: "Maple Grove FSU, Minneapolis-St. Paul, MN",
-            label: "03136"
+            text: "Maple Grove FSU, Minneapolis-St. Paul, MN",
+            value: "03136"
         },
         {
-            value: "Colfax & Garfield Drive-Thru Only, Denver, CO",
-            label: "03137"
+            text: "Colfax & Garfield Drive-Thru Only, Denver, CO",
+            value: "03137"
         },
         {
-            value: "Saluda Pointe FSU, Columbia, SC",
-            label: "03138"
+            text: "Saluda Pointe FSU, Columbia, SC",
+            value: "03138"
         },
         {
-            value: "North Mount Pleasant FSU, Charleston, SC",
-            label: "02281"
+            text: "North Mount Pleasant FSU, Charleston, SC",
+            value: "02281"
         },
         {
-            value: "Mercer University, Macon, GA",
-            label: "80188"
+            text: "Mercer University, Macon, GA",
+            value: "80188"
         },
         {
-            value: "Virginia Gateway FSU, Washington, DC (Hagerstown, MD)",
-            label: "02285"
+            text: "Virginia Gateway FSU, Washington, DC (Hagerstown, MD)",
+            value: "02285"
         },
         {
-            value: "River Point FSU, Denver, CO",
-            label: "02284"
+            text: "River Point FSU, Denver, CO",
+            value: "02284"
         },
         {
-            value:
+            text:
                 "Ahwatukee Foothills Town Center FSU, Phoenix (Prescott), AZ",
-            label: "03128"
+            value: "03128"
         },
         {
-            value: "Hamilton Place, Chattanooga, TN",
-            label: "00099"
+            text: "Hamilton Place, Chattanooga, TN",
+            value: "00099"
         },
         {
-            value: "Lansdale FSU, Philadelphia, PA",
-            label: "03124"
+            text: "Lansdale FSU, Philadelphia, PA",
+            value: "03124"
         },
         {
-            value: "Mendocino Avenue FSU, San Francisco-Oakland-San Jose, CA",
-            label: "03125"
+            text: "Mendocino Avenue FSU, San Francisco-Oakland-San Jose, CA",
+            value: "03125"
         },
         {
-            value: "Framingham FSU, Boston, MA (Manchester, NH)",
-            label: "03126"
+            text: "Framingham FSU, Boston, MA (Manchester, NH)",
+            value: "03126"
         },
         {
-            value: "Willoughby Commons FSU, Cleveland-Akron (Canton), OH",
-            label: "02272"
+            text: "Willoughby Commons FSU, Cleveland-Akron (Canton), OH",
+            value: "02272"
         },
         {
-            value: "Northpark Mall (MO), Joplin, MO-Pittsburg, KS",
-            label: "00093"
+            text: "Northpark Mall (MO), Joplin, MO-Pittsburg, KS",
+            value: "00093"
         },
         {
-            value: "Denver West FSU, Denver, CO",
-            label: "03120"
+            text: "Denver West FSU, Denver, CO",
+            value: "03120"
         },
         {
-            value: "University of New Mexico, Albuquerque-Santa Fe, NM",
-            label: "80179"
+            text: "University of New Mexico, Albuquerque-Santa Fe, NM",
+            value: "80179"
         },
         {
-            value: "Fultondale FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "02271"
+            text: "Fultondale FSU, Birmingham (Anniston and Tuscaloosa), AL",
+            value: "02271"
         },
         {
-            value: "City Creek Center, Salt Lake City, UT",
-            label: "03121"
+            text: "City Creek Center, Salt Lake City, UT",
+            value: "03121"
         },
         {
-            value: "Radford University, Roanoke-Lynchburg, VA",
-            label: "80178"
+            text: "Radford University, Roanoke-Lynchburg, VA",
+            value: "80178"
         },
         {
-            value: "Eisenhower Parkway FSU, Macon, GA",
-            label: "02270"
+            text: "Eisenhower Parkway FSU, Macon, GA",
+            value: "02270"
         },
         {
-            value: "Hampton Cove In-Line DT, Huntsville-Decatur (Florence), AL",
-            label: "03123"
+            text: "Hampton Cove In-Line DT, Huntsville-Decatur (Florence), AL",
+            value: "03123"
         },
         {
-            value: "Edgewater Mall, Biloxi-Gulfport, MS",
-            label: "00092"
+            text: "Edgewater Mall, Biloxi-Gulfport, MS",
+            value: "00092"
         },
         {
-            value: "Goose Creek FSU, Charleston, SC",
-            label: "02276"
+            text: "Goose Creek FSU, Charleston, SC",
+            value: "02276"
         },
         {
-            value: "Wesley Chapel Weddington FSU, Charlotte, NC",
-            label: "02275"
+            text: "Wesley Chapel Weddington FSU, Charlotte, NC",
+            value: "02275"
         },
         {
-            value: "Vienna FSU, Parkersburg, WV",
-            label: "02274"
+            text: "Vienna FSU, Parkersburg, WV",
+            value: "02274"
         },
         {
-            value: "Regency Square (VA), Richmond-Petersburg, VA",
-            label: "00096"
+            text: "Regency Square (VA), Richmond-Petersburg, VA",
+            value: "00096"
         },
         {
-            value: "University of Virginia, Charlottesville, VA",
-            label: "80170"
+            text: "University of Virginia, Charlottesville, VA",
+            value: "80170"
         },
         {
-            value: "Centre Pointe FSU, Charleston, SC",
-            label: "01936"
+            text: "Centre Pointe FSU, Charleston, SC",
+            value: "01936"
         },
         {
-            value: "Mustang Crossing FSU, Dallas-Ft. Worth, TX",
-            label: "01934"
+            text: "Mustang Crossing FSU, Dallas-Ft. Worth, TX",
+            value: "01934"
         },
         {
-            value: "Stone Oak FSU, San Antonio, TX",
-            label: "00602"
+            text: "Stone Oak FSU, San Antonio, TX",
+            value: "00602"
         },
         {
-            value: "Jordan Creek Town Center, Des Moines-Ames, IA",
-            label: "01933"
+            text: "Jordan Creek Town Center, Des Moines-Ames, IA",
+            value: "01933"
         },
         {
-            value: "Lexington FSU, Columbia, SC",
-            label: "00609"
+            text: "Lexington FSU, Columbia, SC",
+            value: "00609"
         },
         {
-            value: "Westfield FSU, Indianapolis, IN",
-            label: "01939"
+            text: "Westfield FSU, Indianapolis, IN",
+            value: "01939"
         },
         {
-            value: "Las Colinas FSU, Dallas-Ft. Worth, TX",
-            label: "00601"
+            text: "Las Colinas FSU, Dallas-Ft. Worth, TX",
+            value: "00601"
         },
         {
-            value: "Dublin FSU, Macon, GA",
-            label: "00600"
+            text: "Dublin FSU, Macon, GA",
+            value: "00600"
         },
         {
-            value: "Gardens on Havana FSU, Denver, CO",
-            label: "01924"
+            text: "Gardens on Havana FSU, Denver, CO",
+            value: "01924"
         },
         {
-            value: "NorthPark Center, Dallas-Ft. Worth, TX",
-            label: "01928"
+            text: "NorthPark Center, Dallas-Ft. Worth, TX",
+            value: "01928"
         },
         {
-            value: "Montrose FSU, Cleveland-Akron (Canton), OH",
-            label: "01920"
+            text: "Montrose FSU, Cleveland-Akron (Canton), OH",
+            value: "01920"
         },
         {
-            value: "Rainbow & Lake Mead FSU, Las Vegas, NV",
-            label: "04198"
+            text: "Rainbow & Lake Mead FSU, Las Vegas, NV",
+            value: "04198"
         },
         {
-            value: "Sulphur Springs (TX) FSU, Dallas-Ft. Worth, TX",
-            label: "04193"
+            text: "Sulphur Springs (TX) FSU, Dallas-Ft. Worth, TX",
+            value: "04193"
         },
         {
-            value: "Denton Towne Crossing FSU, Dallas-Ft. Worth, TX",
-            label: "01919"
+            text: "Denton Towne Crossing FSU, Dallas-Ft. Worth, TX",
+            value: "01919"
         },
         {
-            value: "The District FSU, Los Angeles, CA",
-            label: "01958"
+            text: "The District FSU, Los Angeles, CA",
+            value: "01958"
         },
         {
-            value: "Fullerton FSU, Los Angeles, CA",
-            label: "02805"
+            text: "Fullerton FSU, Los Angeles, CA",
+            value: "02805"
         },
         {
-            value: "Anderson FSU, Cincinnati, OH",
-            label: "01957"
+            text: "Anderson FSU, Cincinnati, OH",
+            value: "01957"
         },
         {
-            value: "Kroger/W. Marietta Crossing, Atlanta, GA",
-            label: "00626"
+            text: "Kroger/W. Marietta Crossing, Atlanta, GA",
+            value: "00626"
         },
         {
-            value: "Enid FSU, Oklahoma City, OK",
-            label: "02804"
+            text: "Enid FSU, Oklahoma City, OK",
+            value: "02804"
         },
         {
-            value: "Eastgate FSU, Cincinnati, OH",
-            label: "01956"
+            text: "Eastgate FSU, Cincinnati, OH",
+            value: "01956"
         },
         {
-            value: "Dacula FSU, Atlanta, GA",
-            label: "02802"
+            text: "Dacula FSU, Atlanta, GA",
+            value: "02802"
         },
         {
-            value: "I-20 and Little Road FSU, Dallas-Ft. Worth, TX",
-            label: "02809"
+            text: "I-20 and Little Road FSU, Dallas-Ft. Worth, TX",
+            value: "02809"
         },
         {
-            value: "Perrysburg Plaza FSU, Toledo, OH",
-            label: "02808"
+            text: "Perrysburg Plaza FSU, Toledo, OH",
+            value: "02808"
         },
         {
-            value: "First Street FSU, San Francisco-Oakland-San Jose, CA",
-            label: "02807"
+            text: "First Street FSU, San Francisco-Oakland-San Jose, CA",
+            value: "02807"
         },
         {
-            value: "Grand Central Mall, Parkersburg, WV",
-            label: "00629"
+            text: "Grand Central Mall, Parkersburg, WV",
+            value: "00629"
         },
         {
-            value: "South Bay FSU, Los Angeles, CA",
-            label: "02806"
+            text: "South Bay FSU, Los Angeles, CA",
+            value: "02806"
         },
         {
-            value: "San Marcos FSU, San Diego, CA",
-            label: "01959"
+            text: "San Marcos FSU, San Diego, CA",
+            value: "01959"
         },
         {
-            value: "Berlin Cross Keys Road FSU, Philadelphia, PA",
-            label: "01950"
+            text: "Berlin Cross Keys Road FSU, Philadelphia, PA",
+            value: "01950"
         },
         {
-            value: "James Island FSU, Charleston, SC",
-            label: "01954"
+            text: "James Island FSU, Charleston, SC",
+            value: "01954"
         },
         {
-            value: "Lake Highlands In-Line DT, Dallas-Ft. Worth, TX",
-            label: "02801"
+            text: "Lake Highlands In-Line DT, Dallas-Ft. Worth, TX",
+            value: "02801"
         },
         {
-            value: "Mall St. Matthews, Louisville, KY",
-            label: "00621"
+            text: "Mall St. Matthews, Louisville, KY",
+            value: "00621"
         },
         {
-            value: "Custer & 121 FSU, Dallas-Ft. Worth, TX",
-            label: "01951"
+            text: "Custer & 121 FSU, Dallas-Ft. Worth, TX",
+            value: "01951"
         },
         {
-            value:
+            text:
                 "Colonial Plaza Market Center FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "00616"
+            value: "00616"
         },
         {
-            value: "Glenstone FSU, Springfield, MO",
-            label: "01947"
+            text: "Glenstone FSU, Springfield, MO",
+            value: "01947"
         },
         {
-            value: "Hillsborough Road FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "00618"
+            text: "Hillsborough Road FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "00618"
         },
         {
-            value: "Lake Jackson FSU, Houston, TX",
-            label: "00617"
+            text: "Lake Jackson FSU, Houston, TX",
+            value: "00617"
         },
         {
-            value: "River City Marketplace FSU, Jacksonville, FL",
-            label: "01948"
+            text: "River City Marketplace FSU, Jacksonville, FL",
+            value: "01948"
         },
         {
-            value: "Leeds FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "01943"
+            text: "Leeds FSU, Birmingham (Anniston and Tuscaloosa), AL",
+            value: "01943"
         },
         {
-            value: "Turtle Creek FSU, Jonesboro, AR",
-            label: "01942"
+            text: "Turtle Creek FSU, Jonesboro, AR",
+            value: "01942"
         },
         {
-            value: "Joppa Road FSU, Baltimore, MD",
-            label: "01941"
+            text: "Joppa Road FSU, Baltimore, MD",
+            value: "01941"
         },
         {
-            value: "Auburn University, Columbus, GA (Opelika, AL)",
-            label: "80318"
+            text: "Auburn University, Columbus, GA (Opelika, AL)",
+            value: "80318"
         },
         {
-            value: "Melrose Music City DTO, Nashville, TN",
-            label: "04169"
+            text: "Melrose Music City DTO, Nashville, TN",
+            value: "04169"
         },
         {
-            value: "Texas A&M-Ag Cafe, Waco-Temple-Bryan, TX",
-            label: "80322"
+            text: "Texas A&M-Ag Cafe, Waco-Temple-Bryan, TX",
+            value: "80322"
         },
         {
-            value: "22nd & 6th In-Line, New York, NY",
-            label: "04161"
+            text: "22nd & 6th In-Line, New York, NY",
+            value: "04161"
         },
         {
-            value: "Morris Plains FSU, New York, NY",
-            label: "04163"
+            text: "Morris Plains FSU, New York, NY",
+            value: "04163"
         },
         {
-            value: "Kansas State University, Topeka, KS",
-            label: "80308"
+            text: "Kansas State University, Topeka, KS",
+            value: "80308"
         },
         {
-            value: "University of North Texas, Dallas-Ft. Worth, TX",
-            label: "80307"
+            text: "University of North Texas, Dallas-Ft. Worth, TX",
+            value: "80307"
         },
         {
-            value: "Ouachita Baptist University, Little Rock-Pine Bluff, AR",
-            label: "80306"
+            text: "Ouachita Baptist University, Little Rock-Pine Bluff, AR",
+            value: "80306"
         },
         {
-            value:
+            text:
                 "Southeast Missouri State University, Paducah, KY-Cape Girardeau, MO-Harrisburg, IL",
-            label: "80305"
+            value: "80305"
         },
         {
-            value: "Harper Road FSU, Bluefield-Beckley-Oak Hill, WV",
-            label: "04158"
+            text: "Harper Road FSU, Bluefield-Beckley-Oak Hill, WV",
+            value: "04158"
         },
         {
-            value:
+            text:
                 "Hammock Ridge & Hwy 27 FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "04159"
+            value: "04159"
         },
         {
-            value:
+            text:
                 "Eastern Illinois University, Champaign & Springfield-Decatur, IL",
-            label: "80309"
+            value: "80309"
         },
         {
-            value: "University of Minnesota, Minneapolis-St. Paul, MN",
-            label: "80314"
+            text: "University of Minnesota, Minneapolis-St. Paul, MN",
+            value: "80314"
         },
         {
-            value: "Minnesota State University-Mankato, Mankato, MN",
-            label: "80312"
+            text: "Minnesota State University-Mankato, Mankato, MN",
+            value: "80312"
         },
         {
-            value: "Brighton FSU, Denver, CO",
-            label: "01911"
+            text: "Brighton FSU, Denver, CO",
+            value: "01911"
         },
         {
-            value: "Winter Garden FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "01918"
+            text: "Winter Garden FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "01918"
         },
         {
-            value: "Pueblo FSU, Colorado Springs-Pueblo, CO",
-            label: "01916"
+            text: "Pueblo FSU, Colorado Springs-Pueblo, CO",
+            value: "01916"
         },
         {
-            value:
+            text:
                 "Christopher Newport University, Norfolk-Portsmouth-Newport News, VA",
-            label: "80339"
+            value: "80339"
         },
         {
-            value: "Texas Childrens Hospital, Houston, TX",
-            label: "80338"
+            text: "Texas Childrens Hospital, Houston, TX",
+            value: "80338"
         },
         {
-            value: "75 and Campbell FSU, Dallas-Ft. Worth, TX",
-            label: "04187"
+            text: "75 and Campbell FSU, Dallas-Ft. Worth, TX",
+            value: "04187"
         },
         {
-            value: "Indiana University of Pennsylvania, Pittsburgh, PA",
-            label: "80343"
+            text: "Indiana University of Pennsylvania, Pittsburgh, PA",
+            value: "80343"
         },
         {
-            value:
+            text:
                 "University of NC-Greensboro (Elliott Center), Greensboro-High Point-Winston Salem, NC",
-            label: "80341"
+            value: "80341"
         },
         {
-            value: "Ada FSU, Sherman, TX-Ada, OK",
-            label: "04180"
+            text: "Ada FSU, Sherman, TX-Ada, OK",
+            value: "04180"
         },
         {
-            value: "Belterra Village FSU, Austin, TX",
-            label: "04181"
+            text: "Belterra Village FSU, Austin, TX",
+            value: "04181"
         },
         {
-            value: "Northshore Town Center FSU, Knoxville, TN",
-            label: "04182"
+            text: "Northshore Town Center FSU, Knoxville, TN",
+            value: "04182"
         },
         {
-            value: "I-35/Ben White FSU, Austin, TX",
-            label: "01903"
+            text: "I-35/Ben White FSU, Austin, TX",
+            value: "01903"
         },
         {
-            value: "Trexlertown FSU, Philadelphia, PA",
-            label: "01906"
+            text: "Trexlertown FSU, Philadelphia, PA",
+            value: "01906"
         },
         {
-            value:
+            text:
                 "Frostburg State University, Washington, DC (Hagerstown, MD)",
-            label: "80329"
+            value: "80329"
         },
         {
-            value: "M.D. Anderson Hospital, Houston, TX",
-            label: "80333"
+            text: "M.D. Anderson Hospital, Houston, TX",
+            value: "80333"
         },
         {
-            value: "Northeastern State University, Tulsa, OK",
-            label: "80332"
+            text: "Northeastern State University, Tulsa, OK",
+            value: "80332"
         },
         {
-            value: "Lee University, Chattanooga, TN",
-            label: "80337"
+            text: "Lee University, Chattanooga, TN",
+            value: "80337"
         },
         {
-            value: "Northern Arizona University, Phoenix (Prescott), AZ",
-            label: "80336"
+            text: "Northern Arizona University, Phoenix (Prescott), AZ",
+            value: "80336"
         },
         {
-            value:
+            text:
                 "University of Oklahoma Health Science Center, Oklahoma City, OK",
-            label: "80335"
+            value: "80335"
         },
         {
-            value: "Bridgeton (MO) FSU, St. Louis, MO",
-            label: "04175"
+            text: "Bridgeton (MO) FSU, St. Louis, MO",
+            value: "04175"
         },
         {
-            value: "Worcester FSU, Boston, MA (Manchester, NH)",
-            label: "03719"
+            text: "Worcester FSU, Boston, MA (Manchester, NH)",
+            value: "03719"
         },
         {
-            value: "Grove City FSU, Columbus, OH",
-            label: "01539"
+            text: "Grove City FSU, Columbus, OH",
+            value: "01539"
         },
         {
-            value: "Columbia (TN) FSU, Nashville, TN",
-            label: "02869"
+            text: "Columbia (TN) FSU, Nashville, TN",
+            value: "02869"
         },
         {
-            value: "West Market Street FSU, Tri-Cities, TN-VA",
-            label: "02868"
+            text: "West Market Street FSU, Tri-Cities, TN-VA",
+            value: "02868"
         },
         {
-            value: "Celebration FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "01537"
+            text: "Celebration FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "01537"
         },
         {
-            value: "North Hills Crossing FSU, El Paso, TX (Las Cruces, NM)",
-            label: "03715"
+            text: "North Hills Crossing FSU, El Paso, TX (Las Cruces, NM)",
+            value: "03715"
         },
         {
-            value: "Del Sur Town Center FSU, San Diego, CA",
-            label: "03716"
+            text: "Del Sur Town Center FSU, San Diego, CA",
+            value: "03716"
         },
         {
-            value: "Thomson FSU, Augusta, GA-Aiken, SC",
-            label: "03717"
+            text: "Thomson FSU, Augusta, GA-Aiken, SC",
+            value: "03717"
         },
         {
-            value:
+            text:
                 "Kirkman and Conroy Road FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "00685"
+            value: "00685"
         },
         {
-            value: "Northwoods Mall, Charleston, SC",
-            label: "00200"
+            text: "Northwoods Mall, Charleston, SC",
+            value: "00200"
         },
         {
-            value: "Stephanie at Warm Springs FSU, Las Vegas, NV",
-            label: "03711"
+            text: "Stephanie at Warm Springs FSU, Las Vegas, NV",
+            value: "03711"
         },
         {
-            value: "Oak Mountain FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "00684"
+            text: "Oak Mountain FSU, Birmingham (Anniston and Tuscaloosa), AL",
+            value: "00684"
         },
         {
-            value: "Norwalk FSU, New York, NY",
-            label: "03712"
+            text: "Norwalk FSU, New York, NY",
+            value: "03712"
         },
         {
-            value: "Greatwood FSU, Houston, TX",
-            label: "01531"
+            text: "Greatwood FSU, Houston, TX",
+            value: "01531"
         },
         {
-            value: "Orlando Square FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "03713"
+            text: "Orlando Square FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "03713"
         },
         {
-            value: "Cleveland Avenue FSU, Atlanta, GA",
-            label: "00683"
+            text: "Cleveland Avenue FSU, Atlanta, GA",
+            value: "00683"
         },
         {
-            value: "Cullman FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "01530"
+            text: "Cullman FSU, Birmingham (Anniston and Tuscaloosa), AL",
+            value: "01530"
         },
         {
-            value: "Northpark Mall (MS), Jackson, MS",
-            label: "00204"
+            text: "Northpark Mall (MS), Jackson, MS",
+            value: "00204"
         },
         {
-            value: "The Market Place FSU, Los Angeles, CA",
-            label: "01536"
+            text: "The Market Place FSU, Los Angeles, CA",
+            value: "01536"
         },
         {
-            value: "University and Highlands Ranch Pkwy FSU, Denver, CO",
-            label: "00689"
+            text: "University and Highlands Ranch Pkwy FSU, Denver, CO",
+            value: "00689"
         },
         {
-            value: "Harbor Blvd FSU, Los Angeles, CA",
-            label: "02867"
+            text: "Harbor Blvd FSU, Los Angeles, CA",
+            value: "02867"
         },
         {
-            value: "Oaks Mall, Gainesville, FL",
-            label: "00205"
+            text: "Oaks Mall, Gainesville, FL",
+            value: "00205"
         },
         {
-            value: "Washington Township FSU, Dayton, OH",
-            label: "01535"
+            text: "Washington Township FSU, Dayton, OH",
+            value: "01535"
         },
         {
-            value: "Deer Park FSU, Houston, TX",
-            label: "02866"
+            text: "Deer Park FSU, Houston, TX",
+            value: "02866"
         },
         {
-            value: "McCain Mall, Little Rock-Pine Bluff, AR",
-            label: "00202"
+            text: "McCain Mall, Little Rock-Pine Bluff, AR",
+            value: "00202"
         },
         {
-            value: "Willis FSU, Houston, TX",
-            label: "02865"
+            text: "Willis FSU, Houston, TX",
+            value: "02865"
         },
         {
-            value: "Brassfield FSU, Greensboro-High Point-Winston Salem, NC",
-            label: "00687"
+            text: "Brassfield FSU, Greensboro-High Point-Winston Salem, NC",
+            value: "00687"
         },
         {
-            value: "Alpharetta Commons FSU, Atlanta, GA",
-            label: "00686"
+            text: "Alpharetta Commons FSU, Atlanta, GA",
+            value: "00686"
         },
         {
-            value: "Otter Creek FSU, Little Rock-Pine Bluff, AR",
-            label: "03710"
+            text: "Otter Creek FSU, Little Rock-Pine Bluff, AR",
+            value: "03710"
         },
         {
-            value: "DeZavala Road FSU, San Antonio, TX",
-            label: "00680"
+            text: "DeZavala Road FSU, San Antonio, TX",
+            value: "00680"
         },
         {
-            value: "Ear of Corn FSU, Rochester, MN-Mason City, IA-Austin, MN",
-            label: "03708"
+            text: "Ear of Corn FSU, Rochester, MN-Mason City, IA-Austin, MN",
+            value: "03708"
         },
         {
-            value: "Lee's Summit FSU, Kansas City, MO",
-            label: "02859"
+            text: "Lee's Summit FSU, Kansas City, MO",
+            value: "02859"
         },
         {
-            value: "Bristol FSU, Tri-Cities, TN-VA",
-            label: "02858"
+            text: "Bristol FSU, Tri-Cities, TN-VA",
+            value: "02858"
         },
         {
-            value: "Lionville FSU, Philadelphia, PA",
-            label: "01527"
+            text: "Lionville FSU, Philadelphia, PA",
+            value: "01527"
         },
         {
-            value: "Easton Town Center FSU, Columbus, OH",
-            label: "02857"
+            text: "Easton Town Center FSU, Columbus, OH",
+            value: "02857"
         },
         {
-            value: "Clearwater FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "01526"
+            text: "Clearwater FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "01526"
         },
         {
-            value:
+            text:
                 "University at Rouse FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "00679"
+            value: "00679"
         },
         {
-            value: "Garden State Plaza, New York, NY",
-            label: "03705"
+            text: "Garden State Plaza, New York, NY",
+            value: "03705"
         },
         {
-            value: "Lansing FSU, Lansing, MI",
-            label: "03706"
+            text: "Lansing FSU, Lansing, MI",
+            value: "03706"
         },
         {
-            value: "Avalon FSU, Atlanta, GA",
-            label: "03700"
+            text: "Avalon FSU, Atlanta, GA",
+            value: "03700"
         },
         {
-            value: "Cameron Village FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "02850"
+            text: "Cameron Village FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "02850"
         },
         {
-            value: "South McCarran and 580 FSU, Reno, NV",
-            label: "03703"
+            text: "South McCarran and 580 FSU, Reno, NV",
+            value: "03703"
         },
         {
-            value: "Main Street FSU, Dallas-Ft. Worth, TX",
-            label: "00671"
+            text: "Main Street FSU, Dallas-Ft. Worth, TX",
+            value: "00671"
         },
         {
-            value: "Garner Towne Square FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "00678"
+            text: "Garner Towne Square FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "00678"
         },
         {
-            value: "Green Mount Commons FSU, St. Louis, MO",
-            label: "02856"
+            text: "Green Mount Commons FSU, St. Louis, MO",
+            value: "02856"
         },
         {
-            value: "Surprise Marketplace FSU, Phoenix (Prescott), AZ",
-            label: "01525"
+            text: "Surprise Marketplace FSU, Phoenix (Prescott), AZ",
+            value: "01525"
         },
         {
-            value: "Stonecrest at Piper Glen FSU, Charlotte, NC",
-            label: "00677"
+            text: "Stonecrest at Piper Glen FSU, Charlotte, NC",
+            value: "00677"
         },
         {
-            value: "Stapley Drive FSU, Phoenix (Prescott), AZ",
-            label: "01524"
+            text: "Stapley Drive FSU, Phoenix (Prescott), AZ",
+            value: "01524"
         },
         {
-            value: "FM 620 North FSU, Austin, TX",
-            label: "00676"
+            text: "FM 620 North FSU, Austin, TX",
+            value: "00676"
         },
         {
-            value: "Ambassador Caffery Parkway FSU, Lafayette, LA",
-            label: "00670"
+            text: "Ambassador Caffery Parkway FSU, Lafayette, LA",
+            value: "00670"
         },
         {
-            value: "Quintard Mall, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "00228"
+            text: "Quintard Mall, Birmingham (Anniston and Tuscaloosa), AL",
+            value: "00228"
         },
         {
-            value: "Harlingen FSU, Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "02407"
+            text: "Harlingen FSU, Harlingen-Weslaco-Brownsville-McAllen, TX",
+            value: "02407"
         },
         {
-            value: "Paddock Mall, Orlando-Daytona Beach-Melbourne, FL",
-            label: "00229"
+            text: "Paddock Mall, Orlando-Daytona Beach-Melbourne, FL",
+            value: "00229"
         },
         {
-            value: "Victory & Fallbrook FSU, Los Angeles, CA",
-            label: "03739"
+            text: "Victory & Fallbrook FSU, Los Angeles, CA",
+            value: "03739"
         },
         {
-            value: "Glendora Commons In-Line DT, Los Angeles, CA",
-            label: "03733"
+            text: "Glendora Commons In-Line DT, Los Angeles, CA",
+            value: "03733"
         },
         {
-            value: "Danville Mall, Roanoke-Lynchburg, VA",
-            label: "00222"
+            text: "Danville Mall, Roanoke-Lynchburg, VA",
+            value: "00222"
         },
         {
-            value: "Southwest Military FSU, San Antonio, TX",
-            label: "02401"
+            text: "Southwest Military FSU, San Antonio, TX",
+            value: "02401"
         },
         {
-            value: "Millsboro FSU, Salisbury, MD",
-            label: "02884"
+            text: "Millsboro FSU, Salisbury, MD",
+            value: "02884"
         },
         {
-            value: "Raintree Drive & 101 FSU, Phoenix (Prescott), AZ",
-            label: "01553"
+            text: "Raintree Drive & 101 FSU, Phoenix (Prescott), AZ",
+            value: "01553"
         },
         {
-            value: "Town East Mall, Dallas-Ft. Worth, TX",
-            label: "00223"
+            text: "Town East Mall, Dallas-Ft. Worth, TX",
+            value: "00223"
         },
         {
-            value: "Melbourne Square, Orlando-Daytona Beach-Melbourne, FL",
-            label: "00221"
+            text: "Melbourne Square, Orlando-Daytona Beach-Melbourne, FL",
+            value: "00221"
         },
         {
-            value: "Greeley FSU, Denver, CO",
-            label: "02888"
+            text: "Greeley FSU, Denver, CO",
+            value: "02888"
         },
         {
-            value: "Delta Shores FSU, Sacramento-Stockton-Modesto, CA",
-            label: "03730"
+            text: "Delta Shores FSU, Sacramento-Stockton-Modesto, CA",
+            value: "03730"
         },
         {
-            value: "Salina FSU, Wichita-Hutchinson, KS Plus",
-            label: "03731"
+            text: "Salina FSU, Wichita-Hutchinson, KS Plus",
+            value: "03731"
         },
         {
-            value: "Charlotte Pike FSU, Nashville, TN",
-            label: "02886"
+            text: "Charlotte Pike FSU, Nashville, TN",
+            value: "02886"
         },
         {
-            value: "Gonzales (LA) FSU, Baton Rouge, LA",
-            label: "03732"
+            text: "Gonzales (LA) FSU, Baton Rouge, LA",
+            value: "03732"
         },
         {
-            value: "North Carefree FSU, Colorado Springs-Pueblo, CO",
-            label: "01550"
+            text: "North Carefree FSU, Colorado Springs-Pueblo, CO",
+            value: "01550"
         },
         {
-            value:
+            text:
                 "Grand Canyon University - Diamondback Apartments, Phoenix (Prescott), AZ",
-            label: "80700"
+            value: "80700"
         },
         {
-            value: "Parkdale Mall, Beaumont-Port Arthur, TX",
-            label: "00219"
+            text: "Parkdale Mall, Beaumont-Port Arthur, TX",
+            value: "00219"
         },
         {
-            value: "Pecanland Mall, Monroe, LA-El Dorado, AR",
-            label: "00218"
+            text: "Pecanland Mall, Monroe, LA-El Dorado, AR",
+            value: "00218"
         },
         {
-            value: "Brandon FSU, Jackson, MS",
-            label: "02879"
+            text: "Brandon FSU, Jackson, MS",
+            value: "02879"
         },
         {
-            value: "Grand Forks FSU, Fargo-Valley City, ND",
-            label: "03728"
+            text: "Grand Forks FSU, Fargo-Valley City, ND",
+            value: "03728"
         },
         {
-            value: "Sahara at I-15 FSU, Las Vegas, NV",
-            label: "03729"
+            text: "Sahara at I-15 FSU, Las Vegas, NV",
+            value: "03729"
         },
         {
-            value: "Lovejoy Station FSU, Atlanta, GA",
-            label: "00696"
+            text: "Lovejoy Station FSU, Atlanta, GA",
+            value: "00696"
         },
         {
-            value: "Pines and Flamingo FSU, Miami-Ft. Lauderdale, FL",
-            label: "02874"
+            text: "Pines and Flamingo FSU, Miami-Ft. Lauderdale, FL",
+            value: "02874"
         },
         {
-            value:
+            text:
                 "28th & Beltline FSU, Grand Rapids-Kalamazoo-Battle Creek, MI",
-            label: "03723"
+            value: "03723"
         },
         {
-            value:
+            text:
                 "South Florida Avenue FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "00695"
+            value: "00695"
         },
         {
-            value: "Winter Haven FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "02873"
+            text: "Winter Haven FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "02873"
         },
         {
-            value: "Bowie Marketplace FSU, Washington, DC (Hagerstown, MD)",
-            label: "03724"
+            text: "Bowie Marketplace FSU, Washington, DC (Hagerstown, MD)",
+            value: "03724"
         },
         {
-            value: "New Tampa at I-75 FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "00694"
+            text: "New Tampa at I-75 FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "00694"
         },
         {
-            value: "Kissimmee FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "02871"
+            text: "Kissimmee FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "02871"
         },
         {
-            value: "Oglethorpe Mall, Savannah, GA",
-            label: "00210"
+            text: "Oglethorpe Mall, Savannah, GA",
+            value: "00210"
         },
         {
-            value: "Market of Hilliard FSU, Columbus, OH",
-            label: "01540"
+            text: "Market of Hilliard FSU, Columbus, OH",
+            value: "01540"
         },
         {
-            value: "Orange Park Mall, Jacksonville, FL",
-            label: "00215"
+            text: "Orange Park Mall, Jacksonville, FL",
+            value: "00215"
         },
         {
-            value: "Harrison Square FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "00699"
+            text: "Harrison Square FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "00699"
         },
         {
-            value: "Columbus FSU, Columbus-Tupelo-West Point-Houston, MS",
-            label: "02877"
+            text: "Columbus FSU, Columbus-Tupelo-West Point-Houston, MS",
+            value: "02877"
         },
         {
-            value: "Largo FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "01546"
+            text: "Largo FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "01546"
         },
         {
-            value: "Lake Norman FSU, Charlotte, NC",
-            label: "00698"
+            text: "Lake Norman FSU, Charlotte, NC",
+            value: "00698"
         },
         {
-            value: "Oakwood Center, New Orleans, LA",
-            label: "00214"
+            text: "Oakwood Center, New Orleans, LA",
+            value: "00214"
         },
         {
-            value: "Hutchinson FSU, Wichita-Hutchinson, KS Plus",
-            label: "03721"
+            text: "Hutchinson FSU, Wichita-Hutchinson, KS Plus",
+            value: "03721"
         },
         {
-            value: "Colonies Crossroads FSU, Los Angeles, CA",
-            label: "01544"
+            text: "Colonies Crossroads FSU, Los Angeles, CA",
+            value: "01544"
         },
         {
-            value: "Inwood Road FSU, Dallas-Ft. Worth, TX",
-            label: "00692"
+            text: "Inwood Road FSU, Dallas-Ft. Worth, TX",
+            value: "00692"
         },
         {
-            value: "Bowie FSU, Washington, DC (Hagerstown, MD)",
-            label: "00691"
+            text: "Bowie FSU, Washington, DC (Hagerstown, MD)",
+            value: "00691"
         },
         {
-            value: "1960 / I-45 FSU, Houston, TX",
-            label: "02826"
+            text: "1960 / I-45 FSU, Houston, TX",
+            value: "02826"
         },
         {
-            value: "Arbor Place, Atlanta, GA",
-            label: "00648"
+            text: "Arbor Place, Atlanta, GA",
+            value: "00648"
         },
         {
-            value: "Guntersville FSU, Huntsville-Decatur (Florence), AL",
-            label: "01979"
+            text: "Guntersville FSU, Huntsville-Decatur (Florence), AL",
+            value: "01979"
         },
         {
-            value: "Wolfcreek FSU, Memphis, TN",
-            label: "00647"
+            text: "Wolfcreek FSU, Memphis, TN",
+            value: "00647"
         },
         {
-            value: "59 and Little York Drive-Thru Only, Houston, TX",
-            label: "02825"
+            text: "59 and Little York Drive-Thru Only, Houston, TX",
+            value: "02825"
         },
         {
-            value:
+            text:
                 "Pleasant Grove Road FSU, Ft. Smith-Fayetteville-Springdale-Rogers, AR",
-            label: "01977"
+            value: "01977"
         },
         {
-            value:
+            text:
                 "Cape Girardeau FSU, Paducah, KY-Cape Girardeau, MO-Harrisburg, IL",
-            label: "02829"
+            value: "02829"
         },
         {
-            value:
+            text:
                 "Mobile Infirmary, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "80715"
+            value: "80715"
         },
         {
-            value: "Hiram FSU, Atlanta, GA",
-            label: "00640"
+            text: "Hiram FSU, Atlanta, GA",
+            value: "00640"
         },
         {
-            value: "Chesterfield Valley FSU, St. Louis, MO",
-            label: "01976"
+            text: "Chesterfield Valley FSU, St. Louis, MO",
+            value: "01976"
         },
         {
-            value: "135th and 69 Hwy FSU, Kansas City, MO",
-            label: "01975"
+            text: "135th and 69 Hwy FSU, Kansas City, MO",
+            value: "01975"
         },
         {
-            value: "South College Station FSU, Waco-Temple-Bryan, TX",
-            label: "02822"
+            text: "South College Station FSU, Waco-Temple-Bryan, TX",
+            value: "02822"
         },
         {
-            value:
+            text:
                 "Duke University Childrens Hospital, Raleigh-Durham (Fayetteville), NC",
-            label: "80718"
+            value: "80718"
         },
         {
-            value: "Broken Arrow FSU, Tulsa, OK",
-            label: "02821"
+            text: "Broken Arrow FSU, Tulsa, OK",
+            value: "02821"
         },
         {
-            value: "Statesboro FSU, Savannah, GA",
-            label: "00643"
+            text: "Statesboro FSU, Savannah, GA",
+            value: "00643"
         },
         {
-            value: "45 & Crosstimbers FSU, Houston, TX",
-            label: "02820"
+            text: "45 & Crosstimbers FSU, Houston, TX",
+            value: "02820"
         },
         {
-            value: "Stillwater FSU, Oklahoma City, OK",
-            label: "01973"
+            text: "Stillwater FSU, Oklahoma City, OK",
+            value: "01973"
         },
         {
-            value: "Chippenham Hospital, Richmond-Petersburg, VA",
-            label: "80720"
+            text: "Chippenham Hospital, Richmond-Petersburg, VA",
+            value: "80720"
         },
         {
-            value: "Searcy In-Line DT, Little Rock-Pine Bluff, AR",
-            label: "02815"
+            text: "Searcy In-Line DT, Little Rock-Pine Bluff, AR",
+            value: "02815"
         },
         {
-            value: "Paradise Valley FSU, Phoenix (Prescott), AZ",
-            label: "01967"
+            text: "Paradise Valley FSU, Phoenix (Prescott), AZ",
+            value: "01967"
         },
         {
-            value: "Perimeter Pointe FSU, Atlanta, GA",
-            label: "00636"
+            text: "Perimeter Pointe FSU, Atlanta, GA",
+            value: "00636"
         },
         {
-            value: "Washington Township at Greentree Rd FSU, Philadelphia, PA",
-            label: "02814"
+            text: "Washington Township at Greentree Rd FSU, Philadelphia, PA",
+            value: "02814"
         },
         {
-            value: "Casa Grande FSU, Phoenix (Prescott), AZ",
-            label: "01966"
+            text: "Casa Grande FSU, Phoenix (Prescott), AZ",
+            value: "01966"
         },
         {
-            value: "Benbrook FSU, Dallas-Ft. Worth, TX",
-            label: "02813"
+            text: "Benbrook FSU, Dallas-Ft. Worth, TX",
+            value: "02813"
         },
         {
-            value: "Louis Armstrong New Orleans Int'l Airport, New Orleans, LA",
-            label: "80709"
+            text: "Louis Armstrong New Orleans Int'l Airport, New Orleans, LA",
+            value: "80709"
         },
         {
-            value: "West Cobb FSU, Atlanta, GA",
-            label: "00639"
+            text: "West Cobb FSU, Atlanta, GA",
+            value: "00639"
         },
         {
-            value: "Central & Rock Road FSU, Wichita-Hutchinson, KS Plus",
-            label: "02817"
+            text: "Central & Rock Road FSU, Wichita-Hutchinson, KS Plus",
+            value: "02817"
         },
         {
-            value: "Woodbury Town Center FSU, Los Angeles, CA",
-            label: "01961"
+            text: "Woodbury Town Center FSU, Los Angeles, CA",
+            value: "01961"
         },
         {
-            value: "Cerritos FSU, Los Angeles, CA",
-            label: "01960"
+            text: "Cerritos FSU, Los Angeles, CA",
+            value: "01960"
         },
         {
-            value:
+            text:
                 "University of West Florida, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "80703"
+            value: "80703"
         },
         {
-            value: "Fairmont State University, Clarksburg-Weston, WV",
-            label: "80702"
+            text: "Fairmont State University, Clarksburg-Weston, WV",
+            value: "80702"
         },
         {
-            value: "Nicholls State University, New Orleans, LA",
-            label: "80708"
+            text: "Nicholls State University, New Orleans, LA",
+            value: "80708"
         },
         {
-            value:
+            text:
                 "Western Illinois University, Quincy, IL-Hannibal, MO-Keokuk, IA",
-            label: "80707"
+            value: "80707"
         },
         {
-            value:
+            text:
                 "Thruway Shopping Center FSU, Greensboro-High Point-Winston Salem, NC",
-            label: "00633"
+            value: "00633"
         },
         {
-            value: "Georgia Street FSU, Amarillo, TX",
-            label: "02811"
+            text: "Georgia Street FSU, Amarillo, TX",
+            value: "02811"
         },
         {
-            value:
+            text:
                 "Six Forks and Strickland Road FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "01963"
+            value: "01963"
         },
         {
-            value: "Altamesa and McCart FSU, Dallas-Ft. Worth, TX",
-            label: "02810"
+            text: "Altamesa and McCart FSU, Dallas-Ft. Worth, TX",
+            value: "02810"
         },
         {
-            value: "Fruitville Road FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "00632"
+            text: "Fruitville Road FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "00632"
         },
         {
-            value: "Newton Plaza FSU, Atlanta, GA",
-            label: "00631"
+            text: "Newton Plaza FSU, Atlanta, GA",
+            value: "00631"
         },
         {
-            value:
+            text:
                 "University of Nebraska - Lincoln, Lincoln & Hastings-Kearney, NE",
-            label: "80705"
+            value: "80705"
         },
         {
-            value:
+            text:
                 "Georgia Southern University - Armstrong Campus, Savannah, GA",
-            label: "80711"
+            value: "80711"
         },
         {
-            value: "Dixie State University, Salt Lake City, UT",
-            label: "80710"
+            text: "Dixie State University, Salt Lake City, UT",
+            value: "80710"
         },
         {
-            value: "Salem FSU, Roanoke-Lynchburg, VA",
-            label: "02849"
+            text: "Salem FSU, Roanoke-Lynchburg, VA",
+            value: "02849"
         },
         {
-            value: "Chino Hills FSU, Los Angeles, CA",
-            label: "01517"
+            text: "Chino Hills FSU, Los Angeles, CA",
+            value: "01517"
         },
         {
-            value: "Monmouth Mall, New York, NY",
-            label: "00669"
+            text: "Monmouth Mall, New York, NY",
+            value: "00669"
         },
         {
-            value: "Homberg Drive FSU, Knoxville, TN",
-            label: "02847"
+            text: "Homberg Drive FSU, Knoxville, TN",
+            value: "02847"
         },
         {
-            value: "Johns Hopkins Road FSU, Baltimore, MD",
-            label: "01999"
+            text: "Johns Hopkins Road FSU, Baltimore, MD",
+            value: "01999"
         },
         {
-            value: "Feathersound FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "00668"
+            text: "Feathersound FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "00668"
         },
         {
-            value: "Tuckernuck Plaza FSU, Richmond-Petersburg, VA",
-            label: "01519"
+            text: "Tuckernuck Plaza FSU, Richmond-Petersburg, VA",
+            value: "01519"
         },
         {
-            value: "Loyola Water Tower In-Line, Chicago, IL",
-            label: "02841"
+            text: "Loyola Water Tower In-Line, Chicago, IL",
+            value: "02841"
         },
         {
-            value:
+            text:
                 "Pelham Road FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "00663"
+            value: "00663"
         },
         {
-            value: "Madison (GA) FSU, Atlanta, GA",
-            label: "01994"
+            text: "Madison (GA) FSU, Atlanta, GA",
+            value: "01994"
         },
         {
-            value: "Salem Crossing FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "00662"
+            text: "Salem Crossing FSU, Norfolk-Portsmouth-Newport News, VA",
+            value: "00662"
         },
         {
-            value: "South Jordan FSU, Salt Lake City, UT",
-            label: "01993"
+            text: "South Jordan FSU, Salt Lake City, UT",
+            value: "01993"
         },
         {
-            value:
+            text:
                 "University at Forsyth FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "00661"
+            value: "00661"
         },
         {
-            value: "Lake Buena Vista FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "00660"
+            text: "Lake Buena Vista FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "00660"
         },
         {
-            value: "Smyrna (TN) FSU, Nashville, TN",
-            label: "01991"
+            text: "Smyrna (TN) FSU, Nashville, TN",
+            value: "01991"
         },
         {
-            value: "Eastlake Terraces FSU, San Diego, CA",
-            label: "01514"
+            text: "Eastlake Terraces FSU, San Diego, CA",
+            value: "01514"
         },
         {
-            value: "Vinings FSU, Atlanta, GA",
-            label: "01998"
+            text: "Vinings FSU, Atlanta, GA",
+            value: "01998"
         },
         {
-            value: "Mount Prospect FSU, Chicago, IL",
-            label: "02845"
+            text: "Mount Prospect FSU, Chicago, IL",
+            value: "02845"
         },
         {
-            value: "Elk Grove Marketplace FSU, Sacramento-Stockton-Modesto, CA",
-            label: "01997"
+            text: "Elk Grove Marketplace FSU, Sacramento-Stockton-Modesto, CA",
+            value: "01997"
         },
         {
-            value: "Paseo Del Norte FSU, Albuquerque-Santa Fe, NM",
-            label: "01996"
+            text: "Paseo Del Norte FSU, Albuquerque-Santa Fe, NM",
+            value: "01996"
         },
         {
-            value: "Orangeburg FSU, Columbia, SC",
-            label: "02843"
+            text: "Orangeburg FSU, Columbia, SC",
+            value: "02843"
         },
         {
-            value: "Stuart FSU, West Palm Beach-Ft. Pierce, FL",
-            label: "01995"
+            text: "Stuart FSU, West Palm Beach-Ft. Pierce, FL",
+            value: "01995"
         },
         {
-            value: "Quarry Creek FSU, San Diego, CA",
-            label: "01507"
+            text: "Quarry Creek FSU, San Diego, CA",
+            value: "01507"
         },
         {
-            value: "Coastal Grand, Myrtle Beach-Florence, SC",
-            label: "01506"
+            text: "Coastal Grand, Myrtle Beach-Florence, SC",
+            value: "01506"
         },
         {
-            value: "Grapevine Mills FSU, Dallas-Ft. Worth, TX",
-            label: "00657"
+            text: "Grapevine Mills FSU, Dallas-Ft. Worth, TX",
+            value: "00657"
         },
         {
-            value: "Temecula FSU, Los Angeles, CA",
-            label: "01509"
+            text: "Temecula FSU, Los Angeles, CA",
+            value: "01509"
         },
         {
-            value: "Emory Road FSU, Knoxville, TN",
-            label: "02839"
+            text: "Emory Road FSU, Knoxville, TN",
+            value: "02839"
         },
         {
-            value: "South Bend FSU, South Bend-Elkhart, IN",
-            label: "01983"
+            text: "South Bend FSU, South Bend-Elkhart, IN",
+            value: "01983"
         },
         {
-            value: "Yuma FSU, Yuma, AZ-El Centro, CA",
-            label: "02830"
+            text: "Yuma FSU, Yuma, AZ-El Centro, CA",
+            value: "02830"
         },
         {
-            value: "Carolinas Medical Center, Charlotte, NC",
-            label: "00652"
+            text: "Carolinas Medical Center, Charlotte, NC",
+            value: "00652"
         },
         {
-            value:
+            text:
                 "Easley FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "00651"
+            value: "00651"
         },
         {
-            value: "Starr's Mill FSU, Atlanta, GA",
-            label: "01982"
+            text: "Starr's Mill FSU, Atlanta, GA",
+            value: "01982"
         },
         {
-            value: "Four Corners FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "01980"
+            text: "Four Corners FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "01980"
         },
         {
-            value: "Port Charlotte FSU, Ft. Myers-Naples, FL",
-            label: "01986"
+            text: "Port Charlotte FSU, Ft. Myers-Naples, FL",
+            value: "01986"
         },
         {
-            value: "Murray FSU, Salt Lake City, UT",
-            label: "02833"
+            text: "Murray FSU, Salt Lake City, UT",
+            value: "02833"
         },
         {
-            value: "Polaris Parkway FSU, Columbus, OH",
-            label: "01501"
+            text: "Polaris Parkway FSU, Columbus, OH",
+            value: "01501"
         },
         {
-            value: "Rivers Avenue FSU, Charleston, SC",
-            label: "00654"
+            text: "Rivers Avenue FSU, Charleston, SC",
+            value: "00654"
         },
         {
-            value: "Fairview Heights FSU, St. Louis, MO",
-            label: "02831"
+            text: "Fairview Heights FSU, St. Louis, MO",
+            value: "02831"
         },
         {
-            value: "Fort Collins FSU, Denver, CO",
-            label: "02346"
+            text: "Fort Collins FSU, Denver, CO",
+            value: "02346"
         },
         {
-            value: "Reisterstown FSU, Baltimore, MD",
-            label: "03678"
+            text: "Reisterstown FSU, Baltimore, MD",
+            value: "03678"
         },
         {
-            value: "North Beltline Road FSU, Dallas-Ft. Worth, TX",
-            label: "01015"
+            text: "North Beltline Road FSU, Dallas-Ft. Worth, TX",
+            value: "01015"
         },
         {
-            value: "Mall Del Norte, Laredo, TX",
-            label: "00167"
+            text: "Mall Del Norte, Laredo, TX",
+            value: "00167"
         },
         {
-            value: "Terminus In-Line, Atlanta, GA",
-            label: "02345"
+            text: "Terminus In-Line, Atlanta, GA",
+            value: "02345"
         },
         {
-            value: "Magnolia Mall (Inside), Myrtle Beach-Florence, SC",
-            label: "00168"
+            text: "Magnolia Mall (Inside), Myrtle Beach-Florence, SC",
+            value: "00168"
         },
         {
-            value:
+            text:
                 "Waterloo FSU, Cedar Rapids-Waterloo-Iowa City & Dubuque, IA",
-            label: "03679"
+            value: "03679"
         },
         {
-            value: "Howell FSU, New York, NY",
-            label: "01498"
+            text: "Howell FSU, New York, NY",
+            value: "01498"
         },
         {
-            value: "South Coulter Street FSU, Amarillo, TX",
-            label: "01014"
+            text: "South Coulter Street FSU, Amarillo, TX",
+            value: "01014"
         },
         {
-            value: "West County Center, St. Louis, MO",
-            label: "01497"
+            text: "West County Center, St. Louis, MO",
+            value: "01497"
         },
         {
-            value: "Mall of Abilene, Abilene-Sweetwater, TX",
-            label: "00166"
+            text: "Mall of Abilene, Abilene-Sweetwater, TX",
+            value: "00166"
         },
         {
-            value: "Camp Creek Parkway FSU, Atlanta, GA",
-            label: "01496"
+            text: "Camp Creek Parkway FSU, Atlanta, GA",
+            value: "01496"
         },
         {
-            value: "Poplar Avenue FSU, Memphis, TN",
-            label: "01018"
+            text: "Poplar Avenue FSU, Memphis, TN",
+            value: "01018"
         },
         {
-            value: "Eldorado & Ridge FSU, Dallas-Ft. Worth, TX",
-            label: "03675"
+            text: "Eldorado & Ridge FSU, Dallas-Ft. Worth, TX",
+            value: "03675"
         },
         {
-            value: "Midland Park Mall, Odessa-Midland, TX",
-            label: "00169"
+            text: "Midland Park Mall, Odessa-Midland, TX",
+            value: "00169"
         },
         {
-            value: "I-25 & Harmony Rd FSU, Denver, CO",
-            label: "03676"
+            text: "I-25 & Harmony Rd FSU, Denver, CO",
+            value: "03676"
         },
         {
-            value: "Exeter FSU, Philadelphia, PA",
-            label: "02348"
+            text: "Exeter FSU, Philadelphia, PA",
+            value: "02348"
         },
         {
-            value:
+            text:
                 "Hillcrest Shopping Center FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "01017"
+            value: "01017"
         },
         {
-            value: "Alameda Avenue FSU, Denver, CO",
-            label: "02347"
+            text: "Alameda Avenue FSU, Denver, CO",
+            value: "02347"
         },
         {
-            value: "Richardson FSU, Dallas-Ft. Worth, TX",
-            label: "01491"
+            text: "Richardson FSU, Dallas-Ft. Worth, TX",
+            value: "01491"
         },
         {
-            value: "Aspen Grove FSU, Denver, CO",
-            label: "03671"
+            text: "Aspen Grove FSU, Denver, CO",
+            value: "03671"
         },
         {
-            value: "Goodyear FSU, Phoenix (Prescott), AZ",
-            label: "01490"
+            text: "Goodyear FSU, Phoenix (Prescott), AZ",
+            value: "01490"
         },
         {
-            value: "West Hartford FSU, Hartford & New Haven, CT",
-            label: "03673"
+            text: "West Hartford FSU, Hartford & New Haven, CT",
+            value: "03673"
         },
         {
-            value: "Hulen Mall, Dallas-Ft. Worth, TX",
-            label: "00163"
+            text: "Hulen Mall, Dallas-Ft. Worth, TX",
+            value: "00163"
         },
         {
-            value: "Garden of the Gods FSU, Colorado Springs-Pueblo, CO",
-            label: "02342"
+            text: "Garden of the Gods FSU, Colorado Springs-Pueblo, CO",
+            value: "02342"
         },
         {
-            value: "Deptford FSU, Philadelphia, PA",
-            label: "01494"
+            text: "Deptford FSU, Philadelphia, PA",
+            value: "01494"
         },
         {
-            value: "Longview Mall, Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "00164"
+            text: "Longview Mall, Tyler-Longview(Lufkin & Nacogdoches), TX",
+            value: "00164"
         },
         {
-            value: "Belmont FSU, Charlotte, NC",
-            label: "02341"
+            text: "Belmont FSU, Charlotte, NC",
+            value: "02341"
         },
         {
-            value: "Jefferson Mall, Louisville, KY",
-            label: "00161"
+            text: "Jefferson Mall, Louisville, KY",
+            value: "00161"
         },
         {
-            value:
+            text:
                 "Mitchell Ranch Plaza FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "01493"
+            value: "01493"
         },
         {
-            value: "Lufkin Mall, Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "00162"
+            text: "Lufkin Mall, Tyler-Longview(Lufkin & Nacogdoches), TX",
+            value: "00162"
         },
         {
-            value: "Truett's Grill - Griffin, Atlanta, GA",
-            label: "70049"
+            text: "Truett's Grill - Griffin, Atlanta, GA",
+            value: "70049"
         },
         {
-            value: "Truett's Chick-fil-A - Newnan, Atlanta, GA",
-            label: "70045"
+            text: "Truett's Chick-fil-A - Newnan, Atlanta, GA",
+            value: "70045"
         },
         {
-            value: "El Toro Road FSU, Los Angeles, CA",
-            label: "02335"
+            text: "El Toro Road FSU, Los Angeles, CA",
+            value: "02335"
         },
         {
-            value: "Alon Town Center FSU, San Antonio, TX",
-            label: "03667"
+            text: "Alon Town Center FSU, San Antonio, TX",
+            value: "03667"
         },
         {
-            value: "Pleasant Hill Dwarf House, Atlanta, GA",
-            label: "70042"
+            text: "Pleasant Hill Dwarf House, Atlanta, GA",
+            value: "70042"
         },
         {
-            value: "White Oak Crossing FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "01488"
+            text: "White Oak Crossing FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "01488"
         },
         {
-            value: "Stockbridge Dwarf House, Atlanta, GA",
-            label: "70041"
+            text: "Stockbridge Dwarf House, Atlanta, GA",
+            value: "70041"
         },
         {
-            value: "Carmel Mountain FSU, San Diego, CA",
-            label: "02334"
+            text: "Carmel Mountain FSU, San Diego, CA",
+            value: "02334"
         },
         {
-            value: "The Crossing FSU, Indianapolis, IN",
-            label: "01487"
+            text: "The Crossing FSU, Indianapolis, IN",
+            value: "01487"
         },
         {
-            value: "Eagle Pass FSU, San Antonio, TX",
-            label: "03668"
+            text: "Eagle Pass FSU, San Antonio, TX",
+            value: "03668"
         },
         {
-            value: "Lynnhaven Mall, Norfolk-Portsmouth-Newport News, VA",
-            label: "00154"
+            text: "Lynnhaven Mall, Norfolk-Portsmouth-Newport News, VA",
+            value: "00154"
         },
         {
-            value: "Truett's Chick-fil-A - Rome, Atlanta, GA",
-            label: "70044"
+            text: "Truett's Chick-fil-A - Rome, Atlanta, GA",
+            value: "70044"
         },
         {
-            value: "Pooler FSU, Savannah, GA",
-            label: "01486"
+            text: "Pooler FSU, Savannah, GA",
+            value: "01486"
         },
         {
-            value: "Woodstock Dwarf House, Atlanta, GA",
-            label: "70043"
+            text: "Woodstock Dwarf House, Atlanta, GA",
+            value: "70043"
         },
         {
-            value: "Ingram Park Mall (Inside), San Antonio, TX",
-            label: "00155"
+            text: "Ingram Park Mall (Inside), San Antonio, TX",
+            value: "00155"
         },
         {
-            value: "North Haven FSU, Hartford & New Haven, CT",
-            label: "03663"
+            text: "North Haven FSU, Hartford & New Haven, CT",
+            value: "03663"
         },
         {
-            value: "March Lane at I-5 FSU, Sacramento-Stockton-Modesto, CA",
-            label: "03664"
+            text: "March Lane at I-5 FSU, Sacramento-Stockton-Modesto, CA",
+            value: "03664"
         },
         {
-            value: "Hanes Mall, Greensboro-High Point-Winston Salem, NC",
-            label: "00159"
+            text: "Hanes Mall, Greensboro-High Point-Winston Salem, NC",
+            value: "00159"
         },
         {
-            value: "Wards Road FSU, Roanoke-Lynchburg, VA",
-            label: "01489"
+            text: "Wards Road FSU, Roanoke-Lynchburg, VA",
+            value: "01489"
         },
         {
-            value: "Imperial & Bloomfield Norwalk FSU, Los Angeles, CA",
-            label: "03660"
+            text: "Imperial & Bloomfield Norwalk FSU, Los Angeles, CA",
+            value: "03660"
         },
         {
-            value: "Tenleytown In-Line, Washington, DC (Hagerstown, MD)",
-            label: "03661"
+            text: "Tenleytown In-Line, Washington, DC (Hagerstown, MD)",
+            value: "03661"
         },
         {
-            value: "46th & 6th In-Line, New York, NY",
-            label: "03662"
+            text: "46th & 6th In-Line, New York, NY",
+            value: "03662"
         },
         {
-            value: "Covington - Highway 190 FSU, New Orleans, LA",
-            label: "01484"
+            text: "Covington - Highway 190 FSU, New Orleans, LA",
+            value: "01484"
         },
         {
-            value: "Ventura FSU, Los Angeles, CA",
-            label: "02331"
+            text: "Ventura FSU, Los Angeles, CA",
+            value: "02331"
         },
         {
-            value: "Independence Mall, Wilmington, NC",
-            label: "00153"
+            text: "Independence Mall, Wilmington, NC",
+            value: "00153"
         },
         {
-            value: "Whitman Square FSU, Philadelphia, PA",
-            label: "01482"
+            text: "Whitman Square FSU, Philadelphia, PA",
+            value: "01482"
         },
         {
-            value: "Glenbrook FSU, Nashville, TN",
-            label: "01481"
+            text: "Glenbrook FSU, Nashville, TN",
+            value: "01481"
         },
         {
-            value: "Northpark Mall (IA), Davenport, IA-Rock Island-Moline, IL",
-            label: "00189"
+            text: "Northpark Mall (IA), Davenport, IA-Rock Island-Moline, IL",
+            value: "00189"
         },
         {
-            value: "Meyerland Plaza FSU, Houston, TX",
-            label: "01037"
+            text: "Meyerland Plaza FSU, Houston, TX",
+            value: "01037"
         },
         {
-            value: "Dwarf House Shipping Container Drive-Thru, Atlanta, GA",
-            label: "70052"
+            text: "Dwarf House Shipping Container Drive-Thru, Atlanta, GA",
+            value: "70052"
         },
         {
-            value: "Ocala FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "02367"
+            text: "Ocala FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "02367"
         },
         {
-            value: "69th & Slide FSU, Lubbock, TX",
-            label: "01036"
+            text: "69th & Slide FSU, Lubbock, TX",
+            value: "01036"
         },
         {
-            value: "Mesilla Valley Mall, El Paso, TX (Las Cruces, NM)",
-            label: "00187"
+            text: "Mesilla Valley Mall, El Paso, TX (Las Cruces, NM)",
+            value: "00187"
         },
         {
-            value: "Niceville FSU, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "02366"
+            text: "Niceville FSU, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "02366"
         },
         {
-            value:
+            text:
                 "Highlands Village Shopping Center FSU, Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "01034"
+            value: "01034"
         },
         {
-            value:
+            text:
                 "Gulf Breeze FSU, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "02365"
+            value: "02365"
         },
         {
-            value: "State and Lake In-Line, Chicago, IL",
-            label: "03212"
+            text: "State and Lake In-Line, Chicago, IL",
+            value: "03212"
         },
         {
-            value: "Troy In-Line DT, Dayton, OH",
-            label: "03696"
+            text: "Troy In-Line DT, Dayton, OH",
+            value: "03696"
         },
         {
-            value: "Kettering FSU, Dayton, OH",
-            label: "03697"
+            text: "Kettering FSU, Dayton, OH",
+            value: "03697"
         },
         {
-            value:
+            text:
                 "Dwarf House Chick-fil-A Classics Mt. Berry Square, Atlanta, GA",
-            label: "70051"
+            value: "70051"
         },
         {
-            value: "Archer Road FSU, Gainesville, FL",
-            label: "03698"
+            text: "Archer Road FSU, Gainesville, FL",
+            value: "03698"
         },
         {
-            value: "Prescott Valley Crossroads FSU, Phoenix (Prescott), AZ",
-            label: "03699"
+            text: "Prescott Valley Crossroads FSU, Phoenix (Prescott), AZ",
+            value: "03699"
         },
         {
-            value: "Fort Union FSU, Salt Lake City, UT",
-            label: "02360"
+            text: "Fort Union FSU, Salt Lake City, UT",
+            value: "02360"
         },
         {
-            value: "Memorial City Mall, Houston, TX",
-            label: "00181"
+            text: "Memorial City Mall, Houston, TX",
+            value: "00181"
         },
         {
-            value: "E. University Ave FSU, El Paso, TX (Las Cruces, NM)",
-            label: "03693"
+            text: "E. University Ave FSU, El Paso, TX (Las Cruces, NM)",
+            value: "03693"
         },
         {
-            value: "Bartonsville FSU, Wilkes Barre-Scranton, PA",
-            label: "03694"
+            text: "Bartonsville FSU, Wilkes Barre-Scranton, PA",
+            value: "03694"
         },
         {
-            value: "Okemos FSU, Lansing, MI",
-            label: "03695"
+            text: "Okemos FSU, Lansing, MI",
+            value: "03695"
         },
         {
-            value: "Justin Road FSU, Dallas-Ft. Worth, TX",
-            label: "01033"
+            text: "Justin Road FSU, Dallas-Ft. Worth, TX",
+            value: "01033"
         },
         {
-            value: "Davenport FSU, Davenport, IA-Rock Island-Moline, IL",
-            label: "02363"
+            text: "Davenport FSU, Davenport, IA-Rock Island-Moline, IL",
+            value: "02363"
         },
         {
-            value: "Bridgeport & 100th FSU, Seattle-Tacoma, WA",
-            label: "03690"
+            text: "Bridgeport & 100th FSU, Seattle-Tacoma, WA",
+            value: "03690"
         },
         {
-            value: "Harker Heights (TX) FSU, Waco-Temple-Bryan, TX",
-            label: "02362"
+            text: "Harker Heights (TX) FSU, Waco-Temple-Bryan, TX",
+            value: "02362"
         },
         {
-            value:
+            text:
                 "Maitland Boulevard FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "01031"
+            value: "01031"
         },
         {
-            value: "North Star Mall, San Antonio, TX",
-            label: "00184"
+            text: "North Star Mall, San Antonio, TX",
+            value: "00184"
         },
         {
-            value: "Foothill Ranch FSU, Los Angeles, CA",
-            label: "02361"
+            text: "Foothill Ranch FSU, Los Angeles, CA",
+            value: "02361"
         },
         {
-            value: "Montgomery Mall (PA), Philadelphia, PA",
-            label: "00179"
+            text: "Montgomery Mall (PA), Philadelphia, PA",
+            value: "00179"
         },
         {
-            value: "Golden Isles Plaza FSU, Jacksonville, FL",
-            label: "01025"
+            text: "Golden Isles Plaza FSU, Jacksonville, FL",
+            value: "01025"
         },
         {
-            value: "Hopyard Road & 580 FSU, San Francisco-Oakland-San Jose, CA",
-            label: "03207"
+            text: "Hopyard Road & 580 FSU, San Francisco-Oakland-San Jose, CA",
+            value: "03207"
         },
         {
-            value: "Stacy Road FSU, Dallas-Ft. Worth, TX",
-            label: "02354"
+            text: "Stacy Road FSU, Dallas-Ft. Worth, TX",
+            value: "02354"
         },
         {
-            value: "Mercer Mall, Bluefield-Beckley-Oak Hill, WV",
-            label: "00177"
+            text: "Mercer Mall, Bluefield-Beckley-Oak Hill, WV",
+            value: "00177"
         },
         {
-            value: "Kingsland FSU, Jacksonville, FL",
-            label: "01023"
+            text: "Kingsland FSU, Jacksonville, FL",
+            value: "01023"
         },
         {
-            value: "Voorhees FSU, Philadelphia, PA",
-            label: "03208"
+            text: "Voorhees FSU, Philadelphia, PA",
+            value: "03208"
         },
         {
-            value: "Willow Lawn FSU, Richmond-Petersburg, VA",
-            label: "03685"
+            text: "Willow Lawn FSU, Richmond-Petersburg, VA",
+            value: "03685"
         },
         {
-            value: "Lake Conroe Parkway FSU, Houston, TX",
-            label: "01029"
+            text: "Lake Conroe Parkway FSU, Houston, TX",
+            value: "01029"
         },
         {
-            value: "Eastern and Ione FSU, Las Vegas, NV",
-            label: "03687"
+            text: "Eastern and Ione FSU, Las Vegas, NV",
+            value: "03687"
         },
         {
-            value: "Rohnert Park FSU, San Francisco-Oakland-San Jose, CA",
-            label: "03688"
+            text: "Rohnert Park FSU, San Francisco-Oakland-San Jose, CA",
+            value: "03688"
         },
         {
-            value: "Maplewood FSU, Minneapolis-St. Paul, MN",
-            label: "03681"
+            text: "Maplewood FSU, Minneapolis-St. Paul, MN",
+            value: "03681"
         },
         {
-            value: "Dedham FSU, Boston, MA (Manchester, NH)",
-            label: "03683"
+            text: "Dedham FSU, Boston, MA (Manchester, NH)",
+            value: "03683"
         },
         {
-            value: "Bloomington East FSU, Indianapolis, IN",
-            label: "03200"
+            text: "Bloomington East FSU, Indianapolis, IN",
+            value: "03200"
         },
         {
-            value: "Cantrell Road FSU, Little Rock-Pine Bluff, AR",
-            label: "02353"
+            text: "Cantrell Road FSU, Little Rock-Pine Bluff, AR",
+            value: "02353"
         },
         {
-            value: "Smithfield FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "01022"
+            text: "Smithfield FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "01022"
         },
         {
-            value: "Monroe Crossing Mall, Charlotte, NC",
-            label: "00174"
+            text: "Monroe Crossing Mall, Charlotte, NC",
+            value: "00174"
         },
         {
-            value: "Mansfield FSU, Dallas-Ft. Worth, TX",
-            label: "01021"
+            text: "Mansfield FSU, Dallas-Ft. Worth, TX",
+            value: "01021"
         },
         {
-            value: "St. Joseph FSU, St. Joseph, MO",
-            label: "02309"
+            text: "St. Joseph FSU, St. Joseph, MO",
+            value: "02309"
         },
         {
-            value: "Union Avenue FSU, Memphis, TN",
-            label: "02308"
+            text: "Union Avenue FSU, Memphis, TN",
+            value: "02308"
         },
         {
-            value: "Turkey Creek FSU, Knoxville, TN",
-            label: "03639"
+            text: "Turkey Creek FSU, Knoxville, TN",
+            value: "03639"
         },
         {
-            value: "Layton Hills Mall, Salt Lake City, UT",
-            label: "00123"
+            text: "Layton Hills Mall, Salt Lake City, UT",
+            value: "00123"
         },
         {
-            value: "South Burleson FSU, Dallas-Ft. Worth, TX",
-            label: "02786"
+            text: "South Burleson FSU, Dallas-Ft. Worth, TX",
+            value: "02786"
         },
         {
-            value: "Orchard Park Place FSU, Denver, CO",
-            label: "03634"
+            text: "Orchard Park Place FSU, Denver, CO",
+            value: "03634"
         },
         {
-            value: "Bangor FSU, Bangor, ME",
-            label: "03635"
+            text: "Bangor FSU, Bangor, ME",
+            value: "03635"
         },
         {
-            value: "Dobbin Center FSU, Baltimore, MD",
-            label: "01454"
+            text: "Dobbin Center FSU, Baltimore, MD",
+            value: "01454"
         },
         {
-            value: "Batavia FSU, Chicago, IL",
-            label: "02785"
+            text: "Batavia FSU, Chicago, IL",
+            value: "02785"
         },
         {
-            value: "Cumberland FSU, Philadelphia, PA",
-            label: "02784"
+            text: "Cumberland FSU, Philadelphia, PA",
+            value: "02784"
         },
         {
-            value: "Whitehall FSU, Philadelphia, PA",
-            label: "03637"
+            text: "Whitehall FSU, Philadelphia, PA",
+            value: "03637"
         },
         {
-            value: "Lima FSU, Philadelphia, PA",
-            label: "02783"
+            text: "Lima FSU, Philadelphia, PA",
+            value: "02783"
         },
         {
-            value: "Audubon FSU, Philadelphia, PA",
-            label: "01452"
+            text: "Audubon FSU, Philadelphia, PA",
+            value: "01452"
         },
         {
-            value: "Royersford FSU, Philadelphia, PA",
-            label: "01459"
+            text: "Royersford FSU, Philadelphia, PA",
+            value: "01459"
         },
         {
-            value: "Newington FSU, Hartford & New Haven, CT",
-            label: "03630"
+            text: "Newington FSU, Hartford & New Haven, CT",
+            value: "03630"
         },
         {
-            value:
+            text:
                 "Kentucky Oaks Mall, Paducah, KY-Cape Girardeau, MO-Harrisburg, IL",
-            label: "00127"
+            value: "00127"
         },
         {
-            value: "Ammon FSU, Idaho Falls-Pocatello, ID (Jackson, WY)",
-            label: "02789"
+            text: "Ammon FSU, Idaho Falls-Pocatello, ID (Jackson, WY)",
+            value: "02789"
         },
         {
-            value: "Moline FSU, Davenport, IA-Rock Island-Moline, IL",
-            label: "03631"
+            text: "Moline FSU, Davenport, IA-Rock Island-Moline, IL",
+            value: "03631"
         },
         {
-            value: "Governors Square (FL), Tallahassee, FL-Thomasville, GA",
-            label: "00125"
+            text: "Governors Square (FL), Tallahassee, FL-Thomasville, GA",
+            value: "00125"
         },
         {
-            value: "Moncks Corner FSU, Charleston, SC",
-            label: "02788"
+            text: "Moncks Corner FSU, Charleston, SC",
+            value: "02788"
         },
         {
-            value: "South Riding FSU, Washington, DC (Hagerstown, MD)",
-            label: "03632"
+            text: "South Riding FSU, Washington, DC (Hagerstown, MD)",
+            value: "03632"
         },
         {
-            value: "Queen City Centre FSU, Washington, DC (Hagerstown, MD)",
-            label: "01457"
+            text: "Queen City Centre FSU, Washington, DC (Hagerstown, MD)",
+            value: "01457"
         },
         {
-            value: "Teterboro Landing FSU, New York, NY",
-            label: "03633"
+            text: "Teterboro Landing FSU, New York, NY",
+            value: "03633"
         },
         {
-            value: "Gause Blvd. FSU, New Orleans, LA",
-            label: "02787"
+            text: "Gause Blvd. FSU, New Orleans, LA",
+            value: "02787"
         },
         {
-            value: "Lower Nazareth FSU, Philadelphia, PA",
-            label: "02303"
+            text: "Lower Nazareth FSU, Philadelphia, PA",
+            value: "02303"
         },
         {
-            value: "Greenbrier Mall (VA), Norfolk-Portsmouth-Newport News, VA",
-            label: "00126"
+            text: "Greenbrier Mall (VA), Norfolk-Portsmouth-Newport News, VA",
+            value: "00126"
         },
         {
-            value: "Covington - Highway 21 FSU, New Orleans, LA",
-            label: "01451"
+            text: "Covington - Highway 21 FSU, New Orleans, LA",
+            value: "01451"
         },
         {
-            value: "Sanford FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "02782"
+            text: "Sanford FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "02782"
         },
         {
-            value: "10th Street FSU, Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "01450"
+            text: "10th Street FSU, Harlingen-Weslaco-Brownsville-McAllen, TX",
+            value: "01450"
         },
         {
-            value:
+            text:
                 "Four Seasons Town Centre, Greensboro-High Point-Winston Salem, NC",
-            label: "00120"
+            value: "00120"
         },
         {
-            value: "Dyersburg FSU, Memphis, TN",
-            label: "02780"
+            text: "Dyersburg FSU, Memphis, TN",
+            value: "02780"
         },
         {
-            value: "Dowlen Road FSU, Beaumont-Port Arthur, TX",
-            label: "01449"
+            text: "Dowlen Road FSU, Beaumont-Port Arthur, TX",
+            value: "01449"
         },
         {
-            value:
+            text:
                 "Haywood Mall, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "00119"
+            value: "00119"
         },
         {
-            value: "Linthicum FSU, Baltimore, MD",
-            label: "03629"
+            text: "Linthicum FSU, Baltimore, MD",
+            value: "03629"
         },
         {
-            value: "Ross Park Mall, Pittsburgh, PA",
-            label: "00112"
+            text: "Ross Park Mall, Pittsburgh, PA",
+            value: "00112"
         },
         {
-            value: "Saxony & I-69 FSU, Indianapolis, IN",
-            label: "03623"
+            text: "Saxony & I-69 FSU, Indianapolis, IN",
+            value: "03623"
         },
         {
-            value: "Chapman Highway FSU, Knoxville, TN",
-            label: "02775"
+            text: "Chapman Highway FSU, Knoxville, TN",
+            value: "02775"
         },
         {
-            value:
+            text:
                 "South Asheville FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "01443"
+            value: "01443"
         },
         {
-            value: "Springfield In-Line DT, Washington, DC (Hagerstown, MD)",
-            label: "02774"
+            text: "Springfield In-Line DT, Washington, DC (Hagerstown, MD)",
+            value: "02774"
         },
         {
-            value: "Sunnyvale FSU, San Francisco-Oakland-San Jose, CA",
-            label: "02772"
+            text: "Sunnyvale FSU, San Francisco-Oakland-San Jose, CA",
+            value: "02772"
         },
         {
-            value: "Laredo FSU, Laredo, TX",
-            label: "00594"
+            text: "Laredo FSU, Laredo, TX",
+            value: "00594"
         },
         {
-            value: "S. Clearview FSU, New Orleans, LA",
-            label: "03626"
+            text: "S. Clearview FSU, New Orleans, LA",
+            value: "03626"
         },
         {
-            value: "Eastside Market FSU, Tulsa, OK",
-            label: "01448"
+            text: "Eastside Market FSU, Tulsa, OK",
+            value: "01448"
         },
         {
-            value:
+            text:
                 "Beal Parkway FSU, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "01447"
+            value: "01447"
         },
         {
-            value: "EastChase FSU, Montgomery-Selma, AL",
-            label: "01446"
+            text: "EastChase FSU, Montgomery-Selma, AL",
+            value: "01446"
         },
         {
-            value: "59 & West Airport Drive-Thru Only, Houston, TX",
-            label: "02777"
+            text: "59 & West Airport Drive-Thru Only, Houston, TX",
+            value: "02777"
         },
         {
-            value: "1960 & Cutten FSU, Houston, TX",
-            label: "00599"
+            text: "1960 & Cutten FSU, Houston, TX",
+            value: "00599"
         },
         {
-            value: "West End FSU, Lubbock, TX",
-            label: "03621"
+            text: "West End FSU, Lubbock, TX",
+            value: "03621"
         },
         {
-            value: "TigerTown FSU, Columbus, GA (Opelika, AL)",
-            label: "01445"
+            text: "TigerTown FSU, Columbus, GA (Opelika, AL)",
+            value: "01445"
         },
         {
-            value: "82nd & University FSU, Lubbock, TX",
-            label: "03622"
+            text: "82nd & University FSU, Lubbock, TX",
+            value: "03622"
         },
         {
-            value: "Gadsden Mall, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "00115"
+            text: "Gadsden Mall, Birmingham (Anniston and Tuscaloosa), AL",
+            value: "00115"
         },
         {
-            value: "Johns Creek FSU, Atlanta, GA",
-            label: "00593"
+            text: "Johns Creek FSU, Atlanta, GA",
+            value: "00593"
         },
         {
-            value: "East Woodlawn Road FSU, Charlotte, NC",
-            label: "00592"
+            text: "East Woodlawn Road FSU, Charlotte, NC",
+            value: "00592"
         },
         {
-            value: "The Waterfront FSU, Pittsburgh, PA",
-            label: "01477"
+            text: "The Waterfront FSU, Pittsburgh, PA",
+            value: "01477"
         },
         {
-            value: "Beaufort FSU, Savannah, GA",
-            label: "01476"
+            text: "Beaufort FSU, Savannah, GA",
+            value: "01476"
         },
         {
-            value: "Cross Roads FSU, Dallas-Ft. Worth, TX",
-            label: "03657"
+            text: "Cross Roads FSU, Dallas-Ft. Worth, TX",
+            value: "03657"
         },
         {
-            value: "Cedar Park FSU, Austin, TX",
-            label: "02322"
+            text: "Cedar Park FSU, Austin, TX",
+            value: "02322"
         },
         {
-            value: "Lincoln at Washington Drive-Thru Only, Los Angeles, CA",
-            label: "03658"
+            text: "Lincoln at Washington Drive-Thru Only, Los Angeles, CA",
+            value: "03658"
         },
         {
-            value: "North Garland Crossing FSU, Dallas-Ft. Worth, TX",
-            label: "01474"
+            text: "North Garland Crossing FSU, Dallas-Ft. Worth, TX",
+            value: "01474"
         },
         {
-            value: "Columbus National FSU, Indianapolis, IN",
-            label: "03659"
+            text: "Columbus National FSU, Indianapolis, IN",
+            value: "03659"
         },
         {
-            value: "I-10 at Louisiana Avenue FSU, Lafayette, LA",
-            label: "02327"
+            text: "I-10 at Louisiana Avenue FSU, Lafayette, LA",
+            value: "02327"
         },
         {
-            value: "Auburn Gold Rush FSU, Sacramento-Stockton-Modesto, CA",
-            label: "03653"
+            text: "Auburn Gold Rush FSU, Sacramento-Stockton-Modesto, CA",
+            value: "03653"
         },
         {
-            value:
+            text:
                 "Seneca FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "01479"
+            value: "01479"
         },
         {
-            value: "Lauderhill FSU, Miami-Ft. Lauderdale, FL",
-            label: "02325"
+            text: "Lauderhill FSU, Miami-Ft. Lauderdale, FL",
+            value: "02325"
         },
         {
-            value: "Circle Centre Mall, Indianapolis, IN",
-            label: "01473"
+            text: "Circle Centre Mall, Indianapolis, IN",
+            value: "01473"
         },
         {
-            value: "West Jackson Avenue FSU, Memphis, TN",
-            label: "02320"
+            text: "West Jackson Avenue FSU, Memphis, TN",
+            value: "02320"
         },
         {
-            value: "Greenbriar Mall (GA), Atlanta, GA",
-            label: "00140"
+            text: "Greenbriar Mall (GA), Atlanta, GA",
+            value: "00140"
         },
         {
-            value: "Midland FSU, Columbus, GA (Opelika, AL)",
-            label: "02319"
+            text: "Midland FSU, Columbus, GA (Opelika, AL)",
+            value: "02319"
         },
         {
-            value: "Triangle Town Center, Raleigh-Durham (Fayetteville), NC",
-            label: "01466"
+            text: "Triangle Town Center, Raleigh-Durham (Fayetteville), NC",
+            value: "01466"
         },
         {
-            value: "Heartland Mall, Abilene-Sweetwater, TX",
-            label: "00134"
+            text: "Heartland Mall, Abilene-Sweetwater, TX",
+            value: "00134"
         },
         {
-            value: "Indian Land FSU, Charlotte, NC",
-            label: "02797"
+            text: "Indian Land FSU, Charlotte, NC",
+            value: "02797"
         },
         {
-            value: "Main Street & English Road FSU, Albuquerque-Santa Fe, NM",
-            label: "03646"
+            text: "Main Street & English Road FSU, Albuquerque-Santa Fe, NM",
+            value: "03646"
         },
         {
-            value: "King of Prussia Mall, Philadelphia, PA",
-            label: "00135"
+            text: "King of Prussia Mall, Philadelphia, PA",
+            value: "00135"
         },
         {
-            value: "Lumberton FSU, Myrtle Beach-Florence, SC",
-            label: "02795"
+            text: "Lumberton FSU, Myrtle Beach-Florence, SC",
+            value: "02795"
         },
         {
-            value: "Sumter Mall, Columbia, SC",
-            label: "00132"
+            text: "Sumter Mall, Columbia, SC",
+            value: "00132"
         },
         {
-            value: "Fairfield In-Line DT, Sacramento-Stockton-Modesto, CA",
-            label: "02794"
+            text: "Fairfield In-Line DT, Sacramento-Stockton-Modesto, CA",
+            value: "02794"
         },
         {
-            value: "Greenwood Park Mall (IN), Indianapolis, IN",
-            label: "00133"
+            text: "Greenwood Park Mall (IN), Indianapolis, IN",
+            value: "00133"
         },
         {
-            value: "Morristown FSU, Knoxville, TN",
-            label: "01463"
+            text: "Morristown FSU, Knoxville, TN",
+            value: "01463"
         },
         {
-            value: "Ina at Thornydale FSU, Tucson (Sierra Vista), AZ",
-            label: "03648"
+            text: "Ina at Thornydale FSU, Tucson (Sierra Vista), AZ",
+            value: "03648"
         },
         {
-            value:
+            text:
                 "Waynesville FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "03641"
+            value: "03641"
         },
         {
-            value: "Valencia Town Center FSU, Los Angeles, CA",
-            label: "02317"
+            text: "Valencia Town Center FSU, Los Angeles, CA",
+            value: "02317"
         },
         {
-            value: "Lenox Square, Atlanta, GA",
-            label: "00139"
+            text: "Lenox Square, Atlanta, GA",
+            value: "00139"
         },
         {
-            value: "Dawsonville FSU, Atlanta, GA",
-            label: "01469"
+            text: "Dawsonville FSU, Atlanta, GA",
+            value: "01469"
         },
         {
-            value: "Brandon South FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "03642"
+            text: "Brandon South FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "03642"
         },
         {
-            value: "Cherry Creek FSU, Denver, CO",
-            label: "03643"
+            text: "Cherry Creek FSU, Denver, CO",
+            value: "03643"
         },
         {
-            value: "Jacksonville Mall, Greenville-New Bern-Washington, NC",
-            label: "00136"
+            text: "Jacksonville Mall, Greenville-New Bern-Washington, NC",
+            value: "00136"
         },
         {
-            value: "Northlake Festival FSU, Atlanta, GA",
-            label: "02799"
+            text: "Northlake Festival FSU, Atlanta, GA",
+            value: "02799"
         },
         {
-            value: "Huntington Mall, Charleston-Huntington, WV",
-            label: "00137"
+            text: "Huntington Mall, Charleston-Huntington, WV",
+            value: "00137"
         },
         {
-            value: "Thomas Road FSU, Monroe, LA-El Dorado, AR",
-            label: "02798"
+            text: "Thomas Road FSU, Monroe, LA-El Dorado, AR",
+            value: "02798"
         },
         {
-            value: "Denver (NC) FSU, Charlotte, NC",
-            label: "03644"
+            text: "Denver (NC) FSU, Charlotte, NC",
+            value: "03644"
         },
         {
-            value: "Newport Centre, New York, NY",
-            label: "03640"
+            text: "Newport Centre, New York, NY",
+            value: "03640"
         },
         {
-            value: "Montgomery and San Mateo FSU, Albuquerque-Santa Fe, NM",
-            label: "02793"
+            text: "Montgomery and San Mateo FSU, Albuquerque-Santa Fe, NM",
+            value: "02793"
         },
         {
-            value: "Winterpock FSU, Richmond-Petersburg, VA",
-            label: "02792"
+            text: "Winterpock FSU, Richmond-Petersburg, VA",
+            value: "02792"
         },
         {
-            value: "Winterville FSU, Greenville-New Bern-Washington, NC",
-            label: "02791"
+            text: "Winterville FSU, Greenville-New Bern-Washington, NC",
+            value: "02791"
         },
         {
-            value: "Kings Island Theme Park OCL, Cincinnati, OH",
-            label: "04129"
+            text: "Kings Island Theme Park OCL, Cincinnati, OH",
+            value: "04129"
         },
         {
-            value: "SunTrust Park OCL, Atlanta, GA",
-            label: "04125"
+            text: "SunTrust Park OCL, Atlanta, GA",
+            value: "04125"
         },
         {
-            value: "Manhattan (KS) FSU, Topeka, KS",
-            label: "03278"
+            text: "Manhattan (KS) FSU, Topeka, KS",
+            value: "03278"
         },
         {
-            value: "Kings Dominion OCL, Richmond-Petersburg, VA",
-            label: "04126"
+            text: "Kings Dominion OCL, Richmond-Petersburg, VA",
+            value: "04126"
         },
         {
-            value: "Chicopee FSU, Springfield-Holyoke, MA",
-            label: "03279"
+            text: "Chicopee FSU, Springfield-Holyoke, MA",
+            value: "03279"
         },
         {
-            value: "GA World Congress Center OCL, Atlanta, GA",
-            label: "04127"
+            text: "GA World Congress Center OCL, Atlanta, GA",
+            value: "04127"
         },
         {
-            value: "Carowinds OCL, Charlotte, NC",
-            label: "04128"
+            text: "Carowinds OCL, Charlotte, NC",
+            value: "04128"
         },
         {
-            value: "El Dorado Boulevard FSU, Houston, TX",
-            label: "03274"
+            text: "El Dorado Boulevard FSU, Houston, TX",
+            value: "03274"
         },
         {
-            value: "Spring Hill In-Line DT, Nashville, TN",
-            label: "04121"
+            text: "Spring Hill In-Line DT, Nashville, TN",
+            value: "04121"
         },
         {
-            value: "Western Kentucky University, Bowling Green, KY",
-            label: "80244"
+            text: "Western Kentucky University, Bowling Green, KY",
+            value: "80244"
         },
         {
-            value: "Louisiana State University, Baton Rouge, LA",
-            label: "80243"
+            text: "Louisiana State University, Baton Rouge, LA",
+            value: "80243"
         },
         {
-            value: "Cornerstone FSU, Dayton, OH",
-            label: "03276"
+            text: "Cornerstone FSU, Dayton, OH",
+            value: "03276"
         },
         {
-            value: "Texarkana FSU (TX), Shreveport, LA",
-            label: "01093"
+            text: "Texarkana FSU (TX), Shreveport, LA",
+            value: "01093"
         },
         {
-            value: "Sherman FSU (TX), Sherman, TX-Ada, OK",
-            label: "01092"
+            text: "Sherman FSU (TX), Sherman, TX-Ada, OK",
+            value: "01092"
         },
         {
-            value: "Jett Ferry Road FSU, Atlanta, GA",
-            label: "03277"
+            text: "Jett Ferry Road FSU, Atlanta, GA",
+            value: "03277"
         },
         {
-            value: "Casselberry FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "03270"
+            text: "Casselberry FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "03270"
         },
         {
-            value: "State Farm Corp. HQ, Peoria-Bloomington, IL",
-            label: "80248"
+            text: "State Farm Corp. HQ, Peoria-Bloomington, IL",
+            value: "80248"
         },
         {
-            value: "Stanleyville FSU, Greensboro-High Point-Winston Salem, NC",
-            label: "01098"
+            text: "Stanleyville FSU, Greensboro-High Point-Winston Salem, NC",
+            value: "01098"
         },
         {
-            value: "Virginia Tech, Roanoke-Lynchburg, VA",
-            label: "80247"
+            text: "Virginia Tech, Roanoke-Lynchburg, VA",
+            value: "80247"
         },
         {
-            value: "Puente Hills FSU, Los Angeles, CA",
-            label: "03272"
+            text: "Puente Hills FSU, Los Angeles, CA",
+            value: "03272"
         },
         {
-            value:
+            text:
                 "Mesa Street & Remcon Circle FSU, El Paso, TX (Las Cruces, NM)",
-            label: "03273"
+            value: "03273"
         },
         {
-            value: "Hickory Flat FSU, Atlanta, GA",
-            label: "04120"
+            text: "Hickory Flat FSU, Atlanta, GA",
+            value: "04120"
         },
         {
-            value:
+            text:
                 "University of Central Florida, Orlando-Daytona Beach-Melbourne, FL",
-            label: "80246"
+            value: "80246"
         },
         {
-            value: "Forum Shopping Center FSU, San Antonio, TX",
-            label: "01090"
+            text: "Forum Shopping Center FSU, San Antonio, TX",
+            value: "01090"
         },
         {
-            value: "Dakota Crossing FSU, Washington, DC (Hagerstown, MD)",
-            label: "04118"
+            text: "Dakota Crossing FSU, Washington, DC (Hagerstown, MD)",
+            value: "04118"
         },
         {
-            value:
+            text:
                 "University of South Florida, Tampa-St. Petersburg (Sarasota), FL",
-            label: "80229"
+            value: "80229"
         },
         {
-            value: "Troy University, Montgomery-Selma, AL",
-            label: "80228"
+            text: "Troy University, Montgomery-Selma, AL",
+            value: "80228"
         },
         {
-            value: "Milledgeville FSU, Macon, GA",
-            label: "01089"
+            text: "Milledgeville FSU, Macon, GA",
+            value: "01089"
         },
         {
-            value: "Fountain FSU, Colorado Springs-Pueblo, CO",
-            label: "03267"
+            text: "Fountain FSU, Colorado Springs-Pueblo, CO",
+            value: "03267"
         },
         {
-            value:
+            text:
                 "Lavonia [GA] FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "04114"
+            value: "04114"
         },
         {
-            value: "Medical Center of Columbus, Columbus, GA (Opelika, AL)",
-            label: "80234"
+            text: "Medical Center of Columbus, Columbus, GA (Opelika, AL)",
+            value: "80234"
         },
         {
-            value: "Metrocenter FSU, Phoenix (Prescott), AZ",
-            label: "03264"
+            text: "Metrocenter FSU, Phoenix (Prescott), AZ",
+            value: "03264"
         },
         {
-            value: "Waldorf FSU, Washington, DC (Hagerstown, MD)",
-            label: "01083"
+            text: "Waldorf FSU, Washington, DC (Hagerstown, MD)",
+            value: "01083"
         },
         {
-            value: "Lake Dow  FSU, Atlanta, GA",
-            label: "03265"
+            text: "Lake Dow  FSU, Atlanta, GA",
+            value: "03265"
         },
         {
-            value: "Eagles Landing FSU, Atlanta, GA",
-            label: "01082"
+            text: "Eagles Landing FSU, Atlanta, GA",
+            value: "01082"
         },
         {
-            value:
+            text:
                 "Marketplace at Hilltop FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "01081"
+            value: "01081"
         },
         {
-            value: "Peach Orchard Road FSU, Augusta, GA-Aiken, SC",
-            label: "03266"
+            text: "Peach Orchard Road FSU, Augusta, GA-Aiken, SC",
+            value: "03266"
         },
         {
-            value: "University Center Irvine FSU, Los Angeles, CA",
-            label: "03260"
+            text: "University Center Irvine FSU, Los Angeles, CA",
+            value: "03260"
         },
         {
-            value: "Constant Friendship FSU, Baltimore, MD",
-            label: "01086"
+            text: "Constant Friendship FSU, Baltimore, MD",
+            value: "01086"
         },
         {
-            value: "Westborough FSU, Boston, MA (Manchester, NH)",
-            label: "03261"
+            text: "Westborough FSU, Boston, MA (Manchester, NH)",
+            value: "03261"
         },
         {
-            value: "Vacaville Commons FSU, Sacramento-Stockton-Modesto, CA",
-            label: "03262"
+            text: "Vacaville Commons FSU, Sacramento-Stockton-Modesto, CA",
+            value: "03262"
         },
         {
-            value: "First Colony Center FSU, Washington, DC (Hagerstown, MD)",
-            label: "01085"
+            text: "First Colony Center FSU, Washington, DC (Hagerstown, MD)",
+            value: "01085"
         },
         {
-            value: "Wells Fargo Bank, Charlotte, NC",
-            label: "80230"
+            text: "Wells Fargo Bank, Charlotte, NC",
+            value: "80230"
         },
         {
-            value: "Longwood University, Richmond-Petersburg, VA",
-            label: "80267"
+            text: "Longwood University, Richmond-Petersburg, VA",
+            value: "80267"
         },
         {
-            value:
+            text:
                 "Westdale FSU, Cedar Rapids-Waterloo-Iowa City & Dubuque, IA",
-            label: "03296"
+            value: "03296"
         },
         {
-            value: "Derby Marketplace FSU, Wichita-Hutchinson, KS Plus",
-            label: "03297"
+            text: "Derby Marketplace FSU, Wichita-Hutchinson, KS Plus",
+            value: "03297"
         },
         {
-            value: "Northeast 8th Street FSU, Seattle-Tacoma, WA",
-            label: "03299"
+            text: "Northeast 8th Street FSU, Seattle-Tacoma, WA",
+            value: "03299"
         },
         {
-            value: "Brookfield FSU, New York, NY",
-            label: "03293"
+            text: "Brookfield FSU, New York, NY",
+            value: "03293"
         },
         {
-            value: "711 Lexington Avenue In-Line, New York, NY",
-            label: "04141"
+            text: "711 Lexington Avenue In-Line, New York, NY",
+            value: "04141"
         },
         {
-            value: "University of Tennessee-Chattanooga, Chattanooga, TN",
-            label: "80268"
+            text: "University of Tennessee-Chattanooga, Chattanooga, TN",
+            value: "80268"
         },
         {
-            value: "Baylor University on 7th Street FSU, Waco-Temple-Bryan, TX",
-            label: "03295"
+            text: "Baylor University on 7th Street FSU, Waco-Temple-Bryan, TX",
+            value: "03295"
         },
         {
-            value: "I-820 and Clifford FSU, Dallas-Ft. Worth, TX",
-            label: "04142"
+            text: "I-820 and Clifford FSU, Dallas-Ft. Worth, TX",
+            value: "04142"
         },
         {
-            value: "Milford Plaza FSU, Philadelphia, PA",
-            label: "03290"
+            text: "Milford Plaza FSU, Philadelphia, PA",
+            value: "03290"
         },
         {
-            value: "Airport Highway FSU, Toledo, OH",
-            label: "03289"
+            text: "Airport Highway FSU, Toledo, OH",
+            value: "03289"
         },
         {
-            value: "Columbus Park Crossing FSU, Columbus, GA (Opelika, AL)",
-            label: "04133"
+            text: "Columbus Park Crossing FSU, Columbus, GA (Opelika, AL)",
+            value: "04133"
         },
         {
-            value: "NW Highway FSU, Dallas-Ft. Worth, TX",
-            label: "03288"
+            text: "NW Highway FSU, Dallas-Ft. Worth, TX",
+            value: "03288"
         },
         {
-            value: "Raeford Road FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "03282"
+            text: "Raeford Road FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "03282"
         },
         {
-            value: "Penn State University, Johnstown-Altoona-State College, PA",
-            label: "80259"
+            text: "Penn State University, Johnstown-Altoona-State College, PA",
+            value: "80259"
         },
         {
-            value: "S. Rice and Westpark FSU, Houston, TX",
-            label: "03283"
+            text: "S. Rice and Westpark FSU, Houston, TX",
+            value: "03283"
         },
         {
-            value: "Harding University, Little Rock-Pine Bluff, AR",
-            label: "80257"
+            text: "Harding University, Little Rock-Pine Bluff, AR",
+            value: "80257"
         },
         {
-            value: "Emory Decatur Hospital, Atlanta, GA",
-            label: "80252"
+            text: "Emory Decatur Hospital, Atlanta, GA",
+            value: "80252"
         },
         {
-            value: "Flagler Park FSU, Miami-Ft. Lauderdale, FL",
-            label: "03238"
+            text: "Flagler Park FSU, Miami-Ft. Lauderdale, FL",
+            value: "03238"
         },
         {
-            value: "San Marcos (TX) FSU, Austin, TX",
-            label: "02389"
+            text: "San Marcos (TX) FSU, Austin, TX",
+            value: "02389"
         },
         {
-            value: "Lenoir City FSU, Knoxville, TN",
-            label: "03239"
+            text: "Lenoir City FSU, Knoxville, TN",
+            value: "03239"
         },
         {
-            value: "Central & Eubank FSU, Albuquerque-Santa Fe, NM",
-            label: "03235"
+            text: "Central & Eubank FSU, Albuquerque-Santa Fe, NM",
+            value: "03235"
         },
         {
-            value: "Canton Crossing FSU, Baltimore, MD",
-            label: "03236"
+            text: "Canton Crossing FSU, Baltimore, MD",
+            value: "03236"
         },
         {
-            value: "Whispering Creek FSU, Victoria, TX",
-            label: "01050"
+            text: "Whispering Creek FSU, Victoria, TX",
+            value: "01050"
         },
         {
-            value: "Medical University of South Carolina, Charleston, SC",
-            label: "80288"
+            text: "Medical University of South Carolina, Charleston, SC",
+            value: "80288"
         },
         {
-            value: "Texas A&M Corpus Christi, Corpus Christi, TX",
-            label: "80287"
+            text: "Texas A&M Corpus Christi, Corpus Christi, TX",
+            value: "80287"
         },
         {
-            value: "Line Creek FSU, Atlanta, GA",
-            label: "03233"
+            text: "Line Creek FSU, Atlanta, GA",
+            value: "03233"
         },
         {
-            value: "Park Boulevard & Plano Parkway FSU, Dallas-Ft. Worth, TX",
-            label: "01054"
+            text: "Park Boulevard & Plano Parkway FSU, Dallas-Ft. Worth, TX",
+            value: "01054"
         },
         {
-            value: "Prattville FSU, Montgomery-Selma, AL",
-            label: "01053"
+            text: "Prattville FSU, Montgomery-Selma, AL",
+            value: "01053"
         },
         {
-            value:
+            text:
                 "Jacksonville State University, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "80280"
+            value: "80280"
         },
         {
-            value: "Texas Woman's University, Dallas-Ft. Worth, TX",
-            label: "80285"
+            text: "Texas Woman's University, Dallas-Ft. Worth, TX",
+            value: "80285"
         },
         {
-            value: "Truett's Grill - Morrow, Atlanta, GA",
-            label: "70005"
+            text: "Truett's Grill - Morrow, Atlanta, GA",
+            value: "70005"
         },
         {
-            value: "Edgewater, Orlando-Daytona Beach-Melbourne, FL",
-            label: "70008"
+            text: "Edgewater, Orlando-Daytona Beach-Melbourne, FL",
+            value: "70008"
         },
         {
-            value: "Truett's Grill - McDonough, Atlanta, GA",
-            label: "70007"
+            text: "Truett's Grill - McDonough, Atlanta, GA",
+            value: "70007"
         },
         {
-            value: "Jonesboro Dwarf House, Atlanta, GA",
-            label: "70002"
+            text: "Jonesboro Dwarf House, Atlanta, GA",
+            value: "70002"
         },
         {
-            value: "Hapeville Dwarf House, Atlanta, GA",
-            label: "70001"
+            text: "Hapeville Dwarf House, Atlanta, GA",
+            value: "70001"
         },
         {
-            value: "Forest Park Dwarf House, Atlanta, GA",
-            label: "70004"
+            text: "Forest Park Dwarf House, Atlanta, GA",
+            value: "70004"
         },
         {
-            value: "White Oaks FSU, Champaign & Springfield-Decatur, IL",
-            label: "03227"
+            text: "White Oaks FSU, Champaign & Springfield-Decatur, IL",
+            value: "03227"
         },
         {
-            value: "Edgewater (MD) FSU, Baltimore, MD",
-            label: "01048"
+            text: "Edgewater (MD) FSU, Baltimore, MD",
+            value: "01048"
         },
         {
-            value: "York Road FSU, Baltimore, MD",
-            label: "01047"
+            text: "York Road FSU, Baltimore, MD",
+            value: "01047"
         },
         {
-            value:
+            text:
                 "Northwest Arkansas Mall, Ft. Smith-Fayetteville-Springdale-Rogers, AR",
-            label: "00198"
+            value: "00198"
         },
         {
-            value:
+            text:
                 "Monterey Road & Tully Road FSU, San Francisco-Oakland-San Jose, CA",
-            label: "03229"
+            value: "03229"
         },
         {
-            value: "Meadowbrook Mall, Clarksburg-Weston, WV",
-            label: "00199"
+            text: "Meadowbrook Mall, Clarksburg-Weston, WV",
+            value: "00199"
         },
         {
-            value: "Village Commons FSU, Washington, DC (Hagerstown, MD)",
-            label: "01045"
+            text: "Village Commons FSU, Washington, DC (Hagerstown, MD)",
+            value: "01045"
         },
         {
-            value: "Montgomeryville FSU, Philadelphia, PA",
-            label: "03225"
+            text: "Montgomeryville FSU, Philadelphia, PA",
+            value: "03225"
         },
         {
-            value: "Keller FSU, Dallas-Ft. Worth, TX",
-            label: "03226"
+            text: "Keller FSU, Dallas-Ft. Worth, TX",
+            value: "03226"
         },
         {
-            value: "Nottingham Square FSU, Baltimore, MD",
-            label: "01049"
+            text: "Nottingham Square FSU, Baltimore, MD",
+            value: "01049"
         },
         {
-            value: "Northgate Mall (TN), Chattanooga, TN",
-            label: "00192"
+            text: "Northgate Mall (TN), Chattanooga, TN",
+            value: "00192"
         },
         {
-            value: "University of Mississippi Medical Center, Jackson, MS",
-            label: "80277"
+            text: "University of Mississippi Medical Center, Jackson, MS",
+            value: "80277"
         },
         {
-            value: "Bald Hill Road FSU, Providence, RI-New Bedford, MA",
-            label: "03220"
+            text: "Bald Hill Road FSU, Providence, RI-New Bedford, MA",
+            value: "03220"
         },
         {
-            value: "Outlet Shoppes at Atlanta FSU, Atlanta, GA",
-            label: "03221"
+            text: "Outlet Shoppes at Atlanta FSU, Atlanta, GA",
+            value: "03221"
         },
         {
-            value: "Southern Illinois University-Edwardsville, St. Louis, MO",
-            label: "80275"
+            text: "Southern Illinois University-Edwardsville, St. Louis, MO",
+            value: "80275"
         },
         {
-            value: "Old Hickory Mall, Jackson, TN",
-            label: "00191"
+            text: "Old Hickory Mall, Jackson, TN",
+            value: "00191"
         },
         {
-            value:
+            text:
                 "Germantown Town Center FSU, Washington, DC (Hagerstown, MD)",
-            label: "01044"
+            value: "01044"
         },
         {
-            value: "Bandera Road FSU, San Antonio, TX",
-            label: "01043"
+            text: "Bandera Road FSU, San Antonio, TX",
+            value: "01043"
         },
         {
-            value: "Lee Vista FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "02373"
+            text: "Lee Vista FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "02373"
         },
         {
-            value:
+            text:
                 "South Memorial Parkway FSU, Huntsville-Decatur (Florence), AL",
-            label: "01041"
+            value: "01041"
         },
         {
-            value: "James Madison University, Harrisonburg, VA",
-            label: "80279"
+            text: "James Madison University, Harrisonburg, VA",
+            value: "80279"
         },
         {
-            value: "University of Pittsburgh, Pittsburgh, PA",
-            label: "80272"
+            text: "University of Pittsburgh, Pittsburgh, PA",
+            value: "80272"
         },
         {
-            value: "Truett's Luau, Atlanta, GA",
-            label: "70012"
+            text: "Truett's Luau, Atlanta, GA",
+            value: "70012"
         },
         {
-            value: "Nolensville Pike FSU, Nashville, TN",
-            label: "04108"
+            text: "Nolensville Pike FSU, Nashville, TN",
+            value: "04108"
         },
         {
-            value: "Truett's Pizza Cafe, Atlanta, GA",
-            label: "70011"
+            text: "Truett's Pizza Cafe, Atlanta, GA",
+            value: "70011"
         },
         {
-            value: "North Pointe Plaza (MD) FSU, Salisbury, MD",
-            label: "01079"
+            text: "North Pointe Plaza (MD) FSU, Salisbury, MD",
+            value: "01079"
         },
         {
-            value: "Ardmore FSU, Sherman, TX-Ada, OK",
-            label: "03256"
+            text: "Ardmore FSU, Sherman, TX-Ada, OK",
+            value: "03256"
         },
         {
-            value: "Northpark Drive FSU, Houston, TX",
-            label: "03258"
+            text: "Northpark Drive FSU, Houston, TX",
+            value: "03258"
         },
         {
-            value: "Centerville FSU, Salt Lake City, UT",
-            label: "03259"
+            text: "Centerville FSU, Salt Lake City, UT",
+            value: "03259"
         },
         {
-            value: "124th and Capitol FSU, Milwaukee, WI",
-            label: "03252"
+            text: "124th and Capitol FSU, Milwaukee, WI",
+            value: "03252"
         },
         {
-            value: "Roxboro Road FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "01072"
+            text: "Roxboro Road FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "01072"
         },
         {
-            value: "Southroads Shopping Center FSU, Tulsa, OK",
-            label: "03253"
+            text: "Southroads Shopping Center FSU, Tulsa, OK",
+            value: "03253"
         },
         {
-            value: "Attleboro FSU, Providence, RI-New Bedford, MA",
-            label: "04100"
+            text: "Attleboro FSU, Providence, RI-New Bedford, MA",
+            value: "04100"
         },
         {
-            value: "Airline Highway FSU, Baton Rouge, LA",
-            label: "03254"
+            text: "Airline Highway FSU, Baton Rouge, LA",
+            value: "03254"
         },
         {
-            value: "Lake Woodlands Drive FSU, Houston, TX",
-            label: "01071"
+            text: "Lake Woodlands Drive FSU, Houston, TX",
+            value: "01071"
         },
         {
-            value: "Alden Bridge Village Center FSU, Houston, TX",
-            label: "01070"
+            text: "Alden Bridge Village Center FSU, Houston, TX",
+            value: "01070"
         },
         {
-            value: "Gateway Park FSU, Denver, CO",
-            label: "03255"
+            text: "Gateway Park FSU, Denver, CO",
+            value: "03255"
         },
         {
-            value:
+            text:
                 "Simpsonville FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "01076"
+            value: "01076"
         },
         {
-            value: "Pheasant Lane Mall, Boston, MA (Manchester, NH)",
-            label: "01075"
+            text: "Pheasant Lane Mall, Boston, MA (Manchester, NH)",
+            value: "01075"
         },
         {
-            value: "Lynnwood FSU, Seattle-Tacoma, WA",
-            label: "03251"
+            text: "Lynnwood FSU, Seattle-Tacoma, WA",
+            value: "03251"
         },
         {
-            value: "Zaragosa Road FSU, El Paso, TX (Las Cruces, NM)",
-            label: "01069"
+            text: "Zaragosa Road FSU, El Paso, TX (Las Cruces, NM)",
+            value: "01069"
         },
         {
-            value: "Fayetteville Dwarf House, Atlanta, GA",
-            label: "70022"
+            text: "Fayetteville Dwarf House, Atlanta, GA",
+            value: "70022"
         },
         {
-            value: "Irby Street FSU, Myrtle Beach-Florence, SC",
-            label: "01068"
+            text: "Irby Street FSU, Myrtle Beach-Florence, SC",
+            value: "01068"
         },
         {
-            value: "Riverdale Dwarf House, Atlanta, GA",
-            label: "70021"
+            text: "Riverdale Dwarf House, Atlanta, GA",
+            value: "70021"
         },
         {
-            value: "Washington (PA) FSU, Pittsburgh, PA",
-            label: "03245"
+            text: "Washington (PA) FSU, Pittsburgh, PA",
+            value: "03245"
         },
         {
-            value: "89th & Shea FSU, Phoenix (Prescott), AZ",
-            label: "03246"
+            text: "89th & Shea FSU, Phoenix (Prescott), AZ",
+            value: "03246"
         },
         {
-            value: "Copperas Cove FSU, Waco-Temple-Bryan, TX",
-            label: "03247"
+            text: "Copperas Cove FSU, Waco-Temple-Bryan, TX",
+            value: "03247"
         },
         {
-            value: "West Conway FSU, Little Rock-Pine Bluff, AR",
-            label: "03248"
+            text: "West Conway FSU, Little Rock-Pine Bluff, AR",
+            value: "03248"
         },
         {
-            value: "Greendale FSU, Milwaukee, WI",
-            label: "03242"
+            text: "Greendale FSU, Milwaukee, WI",
+            value: "03242"
         },
         {
-            value:
+            text:
                 "Wofford College, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "80299"
+            value: "80299"
         },
         {
-            value: "Shelby FSU, Charlotte, NC",
-            label: "01061"
+            text: "Shelby FSU, Charlotte, NC",
+            value: "01061"
         },
         {
-            value: "Escondido FSU, San Diego, CA",
-            label: "03243"
+            text: "Escondido FSU, San Diego, CA",
+            value: "03243"
         },
         {
-            value: "Baylor University Medical Center, Dallas-Ft. Worth, TX",
-            label: "80298"
+            text: "Baylor University Medical Center, Dallas-Ft. Worth, TX",
+            value: "80298"
         },
         {
-            value: "Ross Clark Circle FSU, Dothan, AL",
-            label: "01066"
+            text: "Ross Clark Circle FSU, Dothan, AL",
+            value: "01066"
         },
         {
-            value: "Beaver Valley Mall, Pittsburgh, PA",
-            label: "01065"
+            text: "Beaver Valley Mall, Pittsburgh, PA",
+            value: "01065"
         },
         {
-            value: "Christiana Mall, Philadelphia, PA",
-            label: "01064"
+            text: "Christiana Mall, Philadelphia, PA",
+            value: "01064"
         },
         {
-            value: "Sloan's Lake FSU, Denver, CO",
-            label: "03240"
+            text: "Sloan's Lake FSU, Denver, CO",
+            value: "03240"
         },
         {
-            value: "Veterans Memorial Blvd FSU, New Orleans, LA",
-            label: "02394"
+            text: "Veterans Memorial Blvd FSU, New Orleans, LA",
+            value: "02394"
         },
         {
-            value:
+            text:
                 "Wake Forest University, Greensboro-High Point-Winston Salem, NC",
-            label: "80292"
+            value: "80292"
         },
         {
-            value: "Johnson County Community College, Kansas City, MO",
-            label: "80296"
+            text: "Johnson County Community College, Kansas City, MO",
+            value: "80296"
         },
         {
-            value: "St. Louis University, St. Louis, MO",
-            label: "80294"
+            text: "St. Louis University, St. Louis, MO",
+            value: "80294"
         },
         {
-            value:
+            text:
                 "Greer FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "00726"
+            value: "00726"
         },
         {
-            value: "Research Triangle FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "00724"
+            text: "Research Triangle FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "00724"
         },
         {
-            value: "Mills Civic Parkway FSU, Des Moines-Ames, IA",
-            label: "02908"
+            text: "Mills Civic Parkway FSU, Des Moines-Ames, IA",
+            value: "02908"
         },
         {
-            value: "Prien Lake Mall, Lake Charles, LA",
-            label: "00729"
+            text: "Prien Lake Mall, Lake Charles, LA",
+            value: "00729"
         },
         {
-            value: "Mission Crossing FSU, Kansas City, MO",
-            label: "02906"
+            text: "Mission Crossing FSU, Kansas City, MO",
+            value: "02906"
         },
         {
-            value: "Calhoun FSU, Atlanta, GA",
-            label: "00727"
+            text: "Calhoun FSU, Atlanta, GA",
+            value: "00727"
         },
         {
-            value: "Starkville FSU, Columbus-Tupelo-West Point-Houston, MS",
-            label: "02900"
+            text: "Starkville FSU, Columbus-Tupelo-West Point-Houston, MS",
+            value: "02900"
         },
         {
-            value: "McKinney FSU, Dallas-Ft. Worth, TX",
-            label: "00722"
+            text: "McKinney FSU, Dallas-Ft. Worth, TX",
+            value: "00722"
         },
         {
-            value: "Frederick (MD) FSU, Washington, DC (Hagerstown, MD)",
-            label: "00721"
+            text: "Frederick (MD) FSU, Washington, DC (Hagerstown, MD)",
+            value: "00721"
         },
         {
-            value: "Dulles Town Center Mall, Washington, DC (Hagerstown, MD)",
-            label: "00720"
+            text: "Dulles Town Center Mall, Washington, DC (Hagerstown, MD)",
+            value: "00720"
         },
         {
-            value: "Catholic University, Washington, DC (Hagerstown, MD)",
-            label: "80401"
+            text: "Catholic University, Washington, DC (Hagerstown, MD)",
+            value: "80401"
         },
         {
-            value: "Preston Road & Hwy 121 FSU, Dallas-Ft. Worth, TX",
-            label: "00714"
+            text: "Preston Road & Hwy 121 FSU, Dallas-Ft. Worth, TX",
+            value: "00714"
         },
         {
-            value:
+            text:
                 "Woodruff Road FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "00713"
+            value: "00713"
         },
         {
-            value: "Freehold Raceway Mall, New York, NY",
-            label: "00712"
+            text: "Freehold Raceway Mall, New York, NY",
+            value: "00712"
         },
         {
-            value: "Bradley Park Drive FSU, Columbus, GA (Opelika, AL)",
-            label: "00718"
+            text: "Bradley Park Drive FSU, Columbus, GA (Opelika, AL)",
+            value: "00718"
         },
         {
-            value: "Executive Park Drive FSU, Baltimore, MD",
-            label: "00717"
+            text: "Executive Park Drive FSU, Baltimore, MD",
+            value: "00717"
         },
         {
-            value: "Southaven FSU, Memphis, TN",
-            label: "00716"
+            text: "Southaven FSU, Memphis, TN",
+            value: "00716"
         },
         {
-            value: "Lehigh Valley Mall, Philadelphia, PA",
-            label: "00709"
+            text: "Lehigh Valley Mall, Philadelphia, PA",
+            value: "00709"
         },
         {
-            value: "Vernon Hills FSU, Chicago, IL",
-            label: "02926"
+            text: "Vernon Hills FSU, Chicago, IL",
+            value: "02926"
         },
         {
-            value:
+            text:
                 "Guilford College FSU, Greensboro-High Point-Winston Salem, NC",
-            label: "00746"
+            value: "00746"
         },
         {
-            value: "Gateway at Sanatoga FSU, Philadelphia, PA",
-            label: "02923"
+            text: "Gateway at Sanatoga FSU, Philadelphia, PA",
+            value: "02923"
         },
         {
-            value: "Jimmy Carter Blvd. FSU, Atlanta, GA",
-            label: "00745"
+            text: "Jimmy Carter Blvd. FSU, Atlanta, GA",
+            value: "00745"
         },
         {
-            value: "Aberdeen FSU, Baltimore, MD",
-            label: "02928"
+            text: "Aberdeen FSU, Baltimore, MD",
+            value: "02928"
         },
         {
-            value: "Crystal Lake FSU, Chicago, IL",
-            label: "02927"
+            text: "Crystal Lake FSU, Chicago, IL",
+            value: "02927"
         },
         {
-            value: "Jackson-Madison County Hospital, Jackson, TN",
-            label: "80418"
+            text: "Jackson-Madison County Hospital, Jackson, TN",
+            value: "80418"
         },
         {
-            value: "Founders Square FSU, Dallas-Ft. Worth, TX",
-            label: "00740"
+            text: "Founders Square FSU, Dallas-Ft. Worth, TX",
+            value: "00740"
         },
         {
-            value: "Delta State University, Greenwood-Greenville, MS",
-            label: "80415"
+            text: "Delta State University, Greenwood-Greenville, MS",
+            value: "80415"
         },
         {
-            value: "Oldsmar FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "00744"
+            text: "Oldsmar FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "00744"
         },
         {
-            value: "RSA Regions Tower, Montgomery-Selma, AL",
-            label: "02922"
+            text: "RSA Regions Tower, Montgomery-Selma, AL",
+            value: "02922"
         },
         {
-            value: "Enterprise (AL) FSU, Dothan, AL",
-            label: "02920"
+            text: "Enterprise (AL) FSU, Dothan, AL",
+            value: "02920"
         },
         {
-            value: "Campbell University, Raleigh-Durham (Fayetteville), NC",
-            label: "80419"
+            text: "Campbell University, Raleigh-Durham (Fayetteville), NC",
+            value: "80419"
         },
         {
-            value: "Carrier Towne Crossing FSU, Dallas-Ft. Worth, TX",
-            label: "00741"
+            text: "Carrier Towne Crossing FSU, Dallas-Ft. Worth, TX",
+            value: "00741"
         },
         {
-            value:
+            text:
                 "Norfolk State University, Norfolk-Portsmouth-Newport News, VA",
-            label: "80420"
+            value: "80420"
         },
         {
-            value: "University of Kentucky, Lexington, KY",
-            label: "80424"
+            text: "University of Kentucky, Lexington, KY",
+            value: "80424"
         },
         {
-            value:
+            text:
                 "Indiana University Purdue Univ at Indianapolis, Indianapolis, IN",
-            label: "80422"
+            value: "80422"
         },
         {
-            value: "Walnut Avenue FSU, San Antonio, TX",
-            label: "00737"
+            text: "Walnut Avenue FSU, San Antonio, TX",
+            value: "00737"
         },
         {
-            value:
+            text:
                 "Chantilly Air and Space FSU, Washington, DC (Hagerstown, MD)",
-            label: "02915"
+            value: "02915"
         },
         {
-            value: "Cleveland (GA) FSU, Atlanta, GA",
-            label: "02913"
+            text: "Cleveland (GA) FSU, Atlanta, GA",
+            value: "02913"
         },
         {
-            value:
+            text:
                 "Monticello Marketplace FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "00735"
+            value: "00735"
         },
         {
-            value:
+            text:
                 "Haygood Shopping Center FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "00734"
+            value: "00734"
         },
         {
-            value: "I-10 and Silber Road FSU, Houston, TX",
-            label: "02918"
+            text: "I-10 and Silber Road FSU, Houston, TX",
+            value: "02918"
         },
         {
-            value: "Franklin Avenue FSU, Waco-Temple-Bryan, TX",
-            label: "00739"
+            text: "Franklin Avenue FSU, Waco-Temple-Bryan, TX",
+            value: "00739"
         },
         {
-            value: "University of Tampa, Tampa-St. Petersburg (Sarasota), FL",
-            label: "80405"
+            text: "University of Tampa, Tampa-St. Petersburg (Sarasota), FL",
+            value: "80405"
         },
         {
-            value:
+            text:
                 "General Booth Blvd. FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "00732"
+            value: "00732"
         },
         {
-            value:
+            text:
                 "Philadelphia International Airport - A/B Connector, Philadelphia, PA",
-            label: "80408"
+            value: "80408"
         },
         {
-            value: "Fredericksburg FSU, Washington, DC (Hagerstown, MD)",
-            label: "00730"
+            text: "Fredericksburg FSU, Washington, DC (Hagerstown, MD)",
+            value: "00730"
         },
         {
-            value: "West Chester University, Philadelphia, PA",
-            label: "80414"
+            text: "West Chester University, Philadelphia, PA",
+            value: "80414"
         },
         {
-            value: "New York University, New York, NY",
-            label: "80411"
+            text: "New York University, New York, NY",
+            value: "80411"
         },
         {
-            value: "Del Amo In-Line, Los Angeles, CA",
-            label: "02909"
+            text: "Del Amo In-Line, Los Angeles, CA",
+            value: "02909"
         },
         {
-            value:
+            text:
                 "High Point University, Greensboro-High Point-Winston Salem, NC",
-            label: "80438"
+            value: "80438"
         },
         {
-            value: "Missouri State University, Springfield, MO",
-            label: "80437"
+            text: "Missouri State University, Springfield, MO",
+            value: "80437"
         },
         {
-            value: "University of Tulsa, Tulsa, OK",
-            label: "80442"
+            text: "University of Tulsa, Tulsa, OK",
+            value: "80442"
         },
         {
-            value:
+            text:
                 "University of Tennessee-Martin, Paducah, KY-Cape Girardeau, MO-Harrisburg, IL",
-            label: "80447"
+            value: "80447"
         },
         {
-            value:
+            text:
                 "Embry Riddle Aeronautical University, Orlando-Daytona Beach-Melbourne, FL",
-            label: "80445"
+            value: "80445"
         },
         {
-            value: "Oral Roberts University, Tulsa, OK",
-            label: "80429"
+            text: "Oral Roberts University, Tulsa, OK",
+            value: "80429"
         },
         {
-            value:
+            text:
                 "George Mason University (SUB 1), Washington, DC (Hagerstown, MD)",
-            label: "80428"
+            value: "80428"
         },
         {
-            value: "University of Houston-Downtown, Houston, TX",
-            label: "80427"
+            text: "University of Houston-Downtown, Houston, TX",
+            value: "80427"
         },
         {
-            value: "Camp Wisdom & 360 FSU, Dallas-Ft. Worth, TX",
-            label: "02095"
+            text: "Camp Wisdom & 360 FSU, Dallas-Ft. Worth, TX",
+            value: "02095"
         },
         {
-            value: "Hampton & I-20 FSU, Dallas-Ft. Worth, TX",
-            label: "02094"
+            text: "Hampton & I-20 FSU, Dallas-Ft. Worth, TX",
+            value: "02094"
         },
         {
-            value: "Eldorado & Tollway FSU, Dallas-Ft. Worth, TX",
-            label: "02093"
+            text: "Eldorado & Tollway FSU, Dallas-Ft. Worth, TX",
+            value: "02093"
         },
         {
-            value: "University of Scranton, Wilkes Barre-Scranton, PA",
-            label: "80436"
+            text: "University of Scranton, Wilkes Barre-Scranton, PA",
+            value: "80436"
         },
         {
-            value: "Coastal Carolina University, Charleston, SC",
-            label: "80435"
+            text: "Coastal Carolina University, Charleston, SC",
+            value: "80435"
         },
         {
-            value: "Abrams & LBJ FSU, Dallas-Ft. Worth, TX",
-            label: "02097"
+            text: "Abrams & LBJ FSU, Dallas-Ft. Worth, TX",
+            value: "02097"
         },
         {
-            value: "Eastgate Plaza FSU, Pittsburgh, PA",
-            label: "02092"
+            text: "Eastgate Plaza FSU, Pittsburgh, PA",
+            value: "02092"
         },
         {
-            value: "Miracle Mile FSU, Pittsburgh, PA",
-            label: "02091"
+            text: "Miracle Mile FSU, Pittsburgh, PA",
+            value: "02091"
         },
         {
-            value: "Pleasant Hills FSU, Pittsburgh, PA",
-            label: "02090"
+            text: "Pleasant Hills FSU, Pittsburgh, PA",
+            value: "02090"
         },
         {
-            value: "Sand Lake Road FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "00704"
+            text: "Sand Lake Road FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "00704"
         },
         {
-            value: "Piedmont Road FSU, Atlanta, GA",
-            label: "00703"
+            text: "Piedmont Road FSU, Atlanta, GA",
+            value: "00703"
         },
         {
-            value: "Roswell Corners FSU, Atlanta, GA",
-            label: "00701"
+            text: "Roswell Corners FSU, Atlanta, GA",
+            value: "00701"
         },
         {
-            value: "Fair Oaks Mall, Washington, DC (Hagerstown, MD)",
-            label: "00708"
+            text: "Fair Oaks Mall, Washington, DC (Hagerstown, MD)",
+            value: "00708"
         },
         {
-            value: "Towne Creek Commons FSU, Charlotte, NC",
-            label: "00700"
+            text: "Towne Creek Commons FSU, Charlotte, NC",
+            value: "00700"
         },
         {
-            value: "Cook Children's Hospital, Dallas-Ft. Worth, TX",
-            label: "80464"
+            text: "Cook Children's Hospital, Dallas-Ft. Worth, TX",
+            value: "80464"
         },
         {
-            value: "Drexel University, Philadelphia, PA",
-            label: "80463"
+            text: "Drexel University, Philadelphia, PA",
+            value: "80463"
         },
         {
-            value:
+            text:
                 "University of North Carolina Hospital-Beach, Raleigh-Durham (Fayetteville), NC",
-            label: "80462"
+            value: "80462"
         },
         {
-            value: "Fort Valley State University, Macon, GA",
-            label: "80469"
+            text: "Fort Valley State University, Macon, GA",
+            value: "80469"
         },
         {
-            value: "University of Missouri - Kansas City, Kansas City, MO",
-            label: "80468"
+            text: "University of Missouri - Kansas City, Kansas City, MO",
+            value: "80468"
         },
         {
-            value: "Lipscomb University, Nashville, TN",
-            label: "80466"
+            text: "Lipscomb University, Nashville, TN",
+            value: "80466"
         },
         {
-            value: "Texas Tech University - Sam's West, Lubbock, TX",
-            label: "80460"
+            text: "Texas Tech University - Sam's West, Lubbock, TX",
+            value: "80460"
         },
         {
-            value: "University of Central Missouri, Kansas City, MO",
-            label: "80454"
+            text: "University of Central Missouri, Kansas City, MO",
+            value: "80454"
         },
         {
-            value: "University of Maryland- Baltimore County, Baltimore, MD",
-            label: "80453"
+            text: "University of Maryland- Baltimore County, Baltimore, MD",
+            value: "80453"
         },
         {
-            value: "University of Texas-San Antonio (UTSA), San Antonio, TX",
-            label: "80452"
+            text: "University of Texas-San Antonio (UTSA), San Antonio, TX",
+            value: "80452"
         },
         {
-            value: "Baptist Medical Center-Downtown, Jacksonville, FL",
-            label: "80451"
+            text: "Baptist Medical Center-Downtown, Jacksonville, FL",
+            value: "80451"
         },
         {
-            value: "Duncan Regional Hospital, Wichita Falls, TX & Lawton, OK",
-            label: "80456"
+            text: "Duncan Regional Hospital, Wichita Falls, TX & Lawton, OK",
+            value: "80456"
         },
         {
-            value: "Northeast Georgia Medical Center, Gainesville, FL",
-            label: "80450"
+            text: "Northeast Georgia Medical Center, Gainesville, FL",
+            value: "80450"
         },
         {
-            value: "Westlake Village Drive-Thru Only, Los Angeles, CA",
-            label: "02508"
+            text: "Westlake Village Drive-Thru Only, Los Angeles, CA",
+            value: "02508"
         },
         {
-            value: "Patton Creek FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "01659"
+            text: "Patton Creek FSU, Birmingham (Anniston and Tuscaloosa), AL",
+            value: "01659"
         },
         {
-            value:
+            text:
                 "Westgate Mall (SC), Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "00328"
+            value: "00328"
         },
         {
-            value: "Tampa Stadium FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "03838"
+            text: "Tampa Stadium FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "03838"
         },
         {
-            value: "Northridge FSU, Los Angeles, CA",
-            label: "02509"
+            text: "Northridge FSU, Los Angeles, CA",
+            value: "02509"
         },
         {
-            value: "Cross Pointe FSU, Evansville, IN",
-            label: "01653"
+            text: "Cross Pointe FSU, Evansville, IN",
+            value: "01653"
         },
         {
-            value: "Blairsville FSU, Atlanta, GA",
-            label: "02984"
+            text: "Blairsville FSU, Atlanta, GA",
+            value: "02984"
         },
         {
-            value: "Glenmary FSU, Louisville, KY",
-            label: "02500"
+            text: "Glenmary FSU, Louisville, KY",
+            value: "02500"
         },
         {
-            value: "Lombard FSU, Chicago, IL",
-            label: "02983"
+            text: "Lombard FSU, Chicago, IL",
+            value: "02983"
         },
         {
-            value: "Blakeney FSU, Charlotte, NC",
-            label: "02982"
+            text: "Blakeney FSU, Charlotte, NC",
+            value: "02982"
         },
         {
-            value: "Centreport FSU, Dallas-Ft. Worth, TX",
-            label: "03834"
+            text: "Centreport FSU, Dallas-Ft. Worth, TX",
+            value: "03834"
         },
         {
-            value: "Macon Road FSU, Columbus, GA (Opelika, AL)",
-            label: "01650"
+            text: "Macon Road FSU, Columbus, GA (Opelika, AL)",
+            value: "01650"
         },
         {
-            value: "Cornelia FSU, Atlanta, GA",
-            label: "02981"
+            text: "Cornelia FSU, Atlanta, GA",
+            value: "02981"
         },
         {
-            value: "University Blvd. FSU, Austin, TX",
-            label: "03835"
+            text: "University Blvd. FSU, Austin, TX",
+            value: "03835"
         },
         {
-            value: "Spring Hill FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "01657"
+            text: "Spring Hill FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "01657"
         },
         {
-            value: "Lakewood FSU, Los Angeles, CA",
-            label: "02503"
+            text: "Lakewood FSU, Los Angeles, CA",
+            value: "02503"
         },
         {
-            value: "Lake Travis FSU, Austin, TX",
-            label: "01656"
+            text: "Lake Travis FSU, Austin, TX",
+            value: "01656"
         },
         {
-            value: "Valley Hills Mall, Charlotte, NC",
-            label: "00323"
+            text: "Valley Hills Mall, Charlotte, NC",
+            value: "00323"
         },
         {
-            value:
+            text:
                 "Merrimon Avenue FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "02986"
+            value: "02986"
         },
         {
-            value: "Plaza at the Speedway FSU, Kansas City, MO",
-            label: "02501"
+            text: "Plaza at the Speedway FSU, Kansas City, MO",
+            value: "02501"
         },
         {
-            value: "Hwy. 96 & South Shore Blvd. FSU, Houston, TX",
-            label: "03831"
+            text: "Hwy. 96 & South Shore Blvd. FSU, Houston, TX",
+            value: "03831"
         },
         {
-            value: "Lebanon FSU, Nashville, TN",
-            label: "02985"
+            text: "Lebanon FSU, Nashville, TN",
+            value: "02985"
         },
         {
-            value: "Fountain City FSU, Knoxville, TN",
-            label: "02980"
+            text: "Fountain City FSU, Knoxville, TN",
+            value: "02980"
         },
         {
-            value: "Claremore FSU, Tulsa, OK",
-            label: "03829"
+            text: "Claremore FSU, Tulsa, OK",
+            value: "03829"
         },
         {
-            value: "Short Pump Crossing FSU, Richmond-Petersburg, VA",
-            label: "01649"
+            text: "Short Pump Crossing FSU, Richmond-Petersburg, VA",
+            value: "01649"
         },
         {
-            value: "Victoria Mall, Victoria, TX",
-            label: "00319"
+            text: "Victoria Mall, Victoria, TX",
+            value: "00319"
         },
         {
-            value: "Houston Center, Houston, TX",
-            label: "00316"
+            text: "Houston Center, Houston, TX",
+            value: "00316"
         },
         {
-            value: "I-40 & MacArthur FSU, Oklahoma City, OK",
-            label: "02979"
+            text: "I-40 & MacArthur FSU, Oklahoma City, OK",
+            value: "02979"
         },
         {
-            value: "Campbell Lane FSU, Bowling Green, KY",
-            label: "01648"
+            text: "Campbell Lane FSU, Bowling Green, KY",
+            value: "01648"
         },
         {
-            value: "Marlton FSU, Philadelphia, PA",
-            label: "01647"
+            text: "Marlton FSU, Philadelphia, PA",
+            value: "01647"
         },
         {
-            value: "Valdosta Mall, Tallahassee, FL-Thomasville, GA",
-            label: "00317"
+            text: "Valdosta Mall, Tallahassee, FL-Thomasville, GA",
+            value: "00317"
         },
         {
-            value: "Richmond Rd at New Circle Rd FSU, Lexington, KY",
-            label: "03825"
+            text: "Richmond Rd at New Circle Rd FSU, Lexington, KY",
+            value: "03825"
         },
         {
-            value: "Devonshire & Reseda FSU, Los Angeles, CA",
-            label: "03827"
+            text: "Devonshire & Reseda FSU, Los Angeles, CA",
+            value: "03827"
         },
         {
-            value: "West Midland FSU, Odessa-Midland, TX",
-            label: "03828"
+            text: "West Midland FSU, Odessa-Midland, TX",
+            value: "03828"
         },
         {
-            value: "The Villages FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "01642"
+            text: "The Villages FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "01642"
         },
         {
-            value: "Shawnee FSU, Oklahoma City, OK",
-            label: "02973"
+            text: "Shawnee FSU, Oklahoma City, OK",
+            value: "02973"
         },
         {
-            value: "Southwest Decatur FSU, Huntsville-Decatur (Florence), AL",
-            label: "00795"
+            text: "Southwest Decatur FSU, Huntsville-Decatur (Florence), AL",
+            value: "00795"
         },
         {
-            value: "South Mountain FSU, Phoenix (Prescott), AZ",
-            label: "03821"
+            text: "South Mountain FSU, Phoenix (Prescott), AZ",
+            value: "03821"
         },
         {
-            value: "Monroe (NC) FSU, Charlotte, NC",
-            label: "00794"
+            text: "Monroe (NC) FSU, Charlotte, NC",
+            value: "00794"
         },
         {
-            value:
+            text:
                 "University Mall (AL), Birmingham (Anniston and Tuscaloosa), AL",
-            label: "00311"
+            value: "00311"
         },
         {
-            value: "Cordele FSU, Albany, GA",
-            label: "02972"
+            text: "Cordele FSU, Albany, GA",
+            value: "02972"
         },
         {
-            value: "Vine City FSU, Atlanta, GA",
-            label: "03822"
+            text: "Vine City FSU, Atlanta, GA",
+            value: "03822"
         },
         {
-            value: "Bardstown Road FSU, Louisville, KY",
-            label: "03823"
+            text: "Bardstown Road FSU, Louisville, KY",
+            value: "03823"
         },
         {
-            value: "St. Johns Town Center FSU, Jacksonville, FL",
-            label: "01640"
+            text: "St. Johns Town Center FSU, Jacksonville, FL",
+            value: "01640"
         },
         {
-            value: "Wilson FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "00793"
+            text: "Wilson FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "00793"
         },
         {
-            value: "Oswego FSU, Chicago, IL",
-            label: "02971"
+            text: "Oswego FSU, Chicago, IL",
+            value: "02971"
         },
         {
-            value: "Falls Village FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "00792"
+            text: "Falls Village FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "00792"
         },
         {
-            value: "College Football Hall of Fame, Atlanta, GA",
-            label: "02977"
+            text: "College Football Hall of Fame, Atlanta, GA",
+            value: "02977"
         },
         {
-            value: "Cedar Hill FSU, Dallas-Ft. Worth, TX",
-            label: "00799"
+            text: "Cedar Hill FSU, Dallas-Ft. Worth, TX",
+            value: "00799"
         },
         {
-            value: "Laurel FSU, Washington, DC (Hagerstown, MD)",
-            label: "01646"
+            text: "Laurel FSU, Washington, DC (Hagerstown, MD)",
+            value: "01646"
         },
         {
-            value: "Gurnee FSU, Chicago, IL",
-            label: "02976"
+            text: "Gurnee FSU, Chicago, IL",
+            value: "02976"
         },
         {
-            value: "University Park Mall, South Bend-Elkhart, IN",
-            label: "00315"
+            text: "University Park Mall, South Bend-Elkhart, IN",
+            value: "00315"
         },
         {
-            value: "Abercorn FSU, Savannah, GA",
-            label: "00796"
+            text: "Abercorn FSU, Savannah, GA",
+            value: "00796"
         },
         {
-            value: "Papillion FSU, Omaha, NE",
-            label: "02974"
+            text: "Papillion FSU, Omaha, NE",
+            value: "02974"
         },
         {
-            value:
+            text:
                 "Enos Ranch FSU, Santa Barbara-Santa Maria-San Luis Obispo, CA",
-            label: "03820"
+            value: "03820"
         },
         {
-            value:
+            text:
                 "Hanes Mall Boulevard FSU, Greensboro-High Point-Winston Salem, NC",
-            label: "00791"
+            value: "00791"
         },
         {
-            value: "The Brea Plaza In-Line DT, Los Angeles, CA",
-            label: "02529"
+            text: "The Brea Plaza In-Line DT, Los Angeles, CA",
+            value: "02529"
         },
         {
-            value: "Yorba Linda FSU, Los Angeles, CA",
-            label: "02528"
+            text: "Yorba Linda FSU, Los Angeles, CA",
+            value: "02528"
         },
         {
-            value: "Altoona FSU, Johnstown-Altoona-State College, PA",
-            label: "03858"
+            text: "Altoona FSU, Johnstown-Altoona-State College, PA",
+            value: "03858"
         },
         {
-            value: "Pewaukee (WI) FSU, Milwaukee, WI",
-            label: "03859"
+            text: "Pewaukee (WI) FSU, Milwaukee, WI",
+            value: "03859"
         },
         {
-            value: "Amelia Island FSU, Jacksonville, FL",
-            label: "01675"
+            text: "Amelia Island FSU, Jacksonville, FL",
+            value: "01675"
         },
         {
-            value: "Nassau Bay FSU, Houston, TX",
-            label: "03855"
+            text: "Nassau Bay FSU, Houston, TX",
+            value: "03855"
         },
         {
-            value: "Boone FSU, Charlotte, NC",
-            label: "01674"
+            text: "Boone FSU, Charlotte, NC",
+            value: "01674"
         },
         {
-            value: "West Acres FSU, Fargo-Valley City, ND",
-            label: "03856"
+            text: "West Acres FSU, Fargo-Valley City, ND",
+            value: "03856"
         },
         {
-            value: "Madison Street FSU, Nashville, TN",
-            label: "01673"
+            text: "Madison Street FSU, Nashville, TN",
+            value: "01673"
         },
         {
-            value: "Long Point Road FSU, Charleston, SC",
-            label: "03857"
+            text: "Long Point Road FSU, Charleston, SC",
+            value: "03857"
         },
         {
-            value: "Auburn Mall, Columbus, GA (Opelika, AL)",
-            label: "00342"
+            text: "Auburn Mall, Columbus, GA (Opelika, AL)",
+            value: "00342"
         },
         {
-            value: "7th & Fig In-Line, Los Angeles, CA",
-            label: "03850"
+            text: "7th & Fig In-Line, Los Angeles, CA",
+            value: "03850"
         },
         {
-            value: "Valley View Mall, Roanoke-Lynchburg, VA",
-            label: "00347"
+            text: "Valley View Mall, Roanoke-Lynchburg, VA",
+            value: "00347"
         },
         {
-            value: "Melody Farms Road FSU, Charleston-Huntington, WV",
-            label: "01678"
+            text: "Melody Farms Road FSU, Charleston-Huntington, WV",
+            value: "01678"
         },
         {
-            value: "Newport Pavilion FSU, Cincinnati, OH",
-            label: "02525"
+            text: "Newport Pavilion FSU, Cincinnati, OH",
+            value: "02525"
         },
         {
-            value: "West Town Mall, Knoxville, TN",
-            label: "00348"
+            text: "West Town Mall, Knoxville, TN",
+            value: "00348"
         },
         {
-            value: "The Standard In-Line, Gainesville, FL",
-            label: "03852"
+            text: "The Standard In-Line, Gainesville, FL",
+            value: "03852"
         },
         {
-            value: "Hwy. 249 at West Road FSU, Houston, TX",
-            label: "03853"
+            text: "Hwy. 249 at West Road FSU, Houston, TX",
+            value: "03853"
         },
         {
-            value: "290 and Spring Cypress FSU, Houston, TX",
-            label: "01671"
+            text: "290 and Spring Cypress FSU, Houston, TX",
+            value: "01671"
         },
         {
-            value: "White Marsh Mall, Baltimore, MD",
-            label: "00338"
+            text: "White Marsh Mall, Baltimore, MD",
+            value: "00338"
         },
         {
-            value: "Willowbrook Mall, Houston, TX",
-            label: "00339"
+            text: "Willowbrook Mall, Houston, TX",
+            value: "00339"
         },
         {
-            value: "Pearland Parkway FSU, Houston, TX",
-            label: "03847"
+            text: "Pearland Parkway FSU, Houston, TX",
+            value: "03847"
         },
         {
-            value: "Layton FSU, Salt Lake City, UT",
-            label: "02511"
+            text: "Layton FSU, Salt Lake City, UT",
+            value: "02511"
         },
         {
-            value: "Willowbrook FSU, Chicago, IL",
-            label: "02995"
+            text: "Willowbrook FSU, Chicago, IL",
+            value: "02995"
         },
         {
-            value: "Arrowhead FSU, Phoenix (Prescott), AZ",
-            label: "01664"
+            text: "Arrowhead FSU, Phoenix (Prescott), AZ",
+            value: "01664"
         },
         {
-            value: "Walnut Square, Chattanooga, TN",
-            label: "00332"
+            text: "Walnut Square, Chattanooga, TN",
+            value: "00332"
         },
         {
-            value: "Loucks Road FSU, Harrisburg-Lancaster-Lebanon-York, PA",
-            label: "02994"
+            text: "Loucks Road FSU, Harrisburg-Lancaster-Lebanon-York, PA",
+            value: "02994"
         },
         {
-            value: "Westshore Plaza, Tampa-St. Petersburg (Sarasota), FL",
-            label: "00330"
+            text: "Westshore Plaza, Tampa-St. Petersburg (Sarasota), FL",
+            value: "00330"
         },
         {
-            value: "4th & Frankford FSU, Lubbock, TX",
-            label: "03845"
+            text: "4th & Frankford FSU, Lubbock, TX",
+            value: "03845"
         },
         {
-            value: "Altamonte Springs FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "03846"
+            text: "Altamonte Springs FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "03846"
         },
         {
-            value: "Martin Luther King Drive-Thru Only, Austin, TX",
-            label: "02992"
+            text: "Martin Luther King Drive-Thru Only, Austin, TX",
+            value: "02992"
         },
         {
-            value: "Westmoreland Mall, Pittsburgh, PA",
-            label: "00331"
+            text: "Westmoreland Mall, Pittsburgh, PA",
+            value: "00331"
         },
         {
-            value: "Tyrone Boulevard FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "01661"
+            text: "Tyrone Boulevard FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "01661"
         },
         {
-            value: "Westgate Mall (TX), Amarillo, TX",
-            label: "00336"
+            text: "Westgate Mall (TX), Amarillo, TX",
+            value: "00336"
         },
         {
-            value: "Springhurst FSU, Louisville, KY",
-            label: "01668"
+            text: "Springhurst FSU, Louisville, KY",
+            value: "01668"
         },
         {
-            value: "Kildeer FSU, Chicago, IL",
-            label: "02999"
+            text: "Kildeer FSU, Chicago, IL",
+            value: "02999"
         },
         {
-            value: "Woodbridge Center, New York, NY",
-            label: "00337"
+            text: "Woodbridge Center, New York, NY",
+            value: "00337"
         },
         {
-            value: "Middleburg FSU, Jacksonville, FL",
-            label: "02514"
+            text: "Middleburg FSU, Jacksonville, FL",
+            value: "02514"
         },
         {
-            value: "Chanhassen FSU, Minneapolis-St. Paul, MN",
-            label: "03840"
+            text: "Chanhassen FSU, Minneapolis-St. Paul, MN",
+            value: "03840"
         },
         {
-            value: "Northwest Crossing FSU, Houston, TX",
-            label: "02513"
+            text: "Northwest Crossing FSU, Houston, TX",
+            value: "02513"
         },
         {
-            value: "Bloomingdale FSU, Chicago, IL",
-            label: "02997"
+            text: "Bloomingdale FSU, Chicago, IL",
+            value: "02997"
         },
         {
-            value: "Cypress Lake FSU, Ft. Myers-Naples, FL",
-            label: "01666"
+            text: "Cypress Lake FSU, Ft. Myers-Naples, FL",
+            value: "01666"
         },
         {
-            value: "Columbus Commons FSU, Philadelphia, PA",
-            label: "01665"
+            text: "Columbus Commons FSU, Philadelphia, PA",
+            value: "01665"
         },
         {
-            value: "Southpoint FSU, Washington, DC (Hagerstown, MD)",
-            label: "01660"
+            text: "Southpoint FSU, Washington, DC (Hagerstown, MD)",
+            value: "01660"
         },
         {
-            value: "Forest Hill FSU, Baltimore, MD",
-            label: "02947"
+            text: "Forest Hill FSU, Baltimore, MD",
+            value: "02947"
         },
         {
-            value: "Ocoee FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "00768"
+            text: "Ocoee FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "00768"
         },
         {
-            value: "Springdale FSU, Cincinnati, OH",
-            label: "01614"
+            text: "Springdale FSU, Cincinnati, OH",
+            value: "01614"
         },
         {
-            value: "Center of the Universe FSU, Richmond-Petersburg, VA",
-            label: "02945"
+            text: "Center of the Universe FSU, Richmond-Petersburg, VA",
+            value: "02945"
         },
         {
-            value: "Hopkinsville FSU, Nashville, TN",
-            label: "02940"
+            text: "Hopkinsville FSU, Nashville, TN",
+            value: "02940"
         },
         {
-            value:
+            text:
                 "Schillinger Road FSU, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "00762"
+            value: "00762"
         },
         {
-            value: "Capital Circle FSU, Tallahassee, FL-Thomasville, GA",
-            label: "00760"
+            text: "Capital Circle FSU, Tallahassee, FL-Thomasville, GA",
+            value: "00760"
         },
         {
-            value:
+            text:
                 "Laurens County FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "02944"
+            value: "02944"
         },
         {
-            value: "Hattiesburg FSU, Hattiesburg-Laurel, MS",
-            label: "01613"
+            text: "Hattiesburg FSU, Hattiesburg-Laurel, MS",
+            value: "01613"
         },
         {
-            value: "New Bern FSU, Greenville-New Bern-Washington, NC",
-            label: "00766"
+            text: "New Bern FSU, Greenville-New Bern-Washington, NC",
+            value: "00766"
         },
         {
-            value: "University Commons FSU, Greenville-New Bern-Washington, NC",
-            label: "00765"
+            text: "University Commons FSU, Greenville-New Bern-Washington, NC",
+            value: "00765"
         },
         {
-            value: "Colonial Heights FSU, Richmond-Petersburg, VA",
-            label: "02943"
+            text: "Colonial Heights FSU, Richmond-Petersburg, VA",
+            value: "02943"
         },
         {
-            value: "Sevierville FSU, Knoxville, TN",
-            label: "00764"
+            text: "Sevierville FSU, Knoxville, TN",
+            value: "00764"
         },
         {
-            value: "Martinsville FSU, Roanoke-Lynchburg, VA",
-            label: "02942"
+            text: "Martinsville FSU, Roanoke-Lynchburg, VA",
+            value: "02942"
         },
         {
-            value: "Towne Lake FSU, Atlanta, GA",
-            label: "00763"
+            text: "Towne Lake FSU, Atlanta, GA",
+            value: "00763"
         },
         {
-            value: "Voice of America FSU, Cincinnati, OH",
-            label: "01606"
+            text: "Voice of America FSU, Cincinnati, OH",
+            value: "01606"
         },
         {
-            value: "Azusa FSU, Los Angeles, CA",
-            label: "02936"
+            text: "Azusa FSU, Los Angeles, CA",
+            value: "02936"
         },
         {
-            value:
+            text:
                 "Broad Creek Crossing FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "00758"
+            value: "00758"
         },
         {
-            value: "Barry Road FSU, Kansas City, MO",
-            label: "02935"
+            text: "Barry Road FSU, Kansas City, MO",
+            value: "02935"
         },
         {
-            value: "East Lake FSU, Atlanta, GA",
-            label: "00757"
+            text: "East Lake FSU, Atlanta, GA",
+            value: "00757"
         },
         {
-            value:
+            text:
                 "West Walnut FSU, Ft. Smith-Fayetteville-Springdale-Rogers, AR",
-            label: "01604"
+            value: "01604"
         },
         {
-            value: "Indian River Road FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "00756"
+            text: "Indian River Road FSU, Norfolk-Portsmouth-Newport News, VA",
+            value: "00756"
         },
         {
-            value: "Kentlands Square In-Line, Washington, DC (Hagerstown, MD)",
-            label: "02934"
+            text: "Kentlands Square In-Line, Washington, DC (Hagerstown, MD)",
+            value: "02934"
         },
         {
-            value: "Clark Road FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "01609"
+            text: "Clark Road FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "01609"
         },
         {
-            value: "Vidalia FSU, Savannah, GA",
-            label: "02939"
+            text: "Vidalia FSU, Savannah, GA",
+            value: "02939"
         },
         {
-            value: "Lee Crossings FSU, Albany, GA",
-            label: "02938"
+            text: "Lee Crossings FSU, Albany, GA",
+            value: "02938"
         },
         {
-            value: "Tyndall Parkway FSU, Panama City, FL",
-            label: "00751"
+            text: "Tyndall Parkway FSU, Panama City, FL",
+            value: "00751"
         },
         {
-            value: "North Abilene FSU, Abilene-Sweetwater, TX",
-            label: "02933"
+            text: "North Abilene FSU, Abilene-Sweetwater, TX",
+            value: "02933"
         },
         {
-            value: "Mishawaka Main Street FSU, South Bend-Elkhart, IN",
-            label: "01602"
+            text: "Mishawaka Main Street FSU, South Bend-Elkhart, IN",
+            value: "01602"
         },
         {
-            value: "Montrose Crossing In-Line, Washington, DC (Hagerstown, MD)",
-            label: "02932"
+            text: "Montrose Crossing In-Line, Washington, DC (Hagerstown, MD)",
+            value: "02932"
         },
         {
-            value: "Cookeville FSU, Nashville, TN",
-            label: "01601"
+            text: "Cookeville FSU, Nashville, TN",
+            value: "01601"
         },
         {
-            value: "Whitehall Commons Shopping Center FSU, Charlotte, NC",
-            label: "00753"
+            text: "Whitehall Commons Shopping Center FSU, Charlotte, NC",
+            value: "00753"
         },
         {
-            value: "Seven Corners In-Line, Washington, DC (Hagerstown, MD)",
-            label: "02931"
+            text: "Seven Corners In-Line, Washington, DC (Hagerstown, MD)",
+            value: "02931"
         },
         {
-            value: "Elizabethtown FSU, Louisville, KY",
-            label: "01639"
+            text: "Elizabethtown FSU, Louisville, KY",
+            value: "01639"
         },
         {
-            value: "Tyrone Square Mall, Tampa-St. Petersburg (Sarasota), FL",
-            label: "00308"
+            text: "Tyrone Square Mall, Tampa-St. Petersburg (Sarasota), FL",
+            value: "00308"
         },
         {
-            value: "Odessa Town Center FSU, Odessa-Midland, TX",
-            label: "01638"
+            text: "Odessa Town Center FSU, Odessa-Midland, TX",
+            value: "01638"
         },
         {
-            value: "King of Prussia FSU, Philadelphia, PA",
-            label: "02968"
+            text: "King of Prussia FSU, Philadelphia, PA",
+            value: "02968"
         },
         {
-            value: "Harvey FSU, New Orleans, LA",
-            label: "02967"
+            text: "Harvey FSU, New Orleans, LA",
+            value: "02967"
         },
         {
-            value: "Albemarle Road FSU, Charlotte, NC",
-            label: "00789"
+            text: "Albemarle Road FSU, Charlotte, NC",
+            value: "00789"
         },
         {
-            value: "Bothell Canyon Park FSU, Seattle-Tacoma, WA",
-            label: "03814"
+            text: "Bothell Canyon Park FSU, Seattle-Tacoma, WA",
+            value: "03814"
         },
         {
-            value: "54th and 131 FSU, Grand Rapids-Kalamazoo-Battle Creek, MI",
-            label: "03815"
+            text: "54th and 131 FSU, Grand Rapids-Kalamazoo-Battle Creek, MI",
+            value: "03815"
         },
         {
-            value: "Mall Road FSU, Cincinnati, OH",
-            label: "03816"
+            text: "Mall Road FSU, Cincinnati, OH",
+            value: "03816"
         },
         {
-            value: "Romar Center FSU, Cincinnati, OH",
-            label: "03817"
+            text: "Romar Center FSU, Cincinnati, OH",
+            value: "03817"
         },
         {
-            value:
+            text:
                 "Fourth Street North FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "00784"
+            value: "00784"
         },
         {
-            value: "Sparks Blvd & I-80 FSU, Reno, NV",
-            label: "03810"
+            text: "Sparks Blvd & I-80 FSU, Reno, NV",
+            value: "03810"
         },
         {
-            value: "Riverside Drive FSU, Roanoke-Lynchburg, VA",
-            label: "01631"
+            text: "Riverside Drive FSU, Roanoke-Lynchburg, VA",
+            value: "01631"
         },
         {
-            value: "Twin Creeks Village FSU, Dallas-Ft. Worth, TX",
-            label: "00783"
+            text: "Twin Creeks Village FSU, Dallas-Ft. Worth, TX",
+            value: "00783"
         },
         {
-            value: "Corridor Market Place FSU, Baltimore, MD",
-            label: "00782"
+            text: "Corridor Market Place FSU, Baltimore, MD",
+            value: "00782"
         },
         {
-            value: "Bartlesville FSU, Tulsa, OK",
-            label: "03813"
+            text: "Bartlesville FSU, Tulsa, OK",
+            value: "03813"
         },
         {
-            value: "Stanford Station Shopping Center FSU, Panama City, FL",
-            label: "00781"
+            text: "Stanford Station Shopping Center FSU, Panama City, FL",
+            value: "00781"
         },
         {
-            value: "The Mall at Johnson City, Tri-Cities, TN-VA",
-            label: "00303"
+            text: "The Mall at Johnson City, Tri-Cities, TN-VA",
+            value: "00303"
         },
         {
-            value:
+            text:
                 "Duncan FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "02966"
+            value: "02966"
         },
         {
-            value: "Short Pump Town Center, Richmond-Petersburg, VA",
-            label: "01635"
+            text: "Short Pump Town Center, Richmond-Petersburg, VA",
+            value: "01635"
         },
         {
-            value: "Indian Trail FSU, Charlotte, NC",
-            label: "02965"
+            text: "Indian Trail FSU, Charlotte, NC",
+            value: "02965"
         },
         {
-            value: "Central Park FSU, Washington, DC (Hagerstown, MD)",
-            label: "01634"
+            text: "Central Park FSU, Washington, DC (Hagerstown, MD)",
+            value: "01634"
         },
         {
-            value: "Westfield Citrus Park, Tampa-St. Petersburg (Sarasota), FL",
-            label: "00787"
+            text: "Westfield Citrus Park, Tampa-St. Petersburg (Sarasota), FL",
+            value: "00787"
         },
         {
-            value: "Katy Mills FSU, Houston, TX",
-            label: "02964"
+            text: "Katy Mills FSU, Houston, TX",
+            value: "02964"
         },
         {
-            value: "Waters Ave. FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "00302"
+            text: "Waters Ave. FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "00302"
         },
         {
-            value: "Mooresville FSU, Charlotte, NC",
-            label: "00780"
+            text: "Mooresville FSU, Charlotte, NC",
+            value: "00780"
         },
         {
-            value: "The Pyramids FSU, Indianapolis, IN",
-            label: "01628"
+            text: "The Pyramids FSU, Indianapolis, IN",
+            value: "01628"
         },
         {
-            value: "I-19 & Irvington FSU, Tucson (Sierra Vista), AZ",
-            label: "03807"
+            text: "I-19 & Irvington FSU, Tucson (Sierra Vista), AZ",
+            value: "03807"
         },
         {
-            value: "Summerwood FSU, Houston, TX",
-            label: "03808"
+            text: "Summerwood FSU, Houston, TX",
+            value: "03808"
         },
         {
-            value: "Gulfport FSU, Biloxi-Gulfport, MS",
-            label: "01626"
+            text: "Gulfport FSU, Biloxi-Gulfport, MS",
+            value: "01626"
         },
         {
-            value: "Mount Airy FSU, Greensboro-High Point-Winston Salem, NC",
-            label: "02957"
+            text: "Mount Airy FSU, Greensboro-High Point-Winston Salem, NC",
+            value: "02957"
         },
         {
-            value: "Beltway 8 & Hammerly Blvd. FSU, Houston, TX",
-            label: "03809"
+            text: "Beltway 8 & Hammerly Blvd. FSU, Houston, TX",
+            value: "03809"
         },
         {
-            value: "Sawyer Heights FSU, Houston, TX",
-            label: "02956"
+            text: "Sawyer Heights FSU, Houston, TX",
+            value: "02956"
         },
         {
-            value: "Wexford FSU, Pittsburgh, PA",
-            label: "03804"
+            text: "Wexford FSU, Pittsburgh, PA",
+            value: "03804"
         },
         {
-            value: "Chester FSU, Richmond-Petersburg, VA",
-            label: "01629"
+            text: "Chester FSU, Richmond-Petersburg, VA",
+            value: "01629"
         },
         {
-            value: "Oviedo Mall, Orlando-Daytona Beach-Melbourne, FL",
-            label: "00773"
+            text: "Oviedo Mall, Orlando-Daytona Beach-Melbourne, FL",
+            value: "00773"
         },
         {
-            value: "Burlington Mall, Boston, MA (Manchester, NH)",
-            label: "00772"
+            text: "Burlington Mall, Boston, MA (Manchester, NH)",
+            value: "00772"
         },
         {
-            value: "Sanford (FL) FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "03800"
+            text: "Sanford (FL) FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "03800"
         },
         {
-            value: "Phillipsburg FSU, New York, NY",
-            label: "02950"
+            text: "Phillipsburg FSU, New York, NY",
+            value: "02950"
         },
         {
-            value: "Totem Lake FSU, Seattle-Tacoma, WA",
-            label: "03801"
+            text: "Totem Lake FSU, Seattle-Tacoma, WA",
+            value: "03801"
         },
         {
-            value:
+            text:
                 "Ormond Towne Square FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "00771"
+            value: "00771"
         },
         {
-            value: "Palm Bay Road FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "00770"
+            text: "Palm Bay Road FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "00770"
         },
         {
-            value: "Wilma Rudolph FSU, Nashville, TN",
-            label: "02955"
+            text: "Wilma Rudolph FSU, Nashville, TN",
+            value: "02955"
         },
         {
-            value: "Stone Drive FSU, Tri-Cities, TN-VA",
-            label: "00777"
+            text: "Stone Drive FSU, Tri-Cities, TN-VA",
+            value: "00777"
         },
         {
-            value: "Hampden and I-25 FSU, Denver, CO",
-            label: "02954"
+            text: "Hampden and I-25 FSU, Denver, CO",
+            value: "02954"
         },
         {
-            value:
+            text:
                 "West Longview FSU, Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "01622"
+            value: "01622"
         },
         {
-            value: "Camden FSU, Columbia, SC",
-            label: "02953"
+            text: "Camden FSU, Columbia, SC",
+            value: "02953"
         },
         {
-            value: "The Colony FSU, Dallas-Ft. Worth, TX",
-            label: "00774"
+            text: "The Colony FSU, Dallas-Ft. Worth, TX",
+            value: "00774"
         },
         {
-            value: "Foxcroft Ave FSU, Washington, DC (Hagerstown, MD)",
-            label: "01621"
+            text: "Foxcroft Ave FSU, Washington, DC (Hagerstown, MD)",
+            value: "01621"
         },
         {
-            value: "Belmar FSU, Denver, CO",
-            label: "02952"
+            text: "Belmar FSU, Denver, CO",
+            value: "02952"
         },
         {
-            value: "Denham Springs FSU, Baton Rouge, LA",
-            label: "03319"
+            text: "Denham Springs FSU, Baton Rouge, LA",
+            value: "03319"
         },
         {
-            value: "Christiana FSU, Philadelphia, PA",
-            label: "03315"
+            text: "Christiana FSU, Philadelphia, PA",
+            value: "03315"
         },
         {
-            value: "Village at Westlake FSU, Austin, TX",
-            label: "01136"
+            text: "Village at Westlake FSU, Austin, TX",
+            value: "01136"
         },
         {
-            value: "South Warner Robins FSU, Macon, GA",
-            label: "02467"
+            text: "South Warner Robins FSU, Macon, GA",
+            value: "02467"
         },
         {
-            value:
+            text:
                 "Sunrise Mall (BV), Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "00288"
+            value: "00288"
         },
         {
-            value: "Richmond Centre FSU, Lexington, KY",
-            label: "02466"
+            text: "Richmond Centre FSU, Lexington, KY",
+            value: "02466"
         },
         {
-            value: "Sunset Mall, San Angelo, TX",
-            label: "00289"
+            text: "Sunset Mall, San Angelo, TX",
+            value: "00289"
         },
         {
-            value: "Chantilly FSU, Washington, DC (Hagerstown, MD)",
-            label: "03316"
+            text: "Chantilly FSU, Washington, DC (Hagerstown, MD)",
+            value: "03316"
         },
         {
-            value: "Easton FSU, Baltimore, MD",
-            label: "02465"
+            text: "Easton FSU, Baltimore, MD",
+            value: "02465"
         },
         {
-            value: "Broad Ripple FSU, Indianapolis, IN",
-            label: "03317"
+            text: "Broad Ripple FSU, Indianapolis, IN",
+            value: "03317"
         },
         {
-            value: "South Mopac at US Hwy 290 West FSU, Austin, TX",
-            label: "01134"
+            text: "South Mopac at US Hwy 290 West FSU, Austin, TX",
+            value: "01134"
         },
         {
-            value: "38th & Steele FSU, Seattle-Tacoma, WA",
-            label: "03318"
+            text: "38th & Steele FSU, Seattle-Tacoma, WA",
+            value: "03318"
         },
         {
-            value: "Morganton FSU, Charlotte, NC",
-            label: "03311"
+            text: "Morganton FSU, Charlotte, NC",
+            value: "03311"
         },
         {
-            value: "Atlantic & Hodges FSU, Jacksonville, FL",
-            label: "01139"
+            text: "Atlantic & Hodges FSU, Jacksonville, FL",
+            value: "01139"
         },
         {
-            value: "Manchester Expressway FSU, Columbus, GA (Opelika, AL)",
-            label: "03796"
+            text: "Manchester Expressway FSU, Columbus, GA (Opelika, AL)",
+            value: "03796"
         },
         {
-            value: "College Street FSU, Beaumont-Port Arthur, TX",
-            label: "03312"
+            text: "College Street FSU, Beaumont-Port Arthur, TX",
+            value: "03312"
         },
         {
-            value: "Concord Township FSU, Philadelphia, PA",
-            label: "02469"
+            text: "Concord Township FSU, Philadelphia, PA",
+            value: "02469"
         },
         {
-            value: "Cascade Road FSU, Atlanta, GA",
-            label: "03797"
+            text: "Cascade Road FSU, Atlanta, GA",
+            value: "03797"
         },
         {
-            value:
+            text:
                 "Airport Blvd (AL) FSU, Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "03313"
+            value: "03313"
         },
         {
-            value: "Regency Park FSU, Jacksonville, FL",
-            label: "01138"
+            text: "Regency Park FSU, Jacksonville, FL",
+            value: "01138"
         },
         {
-            value: "Fort Lauderdale FSU, Miami-Ft. Lauderdale, FL",
-            label: "03314"
+            text: "Fort Lauderdale FSU, Miami-Ft. Lauderdale, FL",
+            value: "03314"
         },
         {
-            value: "Central Ave. & Riverside Plaza FSU, Los Angeles, CA",
-            label: "03791"
+            text: "Central Ave. & Riverside Plaza FSU, Los Angeles, CA",
+            value: "03791"
         },
         {
-            value: "Southpark (NC), Charlotte, NC",
-            label: "00280"
+            text: "Southpark (NC), Charlotte, NC",
+            value: "00280"
         },
         {
-            value: "D'Iberville FSU, Biloxi-Gulfport, MS",
-            label: "02463"
+            text: "D'Iberville FSU, Biloxi-Gulfport, MS",
+            value: "02463"
         },
         {
-            value: "Seaboard Commons FSU, Myrtle Beach-Florence, SC",
-            label: "01131"
+            text: "Seaboard Commons FSU, Myrtle Beach-Florence, SC",
+            value: "01131"
         },
         {
-            value: "Collierville FSU, Memphis, TN",
-            label: "01130"
+            text: "Collierville FSU, Memphis, TN",
+            value: "01130"
         },
         {
-            value:
+            text:
                 "Wesley Chapel (FL) FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "03790"
+            value: "03790"
         },
         {
-            value: "Rincon FSU, Savannah, GA",
-            label: "03308"
+            text: "Rincon FSU, Savannah, GA",
+            value: "03308"
         },
         {
-            value: "Lake Ridge FSU, Washington, DC (Hagerstown, MD)",
-            label: "03309"
+            text: "Lake Ridge FSU, Washington, DC (Hagerstown, MD)",
+            value: "03309"
         },
         {
-            value: "Brandywine FSU, Washington, DC (Hagerstown, MD)",
-            label: "02456"
+            text: "Brandywine FSU, Washington, DC (Hagerstown, MD)",
+            value: "02456"
         },
         {
-            value: "Bulldog & State FSU, Salt Lake City, UT",
-            label: "03304"
+            text: "Bulldog & State FSU, Salt Lake City, UT",
+            value: "03304"
         },
         {
-            value: "23rd & 77 FSU, Panama City, FL",
-            label: "03788"
+            text: "23rd & 77 FSU, Panama City, FL",
+            value: "03788"
         },
         {
-            value: "Saxon Boulevard FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "01125"
+            text: "Saxon Boulevard FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "01125"
         },
         {
-            value: "Sawmill Square, Hattiesburg-Laurel, MS",
-            label: "00278"
+            text: "Sawmill Square, Hattiesburg-Laurel, MS",
+            value: "00278"
         },
         {
-            value: "Martin Plaza FSU, Baltimore, MD",
-            label: "02455"
+            text: "Martin Plaza FSU, Baltimore, MD",
+            value: "02455"
         },
         {
-            value: "Bakersfield FSU, Bakersfield, CA",
-            label: "02454"
+            text: "Bakersfield FSU, Bakersfield, CA",
+            value: "02454"
         },
         {
-            value: "Purcellville FSU, Washington, DC (Hagerstown, MD)",
-            label: "03307"
+            text: "Purcellville FSU, Washington, DC (Hagerstown, MD)",
+            value: "03307"
         },
         {
-            value: "Oakley Station FSU, Cincinnati, OH",
-            label: "03784"
+            text: "Oakley Station FSU, Cincinnati, OH",
+            value: "03784"
         },
         {
-            value: "Lakeside Shopping Center, New Orleans, LA",
-            label: "01129"
+            text: "Lakeside Shopping Center, New Orleans, LA",
+            value: "01129"
         },
         {
-            value: "Weslaco FSU, Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "03300"
+            text: "Weslaco FSU, Harlingen-Weslaco-Brownsville-McAllen, TX",
+            value: "03300"
         },
         {
-            value:
+            text:
                 "Gaffney FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "02459"
+            value: "02459"
         },
         {
-            value: "Southchase Plaza FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "01128"
+            text: "Southchase Plaza FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "01128"
         },
         {
-            value: "Grandview Yard FSU, Columbus, OH",
-            label: "03785"
+            text: "Grandview Yard FSU, Columbus, OH",
+            value: "03785"
         },
         {
-            value: "LakePoint FSU, Atlanta, GA",
-            label: "03302"
+            text: "LakePoint FSU, Atlanta, GA",
+            value: "03302"
         },
         {
-            value:
+            text:
                 "Waterford Lakes Town Center FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "01126"
+            value: "01126"
         },
         {
-            value: "Ankeny FSU, Des Moines-Ames, IA",
-            label: "03303"
+            text: "Ankeny FSU, Des Moines-Ames, IA",
+            value: "03303"
         },
         {
-            value: "45 & West Road FSU, Houston, TX",
-            label: "03787"
+            text: "45 & West Road FSU, Houston, TX",
+            value: "03787"
         },
         {
-            value: "Ellisville FSU, St. Louis, MO",
-            label: "03780"
+            text: "Ellisville FSU, St. Louis, MO",
+            value: "03780"
         },
         {
-            value: "Brookfield Square FSU, Milwaukee, WI",
-            label: "03782"
+            text: "Brookfield Square FSU, Milwaukee, WI",
+            value: "03782"
         },
         {
-            value: "Asheboro FSU, Greensboro-High Point-Winston Salem, NC",
-            label: "01120"
+            text: "Asheboro FSU, Greensboro-High Point-Winston Salem, NC",
+            value: "01120"
         },
         {
-            value: "Pine Island Road FSU, Ft. Myers-Naples, FL",
-            label: "02489"
+            text: "Pine Island Road FSU, Ft. Myers-Naples, FL",
+            value: "02489"
         },
         {
-            value: "Canton Marketplace FSU, Atlanta, GA",
-            label: "02488"
+            text: "Canton Marketplace FSU, Atlanta, GA",
+            value: "02488"
         },
         {
-            value: "Keith Street FSU, Chattanooga, TN",
-            label: "01157"
+            text: "Keith Street FSU, Chattanooga, TN",
+            value: "01157"
         },
         {
-            value: "1960 & Walters FSU, Houston, TX",
-            label: "03338"
+            text: "1960 & Walters FSU, Houston, TX",
+            value: "03338"
         },
         {
-            value:
+            text:
                 "Vestavia Hills FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "03339"
+            value: "03339"
         },
         {
-            value: "Oak Park Town Center FSU, Chattanooga, TN",
-            label: "01156"
+            text: "Oak Park Town Center FSU, Chattanooga, TN",
+            value: "01156"
         },
         {
-            value: "Deerfield Crossing FSU, Cincinnati, OH",
-            label: "02486"
+            text: "Deerfield Crossing FSU, Cincinnati, OH",
+            value: "02486"
         },
         {
-            value: "Alico Road FSU, Ft. Myers-Naples, FL",
-            label: "02002"
+            text: "Alico Road FSU, Ft. Myers-Naples, FL",
+            value: "02002"
         },
         {
-            value: "Fashion Fair FSU, Fresno-Visalia, CA",
-            label: "03333"
+            text: "Fashion Fair FSU, Fresno-Visalia, CA",
+            value: "03333"
         },
         {
-            value: "Memorial & Dairy Ashford FSU, Houston, TX",
-            label: "03334"
+            text: "Memorial & Dairy Ashford FSU, Houston, TX",
+            value: "03334"
         },
         {
-            value: "Kedron Village FSU, Atlanta, GA",
-            label: "02007"
+            text: "Kedron Village FSU, Atlanta, GA",
+            value: "02007"
         },
         {
-            value: "Dell Range FSU, Cheyenne, WY-Scottsbluff, NE",
-            label: "03335"
+            text: "Dell Range FSU, Cheyenne, WY-Scottsbluff, NE",
+            value: "03335"
         },
         {
-            value: "Broadway & Dartmouth FSU, Denver, CO",
-            label: "03336"
+            text: "Broadway & Dartmouth FSU, Denver, CO",
+            value: "03336"
         },
         {
-            value: "Arizona & Ocotillo FSU, Phoenix (Prescott), AZ",
-            label: "02481"
+            text: "Arizona & Ocotillo FSU, Phoenix (Prescott), AZ",
+            value: "02481"
         },
         {
-            value:
+            text:
                 "Powdersville FSU, Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "03330"
+            value: "03330"
         },
         {
-            value: "405 at Jefferson (Los Angeles) FSU, Los Angeles, CA",
-            label: "03331"
+            text: "405 at Jefferson (Los Angeles) FSU, Los Angeles, CA",
+            value: "03331"
         },
         {
-            value: "Draper FSU, Salt Lake City, UT",
-            label: "03332"
+            text: "Draper FSU, Salt Lake City, UT",
+            value: "03332"
         },
         {
-            value: "Madison (AL) FSU, Huntsville-Decatur (Florence), AL",
-            label: "01153"
+            text: "Madison (AL) FSU, Huntsville-Decatur (Florence), AL",
+            value: "01153"
         },
         {
-            value: "Sawdust Road FSU, Houston, TX",
-            label: "02484"
+            text: "Sawdust Road FSU, Houston, TX",
+            value: "02484"
         },
         {
-            value: "Steeplechase FSU, Washington, DC (Hagerstown, MD)",
-            label: "02000"
+            text: "Steeplechase FSU, Washington, DC (Hagerstown, MD)",
+            value: "02000"
         },
         {
-            value: "Pompano Beach FSU, Miami-Ft. Lauderdale, FL",
-            label: "02483"
+            text: "Pompano Beach FSU, Miami-Ft. Lauderdale, FL",
+            value: "02483"
         },
         {
-            value: "Christiansburg FSU, Roanoke-Lynchburg, VA",
-            label: "01151"
+            text: "Christiansburg FSU, Roanoke-Lynchburg, VA",
+            value: "01151"
         },
         {
-            value: "Acworth FSU, Atlanta, GA",
-            label: "01146"
+            text: "Acworth FSU, Atlanta, GA",
+            value: "01146"
         },
         {
-            value: "Spotsylvania Towne Centre, Washington, DC (Hagerstown, MD)",
-            label: "00297"
+            text: "Spotsylvania Towne Centre, Washington, DC (Hagerstown, MD)",
+            value: "00297"
         },
         {
-            value: "Downey FSU, Los Angeles, CA",
-            label: "03328"
+            text: "Downey FSU, Los Angeles, CA",
+            value: "03328"
         },
         {
-            value: "East Alief FSU, Houston, TX",
-            label: "03322"
+            text: "East Alief FSU, Houston, TX",
+            value: "03322"
         },
         {
-            value: "Bush River Road FSU, Columbia, SC",
-            label: "01149"
+            text: "Bush River Road FSU, Columbia, SC",
+            value: "01149"
         },
         {
-            value: "Tyson's West In-Line, Washington, DC (Hagerstown, MD)",
-            label: "03324"
+            text: "Tyson's West In-Line, Washington, DC (Hagerstown, MD)",
+            value: "03324"
         },
         {
-            value: "Aiken FSU, Augusta, GA-Aiken, SC",
-            label: "01148"
+            text: "Aiken FSU, Augusta, GA-Aiken, SC",
+            value: "01148"
         },
         {
-            value: "Greenwood Village FSU, Denver, CO",
-            label: "02479"
+            text: "Greenwood Village FSU, Denver, CO",
+            value: "02479"
         },
         {
-            value: "Strongsville FSU, Cleveland-Akron (Canton), OH",
-            label: "02470"
+            text: "Strongsville FSU, Cleveland-Akron (Canton), OH",
+            value: "02470"
         },
         {
-            value: "The Woodlands at College Park FSU, Houston, TX",
-            label: "03321"
+            text: "The Woodlands at College Park FSU, Houston, TX",
+            value: "03321"
         },
         {
-            value: "South Plains Mall, Lubbock, TX",
-            label: "00290"
+            text: "South Plains Mall, Lubbock, TX",
+            value: "00290"
         },
         {
-            value:
+            text:
                 "Trussville FSU (AL), Birmingham (Anniston and Tuscaloosa), AL",
-            label: "01143"
+            value: "01143"
         },
         {
-            value: "Quail Springs Mall, Oklahoma City, OK",
-            label: "01142"
+            text: "Quail Springs Mall, Oklahoma City, OK",
+            value: "01142"
         },
         {
-            value: "Southern Park, Youngstown, OH",
-            label: "00296"
+            text: "Southern Park, Youngstown, OH",
+            value: "00296"
         },
         {
-            value: "Mall of Georgia, Atlanta, GA",
-            label: "01141"
+            text: "Mall of Georgia, Atlanta, GA",
+            value: "01141"
         },
         {
-            value: "Commerce FSU, Atlanta, GA",
-            label: "01140"
+            text: "Commerce FSU, Atlanta, GA",
+            value: "01140"
         },
         {
-            value: "Southern Hills Mall, Sioux City, IA",
-            label: "00294"
+            text: "Southern Hills Mall, Sioux City, IA",
+            value: "00294"
         },
         {
-            value: "Killeen FSU, Waco-Temple-Bryan, TX",
-            label: "02429"
+            text: "Killeen FSU, Waco-Temple-Bryan, TX",
+            value: "02429"
         },
         {
-            value: "Lohman Avenue FSU, El Paso, TX (Las Cruces, NM)",
-            label: "03755"
+            text: "Lohman Avenue FSU, El Paso, TX (Las Cruces, NM)",
+            value: "03755"
         },
         {
-            value: "Peachtree Mall, Columbus, GA (Opelika, AL)",
-            label: "00245"
+            text: "Peachtree Mall, Columbus, GA (Opelika, AL)",
+            value: "00245"
         },
         {
-            value: "Parkway Place, Huntsville-Decatur (Florence), AL",
-            label: "00242"
+            text: "Parkway Place, Huntsville-Decatur (Florence), AL",
+            value: "00242"
         },
         {
-            value:
+            text:
                 "Brier Creek Parkway at Lumley Road FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "01573"
+            value: "01573"
         },
         {
-            value: "Plymouth Meeting Mall, Philadelphia, PA",
-            label: "00243"
+            text: "Plymouth Meeting Mall, Philadelphia, PA",
+            value: "00243"
         },
         {
-            value: "Southlands FSU, Denver, CO",
-            label: "01579"
+            text: "Southlands FSU, Denver, CO",
+            value: "01579"
         },
         {
-            value: "Champions Center FSU, Dallas-Ft. Worth, TX",
-            label: "03752"
+            text: "Champions Center FSU, Dallas-Ft. Worth, TX",
+            value: "03752"
         },
         {
-            value: "Southington (CT) FSU, Hartford & New Haven, CT",
-            label: "03753"
+            text: "Southington (CT) FSU, Hartford & New Haven, CT",
+            value: "03753"
         },
         {
-            value: "Kingwood FSU, Houston, TX",
-            label: "02425"
+            text: "Kingwood FSU, Houston, TX",
+            value: "02425"
         },
         {
-            value: "Frisco Lakes FSU, Dallas-Ft. Worth, TX",
-            label: "03754"
+            text: "Frisco Lakes FSU, Dallas-Ft. Worth, TX",
+            value: "03754"
         },
         {
-            value: "Fairburn FSU, Atlanta, GA",
-            label: "01577"
+            text: "Fairburn FSU, Atlanta, GA",
+            value: "01577"
         },
         {
-            value: "White Rock FSU, Dallas-Ft. Worth, TX",
-            label: "03750"
+            text: "White Rock FSU, Dallas-Ft. Worth, TX",
+            value: "03750"
         },
         {
-            value: "Paramus Park Shopping Center, New York, NY",
-            label: "00240"
+            text: "Paramus Park Shopping Center, New York, NY",
+            value: "00240"
         },
         {
-            value: "Colonial Blvd. FSU, Ft. Myers-Naples, FL",
-            label: "01571"
+            text: "Colonial Blvd. FSU, Ft. Myers-Naples, FL",
+            value: "01571"
         },
         {
-            value: "Southpark Mall (IL), Davenport, IA-Rock Island-Moline, IL",
-            label: "00241"
+            text: "Southpark Mall (IL), Davenport, IA-Rock Island-Moline, IL",
+            value: "00241"
         },
         {
-            value: "Summerville (SC) FSU, Charleston, SC",
-            label: "01570"
+            text: "Summerville (SC) FSU, Charleston, SC",
+            value: "01570"
         },
         {
-            value: "Mid-County FSU, Beaumont-Port Arthur, TX",
-            label: "02419"
+            text: "Mid-County FSU, Beaumont-Port Arthur, TX",
+            value: "02419"
         },
         {
-            value: "Beltway 8 & Wallisville Road FSU, Houston, TX",
-            label: "02418"
+            text: "Beltway 8 & Wallisville Road FSU, Houston, TX",
+            value: "02418"
         },
         {
-            value: "I-4 & Hwy 27 FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "03748"
+            text: "I-4 & Hwy 27 FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "03748"
         },
         {
-            value: "Deland FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "03749"
+            text: "Deland FSU, Orlando-Daytona Beach-Melbourne, FL",
+            value: "03749"
         },
         {
-            value:
+            text:
                 "Riverchase Galleria, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "00233"
+            value: "00233"
         },
         {
-            value: "Crossings at South Corona FSU, Los Angeles, CA",
-            label: "01564"
+            text: "Crossings at South Corona FSU, Los Angeles, CA",
+            value: "01564"
         },
         {
-            value: "Sylvania & Talmadge FSU, Toledo, OH",
-            label: "02895"
+            text: "Sylvania & Talmadge FSU, Toledo, OH",
+            value: "02895"
         },
         {
-            value: "Morton Ranch FSU, Houston, TX",
-            label: "03745"
+            text: "Morton Ranch FSU, Houston, TX",
+            value: "03745"
         },
         {
-            value: "The Citadel, Colorado Springs-Pueblo, CO",
-            label: "00231"
+            text: "The Citadel, Colorado Springs-Pueblo, CO",
+            value: "00231"
         },
         {
-            value: "Ontario Mills Parkway FSU, Los Angeles, CA",
-            label: "01562"
+            text: "Ontario Mills Parkway FSU, Los Angeles, CA",
+            value: "01562"
         },
         {
-            value: "Ingleside FSU, Baltimore, MD",
-            label: "01569"
+            text: "Ingleside FSU, Baltimore, MD",
+            value: "01569"
         },
         {
-            value: "CityLine FSU, Dallas-Ft. Worth, TX",
-            label: "03740"
+            text: "CityLine FSU, Dallas-Ft. Worth, TX",
+            value: "03740"
         },
         {
-            value: "Stonybrook FSU, Louisville, KY",
-            label: "02899"
+            text: "Stonybrook FSU, Louisville, KY",
+            value: "02899"
         },
         {
-            value: "Peachtree Center, Atlanta, GA",
-            label: "00238"
+            text: "Peachtree Center, Atlanta, GA",
+            value: "00238"
         },
         {
-            value: "Goldsboro FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "01568"
+            text: "Goldsboro FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "01568"
         },
         {
-            value: "Humble FSU, Houston, TX",
-            label: "02415"
+            text: "Humble FSU, Houston, TX",
+            value: "02415"
         },
         {
-            value: "Queens Center Mall, New York, NY",
-            label: "03741"
+            text: "Queens Center Mall, New York, NY",
+            value: "03741"
         },
         {
-            value: "Ruston FSU, Monroe, LA-El Dorado, AR",
-            label: "03742"
+            text: "Ruston FSU, Monroe, LA-El Dorado, AR",
+            value: "03742"
         },
         {
-            value: "Eldersburg FSU, Baltimore, MD",
-            label: "02898"
+            text: "Eldersburg FSU, Baltimore, MD",
+            value: "02898"
         },
         {
-            value: "Hidden Valley Parkway FSU, Los Angeles, CA",
-            label: "01567"
+            text: "Hidden Valley Parkway FSU, Los Angeles, CA",
+            value: "01567"
         },
         {
-            value: "Folsom FSU, Sacramento-Stockton-Modesto, CA",
-            label: "02897"
+            text: "Folsom FSU, Sacramento-Stockton-Modesto, CA",
+            value: "02897"
         },
         {
-            value: "Roanoke FSU, Dallas-Ft. Worth, TX",
-            label: "02892"
+            text: "Roanoke FSU, Dallas-Ft. Worth, TX",
+            value: "02892"
         },
         {
-            value: "La Palmera Mall, Corpus Christi, TX",
-            label: "00230"
+            text: "La Palmera Mall, Corpus Christi, TX",
+            value: "00230"
         },
         {
-            value: "Southridge Center FSU, Charleston-Huntington, WV",
-            label: "02891"
+            text: "Southridge Center FSU, Charleston-Huntington, WV",
+            value: "02891"
         },
         {
-            value: "Grovetown FSU, Augusta, GA-Aiken, SC",
-            label: "03777"
+            text: "Grovetown FSU, Augusta, GA-Aiken, SC",
+            value: "03777"
         },
         {
-            value:
+            text:
                 "Westfield Sarasota Square, Tampa-St. Petersburg (Sarasota), FL",
-            label: "00266"
+            value: "00266"
         },
         {
-            value: "North Valdosta FSU, Tallahassee, FL-Thomasville, GA",
-            label: "02444"
+            text: "North Valdosta FSU, Tallahassee, FL-Thomasville, GA",
+            value: "02444"
         },
         {
-            value: "Clairemont DTO, San Diego, CA",
-            label: "03778"
+            text: "Clairemont DTO, San Diego, CA",
+            value: "03778"
         },
         {
-            value: "River Ridge Mall, Roanoke-Lynchburg, VA",
-            label: "00264"
+            text: "River Ridge Mall, Roanoke-Lynchburg, VA",
+            value: "00264"
         },
         {
-            value: "Liberty FSU, Kansas City, MO",
-            label: "02442"
+            text: "Liberty FSU, Kansas City, MO",
+            value: "02442"
         },
         {
-            value: "Parker FSU, Denver, CO",
-            label: "01111"
+            text: "Parker FSU, Denver, CO",
+            value: "01111"
         },
         {
-            value: "Blackstone FSU, Fresno-Visalia, CA",
-            label: "02449"
+            text: "Blackstone FSU, Fresno-Visalia, CA",
+            value: "02449"
         },
         {
-            value: "Concord Commons FSU, Charlotte, NC",
-            label: "01118"
+            text: "Concord Commons FSU, Charlotte, NC",
+            value: "01118"
         },
         {
-            value: "Fulton Street In-Line, New York, NY",
-            label: "03774"
+            text: "Fulton Street In-Line, New York, NY",
+            value: "03774"
         },
         {
-            value: "Thomasville FSU, Tallahassee, FL-Thomasville, GA",
-            label: "01117"
+            text: "Thomasville FSU, Tallahassee, FL-Thomasville, GA",
+            value: "01117"
         },
         {
-            value: "McKnight Road FSU, Pittsburgh, PA",
-            label: "03775"
+            text: "McKnight Road FSU, Pittsburgh, PA",
+            value: "03775"
         },
         {
-            value: "Friendly FSU, Greensboro-High Point-Winston Salem, NC",
-            label: "01116"
+            text: "Friendly FSU, Greensboro-High Point-Winston Salem, NC",
+            value: "01116"
         },
         {
-            value: "Sooner Mall, Oklahoma City, OK",
-            label: "00268"
+            text: "Sooner Mall, Oklahoma City, OK",
+            value: "00268"
         },
         {
-            value: "12th Avenue FSU, Oklahoma City, OK",
-            label: "03771"
+            text: "12th Avenue FSU, Oklahoma City, OK",
+            value: "03771"
         },
         {
-            value: "Griffin FSU, Atlanta, GA",
-            label: "03772"
+            text: "Griffin FSU, Atlanta, GA",
+            value: "03772"
         },
         {
-            value: "C470 & Kipling FSU, Denver, CO",
-            label: "01110"
+            text: "C470 & Kipling FSU, Denver, CO",
+            value: "01110"
         },
         {
-            value: "Brentwood FSU, Nashville, TN",
-            label: "01594"
+            text: "Brentwood FSU, Nashville, TN",
+            value: "01594"
         },
         {
-            value: "La Plata FSU, Washington, DC (Hagerstown, MD)",
-            label: "02440"
+            text: "La Plata FSU, Washington, DC (Hagerstown, MD)",
+            value: "02440"
         },
         {
-            value: "Richland Mall, Waco-Temple-Bryan, TX",
-            label: "00263"
+            text: "Richland Mall, Waco-Temple-Bryan, TX",
+            value: "00263"
         },
         {
-            value: "Paragon Place FSU, Memphis, TN",
-            label: "01593"
+            text: "Paragon Place FSU, Memphis, TN",
+            value: "01593"
         },
         {
-            value: "Magnolia Avenue FSU, Columbus, GA (Opelika, AL)",
-            label: "01592"
+            text: "Magnolia Avenue FSU, Columbus, GA (Opelika, AL)",
+            value: "01592"
         },
         {
-            value: "Hamburg Place FSU, Lexington, KY",
-            label: "01591"
+            text: "Hamburg Place FSU, Lexington, KY",
+            value: "01591"
         },
         {
-            value:
+            text:
                 "South Loop Crossing FSU, Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "01109"
+            value: "01109"
         },
         {
-            value: "Frankford Road FSU, Dallas-Ft. Worth, TX",
-            label: "01108"
+            text: "Frankford Road FSU, Dallas-Ft. Worth, TX",
+            value: "01108"
         },
         {
-            value: "Parkway Plaza FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "01103"
+            text: "Parkway Plaza FSU, Norfolk-Portsmouth-Newport News, VA",
+            value: "01103"
         },
         {
-            value: "Coliseum Drive FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "01102"
+            text: "Coliseum Drive FSU, Norfolk-Portsmouth-Newport News, VA",
+            value: "01102"
         },
         {
-            value: "Nacogdoches FSU, Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "02433"
+            text: "Nacogdoches FSU, Tyler-Longview(Lufkin & Nacogdoches), TX",
+            value: "02433"
         },
         {
-            value: "Kenner FSU, New Orleans, LA",
-            label: "03767"
+            text: "Kenner FSU, New Orleans, LA",
+            value: "03767"
         },
         {
-            value:
+            text:
                 "Hancock Rd. & Hwy. 50 FSU, Orlando-Daytona Beach-Melbourne, FL",
-            label: "01585"
+            value: "01585"
         },
         {
-            value: "Findlay (OH) FSU, Toledo, OH",
-            label: "03768"
+            text: "Findlay (OH) FSU, Toledo, OH",
+            value: "03768"
         },
         {
-            value: "Scottsdale 101 FSU, Phoenix (Prescott), AZ",
-            label: "01584"
+            text: "Scottsdale 101 FSU, Phoenix (Prescott), AZ",
+            value: "01584"
         },
         {
-            value:
+            text:
                 "Grand Rapids South FSU, Grand Rapids-Kalamazoo-Battle Creek, MI",
-            label: "03769"
+            value: "03769"
         },
         {
-            value: "Valley View Boulevard FSU, Roanoke-Lynchburg, VA",
-            label: "01107"
+            text: "Valley View Boulevard FSU, Roanoke-Lynchburg, VA",
+            value: "01107"
         },
         {
-            value: "Florence Mall (AL), Huntsville-Decatur (Florence), AL",
-            label: "00259"
+            text: "Florence Mall (AL), Huntsville-Decatur (Florence), AL",
+            value: "00259"
         },
         {
-            value: "Market Street FSU, Wilmington, NC",
-            label: "01106"
+            text: "Market Street FSU, Wilmington, NC",
+            value: "01106"
         },
         {
-            value: "17th and Wanamaker FSU, Topeka, KS",
-            label: "03763"
+            text: "17th and Wanamaker FSU, Topeka, KS",
+            value: "03763"
         },
         {
-            value: "Audubon Crossings FSU, Philadelphia, PA",
-            label: "02437"
+            text: "Audubon Crossings FSU, Philadelphia, PA",
+            value: "02437"
         },
         {
-            value: "Mile of Cars Way DTO, San Diego, CA",
-            label: "03764"
+            text: "Mile of Cars Way DTO, San Diego, CA",
+            value: "03764"
         },
         {
-            value: "Gallatin FSU, Nashville, TN",
-            label: "01589"
+            text: "Gallatin FSU, Nashville, TN",
+            value: "01589"
         },
         {
-            value: "Concord Mills FSU, Charlotte, NC",
-            label: "01105"
+            text: "Concord Mills FSU, Charlotte, NC",
+            value: "01105"
         },
         {
-            value: "Lansdowne Station FSU, Baltimore, MD",
-            label: "02436"
+            text: "Lansdowne Station FSU, Baltimore, MD",
+            value: "02436"
         },
         {
-            value: "New Albany FSU, Louisville, KY",
-            label: "02435"
+            text: "New Albany FSU, Louisville, KY",
+            value: "02435"
         },
         {
-            value: "Apex FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "01588"
+            text: "Apex FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "01588"
         },
         {
-            value: "Ridgmar Mall, Dallas-Ft. Worth, TX",
-            label: "00258"
+            text: "Ridgmar Mall, Dallas-Ft. Worth, TX",
+            value: "00258"
         },
         {
-            value: "West Hills FSU, Knoxville, TN",
-            label: "03761"
+            text: "West Hills FSU, Knoxville, TN",
+            value: "03761"
         },
         {
-            value: "Kyle FSU, Austin, TX",
-            label: "02430"
+            text: "Kyle FSU, Austin, TX",
+            value: "02430"
         },
         {
-            value: "Cranberry FSU, Pittsburgh, PA",
-            label: "01583"
+            text: "Cranberry FSU, Pittsburgh, PA",
+            value: "01583"
         },
         {
-            value: "Castle Rock FSU, Denver, CO",
-            label: "01580"
+            text: "Castle Rock FSU, Denver, CO",
+            value: "01580"
         },
         {
-            value: "Perimeter Mall, Atlanta, GA",
-            label: "00250"
+            text: "Perimeter Mall, Atlanta, GA",
+            value: "00250"
         },
         {
-            value: "2920 / Kuykendahl FSU, Houston, TX",
-            label: "02069"
+            text: "2920 / Kuykendahl FSU, Houston, TX",
+            value: "02069"
         },
         {
-            value: "Port Jefferson FSU, New York, NY",
-            label: "03399"
+            text: "Port Jefferson FSU, New York, NY",
+            value: "03399"
         },
         {
-            value: "Gateway Village, Charlotte, NC",
-            label: "80366"
+            text: "Gateway Village, Charlotte, NC",
+            value: "80366"
         },
         {
-            value: "Palmdale FSU, Los Angeles, CA",
-            label: "03396"
+            text: "Palmdale FSU, Los Angeles, CA",
+            value: "03396"
         },
         {
-            value: "Hampton University, Norfolk-Portsmouth-Newport News, VA",
-            label: "80364"
+            text: "Hampton University, Norfolk-Portsmouth-Newport News, VA",
+            value: "80364"
         },
         {
-            value: "Larkridge FSU, Denver, CO",
-            label: "02061"
+            text: "Larkridge FSU, Denver, CO",
+            value: "02061"
         },
         {
-            value: "Mowry Avenue FSU, San Francisco-Oakland-San Jose, CA",
-            label: "03397"
+            text: "Mowry Avenue FSU, San Francisco-Oakland-San Jose, CA",
+            value: "03397"
         },
         {
-            value: "Edinburgh Commons FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "02066"
+            text: "Edinburgh Commons FSU, Norfolk-Portsmouth-Newport News, VA",
+            value: "02066"
         },
         {
-            value: "Celebration at Federal Way FSU, Seattle-Tacoma, WA",
-            label: "03392"
+            text: "Celebration at Federal Way FSU, Seattle-Tacoma, WA",
+            value: "03392"
         },
         {
-            value: "Southern Methodist University (SMU), Dallas-Ft. Worth, TX",
-            label: "80368"
+            text: "Southern Methodist University (SMU), Dallas-Ft. Worth, TX",
+            value: "80368"
         },
         {
-            value: "Ashbridge Square FSU, Philadelphia, PA",
-            label: "02065"
+            text: "Ashbridge Square FSU, Philadelphia, PA",
+            value: "02065"
         },
         {
-            value: "Killian Crossing FSU, Columbia, SC",
-            label: "03394"
+            text: "Killian Crossing FSU, Columbia, SC",
+            value: "03394"
         },
         {
-            value:
+            text:
                 "University of Texas - El Paso, El Paso, TX (Las Cruces, NM)",
-            label: "80360"
+            value: "80360"
         },
         {
-            value:
+            text:
                 "Stephen F. Austin University, Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "80349"
+            value: "80349"
         },
         {
-            value: "Epps Bridge FSU, Atlanta, GA",
-            label: "02057"
+            text: "Epps Bridge FSU, Atlanta, GA",
+            value: "02057"
         },
         {
-            value: "Long Beach Traffic Circle FSU, Los Angeles, CA",
-            label: "03388"
+            text: "Long Beach Traffic Circle FSU, Los Angeles, CA",
+            value: "03388"
         },
         {
-            value:
+            text:
                 "University of Maryland-College Park, Washington, DC (Hagerstown, MD)",
-            label: "80355"
+            value: "80355"
         },
         {
-            value: "Moore Road FSU, Atlanta, GA",
-            label: "02052"
+            text: "Moore Road FSU, Atlanta, GA",
+            value: "02052"
         },
         {
-            value: "West Schaumburg FSU, Chicago, IL",
-            label: "03384"
+            text: "West Schaumburg FSU, Chicago, IL",
+            value: "03384"
         },
         {
-            value: "Sam Houston University, Houston, TX",
-            label: "80354"
+            text: "Sam Houston University, Houston, TX",
+            value: "80354"
         },
         {
-            value: "Hawks Creek FSU, Dallas-Ft. Worth, TX",
-            label: "02050"
+            text: "Hawks Creek FSU, Dallas-Ft. Worth, TX",
+            value: "02050"
         },
         {
-            value: "Downtown Athens In-Line, Atlanta, GA",
-            label: "04234"
+            text: "Downtown Athens In-Line, Atlanta, GA",
+            value: "04234"
         },
         {
-            value: "Concord Parkway FSU, Charlotte, NC",
-            label: "03387"
+            text: "Concord Parkway FSU, Charlotte, NC",
+            value: "03387"
         },
         {
-            value: "University of Arizona-SUMC, Tucson (Sierra Vista), AZ",
-            label: "80359"
+            text: "University of Arizona-SUMC, Tucson (Sierra Vista), AZ",
+            value: "80359"
         },
         {
-            value: "Franklin Road FSU, Boise, ID",
-            label: "03380"
+            text: "Franklin Road FSU, Boise, ID",
+            value: "03380"
         },
         {
-            value: "Branson FSU, Springfield, MO",
-            label: "03381"
+            text: "Branson FSU, Springfield, MO",
+            value: "03381"
         },
         {
-            value: "Bel Air FSU, Baltimore, MD",
-            label: "03382"
+            text: "Bel Air FSU, Baltimore, MD",
+            value: "03382"
         },
         {
-            value: "University of Texas-Dallas, Dallas-Ft. Worth, TX",
-            label: "80356"
+            text: "University of Texas-Dallas, Dallas-Ft. Worth, TX",
+            value: "80356"
         },
         {
-            value: "Waycross FSU, Jacksonville, FL",
-            label: "02053"
+            text: "Waycross FSU, Jacksonville, FL",
+            value: "02053"
         },
         {
-            value:
+            text:
                 "Mississippi State University, Columbus-Tupelo-West Point-Houston, MS",
-            label: "80350"
+            value: "80350"
         },
         {
-            value: "University of Texas-Arlington, Dallas-Ft. Worth, TX",
-            label: "80388"
+            text: "University of Texas-Arlington, Dallas-Ft. Worth, TX",
+            value: "80388"
         },
         {
-            value: "University of Oklahoma Couch Building, Oklahoma City, OK",
-            label: "80387"
+            text: "University of Oklahoma Couch Building, Oklahoma City, OK",
+            value: "80387"
         },
         {
-            value: "Afton Ridge FSU, Charlotte, NC",
-            label: "02083"
+            text: "Afton Ridge FSU, Charlotte, NC",
+            value: "02083"
         },
         {
-            value: "West Texas A&M University, Amarillo, TX",
-            label: "80386"
+            text: "West Texas A&M University, Amarillo, TX",
+            value: "80386"
         },
         {
-            value: "Tulsa Hills FSU, Tulsa, OK",
-            label: "02089"
+            text: "Tulsa Hills FSU, Tulsa, OK",
+            value: "02089"
         },
         {
-            value: "Oakleaf Town Center FSU, Jacksonville, FL",
-            label: "02088"
+            text: "Oakleaf Town Center FSU, Jacksonville, FL",
+            value: "02088"
         },
         {
-            value: "Meridian (MS) FSU, Meridian, MS",
-            label: "02086"
+            text: "Meridian (MS) FSU, Meridian, MS",
+            value: "02086"
         },
         {
-            value: "University of Houston-The Satellite, Houston, TX",
-            label: "80380"
+            text: "University of Houston-The Satellite, Houston, TX",
+            value: "80380"
         },
         {
-            value:
+            text:
                 "Christopher Newport FSU, Norfolk-Portsmouth-Newport News, VA",
-            label: "02081"
+            value: "02081"
         },
         {
-            value: "University of Cincinnati, Cincinnati, OH",
-            label: "80382"
+            text: "University of Cincinnati, Cincinnati, OH",
+            value: "80382"
         },
         {
-            value: "48th & O Street FSU, Lincoln & Hastings-Kearney, NE",
-            label: "04257"
+            text: "48th & O Street FSU, Lincoln & Hastings-Kearney, NE",
+            value: "04257"
         },
         {
-            value: "Church Street - Nashville, Nashville, TN",
-            label: "04259"
+            text: "Church Street - Nashville, Nashville, TN",
+            value: "04259"
         },
         {
-            value: "Austin Peay State University, Nashville, TN",
-            label: "80377"
+            text: "Austin Peay State University, Nashville, TN",
+            value: "80377"
         },
         {
-            value: "University of the Incarnate Word, San Antonio, TX",
-            label: "80376"
+            text: "University of the Incarnate Word, San Antonio, TX",
+            value: "80376"
         },
         {
-            value: "Oxford Valley Road FSU, Philadelphia, PA",
-            label: "02072"
+            text: "Oxford Valley Road FSU, Philadelphia, PA",
+            value: "02072"
         },
         {
-            value: "Roosevelt Field Mall, New York, NY",
-            label: "04256"
+            text: "Roosevelt Field Mall, New York, NY",
+            value: "04256"
         },
         {
-            value: "Bear FSU, Philadelphia, PA",
-            label: "02071"
+            text: "Bear FSU, Philadelphia, PA",
+            value: "02071"
         },
         {
-            value: "Sugarloaf & 316 FSU, Atlanta, GA",
-            label: "02077"
+            text: "Sugarloaf & 316 FSU, Atlanta, GA",
+            value: "02077"
         },
         {
-            value: "Albemarle FSU, Charlotte, NC",
-            label: "04251"
+            text: "Albemarle FSU, Charlotte, NC",
+            value: "04251"
         },
         {
-            value: "University of Georgia, Atlanta, GA",
-            label: "80372"
+            text: "University of Georgia, Atlanta, GA",
+            value: "80372"
         },
         {
-            value:
+            text:
                 "NC A&T (NC Agricultural & Technical State Univ.), Greensboro-High Point-Winston Salem, NC",
-            label: "80371"
+            value: "80371"
         },
         {
-            value: "Barnett Shoals FSU, Atlanta, GA",
-            label: "02026"
+            text: "Barnett Shoals FSU, Atlanta, GA",
+            value: "02026"
         },
         {
-            value: "Rockwell & NW Highway FSU, Oklahoma City, OK",
-            label: "02025"
+            text: "Rockwell & NW Highway FSU, Oklahoma City, OK",
+            value: "02025"
         },
         {
-            value: "Wilson/Beltway 8 FSU, Houston, TX",
-            label: "02024"
+            text: "Wilson/Beltway 8 FSU, Houston, TX",
+            value: "02024"
         },
         {
-            value: "South Walton FSU, Panama City, FL",
-            label: "03355"
+            text: "South Walton FSU, Panama City, FL",
+            value: "03355"
         },
         {
-            value: "Glenwood Place FSU, Atlanta, GA",
-            label: "03351"
+            text: "Glenwood Place FSU, Atlanta, GA",
+            value: "03351"
         },
         {
-            value: "Kensington Square FSU, Dallas-Ft. Worth, TX",
-            label: "01172"
+            text: "Kensington Square FSU, Dallas-Ft. Worth, TX",
+            value: "01172"
         },
         {
-            value: "Dulles Town Crossing FSU, Washington, DC (Hagerstown, MD)",
-            label: "01171"
+            text: "Dulles Town Crossing FSU, Washington, DC (Hagerstown, MD)",
+            value: "01171"
         },
         {
-            value: "West Towne FSU, Madison, WI",
-            label: "03352"
+            text: "West Towne FSU, Madison, WI",
+            value: "03352"
         },
         {
-            value: "Windward Parkway FSU, Atlanta, GA",
-            label: "01170"
+            text: "Windward Parkway FSU, Atlanta, GA",
+            value: "01170"
         },
         {
-            value: "Pleasant Valley Road FSU, Washington, DC (Hagerstown, MD)",
-            label: "01175"
+            text: "Pleasant Valley Road FSU, Washington, DC (Hagerstown, MD)",
+            value: "01175"
         },
         {
-            value: "Springfield Park FSU, Philadelphia, PA",
-            label: "02022"
+            text: "Springfield Park FSU, Philadelphia, PA",
+            value: "02022"
         },
         {
-            value: "Hamilton Mill FSU, Atlanta, GA",
-            label: "02021"
+            text: "Hamilton Mill FSU, Atlanta, GA",
+            value: "02021"
         },
         {
-            value: "Towson Town Center, Baltimore, MD",
-            label: "01173"
+            text: "Towson Town Center, Baltimore, MD",
+            value: "01173"
         },
         {
-            value: "Orem Plaza FSU, Salt Lake City, UT",
-            label: "03350"
+            text: "Orem Plaza FSU, Salt Lake City, UT",
+            value: "03350"
         },
         {
-            value: "Taylorsville FSU, Salt Lake City, UT",
-            label: "03348"
+            text: "Taylorsville FSU, Salt Lake City, UT",
+            value: "03348"
         },
         {
-            value: "Macland Crossing FSU, Atlanta, GA",
-            label: "01169"
+            text: "Macland Crossing FSU, Atlanta, GA",
+            value: "01169"
         },
         {
-            value: "Encinitas In-Line DT, San Diego, CA",
-            label: "02015"
+            text: "Encinitas In-Line DT, San Diego, CA",
+            value: "02015"
         },
         {
-            value: "E. Colorado Blvd FSU, Los Angeles, CA",
-            label: "03349"
+            text: "E. Colorado Blvd FSU, Los Angeles, CA",
+            value: "03349"
         },
         {
-            value: "Sports Arena FSU, San Diego, CA",
-            label: "02014"
+            text: "Sports Arena FSU, San Diego, CA",
+            value: "02014"
         },
         {
-            value: "Santee FSU, San Diego, CA",
-            label: "02013"
+            text: "Santee FSU, San Diego, CA",
+            value: "02013"
         },
         {
-            value: "Riverdale City FSU, Salt Lake City, UT",
-            label: "02497"
+            text: "Riverdale City FSU, Salt Lake City, UT",
+            value: "02497"
         },
         {
-            value: "Gandy Blvd FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "03346"
+            text: "Gandy Blvd FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "03346"
         },
         {
-            value:
+            text:
                 "Orlando International Airport, Orlando-Daytona Beach-Melbourne, FL",
-            label: "80399"
+            value: "80399"
         },
         {
-            value: "North Augusta FSU, Augusta, GA-Aiken, SC",
-            label: "01161"
+            text: "North Augusta FSU, Augusta, GA-Aiken, SC",
+            value: "01161"
         },
         {
-            value: "Bridgewater Falls FSU, Cincinnati, OH",
-            label: "02492"
+            text: "Bridgewater Falls FSU, Cincinnati, OH",
+            value: "02492"
         },
         {
-            value: "Elkton FSU, Baltimore, MD",
-            label: "02491"
+            text: "Elkton FSU, Baltimore, MD",
+            value: "02491"
         },
         {
-            value: "AT&T Center, Atlanta, GA",
-            label: "03341"
+            text: "AT&T Center, Atlanta, GA",
+            value: "03341"
         },
         {
-            value: "Cincinnati Airport, Cincinnati, OH",
-            label: "80398"
+            text: "Cincinnati Airport, Cincinnati, OH",
+            value: "80398"
         },
         {
-            value: "Miami Lakes FSU, Miami-Ft. Lauderdale, FL",
-            label: "02490"
+            text: "Miami Lakes FSU, Miami-Ft. Lauderdale, FL",
+            value: "02490"
         },
         {
-            value: "Arkansas State University, Jonesboro, AR",
-            label: "80397"
+            text: "Arkansas State University, Jonesboro, AR",
+            value: "80397"
         },
         {
-            value: "Prairie View A&M University, Houston, TX",
-            label: "80396"
+            text: "Prairie View A&M University, Houston, TX",
+            value: "80396"
         },
         {
-            value: "Vallejo FSU, San Francisco-Oakland-San Jose, CA",
-            label: "03343"
+            text: "Vallejo FSU, San Francisco-Oakland-San Jose, CA",
+            value: "03343"
         },
         {
-            value: "Fort Oglethorpe FSU, Chattanooga, TN",
-            label: "01165"
+            text: "Fort Oglethorpe FSU, Chattanooga, TN",
+            value: "01165"
         },
         {
-            value: "Mall of Georgia on Buford Drive FSU, Atlanta, GA",
-            label: "01163"
+            text: "Mall of Georgia on Buford Drive FSU, Atlanta, GA",
+            value: "01163"
         },
         {
-            value: "Augusta Exchange FSU, Augusta, GA-Aiken, SC",
-            label: "01162"
+            text: "Augusta Exchange FSU, Augusta, GA-Aiken, SC",
+            value: "01162"
         },
         {
-            value: "Murphy FSU, Dallas-Ft. Worth, TX",
-            label: "02493"
+            text: "Murphy FSU, Dallas-Ft. Worth, TX",
+            value: "02493"
         },
         {
-            value: "Oakland University, Detroit, MI",
-            label: "80391"
+            text: "Oakland University, Detroit, MI",
+            value: "80391"
         },
         {
-            value: "Mutual of Omaha, Omaha, NE",
-            label: "80395"
+            text: "Mutual of Omaha, Omaha, NE",
+            value: "80395"
         },
         {
-            value:
+            text:
                 "Southern Illinois University - Carbondale, Paducah, KY-Cape Girardeau, MO-Harrisburg, IL",
-            label: "80394"
+            value: "80394"
         },
         {
-            value:
+            text:
                 "New Mexico State University Student Center, El Paso, TX (Las Cruces, NM)",
-            label: "80393"
+            value: "80393"
         },
         {
-            value: "USAA Cafe H, San Antonio, TX",
-            label: "80392"
+            text: "USAA Cafe H, San Antonio, TX",
+            value: "80392"
         },
         {
-            value:
+            text:
                 "Terminated One Milk Street In-Line, Boston, MA (Manchester, NH)",
-            label: "04228"
+            value: "04228"
         },
         {
-            value: "Uptown District FSU, Tampa-St. Petersburg (Sarasota), FL",
-            label: "04229"
+            text: "Uptown District FSU, Tampa-St. Petersburg (Sarasota), FL",
+            value: "04229"
         },
         {
-            value:
+            text:
                 "Morrison Road FSU, Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "02047"
+            value: "02047"
         },
         {
-            value: "1960 and Eldridge Parkway FSU, Houston, TX",
-            label: "01199"
+            text: "1960 and Eldridge Parkway FSU, Houston, TX",
+            value: "01199"
         },
         {
-            value: "Greystone FSU, Birmingham (Anniston and Tuscaloosa), AL",
-            label: "03378"
+            text: "Greystone FSU, Birmingham (Anniston and Tuscaloosa), AL",
+            value: "03378"
         },
         {
-            value: "Burke Centre FSU, Washington, DC (Hagerstown, MD)",
-            label: "03374"
+            text: "Burke Centre FSU, Washington, DC (Hagerstown, MD)",
+            value: "03374"
         },
         {
-            value: "Heritage Towne Crossing FSU, Dallas-Ft. Worth, TX",
-            label: "01193"
+            text: "Heritage Towne Crossing FSU, Dallas-Ft. Worth, TX",
+            value: "01193"
         },
         {
-            value: "Bonsack FSU, Roanoke-Lynchburg, VA",
-            label: "03375"
+            text: "Bonsack FSU, Roanoke-Lynchburg, VA",
+            value: "03375"
         },
         {
-            value: "Lake Boone Trail FSU, Raleigh-Durham (Fayetteville), NC",
-            label: "03376"
+            text: "Lake Boone Trail FSU, Raleigh-Durham (Fayetteville), NC",
+            value: "03376"
         },
         {
-            value: "Medical Center FSU, San Antonio, TX",
-            label: "02045"
+            text: "Medical Center FSU, San Antonio, TX",
+            value: "02045"
         },
         {
-            value: "Tinseltown FSU, Jacksonville, FL",
-            label: "01198"
+            text: "Tinseltown FSU, Jacksonville, FL",
+            value: "01198"
         },
         {
-            value: "South End FSU, Charlotte, NC",
-            label: "02044"
+            text: "South End FSU, Charlotte, NC",
+            value: "02044"
         },
         {
-            value: "Wallingford FSU, Hartford & New Haven, CT",
-            label: "03370"
+            text: "Wallingford FSU, Hartford & New Haven, CT",
+            value: "03370"
         },
         {
-            value: "La Habra Marketplace FSU, Los Angeles, CA",
-            label: "02043"
+            text: "La Habra Marketplace FSU, Los Angeles, CA",
+            value: "02043"
         },
         {
-            value: "Watauga FSU, Dallas-Ft. Worth, TX",
-            label: "01195"
+            text: "Watauga FSU, Dallas-Ft. Worth, TX",
+            value: "01195"
         },
         {
-            value: "Seekonk FSU, Providence, RI-New Bedford, MA",
-            label: "03372"
+            text: "Seekonk FSU, Providence, RI-New Bedford, MA",
+            value: "03372"
         },
         {
-            value: "The Shops at La Cantera, San Antonio, TX",
-            label: "02038"
+            text: "The Shops at La Cantera, San Antonio, TX",
+            value: "02038"
         },
         {
-            value:
+            text:
                 "Vista Gardens Marketplace FSU, Washington, DC (Hagerstown, MD)",
-            label: "02037"
+            value: "02037"
         },
         {
-            value: "Louisville Catering & Delivery, Louisville, KY",
-            label: "04219"
+            text: "Louisville Catering & Delivery, Louisville, KY",
+            value: "04219"
         },
         {
-            value: "Sherwood Way FSU, San Angelo, TX",
-            label: "03366"
+            text: "Sherwood Way FSU, San Angelo, TX",
+            value: "03366"
         },
         {
-            value: "Hillsboro and Powerline FSU, Miami-Ft. Lauderdale, FL",
-            label: "03369"
+            text: "Hillsboro and Powerline FSU, Miami-Ft. Lauderdale, FL",
+            value: "03369"
         },
         {
-            value: "Magnolia FSU, Houston, TX",
-            label: "02030"
+            text: "Magnolia FSU, Houston, TX",
+            value: "02030"
         },
         {
-            value: "Gunbarrel Pointe FSU, Chattanooga, TN",
-            label: "01183"
+            text: "Gunbarrel Pointe FSU, Chattanooga, TN",
+            value: "01183"
         },
         {
-            value: "Byram (MS) In-Line DT, Jackson, MS",
-            label: "04210"
+            text: "Byram (MS) In-Line DT, Jackson, MS",
+            value: "04210"
         },
         {
-            value: "Brockton FSU, Boston, MA (Manchester, NH)",
-            label: "03363"
+            text: "Brockton FSU, Boston, MA (Manchester, NH)",
+            value: "03363"
         },
         {
-            value: "Hunt Valley Towne Centre FSU, Baltimore, MD",
-            label: "02034"
+            text: "Hunt Valley Towne Centre FSU, Baltimore, MD",
+            value: "02034"
         },
         {
-            value: "Midwest City FSU, Oklahoma City, OK",
-            label: "02033"
+            text: "Midwest City FSU, Oklahoma City, OK",
+            value: "02033"
         },
         {
-            value: "Peace Haven FSU, Greensboro-High Point-Winston Salem, NC",
-            label: "01186"
+            text: "Peace Haven FSU, Greensboro-High Point-Winston Salem, NC",
+            value: "01186"
         },
         {
-            value: "Sugarland Crossing FSU, Washington, DC (Hagerstown, MD)",
-            label: "01184"
+            text: "Sugarland Crossing FSU, Washington, DC (Hagerstown, MD)",
+            value: "01184"
         },
         {
-            value: "Baytown FSU, Houston, TX",
-            label: "02031"
+            text: "Baytown FSU, Houston, TX",
+            value: "02031"
         }
     ],
     state: [
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Montgomery-Selma, AL",
-            label: "AL"
+            text: "Montgomery-Selma, AL",
+            value: "AL"
         },
         {
-            value: "Macon, GA",
-            label: "GA"
+            text: "Macon, GA",
+            value: "GA"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "Macon, GA",
-            label: "GA"
+            text: "Macon, GA",
+            value: "GA"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Sioux Falls(Mitchell), SD",
-            label: "SD"
+            text: "Sioux Falls(Mitchell), SD",
+            value: "SD"
         },
         {
-            value: "Macon, GA",
-            label: "GA"
+            text: "Macon, GA",
+            value: "GA"
         },
         {
-            value: "Tallahassee, FL-Thomasville, GA",
-            label: "GA"
+            text: "Tallahassee, FL-Thomasville, GA",
+            value: "GA"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Philadelphia, PA",
-            label: "DE"
+            text: "Philadelphia, PA",
+            value: "DE"
         },
         {
-            value: "Shreveport, LA",
-            label: "AR"
+            text: "Shreveport, LA",
+            value: "AR"
         },
         {
-            value: "Knoxville, TN",
-            label: "TN"
+            text: "Knoxville, TN",
+            value: "TN"
         },
         {
-            value: "Peoria-Bloomington, IL",
-            label: "IL"
+            text: "Peoria-Bloomington, IL",
+            value: "IL"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Charlotte, NC",
-            label: "SC"
+            text: "Charlotte, NC",
+            value: "SC"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Columbia, SC",
-            label: "SC"
+            text: "Columbia, SC",
+            value: "SC"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Sioux City, IA",
-            label: "SD"
+            text: "Sioux City, IA",
+            value: "SD"
         },
         {
-            value: "Jackson, TN",
-            label: "TN"
+            text: "Jackson, TN",
+            value: "TN"
         },
         {
-            value: "Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "TX"
+            text: "Harlingen-Weslaco-Brownsville-McAllen, TX",
+            value: "TX"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Waco-Temple-Bryan, TX",
-            label: "TX"
+            text: "Waco-Temple-Bryan, TX",
+            value: "TX"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Roanoke-Lynchburg, VA",
-            label: "VA"
+            text: "Roanoke-Lynchburg, VA",
+            value: "VA"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Wilkes Barre-Scranton, PA",
-            label: "PA"
+            text: "Wilkes Barre-Scranton, PA",
+            value: "PA"
         },
         {
-            value: "Charleston, SC",
-            label: "SC"
+            text: "Charleston, SC",
+            value: "SC"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "FL"
+            text: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "FL"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Ft. Smith-Fayetteville-Springdale-Rogers, AR",
-            label: "AR"
+            text: "Ft. Smith-Fayetteville-Springdale-Rogers, AR",
+            value: "AR"
         },
         {
-            value: "Kansas City, MO",
-            label: "MO"
+            text: "Kansas City, MO",
+            value: "MO"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "TX"
+            text: "Tyler-Longview(Lufkin & Nacogdoches), TX",
+            value: "TX"
         },
         {
-            value: "Laredo, TX",
-            label: "TX"
+            text: "Laredo, TX",
+            value: "TX"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "Charleston, SC",
-            label: "SC"
+            text: "Charleston, SC",
+            value: "SC"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Ft. Smith-Fayetteville-Springdale-Rogers, AR",
-            label: "AR"
+            text: "Ft. Smith-Fayetteville-Springdale-Rogers, AR",
+            value: "AR"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Philadelphia, PA",
-            label: "NJ"
+            text: "Philadelphia, PA",
+            value: "NJ"
         },
         {
-            value: "Boston, MA (Manchester, NH)",
-            label: "MA"
+            text: "Boston, MA (Manchester, NH)",
+            value: "MA"
         },
         {
-            value: "West Palm Beach-Ft. Pierce, FL",
-            label: "FL"
+            text: "West Palm Beach-Ft. Pierce, FL",
+            value: "FL"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Jackson, MS",
-            label: "MS"
+            text: "Jackson, MS",
+            value: "MS"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Little Rock-Pine Bluff, AR",
-            label: "AR"
+            text: "Little Rock-Pine Bluff, AR",
+            value: "AR"
         },
         {
-            value: "Knoxville, TN",
-            label: "TN"
+            text: "Knoxville, TN",
+            value: "TN"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Dayton, OH",
-            label: "OH"
+            text: "Dayton, OH",
+            value: "OH"
         },
         {
-            value: "Charleston, SC",
-            label: "SC"
+            text: "Charleston, SC",
+            value: "SC"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Columbus-Tupelo-West Point-Houston, MS",
-            label: "MS"
+            text: "Columbus-Tupelo-West Point-Houston, MS",
+            value: "MS"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Little Rock-Pine Bluff, AR",
-            label: "AR"
+            text: "Little Rock-Pine Bluff, AR",
+            value: "AR"
         },
         {
-            value: "Gainesville, FL",
-            label: "FL"
+            text: "Gainesville, FL",
+            value: "FL"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Albany, GA",
-            label: "GA"
+            text: "Albany, GA",
+            value: "GA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "St. Louis, MO",
-            label: "MO"
+            text: "St. Louis, MO",
+            value: "MO"
         },
         {
-            value: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "FL"
+            text: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "FL"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Idaho Falls-Pocatello, ID (Jackson, WY)",
-            label: "ID"
+            text: "Idaho Falls-Pocatello, ID (Jackson, WY)",
+            value: "ID"
         },
         {
-            value: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "FL"
+            text: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "FL"
         },
         {
-            value: "Memphis, TN",
-            label: "TN"
+            text: "Memphis, TN",
+            value: "TN"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "New Orleans, LA",
-            label: "LA"
+            text: "New Orleans, LA",
+            value: "LA"
         },
         {
-            value: "Tallahassee, FL-Thomasville, GA",
-            label: "FL"
+            text: "Tallahassee, FL-Thomasville, GA",
+            value: "FL"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Indianapolis, IN",
-            label: "IN"
+            text: "Indianapolis, IN",
+            value: "IN"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Knoxville, TN",
-            label: "TN"
+            text: "Knoxville, TN",
+            value: "TN"
         },
         {
-            value: "Indianapolis, IN",
-            label: "IN"
+            text: "Indianapolis, IN",
+            value: "IN"
         },
         {
-            value: "New Orleans, LA",
-            label: "LA"
+            text: "New Orleans, LA",
+            value: "LA"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Augusta, GA-Aiken, SC",
-            label: "GA"
+            text: "Augusta, GA-Aiken, SC",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Tallahassee, FL-Thomasville, GA",
-            label: "GA"
+            text: "Tallahassee, FL-Thomasville, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Indianapolis, IN",
-            label: "IN"
+            text: "Indianapolis, IN",
+            value: "IN"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Wilkes Barre-Scranton, PA",
-            label: "PA"
+            text: "Wilkes Barre-Scranton, PA",
+            value: "PA"
         },
         {
-            value: "Montgomery-Selma, AL",
-            label: "AL"
+            text: "Montgomery-Selma, AL",
+            value: "AL"
         },
         {
-            value: "Bluefield-Beckley-Oak Hill, WV",
-            label: "KY"
+            text: "Bluefield-Beckley-Oak Hill, WV",
+            value: "KY"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Indianapolis, IN",
-            label: "IN"
+            text: "Indianapolis, IN",
+            value: "IN"
         },
         {
-            value: "San Angelo, TX",
-            label: "TX"
+            text: "San Angelo, TX",
+            value: "TX"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "San Francisco-Oakland-San Jose, CA",
-            label: "CA"
+            text: "San Francisco-Oakland-San Jose, CA",
+            value: "CA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Macon, GA",
-            label: "GA"
+            text: "Macon, GA",
+            value: "GA"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Chattanooga, TN",
-            label: "GA"
+            text: "Chattanooga, TN",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Miami-Ft. Lauderdale, FL",
-            label: "FL"
+            text: "Miami-Ft. Lauderdale, FL",
+            value: "FL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Boise, ID",
-            label: "ID"
+            text: "Boise, ID",
+            value: "ID"
         },
         {
-            value: "Detroit, MI",
-            label: "MI"
+            text: "Detroit, MI",
+            value: "MI"
         },
         {
-            value: "Cleveland-Akron (Canton), OH",
-            label: "OH"
+            text: "Cleveland-Akron (Canton), OH",
+            value: "OH"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Boise, ID",
-            label: "ID"
+            text: "Boise, ID",
+            value: "ID"
         },
         {
-            value: "Wichita-Hutchinson, KS Plus",
-            label: "KS"
+            text: "Wichita-Hutchinson, KS Plus",
+            value: "KS"
         },
         {
-            value: "Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "TX"
+            text: "Tyler-Longview(Lufkin & Nacogdoches), TX",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Tucson (Sierra Vista), AZ",
-            label: "AZ"
+            text: "Tucson (Sierra Vista), AZ",
+            value: "AZ"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Salisbury, MD",
-            label: "MD"
+            text: "Salisbury, MD",
+            value: "MD"
         },
         {
-            value: "St. Louis, MO",
-            label: "MO"
+            text: "St. Louis, MO",
+            value: "MO"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "West Palm Beach-Ft. Pierce, FL",
-            label: "FL"
+            text: "West Palm Beach-Ft. Pierce, FL",
+            value: "FL"
         },
         {
-            value: "Ft. Wayne, IN",
-            label: "IN"
+            text: "Ft. Wayne, IN",
+            value: "IN"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Indianapolis, IN",
-            label: "IN"
+            text: "Indianapolis, IN",
+            value: "IN"
         },
         {
-            value: "Baton Rouge, LA",
-            label: "LA"
+            text: "Baton Rouge, LA",
+            value: "LA"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Kansas City, MO",
-            label: "MO"
+            text: "Kansas City, MO",
+            value: "MO"
         },
         {
-            value: "West Palm Beach-Ft. Pierce, FL",
-            label: "FL"
+            text: "West Palm Beach-Ft. Pierce, FL",
+            value: "FL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Memphis, TN",
-            label: "TN"
+            text: "Memphis, TN",
+            value: "TN"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Boston, MA (Manchester, NH)",
-            label: "MA"
+            text: "Boston, MA (Manchester, NH)",
+            value: "MA"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Greenville-New Bern-Washington, NC",
-            label: "NC"
+            text: "Greenville-New Bern-Washington, NC",
+            value: "NC"
         },
         {
-            value: "Miami-Ft. Lauderdale, FL",
-            label: "FL"
+            text: "Miami-Ft. Lauderdale, FL",
+            value: "FL"
         },
         {
-            value: "Wichita-Hutchinson, KS Plus",
-            label: "KS"
+            text: "Wichita-Hutchinson, KS Plus",
+            value: "KS"
         },
         {
-            value: "Augusta, GA-Aiken, SC",
-            label: "GA"
+            text: "Augusta, GA-Aiken, SC",
+            value: "GA"
         },
         {
-            value: "West Palm Beach-Ft. Pierce, FL",
-            label: "FL"
+            text: "West Palm Beach-Ft. Pierce, FL",
+            value: "FL"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Dothan, AL",
-            label: "AL"
+            text: "Dothan, AL",
+            value: "AL"
         },
         {
-            value: "Cincinnati, OH",
-            label: "OH"
+            text: "Cincinnati, OH",
+            value: "OH"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Myrtle Beach-Florence, SC",
-            label: "SC"
+            text: "Myrtle Beach-Florence, SC",
+            value: "SC"
         },
         {
-            value: "Columbus, OH",
-            label: "OH"
+            text: "Columbus, OH",
+            value: "OH"
         },
         {
-            value: "Columbia, SC",
-            label: "SC"
+            text: "Columbia, SC",
+            value: "SC"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Pittsburgh, PA",
-            label: "PA"
+            text: "Pittsburgh, PA",
+            value: "PA"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "AL"
+            text: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "AL"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Odessa-Midland, TX",
-            label: "TX"
+            text: "Odessa-Midland, TX",
+            value: "TX"
         },
         {
-            value: "El Paso, TX (Las Cruces, NM)",
-            label: "TX"
+            text: "El Paso, TX (Las Cruces, NM)",
+            value: "TX"
         },
         {
-            value: "Buffalo, NY",
-            label: "NY"
+            text: "Buffalo, NY",
+            value: "NY"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Pittsburgh, PA",
-            label: "PA"
+            text: "Pittsburgh, PA",
+            value: "PA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "DE"
+            text: "Philadelphia, PA",
+            value: "DE"
         },
         {
-            value: "Evansville, IN",
-            label: "IN"
+            text: "Evansville, IN",
+            value: "IN"
         },
         {
-            value: "St. Louis, MO",
-            label: "MO"
+            text: "St. Louis, MO",
+            value: "MO"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Miami-Ft. Lauderdale, FL",
-            label: "FL"
+            text: "Miami-Ft. Lauderdale, FL",
+            value: "FL"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "TX"
+            text: "Harlingen-Weslaco-Brownsville-McAllen, TX",
+            value: "TX"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Philadelphia, PA",
-            label: "NJ"
+            text: "Philadelphia, PA",
+            value: "NJ"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Harrisburg-Lancaster-Lebanon-York, PA",
-            label: "PA"
+            text: "Harrisburg-Lancaster-Lebanon-York, PA",
+            value: "PA"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Savannah, GA",
-            label: "GA"
+            text: "Savannah, GA",
+            value: "GA"
         },
         {
-            value: "New York, NY",
-            label: "NJ"
+            text: "New York, NY",
+            value: "NJ"
         },
         {
-            value: "Philadelphia, PA",
-            label: "NJ"
+            text: "Philadelphia, PA",
+            value: "NJ"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Wilmington, NC",
-            label: "NC"
+            text: "Wilmington, NC",
+            value: "NC"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Waco-Temple-Bryan, TX",
-            label: "TX"
+            text: "Waco-Temple-Bryan, TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Cincinnati, OH",
-            label: "OH"
+            text: "Cincinnati, OH",
+            value: "OH"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Harrisburg-Lancaster-Lebanon-York, PA",
-            label: "PA"
+            text: "Harrisburg-Lancaster-Lebanon-York, PA",
+            value: "PA"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "NC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "NC"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Little Rock-Pine Bluff, AR",
-            label: "AR"
+            text: "Little Rock-Pine Bluff, AR",
+            value: "AR"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "West Palm Beach-Ft. Pierce, FL",
-            label: "FL"
+            text: "West Palm Beach-Ft. Pierce, FL",
+            value: "FL"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Charleston-Huntington, WV",
-            label: "KY"
+            text: "Charleston-Huntington, WV",
+            value: "KY"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Toledo, OH",
-            label: "OH"
+            text: "Toledo, OH",
+            value: "OH"
         },
         {
-            value: "Philadelphia, PA",
-            label: "NJ"
+            text: "Philadelphia, PA",
+            value: "NJ"
         },
         {
-            value: "Cleveland-Akron (Canton), OH",
-            label: "OH"
+            text: "Cleveland-Akron (Canton), OH",
+            value: "OH"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Sacramento-Stockton-Modesto, CA",
-            label: "CA"
+            text: "Sacramento-Stockton-Modesto, CA",
+            value: "CA"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Hartford & New Haven, CT",
-            label: "CT"
+            text: "Hartford & New Haven, CT",
+            value: "CT"
         },
         {
-            value: "Philadelphia, PA",
-            label: "NJ"
+            text: "Philadelphia, PA",
+            value: "NJ"
         },
         {
-            value: "Sacramento-Stockton-Modesto, CA",
-            label: "CA"
+            text: "Sacramento-Stockton-Modesto, CA",
+            value: "CA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Little Rock-Pine Bluff, AR",
-            label: "AR"
+            text: "Little Rock-Pine Bluff, AR",
+            value: "AR"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Tallahassee, FL-Thomasville, GA",
-            label: "FL"
+            text: "Tallahassee, FL-Thomasville, GA",
+            value: "FL"
         },
         {
-            value: "Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "TX"
+            text: "Tyler-Longview(Lufkin & Nacogdoches), TX",
+            value: "TX"
         },
         {
-            value: "Huntsville-Decatur (Florence), AL",
-            label: "AL"
+            text: "Huntsville-Decatur (Florence), AL",
+            value: "AL"
         },
         {
-            value: "Ft. Smith-Fayetteville-Springdale-Rogers, AR",
-            label: "AR"
+            text: "Ft. Smith-Fayetteville-Springdale-Rogers, AR",
+            value: "AR"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Miami-Ft. Lauderdale, FL",
-            label: "FL"
+            text: "Miami-Ft. Lauderdale, FL",
+            value: "FL"
         },
         {
-            value: "Ft. Myers-Naples, FL",
-            label: "FL"
+            text: "Ft. Myers-Naples, FL",
+            value: "FL"
         },
         {
-            value: "Columbia, SC",
-            label: "SC"
+            text: "Columbia, SC",
+            value: "SC"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Tri-Cities, TN-VA",
-            label: "TN"
+            text: "Tri-Cities, TN-VA",
+            value: "TN"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Albuquerque-Santa Fe, NM",
-            label: "NM"
+            text: "Albuquerque-Santa Fe, NM",
+            value: "NM"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Huntsville-Decatur (Florence), AL",
-            label: "AL"
+            text: "Huntsville-Decatur (Florence), AL",
+            value: "AL"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Hattiesburg-Laurel, MS",
-            label: "MS"
+            text: "Hattiesburg-Laurel, MS",
+            value: "MS"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Harrisburg-Lancaster-Lebanon-York, PA",
-            label: "PA"
+            text: "Harrisburg-Lancaster-Lebanon-York, PA",
+            value: "PA"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Myrtle Beach-Florence, SC",
-            label: "SC"
+            text: "Myrtle Beach-Florence, SC",
+            value: "SC"
         },
         {
-            value: "Johnstown-Altoona-State College, PA",
-            label: "PA"
+            text: "Johnstown-Altoona-State College, PA",
+            value: "PA"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Pittsburgh, PA",
-            label: "WV"
+            text: "Pittsburgh, PA",
+            value: "WV"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Greenville-New Bern-Washington, NC",
-            label: "NC"
+            text: "Greenville-New Bern-Washington, NC",
+            value: "NC"
         },
         {
-            value: "Salisbury, MD",
-            label: "MD"
+            text: "Salisbury, MD",
+            value: "MD"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Miami-Ft. Lauderdale, FL",
-            label: "FL"
+            text: "Miami-Ft. Lauderdale, FL",
+            value: "FL"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Tallahassee, FL-Thomasville, GA",
-            label: "FL"
+            text: "Tallahassee, FL-Thomasville, GA",
+            value: "FL"
         },
         {
-            value: "Minneapolis-St. Paul, MN",
-            label: "MN"
+            text: "Minneapolis-St. Paul, MN",
+            value: "MN"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Columbus-Tupelo-West Point-Houston, MS",
-            label: "MS"
+            text: "Columbus-Tupelo-West Point-Houston, MS",
+            value: "MS"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "San Francisco-Oakland-San Jose, CA",
-            label: "CA"
+            text: "San Francisco-Oakland-San Jose, CA",
+            value: "CA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Jackson, MS",
-            label: "MS"
+            text: "Jackson, MS",
+            value: "MS"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Shreveport, LA",
-            label: "LA"
+            text: "Shreveport, LA",
+            value: "LA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Hartford & New Haven, CT",
-            label: "CT"
+            text: "Hartford & New Haven, CT",
+            value: "CT"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Missoula, MT",
-            label: "MT"
+            text: "Missoula, MT",
+            value: "MT"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "San Francisco-Oakland-San Jose, CA",
-            label: "CA"
+            text: "San Francisco-Oakland-San Jose, CA",
+            value: "CA"
         },
         {
-            value: "Ft. Smith-Fayetteville-Springdale-Rogers, AR",
-            label: "AR"
+            text: "Ft. Smith-Fayetteville-Springdale-Rogers, AR",
+            value: "AR"
         },
         {
-            value: "New York, NY",
-            label: "NJ"
+            text: "New York, NY",
+            value: "NJ"
         },
         {
-            value: "Louisville, KY",
-            label: "KY"
+            text: "Louisville, KY",
+            value: "KY"
         },
         {
-            value: "Evansville, IN",
-            label: "KY"
+            text: "Evansville, IN",
+            value: "KY"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Wichita Falls, TX & Lawton, OK",
-            label: "KS"
+            text: "Wichita Falls, TX & Lawton, OK",
+            value: "KS"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Memphis, TN",
-            label: "MS"
+            text: "Memphis, TN",
+            value: "MS"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Kansas City, MO",
-            label: "KS"
+            text: "Kansas City, MO",
+            value: "KS"
         },
         {
-            value: "New York, NY",
-            label: "NJ"
+            text: "New York, NY",
+            value: "NJ"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Harrisonburg, VA",
-            label: "VA"
+            text: "Harrisonburg, VA",
+            value: "VA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Peoria-Bloomington, IL",
-            label: "IL"
+            text: "Peoria-Bloomington, IL",
+            value: "IL"
         },
         {
-            value: "Seattle-Tacoma, WA",
-            label: "WA"
+            text: "Seattle-Tacoma, WA",
+            value: "WA"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "West Palm Beach-Ft. Pierce, FL",
-            label: "FL"
+            text: "West Palm Beach-Ft. Pierce, FL",
+            value: "FL"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Cleveland-Akron (Canton), OH",
-            label: "OH"
+            text: "Cleveland-Akron (Canton), OH",
+            value: "OH"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Lexington, KY",
-            label: "KY"
+            text: "Lexington, KY",
+            value: "KY"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Memphis, TN",
-            label: "TN"
+            text: "Memphis, TN",
+            value: "TN"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Charlotte, NC",
-            label: "SC"
+            text: "Charlotte, NC",
+            value: "SC"
         },
         {
-            value: "Amarillo, TX",
-            label: "TX"
+            text: "Amarillo, TX",
+            value: "TX"
         },
         {
-            value: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "AL"
+            text: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "AL"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Bluefield-Beckley-Oak Hill, WV",
-            label: "WV"
+            text: "Bluefield-Beckley-Oak Hill, WV",
+            value: "WV"
         },
         {
-            value: "Clarksburg-Weston, WV",
-            label: "WV"
+            text: "Clarksburg-Weston, WV",
+            value: "WV"
         },
         {
-            value: "Dayton, OH",
-            label: "OH"
+            text: "Dayton, OH",
+            value: "OH"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Lexington, KY",
-            label: "KY"
+            text: "Lexington, KY",
+            value: "KY"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Charlotte, NC",
-            label: "SC"
+            text: "Charlotte, NC",
+            value: "SC"
         },
         {
-            value: "Sacramento-Stockton-Modesto, CA",
-            label: "CA"
+            text: "Sacramento-Stockton-Modesto, CA",
+            value: "CA"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Sacramento-Stockton-Modesto, CA",
-            label: "CA"
+            text: "Sacramento-Stockton-Modesto, CA",
+            value: "CA"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Cincinnati, OH",
-            label: "KY"
+            text: "Cincinnati, OH",
+            value: "KY"
         },
         {
-            value: "Charleston-Huntington, WV",
-            label: "WV"
+            text: "Charleston-Huntington, WV",
+            value: "WV"
         },
         {
-            value: "Louisville, KY",
-            label: "KY"
+            text: "Louisville, KY",
+            value: "KY"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Cleveland-Akron (Canton), OH",
-            label: "OH"
+            text: "Cleveland-Akron (Canton), OH",
+            value: "OH"
         },
         {
-            value: "Savannah, GA",
-            label: "GA"
+            text: "Savannah, GA",
+            value: "GA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Laredo, TX",
-            label: "TX"
+            text: "Laredo, TX",
+            value: "TX"
         },
         {
-            value: "Tallahassee, FL-Thomasville, GA",
-            label: "GA"
+            text: "Tallahassee, FL-Thomasville, GA",
+            value: "GA"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Detroit, MI",
-            label: "MI"
+            text: "Detroit, MI",
+            value: "MI"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Columbus, OH",
-            label: "OH"
+            text: "Columbus, OH",
+            value: "OH"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Grand Rapids-Kalamazoo-Battle Creek, MI",
-            label: "MI"
+            text: "Grand Rapids-Kalamazoo-Battle Creek, MI",
+            value: "MI"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Grand Junction-Montrose, CO",
-            label: "CO"
+            text: "Grand Junction-Montrose, CO",
+            value: "CO"
         },
         {
-            value: "Colorado Springs-Pueblo, CO",
-            label: "CO"
+            text: "Colorado Springs-Pueblo, CO",
+            value: "CO"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Tallahassee, FL-Thomasville, GA",
-            label: "FL"
+            text: "Tallahassee, FL-Thomasville, GA",
+            value: "FL"
         },
         {
-            value: "Jackson, MS",
-            label: "MS"
+            text: "Jackson, MS",
+            value: "MS"
         },
         {
-            value: "San Angelo, TX",
-            label: "TX"
+            text: "San Angelo, TX",
+            value: "TX"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Charleston, SC",
-            label: "SC"
+            text: "Charleston, SC",
+            value: "SC"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Dothan, AL",
-            label: "AL"
+            text: "Dothan, AL",
+            value: "AL"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Tallahassee, FL-Thomasville, GA",
-            label: "FL"
+            text: "Tallahassee, FL-Thomasville, GA",
+            value: "FL"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "West Palm Beach-Ft. Pierce, FL",
-            label: "FL"
+            text: "West Palm Beach-Ft. Pierce, FL",
+            value: "FL"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Albuquerque-Santa Fe, NM",
-            label: "NM"
+            text: "Albuquerque-Santa Fe, NM",
+            value: "NM"
         },
         {
-            value: "West Palm Beach-Ft. Pierce, FL",
-            label: "FL"
+            text: "West Palm Beach-Ft. Pierce, FL",
+            value: "FL"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "West Palm Beach-Ft. Pierce, FL",
-            label: "FL"
+            text: "West Palm Beach-Ft. Pierce, FL",
+            value: "FL"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "Harrisonburg, VA",
-            label: "VA"
+            text: "Harrisonburg, VA",
+            value: "VA"
         },
         {
-            value: "Knoxville, TN",
-            label: "TN"
+            text: "Knoxville, TN",
+            value: "TN"
         },
         {
-            value: "Burlington, VT-Plattsburgh, NY",
-            label: "NY"
+            text: "Burlington, VT-Plattsburgh, NY",
+            value: "NY"
         },
         {
-            value: "Boston, MA (Manchester, NH)",
-            label: "NH"
+            text: "Boston, MA (Manchester, NH)",
+            value: "NH"
         },
         {
-            value: "Youngstown, OH",
-            label: "OH"
+            text: "Youngstown, OH",
+            value: "OH"
         },
         {
-            value: "Baton Rouge, LA",
-            label: "LA"
+            text: "Baton Rouge, LA",
+            value: "LA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Knoxville, TN",
-            label: "TN"
+            text: "Knoxville, TN",
+            value: "TN"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Little Rock-Pine Bluff, AR",
-            label: "AR"
+            text: "Little Rock-Pine Bluff, AR",
+            value: "AR"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Youngstown, OH",
-            label: "OH"
+            text: "Youngstown, OH",
+            value: "OH"
         },
         {
-            value: "Columbia, SC",
-            label: "SC"
+            text: "Columbia, SC",
+            value: "SC"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "AL"
+            text: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "AL"
         },
         {
-            value: "Toledo, OH",
-            label: "OH"
+            text: "Toledo, OH",
+            value: "OH"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Tulsa, OK",
-            label: "OK"
+            text: "Tulsa, OK",
+            value: "OK"
         },
         {
-            value: "Boston, MA (Manchester, NH)",
-            label: "MA"
+            text: "Boston, MA (Manchester, NH)",
+            value: "MA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Charleston-Huntington, WV",
-            label: "WV"
+            text: "Charleston-Huntington, WV",
+            value: "WV"
         },
         {
-            value: "Savannah, GA",
-            label: "SC"
+            text: "Savannah, GA",
+            value: "SC"
         },
         {
-            value: "Cincinnati, OH",
-            label: "KY"
+            text: "Cincinnati, OH",
+            value: "KY"
         },
         {
-            value: "Omaha, NE",
-            label: "NE"
+            text: "Omaha, NE",
+            value: "NE"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "AL"
+            text: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "AL"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "West Palm Beach-Ft. Pierce, FL",
-            label: "FL"
+            text: "West Palm Beach-Ft. Pierce, FL",
+            value: "FL"
         },
         {
-            value: "Harrisburg-Lancaster-Lebanon-York, PA",
-            label: "PA"
+            text: "Harrisburg-Lancaster-Lebanon-York, PA",
+            value: "PA"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "TX"
+            text: "Harlingen-Weslaco-Brownsville-McAllen, TX",
+            value: "TX"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "DC"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "DC"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Alexandria, LA",
-            label: "LA"
+            text: "Alexandria, LA",
+            value: "LA"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "DC"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "DC"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Cincinnati, OH",
-            label: "OH"
+            text: "Cincinnati, OH",
+            value: "OH"
         },
         {
-            value: "Jackson, MS",
-            label: "MS"
+            text: "Jackson, MS",
+            value: "MS"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Tri-Cities, TN-VA",
-            label: "TN"
+            text: "Tri-Cities, TN-VA",
+            value: "TN"
         },
         {
-            value: "Louisville, KY",
-            label: "KY"
+            text: "Louisville, KY",
+            value: "KY"
         },
         {
-            value: "Santa Barbara-Santa Maria-San Luis Obispo, CA",
-            label: "CA"
+            text: "Santa Barbara-Santa Maria-San Luis Obispo, CA",
+            value: "CA"
         },
         {
-            value: "Corpus Christi, TX",
-            label: "TX"
+            text: "Corpus Christi, TX",
+            value: "TX"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Philadelphia, PA",
-            label: "NJ"
+            text: "Philadelphia, PA",
+            value: "NJ"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Greenville-New Bern-Washington, NC",
-            label: "NC"
+            text: "Greenville-New Bern-Washington, NC",
+            value: "NC"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Dayton, OH",
-            label: "OH"
+            text: "Dayton, OH",
+            value: "OH"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Little Rock-Pine Bluff, AR",
-            label: "AR"
+            text: "Little Rock-Pine Bluff, AR",
+            value: "AR"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "AL"
+            text: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "AL"
         },
         {
-            value: "Columbia-Jefferson City, MO",
-            label: "MO"
+            text: "Columbia-Jefferson City, MO",
+            value: "MO"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Little Rock-Pine Bluff, AR",
-            label: "AR"
+            text: "Little Rock-Pine Bluff, AR",
+            value: "AR"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Philadelphia, PA",
-            label: "NJ"
+            text: "Philadelphia, PA",
+            value: "NJ"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "West Palm Beach-Ft. Pierce, FL",
-            label: "FL"
+            text: "West Palm Beach-Ft. Pierce, FL",
+            value: "FL"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Omaha, NE",
-            label: "NE"
+            text: "Omaha, NE",
+            value: "NE"
         },
         {
-            value: "Omaha, NE",
-            label: "NE"
+            text: "Omaha, NE",
+            value: "NE"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Pittsburgh, PA",
-            label: "WV"
+            text: "Pittsburgh, PA",
+            value: "WV"
         },
         {
-            value: "Cedar Rapids-Waterloo-Iowa City & Dubuque, IA",
-            label: "IA"
+            text: "Cedar Rapids-Waterloo-Iowa City & Dubuque, IA",
+            value: "IA"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Miami-Ft. Lauderdale, FL",
-            label: "FL"
+            text: "Miami-Ft. Lauderdale, FL",
+            value: "FL"
         },
         {
-            value: "Sioux City, IA",
-            label: "IA"
+            text: "Sioux City, IA",
+            value: "IA"
         },
         {
-            value: "Huntsville-Decatur (Florence), AL",
-            label: "AL"
+            text: "Huntsville-Decatur (Florence), AL",
+            value: "AL"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Terre Haute, IN",
-            label: "IN"
+            text: "Terre Haute, IN",
+            value: "IN"
         },
         {
-            value: "Tucson (Sierra Vista), AZ",
-            label: "AZ"
+            text: "Tucson (Sierra Vista), AZ",
+            value: "AZ"
         },
         {
-            value: "Boise, ID",
-            label: "ID"
+            text: "Boise, ID",
+            value: "ID"
         },
         {
-            value: "Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "TX"
+            text: "Tyler-Longview(Lufkin & Nacogdoches), TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Lubbock, TX",
-            label: "TX"
+            text: "Lubbock, TX",
+            value: "TX"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Salisbury, MD",
-            label: "MD"
+            text: "Salisbury, MD",
+            value: "MD"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Odessa-Midland, TX",
-            label: "TX"
+            text: "Odessa-Midland, TX",
+            value: "TX"
         },
         {
-            value: "New Orleans, LA",
-            label: "LA"
+            text: "New Orleans, LA",
+            value: "LA"
         },
         {
-            value: "Paducah, KY-Cape Girardeau, MO-Harrisburg, IL",
-            label: "KY"
+            text: "Paducah, KY-Cape Girardeau, MO-Harrisburg, IL",
+            value: "KY"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Wilmington, NC",
-            label: "NC"
+            text: "Wilmington, NC",
+            value: "NC"
         },
         {
-            value: "Youngstown, OH",
-            label: "OH"
+            text: "Youngstown, OH",
+            value: "OH"
         },
         {
-            value: "Jackson, MS",
-            label: "MS"
+            text: "Jackson, MS",
+            value: "MS"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "Abilene-Sweetwater, TX",
-            label: "TX"
+            text: "Abilene-Sweetwater, TX",
+            value: "TX"
         },
         {
-            value: "Cleveland-Akron (Canton), OH",
-            label: "OH"
+            text: "Cleveland-Akron (Canton), OH",
+            value: "OH"
         },
         {
-            value: "Huntsville-Decatur (Florence), AL",
-            label: "AL"
+            text: "Huntsville-Decatur (Florence), AL",
+            value: "AL"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Ft. Smith-Fayetteville-Springdale-Rogers, AR",
-            label: "AR"
+            text: "Ft. Smith-Fayetteville-Springdale-Rogers, AR",
+            value: "AR"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Columbus, GA (Opelika, AL)",
-            label: "GA"
+            text: "Columbus, GA (Opelika, AL)",
+            value: "GA"
         },
         {
-            value: "Louisville, KY",
-            label: "KY"
+            text: "Louisville, KY",
+            value: "KY"
         },
         {
-            value: "Indianapolis, IN",
-            label: "IN"
+            text: "Indianapolis, IN",
+            value: "IN"
         },
         {
-            value: "Ft. Myers-Naples, FL",
-            label: "FL"
+            text: "Ft. Myers-Naples, FL",
+            value: "FL"
         },
         {
-            value: "Cleveland-Akron (Canton), OH",
-            label: "OH"
+            text: "Cleveland-Akron (Canton), OH",
+            value: "OH"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Ft. Wayne, IN",
-            label: "IN"
+            text: "Ft. Wayne, IN",
+            value: "IN"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Macon, GA",
-            label: "GA"
+            text: "Macon, GA",
+            value: "GA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Indianapolis, IN",
-            label: "IN"
+            text: "Indianapolis, IN",
+            value: "IN"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Pittsburgh, PA",
-            label: "PA"
+            text: "Pittsburgh, PA",
+            value: "PA"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Columbia, SC",
-            label: "SC"
+            text: "Columbia, SC",
+            value: "SC"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Little Rock-Pine Bluff, AR",
-            label: "AR"
+            text: "Little Rock-Pine Bluff, AR",
+            value: "AR"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Charlotte, NC",
-            label: "SC"
+            text: "Charlotte, NC",
+            value: "SC"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Columbia, SC",
-            label: "SC"
+            text: "Columbia, SC",
+            value: "SC"
         },
         {
-            value: "Greenville-New Bern-Washington, NC",
-            label: "NC"
+            text: "Greenville-New Bern-Washington, NC",
+            value: "NC"
         },
         {
-            value: "San Diego, CA",
-            label: "CA"
+            text: "San Diego, CA",
+            value: "CA"
         },
         {
-            value: "Kansas City, MO",
-            label: "KS"
+            text: "Kansas City, MO",
+            value: "KS"
         },
         {
-            value: "Roanoke-Lynchburg, VA",
-            label: "VA"
+            text: "Roanoke-Lynchburg, VA",
+            value: "VA"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Santa Barbara-Santa Maria-San Luis Obispo, CA",
-            label: "CA"
+            text: "Santa Barbara-Santa Maria-San Luis Obispo, CA",
+            value: "CA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Harrisburg-Lancaster-Lebanon-York, PA",
-            label: "PA"
+            text: "Harrisburg-Lancaster-Lebanon-York, PA",
+            value: "PA"
         },
         {
-            value: "West Palm Beach-Ft. Pierce, FL",
-            label: "FL"
+            text: "West Palm Beach-Ft. Pierce, FL",
+            value: "FL"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Waco-Temple-Bryan, TX",
-            label: "TX"
+            text: "Waco-Temple-Bryan, TX",
+            value: "TX"
         },
         {
-            value: "Lubbock, TX",
-            label: "TX"
+            text: "Lubbock, TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "WV"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "WV"
         },
         {
-            value: "Waco-Temple-Bryan, TX",
-            label: "TX"
+            text: "Waco-Temple-Bryan, TX",
+            value: "TX"
         },
         {
-            value: "Rockford, IL",
-            label: "IL"
+            text: "Rockford, IL",
+            value: "IL"
         },
         {
-            value: "Harrisburg-Lancaster-Lebanon-York, PA",
-            label: "PA"
+            text: "Harrisburg-Lancaster-Lebanon-York, PA",
+            value: "PA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "DE"
+            text: "Philadelphia, PA",
+            value: "DE"
         },
         {
-            value: "Columbia-Jefferson City, MO",
-            label: "MO"
+            text: "Columbia-Jefferson City, MO",
+            value: "MO"
         },
         {
-            value: "Wichita-Hutchinson, KS Plus",
-            label: "KS"
+            text: "Wichita-Hutchinson, KS Plus",
+            value: "KS"
         },
         {
-            value: "St. Louis, MO",
-            label: "MO"
+            text: "St. Louis, MO",
+            value: "MO"
         },
         {
-            value: "Harrisburg-Lancaster-Lebanon-York, PA",
-            label: "PA"
+            text: "Harrisburg-Lancaster-Lebanon-York, PA",
+            value: "PA"
         },
         {
-            value: "Little Rock-Pine Bluff, AR",
-            label: "AR"
+            text: "Little Rock-Pine Bluff, AR",
+            value: "AR"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "St. Louis, MO",
-            label: "MO"
+            text: "St. Louis, MO",
+            value: "MO"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Minneapolis-St. Paul, MN",
-            label: "MN"
+            text: "Minneapolis-St. Paul, MN",
+            value: "MN"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Cedar Rapids-Waterloo-Iowa City & Dubuque, IA",
-            label: "IA"
+            text: "Cedar Rapids-Waterloo-Iowa City & Dubuque, IA",
+            value: "IA"
         },
         {
-            value: "Twin Falls, ID",
-            label: "ID"
+            text: "Twin Falls, ID",
+            value: "ID"
         },
         {
-            value: "Peoria-Bloomington, IL",
-            label: "IL"
+            text: "Peoria-Bloomington, IL",
+            value: "IL"
         },
         {
-            value: "Portland, OR",
-            label: "OR"
+            text: "Portland, OR",
+            value: "OR"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Albuquerque-Santa Fe, NM",
-            label: "NM"
+            text: "Albuquerque-Santa Fe, NM",
+            value: "NM"
         },
         {
-            value: "Lafayette, LA",
-            label: "LA"
+            text: "Lafayette, LA",
+            value: "LA"
         },
         {
-            value: "Milwaukee, WI",
-            label: "WI"
+            text: "Milwaukee, WI",
+            value: "WI"
         },
         {
-            value: "Portland, OR",
-            label: "OR"
+            text: "Portland, OR",
+            value: "OR"
         },
         {
-            value: "Albuquerque-Santa Fe, NM",
-            label: "NM"
+            text: "Albuquerque-Santa Fe, NM",
+            value: "NM"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "New York, NY",
-            label: "NY"
+            text: "New York, NY",
+            value: "NY"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Columbus, GA (Opelika, AL)",
-            label: "AL"
+            text: "Columbus, GA (Opelika, AL)",
+            value: "AL"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Wilkes Barre-Scranton, PA",
-            label: "PA"
+            text: "Wilkes Barre-Scranton, PA",
+            value: "PA"
         },
         {
-            value: "Bluefield-Beckley-Oak Hill, WV",
-            label: "WV"
+            text: "Bluefield-Beckley-Oak Hill, WV",
+            value: "WV"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Toledo, OH",
-            label: "OH"
+            text: "Toledo, OH",
+            value: "OH"
         },
         {
-            value: "Milwaukee, WI",
-            label: "WI"
+            text: "Milwaukee, WI",
+            value: "WI"
         },
         {
-            value: "Jackson, MS",
-            label: "MS"
+            text: "Jackson, MS",
+            value: "MS"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "New Orleans, LA",
-            label: "LA"
+            text: "New Orleans, LA",
+            value: "LA"
         },
         {
-            value: "Huntsville-Decatur (Florence), AL",
-            label: "AL"
+            text: "Huntsville-Decatur (Florence), AL",
+            value: "AL"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Myrtle Beach-Florence, SC",
-            label: "NC"
+            text: "Myrtle Beach-Florence, SC",
+            value: "NC"
         },
         {
-            value: "Detroit, MI",
-            label: "MI"
+            text: "Detroit, MI",
+            value: "MI"
         },
         {
-            value: "Boston, MA (Manchester, NH)",
-            label: "MA"
+            text: "Boston, MA (Manchester, NH)",
+            value: "MA"
         },
         {
-            value: "New York, NY",
-            label: "NY"
+            text: "New York, NY",
+            value: "NY"
         },
         {
-            value: "Chattanooga, TN",
-            label: "TN"
+            text: "Chattanooga, TN",
+            value: "TN"
         },
         {
-            value: "El Paso, TX (Las Cruces, NM)",
-            label: "TX"
+            text: "El Paso, TX (Las Cruces, NM)",
+            value: "TX"
         },
         {
-            value: "Wilmington, NC",
-            label: "NC"
+            text: "Wilmington, NC",
+            value: "NC"
         },
         {
-            value: "Memphis, TN",
-            label: "MS"
+            text: "Memphis, TN",
+            value: "MS"
         },
         {
-            value: "Corpus Christi, TX",
-            label: "TX"
+            text: "Corpus Christi, TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "DC"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "DC"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Columbia, SC",
-            label: "SC"
+            text: "Columbia, SC",
+            value: "SC"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Little Rock-Pine Bluff, AR",
-            label: "AR"
+            text: "Little Rock-Pine Bluff, AR",
+            value: "AR"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "DC"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "DC"
         },
         {
-            value: "Salisbury, MD",
-            label: "MD"
+            text: "Salisbury, MD",
+            value: "MD"
         },
         {
-            value: "Minneapolis-St. Paul, MN",
-            label: "MN"
+            text: "Minneapolis-St. Paul, MN",
+            value: "MN"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Wilkes Barre-Scranton, PA",
-            label: "PA"
+            text: "Wilkes Barre-Scranton, PA",
+            value: "PA"
         },
         {
-            value: "Pittsburgh, PA",
-            label: "PA"
+            text: "Pittsburgh, PA",
+            value: "PA"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "TX"
+            text: "Harlingen-Weslaco-Brownsville-McAllen, TX",
+            value: "TX"
         },
         {
-            value: "Kansas City, MO",
-            label: "KS"
+            text: "Kansas City, MO",
+            value: "KS"
         },
         {
-            value: "Dayton, OH",
-            label: "OH"
+            text: "Dayton, OH",
+            value: "OH"
         },
         {
-            value: "Waco-Temple-Bryan, TX",
-            label: "TX"
+            text: "Waco-Temple-Bryan, TX",
+            value: "TX"
         },
         {
-            value: "Greenville-New Bern-Washington, NC",
-            label: "NC"
+            text: "Greenville-New Bern-Washington, NC",
+            value: "NC"
         },
         {
-            value: "Myrtle Beach-Florence, SC",
-            label: "SC"
+            text: "Myrtle Beach-Florence, SC",
+            value: "SC"
         },
         {
-            value: "Waco-Temple-Bryan, TX",
-            label: "TX"
+            text: "Waco-Temple-Bryan, TX",
+            value: "TX"
         },
         {
-            value: "Pittsburgh, PA",
-            label: "PA"
+            text: "Pittsburgh, PA",
+            value: "PA"
         },
         {
-            value: "Memphis, TN",
-            label: "TN"
+            text: "Memphis, TN",
+            value: "TN"
         },
         {
-            label: "AR"
+            value: "AR"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Columbus-Tupelo-West Point-Houston, MS",
-            label: "MS"
+            text: "Columbus-Tupelo-West Point-Houston, MS",
+            value: "MS"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Memphis, TN",
-            label: "TN"
+            text: "Memphis, TN",
+            value: "TN"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Detroit, MI",
-            label: "MI"
+            text: "Detroit, MI",
+            value: "MI"
         },
         {
-            value: "Lincoln & Hastings-Kearney, NE",
-            label: "NE"
+            text: "Lincoln & Hastings-Kearney, NE",
+            value: "NE"
         },
         {
-            value: "Lexington, KY",
-            label: "KY"
+            text: "Lexington, KY",
+            value: "KY"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "St. Joseph, MO",
-            label: "MO"
+            text: "St. Joseph, MO",
+            value: "MO"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Baton Rouge, LA",
-            label: "LA"
+            text: "Baton Rouge, LA",
+            value: "LA"
         },
         {
-            value: "Charlotte, NC",
-            label: "SC"
+            text: "Charlotte, NC",
+            value: "SC"
         },
         {
-            value: "Huntsville-Decatur (Florence), AL",
-            label: "AL"
+            text: "Huntsville-Decatur (Florence), AL",
+            value: "AL"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Odessa-Midland, TX",
-            label: "TX"
+            text: "Odessa-Midland, TX",
+            value: "TX"
         },
         {
-            value: "West Palm Beach-Ft. Pierce, FL",
-            label: "FL"
+            text: "West Palm Beach-Ft. Pierce, FL",
+            value: "FL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "New York, NY",
-            label: "NJ"
+            text: "New York, NY",
+            value: "NJ"
         },
         {
-            value: "Tri-Cities, TN-VA",
-            label: "VA"
+            text: "Tri-Cities, TN-VA",
+            value: "VA"
         },
         {
-            value: "Minneapolis-St. Paul, MN",
-            label: "MN"
+            text: "Minneapolis-St. Paul, MN",
+            value: "MN"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "DC"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "DC"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Beaumont-Port Arthur, TX",
-            label: "TX"
+            text: "Beaumont-Port Arthur, TX",
+            value: "TX"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Seattle-Tacoma, WA",
-            label: "WA"
+            text: "Seattle-Tacoma, WA",
+            value: "WA"
         },
         {
-            value: "Albany, GA",
-            label: "GA"
+            text: "Albany, GA",
+            value: "GA"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Portland, OR",
-            label: "OR"
+            text: "Portland, OR",
+            value: "OR"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Myrtle Beach-Florence, SC",
-            label: "SC"
+            text: "Myrtle Beach-Florence, SC",
+            value: "SC"
         },
         {
-            value: "Shreveport, LA",
-            label: "LA"
+            text: "Shreveport, LA",
+            value: "LA"
         },
         {
-            value: "Knoxville, TN",
-            label: "TN"
+            text: "Knoxville, TN",
+            value: "TN"
         },
         {
-            value: "Monroe, LA-El Dorado, AR",
-            label: "LA"
+            text: "Monroe, LA-El Dorado, AR",
+            value: "LA"
         },
         {
-            value: "Cleveland-Akron (Canton), OH",
-            label: "OH"
+            text: "Cleveland-Akron (Canton), OH",
+            value: "OH"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Albany-Schenectady-Troy, NY",
-            label: "NY"
+            text: "Albany-Schenectady-Troy, NY",
+            value: "NY"
         },
         {
-            value: "Minneapolis-St. Paul, MN",
-            label: "MN"
+            text: "Minneapolis-St. Paul, MN",
+            value: "MN"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Philadelphia, PA",
-            label: "NJ"
+            text: "Philadelphia, PA",
+            value: "NJ"
         },
         {
-            value: "Albany, GA",
-            label: "GA"
+            text: "Albany, GA",
+            value: "GA"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Charleston, SC",
-            label: "SC"
+            text: "Charleston, SC",
+            value: "SC"
         },
         {
-            value: "St. Louis, MO",
-            label: "MO"
+            text: "St. Louis, MO",
+            value: "MO"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "St. Louis, MO",
-            label: "MO"
+            text: "St. Louis, MO",
+            value: "MO"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Charlottesville, VA",
-            label: "VA"
+            text: "Charlottesville, VA",
+            value: "VA"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Montgomery-Selma, AL",
-            label: "AL"
+            text: "Montgomery-Selma, AL",
+            value: "AL"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "DC"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "DC"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Chattanooga, TN",
-            label: "TN"
+            text: "Chattanooga, TN",
+            value: "TN"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Evansville, IN",
-            label: "IN"
+            text: "Evansville, IN",
+            value: "IN"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Columbia, SC",
-            label: "SC"
+            text: "Columbia, SC",
+            value: "SC"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Wichita Falls, TX & Lawton, OK",
-            label: "OK"
+            text: "Wichita Falls, TX & Lawton, OK",
+            value: "OK"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "St. Louis, MO",
-            label: "MO"
+            text: "St. Louis, MO",
+            value: "MO"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "FL"
+            text: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "FL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Augusta, GA-Aiken, SC",
-            label: "GA"
+            text: "Augusta, GA-Aiken, SC",
+            value: "GA"
         },
         {
-            value: "Tri-Cities, TN-VA",
-            label: "TN"
+            text: "Tri-Cities, TN-VA",
+            value: "TN"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Hattiesburg-Laurel, MS",
-            label: "MS"
+            text: "Hattiesburg-Laurel, MS",
+            value: "MS"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Cleveland-Akron (Canton), OH",
-            label: "OH"
+            text: "Cleveland-Akron (Canton), OH",
+            value: "OH"
         },
         {
-            value: "Miami-Ft. Lauderdale, FL",
-            label: "FL"
+            text: "Miami-Ft. Lauderdale, FL",
+            value: "FL"
         },
         {
-            value: "Savannah, GA",
-            label: "GA"
+            text: "Savannah, GA",
+            value: "GA"
         },
         {
-            value: "New York, NY",
-            label: "NY"
+            text: "New York, NY",
+            value: "NY"
         },
         {
-            value: "Harrisonburg, VA",
-            label: "VA"
+            text: "Harrisonburg, VA",
+            value: "VA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Baton Rouge, LA",
-            label: "LA"
+            text: "Baton Rouge, LA",
+            value: "LA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "NJ"
+            text: "Philadelphia, PA",
+            value: "NJ"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Macon, GA",
-            label: "GA"
+            text: "Macon, GA",
+            value: "GA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Little Rock-Pine Bluff, AR",
-            label: "AR"
+            text: "Little Rock-Pine Bluff, AR",
+            value: "AR"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Memphis, TN",
-            label: "MS"
+            text: "Memphis, TN",
+            value: "MS"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Indianapolis, IN",
-            label: "IN"
+            text: "Indianapolis, IN",
+            value: "IN"
         },
         {
-            value: "Indianapolis, IN",
-            label: "IN"
+            text: "Indianapolis, IN",
+            value: "IN"
         },
         {
-            value: "New York, NY",
-            label: "NJ"
+            text: "New York, NY",
+            value: "NJ"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Indianapolis, IN",
-            label: "IN"
+            text: "Indianapolis, IN",
+            value: "IN"
         },
         {
-            value: "Lafayette, IN",
-            label: "IN"
+            text: "Lafayette, IN",
+            value: "IN"
         },
         {
-            value: "West Palm Beach-Ft. Pierce, FL",
-            label: "FL"
+            text: "West Palm Beach-Ft. Pierce, FL",
+            value: "FL"
         },
         {
-            value: "Pittsburgh, PA",
-            label: "WV"
+            text: "Pittsburgh, PA",
+            value: "WV"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Harrisonburg, VA",
-            label: "VA"
+            text: "Harrisonburg, VA",
+            value: "VA"
         },
         {
-            value: "Charleston, SC",
-            label: "SC"
+            text: "Charleston, SC",
+            value: "SC"
         },
         {
-            value: "Jackson, MS",
-            label: "MS"
+            text: "Jackson, MS",
+            value: "MS"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Joplin, MO-Pittsburg, KS",
-            label: "MO"
+            text: "Joplin, MO-Pittsburg, KS",
+            value: "MO"
         },
         {
-            value: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "FL"
+            text: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "FL"
         },
         {
-            value: "Columbus, OH",
-            label: "OH"
+            text: "Columbus, OH",
+            value: "OH"
         },
         {
-            value: "Cheyenne, WY-Scottsbluff, NE",
-            label: "WY"
+            text: "Cheyenne, WY-Scottsbluff, NE",
+            value: "WY"
         },
         {
-            value: "Ft. Wayne, IN",
-            label: "IN"
+            text: "Ft. Wayne, IN",
+            value: "IN"
         },
         {
-            value: "Toledo, OH",
-            label: "OH"
+            text: "Toledo, OH",
+            value: "OH"
         },
         {
-            value: "Indianapolis, IN",
-            label: "IN"
+            text: "Indianapolis, IN",
+            value: "IN"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "TX"
+            text: "Harlingen-Weslaco-Brownsville-McAllen, TX",
+            value: "TX"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "TX"
+            text: "Harlingen-Weslaco-Brownsville-McAllen, TX",
+            value: "TX"
         },
         {
-            value: "Greenville-New Bern-Washington, NC",
-            label: "NC"
+            text: "Greenville-New Bern-Washington, NC",
+            value: "NC"
         },
         {
-            value: "Lexington, KY",
-            label: "KY"
+            text: "Lexington, KY",
+            value: "KY"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Lexington, KY",
-            label: "KY"
+            text: "Lexington, KY",
+            value: "KY"
         },
         {
-            value: "Knoxville, TN",
-            label: "TN"
+            text: "Knoxville, TN",
+            value: "TN"
         },
         {
-            value: "Lexington, KY",
-            label: "KY"
+            text: "Lexington, KY",
+            value: "KY"
         },
         {
-            value: "Albany, GA",
-            label: "GA"
+            text: "Albany, GA",
+            value: "GA"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "San Francisco-Oakland-San Jose, CA",
-            label: "CA"
+            text: "San Francisco-Oakland-San Jose, CA",
+            value: "CA"
         },
         {
-            value: "Omaha, NE",
-            label: "NE"
+            text: "Omaha, NE",
+            value: "NE"
         },
         {
-            value: "Shreveport, LA",
-            label: "LA"
+            text: "Shreveport, LA",
+            value: "LA"
         },
         {
-            value: "Charleston, SC",
-            label: "SC"
+            text: "Charleston, SC",
+            value: "SC"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "New York, NY",
-            label: "NJ"
+            text: "New York, NY",
+            value: "NJ"
         },
         {
-            value: "Panama City, FL",
-            label: "FL"
+            text: "Panama City, FL",
+            value: "FL"
         },
         {
-            value: "Grand Rapids-Kalamazoo-Battle Creek, MI",
-            label: "MI"
+            text: "Grand Rapids-Kalamazoo-Battle Creek, MI",
+            value: "MI"
         },
         {
-            value: "Omaha, NE",
-            label: "NE"
+            text: "Omaha, NE",
+            value: "NE"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Madison, WI",
-            label: "WI"
+            text: "Madison, WI",
+            value: "WI"
         },
         {
-            value: "Columbia, SC",
-            label: "SC"
+            text: "Columbia, SC",
+            value: "SC"
         },
         {
-            value: "Milwaukee, WI",
-            label: "WI"
+            text: "Milwaukee, WI",
+            value: "WI"
         },
         {
-            value: "Philadelphia, PA",
-            label: "NJ"
+            text: "Philadelphia, PA",
+            value: "NJ"
         },
         {
-            value: "Minneapolis-St. Paul, MN",
-            label: "MN"
+            text: "Minneapolis-St. Paul, MN",
+            value: "MN"
         },
         {
-            value: "Little Rock-Pine Bluff, AR",
-            label: "AR"
+            text: "Little Rock-Pine Bluff, AR",
+            value: "AR"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Huntsville-Decatur (Florence), AL",
-            label: "AL"
+            text: "Huntsville-Decatur (Florence), AL",
+            value: "AL"
         },
         {
-            value: "Harrisburg-Lancaster-Lebanon-York, PA",
-            label: "PA"
+            text: "Harrisburg-Lancaster-Lebanon-York, PA",
+            value: "PA"
         },
         {
-            value: "Wilmington, NC",
-            label: "NC"
+            text: "Wilmington, NC",
+            value: "NC"
         },
         {
-            value: "Wilmington, NC",
-            label: "NC"
+            text: "Wilmington, NC",
+            value: "NC"
         },
         {
-            value: "Minneapolis-St. Paul, MN",
-            label: "MN"
+            text: "Minneapolis-St. Paul, MN",
+            value: "MN"
         },
         {
-            value: "Tri-Cities, TN-VA",
-            label: "TN"
+            text: "Tri-Cities, TN-VA",
+            value: "TN"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Baton Rouge, LA",
-            label: "LA"
+            text: "Baton Rouge, LA",
+            value: "LA"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Charlottesville, VA",
-            label: "VA"
+            text: "Charlottesville, VA",
+            value: "VA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "New York, NY",
-            label: "NJ"
+            text: "New York, NY",
+            value: "NJ"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Louisville, KY",
-            label: "IN"
+            text: "Louisville, KY",
+            value: "IN"
         },
         {
-            value: "Jackson, TN",
-            label: "TN"
+            text: "Jackson, TN",
+            value: "TN"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Montgomery-Selma, AL",
-            label: "AL"
+            text: "Montgomery-Selma, AL",
+            value: "AL"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Roanoke-Lynchburg, VA",
-            label: "VA"
+            text: "Roanoke-Lynchburg, VA",
+            value: "VA"
         },
         {
-            value: "Kansas City, MO",
-            label: "KS"
+            text: "Kansas City, MO",
+            value: "KS"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Philadelphia, PA",
-            label: "DE"
+            text: "Philadelphia, PA",
+            value: "DE"
         },
         {
-            value: "Savannah, GA",
-            label: "GA"
+            text: "Savannah, GA",
+            value: "GA"
         },
         {
-            value: "Cleveland-Akron (Canton), OH",
-            label: "OH"
+            text: "Cleveland-Akron (Canton), OH",
+            value: "OH"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Knoxville, TN",
-            label: "TN"
+            text: "Knoxville, TN",
+            value: "TN"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "NC"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "NC"
         },
         {
-            value: "Erie, PA",
-            label: "PA"
+            text: "Erie, PA",
+            value: "PA"
         },
         {
-            value: "Chicago, IL",
-            label: "IN"
+            text: "Chicago, IL",
+            value: "IN"
         },
         {
-            value: "Grand Junction-Montrose, CO",
-            label: "CO"
+            text: "Grand Junction-Montrose, CO",
+            value: "CO"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Lubbock, TX",
-            label: "TX"
+            text: "Lubbock, TX",
+            value: "TX"
         },
         {
-            value: "New Orleans, LA",
-            label: "LA"
+            text: "New Orleans, LA",
+            value: "LA"
         },
         {
-            value: "Miami-Ft. Lauderdale, FL",
-            label: "FL"
+            text: "Miami-Ft. Lauderdale, FL",
+            value: "FL"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Columbus, OH",
-            label: "OH"
+            text: "Columbus, OH",
+            value: "OH"
         },
         {
-            value: "Miami-Ft. Lauderdale, FL",
-            label: "FL"
+            text: "Miami-Ft. Lauderdale, FL",
+            value: "FL"
         },
         {
-            value: "Tulsa, OK",
-            label: "OK"
+            text: "Tulsa, OK",
+            value: "OK"
         },
         {
-            value: "Sacramento-Stockton-Modesto, CA",
-            label: "CA"
+            text: "Sacramento-Stockton-Modesto, CA",
+            value: "CA"
         },
         {
-            value: "St. Louis, MO",
-            label: "MO"
+            text: "St. Louis, MO",
+            value: "MO"
         },
         {
-            value: "Philadelphia, PA",
-            label: "NJ"
+            text: "Philadelphia, PA",
+            value: "NJ"
         },
         {
-            value: "Ottumwa, IA-Kirksville, MO",
-            label: "MO"
+            text: "Ottumwa, IA-Kirksville, MO",
+            value: "MO"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Hartford & New Haven, CT",
-            label: "CT"
+            text: "Hartford & New Haven, CT",
+            value: "CT"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Evansville, IN",
-            label: "IN"
+            text: "Evansville, IN",
+            value: "IN"
         },
         {
-            label: "AR"
+            value: "AR"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Lubbock, TX",
-            label: "TX"
+            text: "Lubbock, TX",
+            value: "TX"
         },
         {
-            value: "Charleston, SC",
-            label: "SC"
+            text: "Charleston, SC",
+            value: "SC"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Pittsburgh, PA",
-            label: "PA"
+            text: "Pittsburgh, PA",
+            value: "PA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Kansas City, MO",
-            label: "MO"
+            text: "Kansas City, MO",
+            value: "MO"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Cleveland-Akron (Canton), OH",
-            label: "OH"
+            text: "Cleveland-Akron (Canton), OH",
+            value: "OH"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Abilene-Sweetwater, TX",
-            label: "TX"
+            text: "Abilene-Sweetwater, TX",
+            value: "TX"
         },
         {
-            value: "Cleveland-Akron (Canton), OH",
-            label: "OH"
+            text: "Cleveland-Akron (Canton), OH",
+            value: "OH"
         },
         {
-            value: "Ft. Smith-Fayetteville-Springdale-Rogers, AR",
-            label: "AR"
+            text: "Ft. Smith-Fayetteville-Springdale-Rogers, AR",
+            value: "AR"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Harrisburg-Lancaster-Lebanon-York, PA",
-            label: "PA"
+            text: "Harrisburg-Lancaster-Lebanon-York, PA",
+            value: "PA"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Albuquerque-Santa Fe, NM",
-            label: "NM"
+            text: "Albuquerque-Santa Fe, NM",
+            value: "NM"
         },
         {
-            value: "Tucson (Sierra Vista), AZ",
-            label: "AZ"
+            text: "Tucson (Sierra Vista), AZ",
+            value: "AZ"
         },
         {
-            value: "Boise, ID",
-            label: "ID"
+            text: "Boise, ID",
+            value: "ID"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Colorado Springs-Pueblo, CO",
-            label: "CO"
+            text: "Colorado Springs-Pueblo, CO",
+            value: "CO"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "TX"
+            text: "Harlingen-Weslaco-Brownsville-McAllen, TX",
+            value: "TX"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Tallahassee, FL-Thomasville, GA",
-            label: "FL"
+            text: "Tallahassee, FL-Thomasville, GA",
+            value: "FL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Boston, MA (Manchester, NH)",
-            label: "MA"
+            text: "Boston, MA (Manchester, NH)",
+            value: "MA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "AL"
+            text: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "AL"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "El Paso, TX (Las Cruces, NM)",
-            label: "TX"
+            text: "El Paso, TX (Las Cruces, NM)",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "New York, NY",
-            label: "CT"
+            text: "New York, NY",
+            value: "CT"
         },
         {
-            value: "Ft. Myers-Naples, FL",
-            label: "FL"
+            text: "Ft. Myers-Naples, FL",
+            value: "FL"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Cleveland-Akron (Canton), OH",
-            label: "OH"
+            text: "Cleveland-Akron (Canton), OH",
+            value: "OH"
         },
         {
-            value: "Boston, MA (Manchester, NH)",
-            label: "MA"
+            text: "Boston, MA (Manchester, NH)",
+            value: "MA"
         },
         {
-            value: "Memphis, TN",
-            label: "TN"
+            text: "Memphis, TN",
+            value: "TN"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Charlottesville, VA",
-            label: "VA"
+            text: "Charlottesville, VA",
+            value: "VA"
         },
         {
-            value: "Wichita Falls, TX & Lawton, OK",
-            label: "TX"
+            text: "Wichita Falls, TX & Lawton, OK",
+            value: "TX"
         },
         {
-            value: "Charleston, SC",
-            label: "SC"
+            text: "Charleston, SC",
+            value: "SC"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "Chattanooga, TN",
-            label: "TN"
+            text: "Chattanooga, TN",
+            value: "TN"
         },
         {
-            value: "Bluefield-Beckley-Oak Hill, WV",
-            label: "WV"
+            text: "Bluefield-Beckley-Oak Hill, WV",
+            value: "WV"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Miami-Ft. Lauderdale, FL",
-            label: "FL"
+            text: "Miami-Ft. Lauderdale, FL",
+            value: "FL"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Milwaukee, WI",
-            label: "WI"
+            text: "Milwaukee, WI",
+            value: "WI"
         },
         {
-            value: "Laredo, TX",
-            label: "TX"
+            text: "Laredo, TX",
+            value: "TX"
         },
         {
-            value: "Albany, GA",
-            label: "GA"
+            text: "Albany, GA",
+            value: "GA"
         },
         {
-            value: "Peoria-Bloomington, IL",
-            label: "IL"
+            text: "Peoria-Bloomington, IL",
+            value: "IL"
         },
         {
-            value: "Des Moines-Ames, IA",
-            label: "IA"
+            text: "Des Moines-Ames, IA",
+            value: "IA"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Cedar Rapids-Waterloo-Iowa City & Dubuque, IA",
-            label: "IA"
+            text: "Cedar Rapids-Waterloo-Iowa City & Dubuque, IA",
+            value: "IA"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Ft. Smith-Fayetteville-Springdale-Rogers, AR",
-            label: "AR"
+            text: "Ft. Smith-Fayetteville-Springdale-Rogers, AR",
+            value: "AR"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "FL"
+            text: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "FL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Seattle-Tacoma, WA",
-            label: "WA"
+            text: "Seattle-Tacoma, WA",
+            value: "WA"
         },
         {
-            value: "Miami-Ft. Lauderdale, FL",
-            label: "FL"
+            text: "Miami-Ft. Lauderdale, FL",
+            value: "FL"
         },
         {
-            value: "Ft. Smith-Fayetteville-Springdale-Rogers, AR",
-            label: "AR"
+            text: "Ft. Smith-Fayetteville-Springdale-Rogers, AR",
+            value: "AR"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Cleveland-Akron (Canton), OH",
-            label: "OH"
+            text: "Cleveland-Akron (Canton), OH",
+            value: "OH"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "New York, NY",
-            label: "NY"
+            text: "New York, NY",
+            value: "NY"
         },
         {
-            value: "Colorado Springs-Pueblo, CO",
-            label: "CO"
+            text: "Colorado Springs-Pueblo, CO",
+            value: "CO"
         },
         {
-            value: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "FL"
+            text: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "FL"
         },
         {
-            value: "Huntsville-Decatur (Florence), AL",
-            label: "AL"
+            text: "Huntsville-Decatur (Florence), AL",
+            value: "AL"
         },
         {
-            value: "Philadelphia, PA",
-            label: "NJ"
+            text: "Philadelphia, PA",
+            value: "NJ"
         },
         {
-            value: "Springfield, MO",
-            label: "MO"
+            text: "Springfield, MO",
+            value: "MO"
         },
         {
-            value: "Philadelphia, PA",
-            label: "NJ"
+            text: "Philadelphia, PA",
+            value: "NJ"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Cleveland-Akron (Canton), OH",
-            label: "OH"
+            text: "Cleveland-Akron (Canton), OH",
+            value: "OH"
         },
         {
-            value: "Columbia, SC",
-            label: "SC"
+            text: "Columbia, SC",
+            value: "SC"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Augusta, GA-Aiken, SC",
-            label: "GA"
+            text: "Augusta, GA-Aiken, SC",
+            value: "GA"
         },
         {
-            value: "Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "TX"
+            text: "Harlingen-Weslaco-Brownsville-McAllen, TX",
+            value: "TX"
         },
         {
-            value: "Minneapolis-St. Paul, MN",
-            label: "MN"
+            text: "Minneapolis-St. Paul, MN",
+            value: "MN"
         },
         {
-            value: "Columbus, OH",
-            label: "OH"
+            text: "Columbus, OH",
+            value: "OH"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "NC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "NC"
         },
         {
-            value: "St. Louis, MO",
-            label: "MO"
+            text: "St. Louis, MO",
+            value: "MO"
         },
         {
-            value: "St. Louis, MO",
-            label: "MO"
+            text: "St. Louis, MO",
+            value: "MO"
         },
         {
-            value: "Huntsville-Decatur (Florence), AL",
-            label: "AL"
+            text: "Huntsville-Decatur (Florence), AL",
+            value: "AL"
         },
         {
-            value: "Tulsa, OK",
-            label: "OK"
+            text: "Tulsa, OK",
+            value: "OK"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Lafayette, LA",
-            label: "LA"
+            text: "Lafayette, LA",
+            value: "LA"
         },
         {
-            value: "Myrtle Beach-Florence, SC",
-            label: "SC"
+            text: "Myrtle Beach-Florence, SC",
+            value: "SC"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Alexandria, LA",
-            label: "LA"
+            text: "Alexandria, LA",
+            value: "LA"
         },
         {
-            value: "St. Louis, MO",
-            label: "MO"
+            text: "St. Louis, MO",
+            value: "MO"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Myrtle Beach-Florence, SC",
-            label: "SC"
+            text: "Myrtle Beach-Florence, SC",
+            value: "SC"
         },
         {
-            value: "Louisville, KY",
-            label: "KY"
+            text: "Louisville, KY",
+            value: "KY"
         },
         {
-            value: "Colorado Springs-Pueblo, CO",
-            label: "CO"
+            text: "Colorado Springs-Pueblo, CO",
+            value: "CO"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Albany, GA",
-            label: "GA"
+            text: "Albany, GA",
+            value: "GA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Corpus Christi, TX",
-            label: "TX"
+            text: "Corpus Christi, TX",
+            value: "TX"
         },
         {
-            value: "Little Rock-Pine Bluff, AR",
-            label: "AR"
+            text: "Little Rock-Pine Bluff, AR",
+            value: "AR"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Portland, OR",
-            label: "WA"
+            text: "Portland, OR",
+            value: "WA"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Hattiesburg-Laurel, MS",
-            label: "MS"
+            text: "Hattiesburg-Laurel, MS",
+            value: "MS"
         },
         {
-            value: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "FL"
+            text: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "FL"
         },
         {
-            value: "San Diego, CA",
-            label: "CA"
+            text: "San Diego, CA",
+            value: "CA"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Jackson, MS",
-            label: "MS"
+            text: "Jackson, MS",
+            value: "MS"
         },
         {
-            value: "Minneapolis-St. Paul, MN",
-            label: "MN"
+            text: "Minneapolis-St. Paul, MN",
+            value: "MN"
         },
         {
-            value: "Pittsburgh, PA",
-            label: "PA"
+            text: "Pittsburgh, PA",
+            value: "PA"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Portland, OR",
-            label: "OR"
+            text: "Portland, OR",
+            value: "OR"
         },
         {
-            value: "San Diego, CA",
-            label: "CA"
+            text: "San Diego, CA",
+            value: "CA"
         },
         {
-            value: "Lincoln & Hastings-Kearney, NE",
-            label: "NE"
+            text: "Lincoln & Hastings-Kearney, NE",
+            value: "NE"
         },
         {
-            value: "Colorado Springs-Pueblo, CO",
-            label: "CO"
+            text: "Colorado Springs-Pueblo, CO",
+            value: "CO"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Waco-Temple-Bryan, TX",
-            label: "TX"
+            text: "Waco-Temple-Bryan, TX",
+            value: "TX"
         },
         {
-            value: "Lake Charles, LA",
-            label: "LA"
+            text: "Lake Charles, LA",
+            value: "LA"
         },
         {
-            value: "Jacksonville, FL",
-            label: "GA"
+            text: "Jacksonville, FL",
+            value: "GA"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "West Palm Beach-Ft. Pierce, FL",
-            label: "FL"
+            text: "West Palm Beach-Ft. Pierce, FL",
+            value: "FL"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Cincinnati, OH",
-            label: "OH"
+            text: "Cincinnati, OH",
+            value: "OH"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Wichita Falls, TX & Lawton, OK",
-            label: "OK"
+            text: "Wichita Falls, TX & Lawton, OK",
+            value: "OK"
         },
         {
-            value: "Lexington, KY",
-            label: "KY"
+            text: "Lexington, KY",
+            value: "KY"
         },
         {
-            value: "Milwaukee, WI",
-            label: "WI"
+            text: "Milwaukee, WI",
+            value: "WI"
         },
         {
-            value: "Shreveport, LA",
-            label: "TX"
+            text: "Shreveport, LA",
+            value: "TX"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Minneapolis-St. Paul, MN",
-            label: "MN"
+            text: "Minneapolis-St. Paul, MN",
+            value: "MN"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Indianapolis, IN",
-            label: "IN"
+            text: "Indianapolis, IN",
+            value: "IN"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "AL"
+            text: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "AL"
         },
         {
-            value: "Philadelphia, PA",
-            label: "DE"
+            text: "Philadelphia, PA",
+            value: "DE"
         },
         {
-            value: "New York, NY",
-            label: "NY"
+            text: "New York, NY",
+            value: "NY"
         },
         {
-            value: "Tri-Cities, TN-VA",
-            label: "TN"
+            text: "Tri-Cities, TN-VA",
+            value: "TN"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Macon, GA",
-            label: "GA"
+            text: "Macon, GA",
+            value: "GA"
         },
         {
-            value: "Indianapolis, IN",
-            label: "IN"
+            text: "Indianapolis, IN",
+            value: "IN"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Des Moines-Ames, IA",
-            label: "IA"
+            text: "Des Moines-Ames, IA",
+            value: "IA"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "NC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "NC"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Springfield, MO",
-            label: "MO"
+            text: "Springfield, MO",
+            value: "MO"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "TX"
+            text: "Tyler-Longview(Lufkin & Nacogdoches), TX",
+            value: "TX"
         },
         {
-            value: "Columbia, SC",
-            label: "SC"
+            text: "Columbia, SC",
+            value: "SC"
         },
         {
-            value: "Cleveland-Akron (Canton), OH",
-            label: "OH"
+            text: "Cleveland-Akron (Canton), OH",
+            value: "OH"
         },
         {
-            value: "Corpus Christi, TX",
-            label: "TX"
+            text: "Corpus Christi, TX",
+            value: "TX"
         },
         {
-            value: "Macon, GA",
-            label: "GA"
+            text: "Macon, GA",
+            value: "GA"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Rochester, NY",
-            label: "NY"
+            text: "Rochester, NY",
+            value: "NY"
         },
         {
-            value: "Minneapolis-St. Paul, MN",
-            label: "MN"
+            text: "Minneapolis-St. Paul, MN",
+            value: "MN"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Minneapolis-St. Paul, MN",
-            label: "MN"
+            text: "Minneapolis-St. Paul, MN",
+            value: "MN"
         },
         {
-            value: "Minneapolis-St. Paul, MN",
-            label: "MN"
+            text: "Minneapolis-St. Paul, MN",
+            value: "MN"
         },
         {
-            value: "Baton Rouge, LA",
-            label: "LA"
+            text: "Baton Rouge, LA",
+            value: "LA"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Monroe, LA-El Dorado, AR",
-            label: "LA"
+            text: "Monroe, LA-El Dorado, AR",
+            value: "LA"
         },
         {
-            value: "West Palm Beach-Ft. Pierce, FL",
-            label: "FL"
+            text: "West Palm Beach-Ft. Pierce, FL",
+            value: "FL"
         },
         {
-            value: "Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "TX"
+            text: "Harlingen-Weslaco-Brownsville-McAllen, TX",
+            value: "TX"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "TX"
+            text: "Harlingen-Weslaco-Brownsville-McAllen, TX",
+            value: "TX"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Tulsa, OK",
-            label: "OK"
+            text: "Tulsa, OK",
+            value: "OK"
         },
         {
-            value: "Wichita Falls, TX & Lawton, OK",
-            label: "TX"
+            text: "Wichita Falls, TX & Lawton, OK",
+            value: "TX"
         },
         {
-            value: "Lexington, KY",
-            label: "KY"
+            text: "Lexington, KY",
+            value: "KY"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Salisbury, MD",
-            label: "DE"
+            text: "Salisbury, MD",
+            value: "DE"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Spokane, WA",
-            label: "ID"
+            text: "Spokane, WA",
+            value: "ID"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Memphis, TN",
-            label: "TN"
+            text: "Memphis, TN",
+            value: "TN"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "NC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "NC"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "New York, NY",
-            label: "NY"
+            text: "New York, NY",
+            value: "NY"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Syracuse, NY",
-            label: "NY"
+            text: "Syracuse, NY",
+            value: "NY"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Lubbock, TX",
-            label: "TX"
+            text: "Lubbock, TX",
+            value: "TX"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Gainesville, FL",
-            label: "FL"
+            text: "Gainesville, FL",
+            value: "FL"
         },
         {
-            value: "Philadelphia, PA",
-            label: "DE"
+            text: "Philadelphia, PA",
+            value: "DE"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Ft. Myers-Naples, FL",
-            label: "FL"
+            text: "Ft. Myers-Naples, FL",
+            value: "FL"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Montgomery-Selma, AL",
-            label: "AL"
+            text: "Montgomery-Selma, AL",
+            value: "AL"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Gainesville, FL",
-            label: "FL"
+            text: "Gainesville, FL",
+            value: "FL"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Harrisburg-Lancaster-Lebanon-York, PA",
-            label: "PA"
+            text: "Harrisburg-Lancaster-Lebanon-York, PA",
+            value: "PA"
         },
         {
-            value: "El Paso, TX (Las Cruces, NM)",
-            label: "TX"
+            text: "El Paso, TX (Las Cruces, NM)",
+            value: "TX"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Kansas City, MO",
-            label: "MO"
+            text: "Kansas City, MO",
+            value: "MO"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Louisville, KY",
-            label: "KY"
+            text: "Louisville, KY",
+            value: "KY"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Des Moines-Ames, IA",
-            label: "IA"
+            text: "Des Moines-Ames, IA",
+            value: "IA"
         },
         {
-            value: "Chattanooga, TN",
-            label: "TN"
+            text: "Chattanooga, TN",
+            value: "TN"
         },
         {
-            value: "Knoxville, TN",
-            label: "TN"
+            text: "Knoxville, TN",
+            value: "TN"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "St. Louis, MO",
-            label: "MO"
+            text: "St. Louis, MO",
+            value: "MO"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Dayton, OH",
-            label: "OH"
+            text: "Dayton, OH",
+            value: "OH"
         },
         {
-            value: "Miami-Ft. Lauderdale, FL",
-            label: "FL"
+            text: "Miami-Ft. Lauderdale, FL",
+            value: "FL"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Columbia, SC",
-            label: "SC"
+            text: "Columbia, SC",
+            value: "SC"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Minneapolis-St. Paul, MN",
-            label: "MN"
+            text: "Minneapolis-St. Paul, MN",
+            value: "MN"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Columbia, SC",
-            label: "SC"
+            text: "Columbia, SC",
+            value: "SC"
         },
         {
-            value: "Charleston, SC",
-            label: "SC"
+            text: "Charleston, SC",
+            value: "SC"
         },
         {
-            value: "Macon, GA",
-            label: "GA"
+            text: "Macon, GA",
+            value: "GA"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Chattanooga, TN",
-            label: "TN"
+            text: "Chattanooga, TN",
+            value: "TN"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "San Francisco-Oakland-San Jose, CA",
-            label: "CA"
+            text: "San Francisco-Oakland-San Jose, CA",
+            value: "CA"
         },
         {
-            value: "Boston, MA (Manchester, NH)",
-            label: "MA"
+            text: "Boston, MA (Manchester, NH)",
+            value: "MA"
         },
         {
-            value: "Cleveland-Akron (Canton), OH",
-            label: "OH"
+            text: "Cleveland-Akron (Canton), OH",
+            value: "OH"
         },
         {
-            value: "Joplin, MO-Pittsburg, KS",
-            label: "MO"
+            text: "Joplin, MO-Pittsburg, KS",
+            value: "MO"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Albuquerque-Santa Fe, NM",
-            label: "NM"
+            text: "Albuquerque-Santa Fe, NM",
+            value: "NM"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Roanoke-Lynchburg, VA",
-            label: "VA"
+            text: "Roanoke-Lynchburg, VA",
+            value: "VA"
         },
         {
-            value: "Macon, GA",
-            label: "GA"
+            text: "Macon, GA",
+            value: "GA"
         },
         {
-            value: "Huntsville-Decatur (Florence), AL",
-            label: "AL"
+            text: "Huntsville-Decatur (Florence), AL",
+            value: "AL"
         },
         {
-            value: "Biloxi-Gulfport, MS",
-            label: "MS"
+            text: "Biloxi-Gulfport, MS",
+            value: "MS"
         },
         {
-            value: "Charleston, SC",
-            label: "SC"
+            text: "Charleston, SC",
+            value: "SC"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Parkersburg, WV",
-            label: "WV"
+            text: "Parkersburg, WV",
+            value: "WV"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Charlottesville, VA",
-            label: "VA"
+            text: "Charlottesville, VA",
+            value: "VA"
         },
         {
-            value: "Charleston, SC",
-            label: "SC"
+            text: "Charleston, SC",
+            value: "SC"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Des Moines-Ames, IA",
-            label: "IA"
+            text: "Des Moines-Ames, IA",
+            value: "IA"
         },
         {
-            value: "Columbia, SC",
-            label: "SC"
+            text: "Columbia, SC",
+            value: "SC"
         },
         {
-            value: "Indianapolis, IN",
-            label: "IN"
+            text: "Indianapolis, IN",
+            value: "IN"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Macon, GA",
-            label: "GA"
+            text: "Macon, GA",
+            value: "GA"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Cleveland-Akron (Canton), OH",
-            label: "OH"
+            text: "Cleveland-Akron (Canton), OH",
+            value: "OH"
         },
         {
-            value: "Las Vegas, NV",
-            label: "NV"
+            text: "Las Vegas, NV",
+            value: "NV"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Cincinnati, OH",
-            label: "OH"
+            text: "Cincinnati, OH",
+            value: "OH"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Cincinnati, OH",
-            label: "OH"
+            text: "Cincinnati, OH",
+            value: "OH"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Toledo, OH",
-            label: "OH"
+            text: "Toledo, OH",
+            value: "OH"
         },
         {
-            value: "San Francisco-Oakland-San Jose, CA",
-            label: "CA"
+            text: "San Francisco-Oakland-San Jose, CA",
+            value: "CA"
         },
         {
-            value: "Parkersburg, WV",
-            label: "WV"
+            text: "Parkersburg, WV",
+            value: "WV"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "San Diego, CA",
-            label: "CA"
+            text: "San Diego, CA",
+            value: "CA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "NJ"
+            text: "Philadelphia, PA",
+            value: "NJ"
         },
         {
-            value: "Charleston, SC",
-            label: "SC"
+            text: "Charleston, SC",
+            value: "SC"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Louisville, KY",
-            label: "KY"
+            text: "Louisville, KY",
+            value: "KY"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Springfield, MO",
-            label: "MO"
+            text: "Springfield, MO",
+            value: "MO"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Jonesboro, AR",
-            label: "AR"
+            text: "Jonesboro, AR",
+            value: "AR"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Columbus, GA (Opelika, AL)",
-            label: "AL"
+            text: "Columbus, GA (Opelika, AL)",
+            value: "AL"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Waco-Temple-Bryan, TX",
-            label: "TX"
+            text: "Waco-Temple-Bryan, TX",
+            value: "TX"
         },
         {
-            value: "New York, NY",
-            label: "NY"
+            text: "New York, NY",
+            value: "NY"
         },
         {
-            value: "New York, NY",
-            label: "NJ"
+            text: "New York, NY",
+            value: "NJ"
         },
         {
-            value: "Topeka, KS",
-            label: "KS"
+            text: "Topeka, KS",
+            value: "KS"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Little Rock-Pine Bluff, AR",
-            label: "AR"
+            text: "Little Rock-Pine Bluff, AR",
+            value: "AR"
         },
         {
-            value: "Paducah, KY-Cape Girardeau, MO-Harrisburg, IL",
-            label: "MO"
+            text: "Paducah, KY-Cape Girardeau, MO-Harrisburg, IL",
+            value: "MO"
         },
         {
-            value: "Bluefield-Beckley-Oak Hill, WV",
-            label: "WV"
+            text: "Bluefield-Beckley-Oak Hill, WV",
+            value: "WV"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Champaign & Springfield-Decatur, IL",
-            label: "IL"
+            text: "Champaign & Springfield-Decatur, IL",
+            value: "IL"
         },
         {
-            value: "Minneapolis-St. Paul, MN",
-            label: "MN"
+            text: "Minneapolis-St. Paul, MN",
+            value: "MN"
         },
         {
-            value: "Mankato, MN",
-            label: "MN"
+            text: "Mankato, MN",
+            value: "MN"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Colorado Springs-Pueblo, CO",
-            label: "CO"
+            text: "Colorado Springs-Pueblo, CO",
+            value: "CO"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Pittsburgh, PA",
-            label: "PA"
+            text: "Pittsburgh, PA",
+            value: "PA"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Sherman, TX-Ada, OK",
-            label: "OK"
+            text: "Sherman, TX-Ada, OK",
+            value: "OK"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Knoxville, TN",
-            label: "TN"
+            text: "Knoxville, TN",
+            value: "TN"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Tulsa, OK",
-            label: "OK"
+            text: "Tulsa, OK",
+            value: "OK"
         },
         {
-            value: "Chattanooga, TN",
-            label: "TN"
+            text: "Chattanooga, TN",
+            value: "TN"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "St. Louis, MO",
-            label: "MO"
+            text: "St. Louis, MO",
+            value: "MO"
         },
         {
-            value: "Boston, MA (Manchester, NH)",
-            label: "MA"
+            text: "Boston, MA (Manchester, NH)",
+            value: "MA"
         },
         {
-            value: "Columbus, OH",
-            label: "OH"
+            text: "Columbus, OH",
+            value: "OH"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Tri-Cities, TN-VA",
-            label: "TN"
+            text: "Tri-Cities, TN-VA",
+            value: "TN"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "El Paso, TX (Las Cruces, NM)",
-            label: "TX"
+            text: "El Paso, TX (Las Cruces, NM)",
+            value: "TX"
         },
         {
-            value: "San Diego, CA",
-            label: "CA"
+            text: "San Diego, CA",
+            value: "CA"
         },
         {
-            value: "Augusta, GA-Aiken, SC",
-            label: "GA"
+            text: "Augusta, GA-Aiken, SC",
+            value: "GA"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Charleston, SC",
-            label: "SC"
+            text: "Charleston, SC",
+            value: "SC"
         },
         {
-            value: "Las Vegas, NV",
-            label: "NV"
+            text: "Las Vegas, NV",
+            value: "NV"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "New York, NY",
-            label: "CT"
+            text: "New York, NY",
+            value: "CT"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Jackson, MS",
-            label: "MS"
+            text: "Jackson, MS",
+            value: "MS"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Gainesville, FL",
-            label: "FL"
+            text: "Gainesville, FL",
+            value: "FL"
         },
         {
-            value: "Dayton, OH",
-            label: "OH"
+            text: "Dayton, OH",
+            value: "OH"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Little Rock-Pine Bluff, AR",
-            label: "AR"
+            text: "Little Rock-Pine Bluff, AR",
+            value: "AR"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Little Rock-Pine Bluff, AR",
-            label: "AR"
+            text: "Little Rock-Pine Bluff, AR",
+            value: "AR"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Rochester, MN-Mason City, IA-Austin, MN",
-            label: "MN"
+            text: "Rochester, MN-Mason City, IA-Austin, MN",
+            value: "MN"
         },
         {
-            value: "Kansas City, MO",
-            label: "MO"
+            text: "Kansas City, MO",
+            value: "MO"
         },
         {
-            value: "Tri-Cities, TN-VA",
-            label: "VA"
+            text: "Tri-Cities, TN-VA",
+            value: "VA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Columbus, OH",
-            label: "OH"
+            text: "Columbus, OH",
+            value: "OH"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "New York, NY",
-            label: "NJ"
+            text: "New York, NY",
+            value: "NJ"
         },
         {
-            value: "Lansing, MI",
-            label: "MI"
+            text: "Lansing, MI",
+            value: "MI"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Reno, NV",
-            label: "NV"
+            text: "Reno, NV",
+            value: "NV"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "St. Louis, MO",
-            label: "IL"
+            text: "St. Louis, MO",
+            value: "IL"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Lafayette, LA",
-            label: "LA"
+            text: "Lafayette, LA",
+            value: "LA"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "TX"
+            text: "Harlingen-Weslaco-Brownsville-McAllen, TX",
+            value: "TX"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Roanoke-Lynchburg, VA",
-            label: "VA"
+            text: "Roanoke-Lynchburg, VA",
+            value: "VA"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Salisbury, MD",
-            label: "DE"
+            text: "Salisbury, MD",
+            value: "DE"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Sacramento-Stockton-Modesto, CA",
-            label: "CA"
+            text: "Sacramento-Stockton-Modesto, CA",
+            value: "CA"
         },
         {
-            value: "Wichita-Hutchinson, KS Plus",
-            label: "KS"
+            text: "Wichita-Hutchinson, KS Plus",
+            value: "KS"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Baton Rouge, LA",
-            label: "LA"
+            text: "Baton Rouge, LA",
+            value: "LA"
         },
         {
-            value: "Colorado Springs-Pueblo, CO",
-            label: "CO"
+            text: "Colorado Springs-Pueblo, CO",
+            value: "CO"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Beaumont-Port Arthur, TX",
-            label: "TX"
+            text: "Beaumont-Port Arthur, TX",
+            value: "TX"
         },
         {
-            value: "Monroe, LA-El Dorado, AR",
-            label: "LA"
+            text: "Monroe, LA-El Dorado, AR",
+            value: "LA"
         },
         {
-            value: "Jackson, MS",
-            label: "MS"
+            text: "Jackson, MS",
+            value: "MS"
         },
         {
-            value: "Fargo-Valley City, ND",
-            label: "ND"
+            text: "Fargo-Valley City, ND",
+            value: "ND"
         },
         {
-            value: "Las Vegas, NV",
-            label: "NV"
+            text: "Las Vegas, NV",
+            value: "NV"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Miami-Ft. Lauderdale, FL",
-            label: "FL"
+            text: "Miami-Ft. Lauderdale, FL",
+            value: "FL"
         },
         {
-            value: "Grand Rapids-Kalamazoo-Battle Creek, MI",
-            label: "MI"
+            text: "Grand Rapids-Kalamazoo-Battle Creek, MI",
+            value: "MI"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Savannah, GA",
-            label: "GA"
+            text: "Savannah, GA",
+            value: "GA"
         },
         {
-            value: "Columbus, OH",
-            label: "OH"
+            text: "Columbus, OH",
+            value: "OH"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Columbus-Tupelo-West Point-Houston, MS",
-            label: "MS"
+            text: "Columbus-Tupelo-West Point-Houston, MS",
+            value: "MS"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "New Orleans, LA",
-            label: "LA"
+            text: "New Orleans, LA",
+            value: "LA"
         },
         {
-            value: "Wichita-Hutchinson, KS Plus",
-            label: "KS"
+            text: "Wichita-Hutchinson, KS Plus",
+            value: "KS"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Huntsville-Decatur (Florence), AL",
-            label: "AL"
+            text: "Huntsville-Decatur (Florence), AL",
+            value: "AL"
         },
         {
-            value: "Memphis, TN",
-            label: "TN"
+            text: "Memphis, TN",
+            value: "TN"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Ft. Smith-Fayetteville-Springdale-Rogers, AR",
-            label: "AR"
+            text: "Ft. Smith-Fayetteville-Springdale-Rogers, AR",
+            value: "AR"
         },
         {
-            value: "Paducah, KY-Cape Girardeau, MO-Harrisburg, IL",
-            label: "MO"
+            text: "Paducah, KY-Cape Girardeau, MO-Harrisburg, IL",
+            value: "MO"
         },
         {
-            value: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "AL"
+            text: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "AL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "St. Louis, MO",
-            label: "MO"
+            text: "St. Louis, MO",
+            value: "MO"
         },
         {
-            value: "Kansas City, MO",
-            label: "KS"
+            text: "Kansas City, MO",
+            value: "KS"
         },
         {
-            value: "Waco-Temple-Bryan, TX",
-            label: "TX"
+            text: "Waco-Temple-Bryan, TX",
+            value: "TX"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Tulsa, OK",
-            label: "OK"
+            text: "Tulsa, OK",
+            value: "OK"
         },
         {
-            value: "Savannah, GA",
-            label: "GA"
+            text: "Savannah, GA",
+            value: "GA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Little Rock-Pine Bluff, AR",
-            label: "AR"
+            text: "Little Rock-Pine Bluff, AR",
+            value: "AR"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "NJ"
+            text: "Philadelphia, PA",
+            value: "NJ"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "New Orleans, LA",
-            label: "LA"
+            text: "New Orleans, LA",
+            value: "LA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Wichita-Hutchinson, KS Plus",
-            label: "KS"
+            text: "Wichita-Hutchinson, KS Plus",
+            value: "KS"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "FL"
+            text: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "FL"
         },
         {
-            value: "Clarksburg-Weston, WV",
-            label: "WV"
+            text: "Clarksburg-Weston, WV",
+            value: "WV"
         },
         {
-            value: "New Orleans, LA",
-            label: "LA"
+            text: "New Orleans, LA",
+            value: "LA"
         },
         {
-            value: "Quincy, IL-Hannibal, MO-Keokuk, IA",
-            label: "IL"
+            text: "Quincy, IL-Hannibal, MO-Keokuk, IA",
+            value: "IL"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Amarillo, TX",
-            label: "TX"
+            text: "Amarillo, TX",
+            value: "TX"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Lincoln & Hastings-Kearney, NE",
-            label: "NE"
+            text: "Lincoln & Hastings-Kearney, NE",
+            value: "NE"
         },
         {
-            value: "Savannah, GA",
-            label: "GA"
+            text: "Savannah, GA",
+            value: "GA"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Roanoke-Lynchburg, VA",
-            label: "VA"
+            text: "Roanoke-Lynchburg, VA",
+            value: "VA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "New York, NY",
-            label: "NJ"
+            text: "New York, NY",
+            value: "NJ"
         },
         {
-            value: "Knoxville, TN",
-            label: "TN"
+            text: "Knoxville, TN",
+            value: "TN"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "San Diego, CA",
-            label: "CA"
+            text: "San Diego, CA",
+            value: "CA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Sacramento-Stockton-Modesto, CA",
-            label: "CA"
+            text: "Sacramento-Stockton-Modesto, CA",
+            value: "CA"
         },
         {
-            value: "Albuquerque-Santa Fe, NM",
-            label: "NM"
+            text: "Albuquerque-Santa Fe, NM",
+            value: "NM"
         },
         {
-            value: "Columbia, SC",
-            label: "SC"
+            text: "Columbia, SC",
+            value: "SC"
         },
         {
-            value: "West Palm Beach-Ft. Pierce, FL",
-            label: "FL"
+            text: "West Palm Beach-Ft. Pierce, FL",
+            value: "FL"
         },
         {
-            value: "San Diego, CA",
-            label: "CA"
+            text: "San Diego, CA",
+            value: "CA"
         },
         {
-            value: "Myrtle Beach-Florence, SC",
-            label: "SC"
+            text: "Myrtle Beach-Florence, SC",
+            value: "SC"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Knoxville, TN",
-            label: "TN"
+            text: "Knoxville, TN",
+            value: "TN"
         },
         {
-            value: "South Bend-Elkhart, IN",
-            label: "IN"
+            text: "South Bend-Elkhart, IN",
+            value: "IN"
         },
         {
-            value: "Yuma, AZ-El Centro, CA",
-            label: "AZ"
+            text: "Yuma, AZ-El Centro, CA",
+            value: "AZ"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Ft. Myers-Naples, FL",
-            label: "FL"
+            text: "Ft. Myers-Naples, FL",
+            value: "FL"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Columbus, OH",
-            label: "OH"
+            text: "Columbus, OH",
+            value: "OH"
         },
         {
-            value: "Charleston, SC",
-            label: "SC"
+            text: "Charleston, SC",
+            value: "SC"
         },
         {
-            value: "St. Louis, MO",
-            label: "IL"
+            text: "St. Louis, MO",
+            value: "IL"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Laredo, TX",
-            label: "TX"
+            text: "Laredo, TX",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Myrtle Beach-Florence, SC",
-            label: "SC"
+            text: "Myrtle Beach-Florence, SC",
+            value: "SC"
         },
         {
-            value: "Cedar Rapids-Waterloo-Iowa City & Dubuque, IA",
-            label: "IA"
+            text: "Cedar Rapids-Waterloo-Iowa City & Dubuque, IA",
+            value: "IA"
         },
         {
-            value: "New York, NY",
-            label: "NJ"
+            text: "New York, NY",
+            value: "NJ"
         },
         {
-            value: "Amarillo, TX",
-            label: "TX"
+            text: "Amarillo, TX",
+            value: "TX"
         },
         {
-            value: "St. Louis, MO",
-            label: "MO"
+            text: "St. Louis, MO",
+            value: "MO"
         },
         {
-            value: "Abilene-Sweetwater, TX",
-            label: "TX"
+            text: "Abilene-Sweetwater, TX",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Memphis, TN",
-            label: "TN"
+            text: "Memphis, TN",
+            value: "TN"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Odessa-Midland, TX",
-            label: "TX"
+            text: "Odessa-Midland, TX",
+            value: "TX"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Hartford & New Haven, CT",
-            label: "CT"
+            text: "Hartford & New Haven, CT",
+            value: "CT"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Colorado Springs-Pueblo, CO",
-            label: "CO"
+            text: "Colorado Springs-Pueblo, CO",
+            value: "CO"
         },
         {
-            value: "Philadelphia, PA",
-            label: "NJ"
+            text: "Philadelphia, PA",
+            value: "NJ"
         },
         {
-            value: "Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "TX"
+            text: "Tyler-Longview(Lufkin & Nacogdoches), TX",
+            value: "TX"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Louisville, KY",
-            label: "KY"
+            text: "Louisville, KY",
+            value: "KY"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "TX"
+            text: "Tyler-Longview(Lufkin & Nacogdoches), TX",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "San Diego, CA",
-            label: "CA"
+            text: "San Diego, CA",
+            value: "CA"
         },
         {
-            value: "Indianapolis, IN",
-            label: "IN"
+            text: "Indianapolis, IN",
+            value: "IN"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Savannah, GA",
-            label: "GA"
+            text: "Savannah, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Hartford & New Haven, CT",
-            label: "CT"
+            text: "Hartford & New Haven, CT",
+            value: "CT"
         },
         {
-            value: "Sacramento-Stockton-Modesto, CA",
-            label: "CA"
+            text: "Sacramento-Stockton-Modesto, CA",
+            value: "CA"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Roanoke-Lynchburg, VA",
-            label: "VA"
+            text: "Roanoke-Lynchburg, VA",
+            value: "VA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "DC"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "DC"
         },
         {
-            value: "New York, NY",
-            label: "NY"
+            text: "New York, NY",
+            value: "NY"
         },
         {
-            value: "New Orleans, LA",
-            label: "LA"
+            text: "New Orleans, LA",
+            value: "LA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Wilmington, NC",
-            label: "NC"
+            text: "Wilmington, NC",
+            value: "NC"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Davenport, IA-Rock Island-Moline, IL",
-            label: "IA"
+            text: "Davenport, IA-Rock Island-Moline, IL",
+            value: "IA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Lubbock, TX",
-            label: "TX"
+            text: "Lubbock, TX",
+            value: "TX"
         },
         {
-            value: "El Paso, TX (Las Cruces, NM)",
-            label: "NM"
+            text: "El Paso, TX (Las Cruces, NM)",
+            value: "NM"
         },
         {
-            value: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "FL"
+            text: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "FL"
         },
         {
-            value: "Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "TX"
+            text: "Tyler-Longview(Lufkin & Nacogdoches), TX",
+            value: "TX"
         },
         {
-            value: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "FL"
+            text: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "FL"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Dayton, OH",
-            label: "OH"
+            text: "Dayton, OH",
+            value: "OH"
         },
         {
-            value: "Dayton, OH",
-            label: "OH"
+            text: "Dayton, OH",
+            value: "OH"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Gainesville, FL",
-            label: "FL"
+            text: "Gainesville, FL",
+            value: "FL"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "El Paso, TX (Las Cruces, NM)",
-            label: "NM"
+            text: "El Paso, TX (Las Cruces, NM)",
+            value: "NM"
         },
         {
-            value: "Wilkes Barre-Scranton, PA",
-            label: "PA"
+            text: "Wilkes Barre-Scranton, PA",
+            value: "PA"
         },
         {
-            value: "Lansing, MI",
-            label: "MI"
+            text: "Lansing, MI",
+            value: "MI"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Davenport, IA-Rock Island-Moline, IL",
-            label: "IA"
+            text: "Davenport, IA-Rock Island-Moline, IL",
+            value: "IA"
         },
         {
-            value: "Seattle-Tacoma, WA",
-            label: "WA"
+            text: "Seattle-Tacoma, WA",
+            value: "WA"
         },
         {
-            value: "Waco-Temple-Bryan, TX",
-            label: "TX"
+            text: "Waco-Temple-Bryan, TX",
+            value: "TX"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Jacksonville, FL",
-            label: "GA"
+            text: "Jacksonville, FL",
+            value: "GA"
         },
         {
-            value: "San Francisco-Oakland-San Jose, CA",
-            label: "CA"
+            text: "San Francisco-Oakland-San Jose, CA",
+            value: "CA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Bluefield-Beckley-Oak Hill, WV",
-            label: "WV"
+            text: "Bluefield-Beckley-Oak Hill, WV",
+            value: "WV"
         },
         {
-            value: "Jacksonville, FL",
-            label: "GA"
+            text: "Jacksonville, FL",
+            value: "GA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "NJ"
+            text: "Philadelphia, PA",
+            value: "NJ"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Las Vegas, NV",
-            label: "NV"
+            text: "Las Vegas, NV",
+            value: "NV"
         },
         {
-            value: "San Francisco-Oakland-San Jose, CA",
-            label: "CA"
+            text: "San Francisco-Oakland-San Jose, CA",
+            value: "CA"
         },
         {
-            value: "Minneapolis-St. Paul, MN",
-            label: "MN"
+            text: "Minneapolis-St. Paul, MN",
+            value: "MN"
         },
         {
-            value: "Boston, MA (Manchester, NH)",
-            label: "MA"
+            text: "Boston, MA (Manchester, NH)",
+            value: "MA"
         },
         {
-            value: "Indianapolis, IN",
-            label: "IN"
+            text: "Indianapolis, IN",
+            value: "IN"
         },
         {
-            value: "Little Rock-Pine Bluff, AR",
-            label: "AR"
+            text: "Little Rock-Pine Bluff, AR",
+            value: "AR"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "St. Joseph, MO",
-            label: "MO"
+            text: "St. Joseph, MO",
+            value: "MO"
         },
         {
-            value: "Memphis, TN",
-            label: "TN"
+            text: "Memphis, TN",
+            value: "TN"
         },
         {
-            value: "Knoxville, TN",
-            label: "TN"
+            text: "Knoxville, TN",
+            value: "TN"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Bangor, ME",
-            label: "ME"
+            text: "Bangor, ME",
+            value: "ME"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Philadelphia, PA",
-            label: "NJ"
+            text: "Philadelphia, PA",
+            value: "NJ"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Hartford & New Haven, CT",
-            label: "CT"
+            text: "Hartford & New Haven, CT",
+            value: "CT"
         },
         {
-            value: "Paducah, KY-Cape Girardeau, MO-Harrisburg, IL",
-            label: "KY"
+            text: "Paducah, KY-Cape Girardeau, MO-Harrisburg, IL",
+            value: "KY"
         },
         {
-            value: "Idaho Falls-Pocatello, ID (Jackson, WY)",
-            label: "ID"
+            text: "Idaho Falls-Pocatello, ID (Jackson, WY)",
+            value: "ID"
         },
         {
-            value: "Davenport, IA-Rock Island-Moline, IL",
-            label: "IL"
+            text: "Davenport, IA-Rock Island-Moline, IL",
+            value: "IL"
         },
         {
-            value: "Tallahassee, FL-Thomasville, GA",
-            label: "FL"
+            text: "Tallahassee, FL-Thomasville, GA",
+            value: "FL"
         },
         {
-            value: "Charleston, SC",
-            label: "SC"
+            text: "Charleston, SC",
+            value: "SC"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "New York, NY",
-            label: "NJ"
+            text: "New York, NY",
+            value: "NJ"
         },
         {
-            value: "New Orleans, LA",
-            label: "LA"
+            text: "New Orleans, LA",
+            value: "LA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "New Orleans, LA",
-            label: "LA"
+            text: "New Orleans, LA",
+            value: "LA"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "TX"
+            text: "Harlingen-Weslaco-Brownsville-McAllen, TX",
+            value: "TX"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Memphis, TN",
-            label: "TN"
+            text: "Memphis, TN",
+            value: "TN"
         },
         {
-            value: "Beaumont-Port Arthur, TX",
-            label: "TX"
+            text: "Beaumont-Port Arthur, TX",
+            value: "TX"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Pittsburgh, PA",
-            label: "PA"
+            text: "Pittsburgh, PA",
+            value: "PA"
         },
         {
-            value: "Indianapolis, IN",
-            label: "IN"
+            text: "Indianapolis, IN",
+            value: "IN"
         },
         {
-            value: "Knoxville, TN",
-            label: "TN"
+            text: "Knoxville, TN",
+            value: "TN"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "NC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "NC"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "San Francisco-Oakland-San Jose, CA",
-            label: "CA"
+            text: "San Francisco-Oakland-San Jose, CA",
+            value: "CA"
         },
         {
-            value: "Laredo, TX",
-            label: "TX"
+            text: "Laredo, TX",
+            value: "TX"
         },
         {
-            value: "New Orleans, LA",
-            label: "LA"
+            text: "New Orleans, LA",
+            value: "LA"
         },
         {
-            value: "Tulsa, OK",
-            label: "OK"
+            text: "Tulsa, OK",
+            value: "OK"
         },
         {
-            value: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "FL"
+            text: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "FL"
         },
         {
-            value: "Montgomery-Selma, AL",
-            label: "AL"
+            text: "Montgomery-Selma, AL",
+            value: "AL"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Lubbock, TX",
-            label: "TX"
+            text: "Lubbock, TX",
+            value: "TX"
         },
         {
-            value: "Columbus, GA (Opelika, AL)",
-            label: "AL"
+            text: "Columbus, GA (Opelika, AL)",
+            value: "AL"
         },
         {
-            value: "Lubbock, TX",
-            label: "TX"
+            text: "Lubbock, TX",
+            value: "TX"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Pittsburgh, PA",
-            label: "PA"
+            text: "Pittsburgh, PA",
+            value: "PA"
         },
         {
-            value: "Savannah, GA",
-            label: "SC"
+            text: "Savannah, GA",
+            value: "SC"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Indianapolis, IN",
-            label: "IN"
+            text: "Indianapolis, IN",
+            value: "IN"
         },
         {
-            value: "Lafayette, LA",
-            label: "LA"
+            text: "Lafayette, LA",
+            value: "LA"
         },
         {
-            value: "Sacramento-Stockton-Modesto, CA",
-            label: "CA"
+            text: "Sacramento-Stockton-Modesto, CA",
+            value: "CA"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Miami-Ft. Lauderdale, FL",
-            label: "FL"
+            text: "Miami-Ft. Lauderdale, FL",
+            value: "FL"
         },
         {
-            value: "Indianapolis, IN",
-            label: "IN"
+            text: "Indianapolis, IN",
+            value: "IN"
         },
         {
-            value: "Memphis, TN",
-            label: "MS"
+            text: "Memphis, TN",
+            value: "MS"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Columbus, GA (Opelika, AL)",
-            label: "GA"
+            text: "Columbus, GA (Opelika, AL)",
+            value: "GA"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Abilene-Sweetwater, TX",
-            label: "TX"
+            text: "Abilene-Sweetwater, TX",
+            value: "TX"
         },
         {
-            value: "Charlotte, NC",
-            label: "SC"
+            text: "Charlotte, NC",
+            value: "SC"
         },
         {
-            value: "Albuquerque-Santa Fe, NM",
-            label: "NM"
+            text: "Albuquerque-Santa Fe, NM",
+            value: "NM"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Myrtle Beach-Florence, SC",
-            label: "NC"
+            text: "Myrtle Beach-Florence, SC",
+            value: "NC"
         },
         {
-            value: "Columbia, SC",
-            label: "SC"
+            text: "Columbia, SC",
+            value: "SC"
         },
         {
-            value: "Sacramento-Stockton-Modesto, CA",
-            label: "CA"
+            text: "Sacramento-Stockton-Modesto, CA",
+            value: "CA"
         },
         {
-            value: "Indianapolis, IN",
-            label: "IN"
+            text: "Indianapolis, IN",
+            value: "IN"
         },
         {
-            value: "Knoxville, TN",
-            label: "TN"
+            text: "Knoxville, TN",
+            value: "TN"
         },
         {
-            value: "Tucson (Sierra Vista), AZ",
-            label: "AZ"
+            text: "Tucson (Sierra Vista), AZ",
+            value: "AZ"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "NC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "NC"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Greenville-New Bern-Washington, NC",
-            label: "NC"
+            text: "Greenville-New Bern-Washington, NC",
+            value: "NC"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Charleston-Huntington, WV",
-            label: "WV"
+            text: "Charleston-Huntington, WV",
+            value: "WV"
         },
         {
-            value: "Monroe, LA-El Dorado, AR",
-            label: "LA"
+            text: "Monroe, LA-El Dorado, AR",
+            value: "LA"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "New York, NY",
-            label: "NJ"
+            text: "New York, NY",
+            value: "NJ"
         },
         {
-            value: "Albuquerque-Santa Fe, NM",
-            label: "NM"
+            text: "Albuquerque-Santa Fe, NM",
+            value: "NM"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Greenville-New Bern-Washington, NC",
-            label: "NC"
+            text: "Greenville-New Bern-Washington, NC",
+            value: "NC"
         },
         {
-            value: "Cincinnati, OH",
-            label: "OH"
+            text: "Cincinnati, OH",
+            value: "OH"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Topeka, KS",
-            label: "KS"
+            text: "Topeka, KS",
+            value: "KS"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Springfield-Holyoke, MA",
-            label: "MA"
+            text: "Springfield-Holyoke, MA",
+            value: "MA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Charlotte, NC",
-            label: "SC"
+            text: "Charlotte, NC",
+            value: "SC"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Bowling Green, KY",
-            label: "KY"
+            text: "Bowling Green, KY",
+            value: "KY"
         },
         {
-            value: "Baton Rouge, LA",
-            label: "LA"
+            text: "Baton Rouge, LA",
+            value: "LA"
         },
         {
-            value: "Dayton, OH",
-            label: "OH"
+            text: "Dayton, OH",
+            value: "OH"
         },
         {
-            value: "Shreveport, LA",
-            label: "TX"
+            text: "Shreveport, LA",
+            value: "TX"
         },
         {
-            value: "Sherman, TX-Ada, OK",
-            label: "TX"
+            text: "Sherman, TX-Ada, OK",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Peoria-Bloomington, IL",
-            label: "IL"
+            text: "Peoria-Bloomington, IL",
+            value: "IL"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Roanoke-Lynchburg, VA",
-            label: "VA"
+            text: "Roanoke-Lynchburg, VA",
+            value: "VA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "El Paso, TX (Las Cruces, NM)",
-            label: "TX"
+            text: "El Paso, TX (Las Cruces, NM)",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "DC"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "DC"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Montgomery-Selma, AL",
-            label: "AL"
+            text: "Montgomery-Selma, AL",
+            value: "AL"
         },
         {
-            value: "Macon, GA",
-            label: "GA"
+            text: "Macon, GA",
+            value: "GA"
         },
         {
-            value: "Colorado Springs-Pueblo, CO",
-            label: "CO"
+            text: "Colorado Springs-Pueblo, CO",
+            value: "CO"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "GA"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "GA"
         },
         {
-            value: "Columbus, GA (Opelika, AL)",
-            label: "GA"
+            text: "Columbus, GA (Opelika, AL)",
+            value: "GA"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Augusta, GA-Aiken, SC",
-            label: "GA"
+            text: "Augusta, GA-Aiken, SC",
+            value: "GA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Boston, MA (Manchester, NH)",
-            label: "MA"
+            text: "Boston, MA (Manchester, NH)",
+            value: "MA"
         },
         {
-            value: "Sacramento-Stockton-Modesto, CA",
-            label: "CA"
+            text: "Sacramento-Stockton-Modesto, CA",
+            value: "CA"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Cedar Rapids-Waterloo-Iowa City & Dubuque, IA",
-            label: "IA"
+            text: "Cedar Rapids-Waterloo-Iowa City & Dubuque, IA",
+            value: "IA"
         },
         {
-            value: "Wichita-Hutchinson, KS Plus",
-            label: "KS"
+            text: "Wichita-Hutchinson, KS Plus",
+            value: "KS"
         },
         {
-            value: "Seattle-Tacoma, WA",
-            label: "WA"
+            text: "Seattle-Tacoma, WA",
+            value: "WA"
         },
         {
-            value: "New York, NY",
-            label: "CT"
+            text: "New York, NY",
+            value: "CT"
         },
         {
-            value: "New York, NY",
-            label: "NY"
+            text: "New York, NY",
+            value: "NY"
         },
         {
-            value: "Chattanooga, TN",
-            label: "TN"
+            text: "Chattanooga, TN",
+            value: "TN"
         },
         {
-            value: "Waco-Temple-Bryan, TX",
-            label: "TX"
+            text: "Waco-Temple-Bryan, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Philadelphia, PA",
-            label: "DE"
+            text: "Philadelphia, PA",
+            value: "DE"
         },
         {
-            value: "Toledo, OH",
-            label: "OH"
+            text: "Toledo, OH",
+            value: "OH"
         },
         {
-            value: "Columbus, GA (Opelika, AL)",
-            label: "GA"
+            text: "Columbus, GA (Opelika, AL)",
+            value: "GA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Johnstown-Altoona-State College, PA",
-            label: "PA"
+            text: "Johnstown-Altoona-State College, PA",
+            value: "PA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Little Rock-Pine Bluff, AR",
-            label: "AR"
+            text: "Little Rock-Pine Bluff, AR",
+            value: "AR"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Miami-Ft. Lauderdale, FL",
-            label: "FL"
+            text: "Miami-Ft. Lauderdale, FL",
+            value: "FL"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Knoxville, TN",
-            label: "TN"
+            text: "Knoxville, TN",
+            value: "TN"
         },
         {
-            value: "Albuquerque-Santa Fe, NM",
-            label: "NM"
+            text: "Albuquerque-Santa Fe, NM",
+            value: "NM"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Victoria, TX",
-            label: "TX"
+            text: "Victoria, TX",
+            value: "TX"
         },
         {
-            value: "Charleston, SC",
-            label: "SC"
+            text: "Charleston, SC",
+            value: "SC"
         },
         {
-            value: "Corpus Christi, TX",
-            label: "TX"
+            text: "Corpus Christi, TX",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Montgomery-Selma, AL",
-            label: "AL"
+            text: "Montgomery-Selma, AL",
+            value: "AL"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Champaign & Springfield-Decatur, IL",
-            label: "IL"
+            text: "Champaign & Springfield-Decatur, IL",
+            value: "IL"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Ft. Smith-Fayetteville-Springdale-Rogers, AR",
-            label: "AR"
+            text: "Ft. Smith-Fayetteville-Springdale-Rogers, AR",
+            value: "AR"
         },
         {
-            value: "San Francisco-Oakland-San Jose, CA",
-            label: "CA"
+            text: "San Francisco-Oakland-San Jose, CA",
+            value: "CA"
         },
         {
-            value: "Clarksburg-Weston, WV",
-            label: "WV"
+            text: "Clarksburg-Weston, WV",
+            value: "WV"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Chattanooga, TN",
-            label: "TN"
+            text: "Chattanooga, TN",
+            value: "TN"
         },
         {
-            value: "Jackson, MS",
-            label: "MS"
+            text: "Jackson, MS",
+            value: "MS"
         },
         {
-            value: "Providence, RI-New Bedford, MA",
-            label: "RI"
+            text: "Providence, RI-New Bedford, MA",
+            value: "RI"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "St. Louis, MO",
-            label: "IL"
+            text: "St. Louis, MO",
+            value: "IL"
         },
         {
-            value: "Jackson, TN",
-            label: "TN"
+            text: "Jackson, TN",
+            value: "TN"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Huntsville-Decatur (Florence), AL",
-            label: "AL"
+            text: "Huntsville-Decatur (Florence), AL",
+            value: "AL"
         },
         {
-            value: "Harrisonburg, VA",
-            label: "VA"
+            text: "Harrisonburg, VA",
+            value: "VA"
         },
         {
-            value: "Pittsburgh, PA",
-            label: "PA"
+            text: "Pittsburgh, PA",
+            value: "PA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Salisbury, MD",
-            label: "MD"
+            text: "Salisbury, MD",
+            value: "MD"
         },
         {
-            value: "Sherman, TX-Ada, OK",
-            label: "OK"
+            text: "Sherman, TX-Ada, OK",
+            value: "OK"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Milwaukee, WI",
-            label: "WI"
+            text: "Milwaukee, WI",
+            value: "WI"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Tulsa, OK",
-            label: "OK"
+            text: "Tulsa, OK",
+            value: "OK"
         },
         {
-            value: "Providence, RI-New Bedford, MA",
-            label: "MA"
+            text: "Providence, RI-New Bedford, MA",
+            value: "MA"
         },
         {
-            value: "Baton Rouge, LA",
-            label: "LA"
+            text: "Baton Rouge, LA",
+            value: "LA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Boston, MA (Manchester, NH)",
-            label: "NH"
+            text: "Boston, MA (Manchester, NH)",
+            value: "NH"
         },
         {
-            value: "Seattle-Tacoma, WA",
-            label: "WA"
+            text: "Seattle-Tacoma, WA",
+            value: "WA"
         },
         {
-            value: "El Paso, TX (Las Cruces, NM)",
-            label: "TX"
+            text: "El Paso, TX (Las Cruces, NM)",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Myrtle Beach-Florence, SC",
-            label: "SC"
+            text: "Myrtle Beach-Florence, SC",
+            value: "SC"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Pittsburgh, PA",
-            label: "PA"
+            text: "Pittsburgh, PA",
+            value: "PA"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Waco-Temple-Bryan, TX",
-            label: "TX"
+            text: "Waco-Temple-Bryan, TX",
+            value: "TX"
         },
         {
-            value: "Little Rock-Pine Bluff, AR",
-            label: "AR"
+            text: "Little Rock-Pine Bluff, AR",
+            value: "AR"
         },
         {
-            value: "Milwaukee, WI",
-            label: "WI"
+            text: "Milwaukee, WI",
+            value: "WI"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "San Diego, CA",
-            label: "CA"
+            text: "San Diego, CA",
+            value: "CA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Dothan, AL",
-            label: "AL"
+            text: "Dothan, AL",
+            value: "AL"
         },
         {
-            value: "Pittsburgh, PA",
-            label: "PA"
+            text: "Pittsburgh, PA",
+            value: "PA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "DE"
+            text: "Philadelphia, PA",
+            value: "DE"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "New Orleans, LA",
-            label: "LA"
+            text: "New Orleans, LA",
+            value: "LA"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Kansas City, MO",
-            label: "KS"
+            text: "Kansas City, MO",
+            value: "KS"
         },
         {
-            value: "St. Louis, MO",
-            label: "MO"
+            text: "St. Louis, MO",
+            value: "MO"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Des Moines-Ames, IA",
-            label: "IA"
+            text: "Des Moines-Ames, IA",
+            value: "IA"
         },
         {
-            value: "Lake Charles, LA",
-            label: "LA"
+            text: "Lake Charles, LA",
+            value: "LA"
         },
         {
-            value: "Kansas City, MO",
-            label: "KS"
+            text: "Kansas City, MO",
+            value: "KS"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Columbus-Tupelo-West Point-Houston, MS",
-            label: "MS"
+            text: "Columbus-Tupelo-West Point-Houston, MS",
+            value: "MS"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "DC"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "DC"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "New York, NY",
-            label: "NJ"
+            text: "New York, NY",
+            value: "NJ"
         },
         {
-            value: "Columbus, GA (Opelika, AL)",
-            label: "GA"
+            text: "Columbus, GA (Opelika, AL)",
+            value: "GA"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Memphis, TN",
-            label: "MS"
+            text: "Memphis, TN",
+            value: "MS"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Jackson, TN",
-            label: "TN"
+            text: "Jackson, TN",
+            value: "TN"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Greenwood-Greenville, MS",
-            label: "MS"
+            text: "Greenwood-Greenville, MS",
+            value: "MS"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Montgomery-Selma, AL",
-            label: "AL"
+            text: "Montgomery-Selma, AL",
+            value: "AL"
         },
         {
-            value: "Dothan, AL",
-            label: "AL"
+            text: "Dothan, AL",
+            value: "AL"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Lexington, KY",
-            label: "KY"
+            text: "Lexington, KY",
+            value: "KY"
         },
         {
-            value: "Indianapolis, IN",
-            label: "IN"
+            text: "Indianapolis, IN",
+            value: "IN"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Waco-Temple-Bryan, TX",
-            label: "TX"
+            text: "Waco-Temple-Bryan, TX",
+            value: "TX"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "New York, NY",
-            label: "NY"
+            text: "New York, NY",
+            value: "NY"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Springfield, MO",
-            label: "MO"
+            text: "Springfield, MO",
+            value: "MO"
         },
         {
-            value: "Tulsa, OK",
-            label: "OK"
+            text: "Tulsa, OK",
+            value: "OK"
         },
         {
-            value: "Paducah, KY-Cape Girardeau, MO-Harrisburg, IL",
-            label: "TN"
+            text: "Paducah, KY-Cape Girardeau, MO-Harrisburg, IL",
+            value: "TN"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Tulsa, OK",
-            label: "OK"
+            text: "Tulsa, OK",
+            value: "OK"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Wilkes Barre-Scranton, PA",
-            label: "PA"
+            text: "Wilkes Barre-Scranton, PA",
+            value: "PA"
         },
         {
-            value: "Charleston, SC",
-            label: "SC"
+            text: "Charleston, SC",
+            value: "SC"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Pittsburgh, PA",
-            label: "PA"
+            text: "Pittsburgh, PA",
+            value: "PA"
         },
         {
-            value: "Pittsburgh, PA",
-            label: "PA"
+            text: "Pittsburgh, PA",
+            value: "PA"
         },
         {
-            value: "Pittsburgh, PA",
-            label: "PA"
+            text: "Pittsburgh, PA",
+            value: "PA"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Macon, GA",
-            label: "GA"
+            text: "Macon, GA",
+            value: "GA"
         },
         {
-            value: "Kansas City, MO",
-            label: "MO"
+            text: "Kansas City, MO",
+            value: "MO"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Lubbock, TX",
-            label: "TX"
+            text: "Lubbock, TX",
+            value: "TX"
         },
         {
-            value: "Kansas City, MO",
-            label: "MO"
+            text: "Kansas City, MO",
+            value: "MO"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "Wichita Falls, TX & Lawton, OK",
-            label: "OK"
+            text: "Wichita Falls, TX & Lawton, OK",
+            value: "OK"
         },
         {
-            value: "Gainesville, FL",
-            label: "GA"
+            text: "Gainesville, FL",
+            value: "GA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Evansville, IN",
-            label: "IN"
+            text: "Evansville, IN",
+            value: "IN"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Louisville, KY",
-            label: "KY"
+            text: "Louisville, KY",
+            value: "KY"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Columbus, GA (Opelika, AL)",
-            label: "GA"
+            text: "Columbus, GA (Opelika, AL)",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "NC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "NC"
         },
         {
-            value: "Kansas City, MO",
-            label: "KS"
+            text: "Kansas City, MO",
+            value: "KS"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Knoxville, TN",
-            label: "TN"
+            text: "Knoxville, TN",
+            value: "TN"
         },
         {
-            value: "Tulsa, OK",
-            label: "OK"
+            text: "Tulsa, OK",
+            value: "OK"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Victoria, TX",
-            label: "TX"
+            text: "Victoria, TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Bowling Green, KY",
-            label: "KY"
+            text: "Bowling Green, KY",
+            value: "KY"
         },
         {
-            value: "Philadelphia, PA",
-            label: "NJ"
+            text: "Philadelphia, PA",
+            value: "NJ"
         },
         {
-            value: "Tallahassee, FL-Thomasville, GA",
-            label: "GA"
+            text: "Tallahassee, FL-Thomasville, GA",
+            value: "GA"
         },
         {
-            value: "Lexington, KY",
-            label: "KY"
+            text: "Lexington, KY",
+            value: "KY"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Odessa-Midland, TX",
-            label: "TX"
+            text: "Odessa-Midland, TX",
+            value: "TX"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Huntsville-Decatur (Florence), AL",
-            label: "AL"
+            text: "Huntsville-Decatur (Florence), AL",
+            value: "AL"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Albany, GA",
-            label: "GA"
+            text: "Albany, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Louisville, KY",
-            label: "KY"
+            text: "Louisville, KY",
+            value: "KY"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "South Bend-Elkhart, IN",
-            label: "IN"
+            text: "South Bend-Elkhart, IN",
+            value: "IN"
         },
         {
-            value: "Savannah, GA",
-            label: "GA"
+            text: "Savannah, GA",
+            value: "GA"
         },
         {
-            value: "Omaha, NE",
-            label: "NE"
+            text: "Omaha, NE",
+            value: "NE"
         },
         {
-            value: "Santa Barbara-Santa Maria-San Luis Obispo, CA",
-            label: "CA"
+            text: "Santa Barbara-Santa Maria-San Luis Obispo, CA",
+            value: "CA"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Johnstown-Altoona-State College, PA",
-            label: "PA"
+            text: "Johnstown-Altoona-State College, PA",
+            value: "PA"
         },
         {
-            value: "Milwaukee, WI",
-            label: "WI"
+            text: "Milwaukee, WI",
+            value: "WI"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Fargo-Valley City, ND",
-            label: "ND"
+            text: "Fargo-Valley City, ND",
+            value: "ND"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Charleston, SC",
-            label: "SC"
+            text: "Charleston, SC",
+            value: "SC"
         },
         {
-            value: "Columbus, GA (Opelika, AL)",
-            label: "AL"
+            text: "Columbus, GA (Opelika, AL)",
+            value: "AL"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Roanoke-Lynchburg, VA",
-            label: "VA"
+            text: "Roanoke-Lynchburg, VA",
+            value: "VA"
         },
         {
-            value: "Charleston-Huntington, WV",
-            label: "WV"
+            text: "Charleston-Huntington, WV",
+            value: "WV"
         },
         {
-            value: "Cincinnati, OH",
-            label: "KY"
+            text: "Cincinnati, OH",
+            value: "KY"
         },
         {
-            value: "Knoxville, TN",
-            label: "TN"
+            text: "Knoxville, TN",
+            value: "TN"
         },
         {
-            value: "Gainesville, FL",
-            label: "FL"
+            text: "Gainesville, FL",
+            value: "FL"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Chattanooga, TN",
-            label: "GA"
+            text: "Chattanooga, TN",
+            value: "GA"
         },
         {
-            value: "Harrisburg-Lancaster-Lebanon-York, PA",
-            label: "PA"
+            text: "Harrisburg-Lancaster-Lebanon-York, PA",
+            value: "PA"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Lubbock, TX",
-            label: "TX"
+            text: "Lubbock, TX",
+            value: "TX"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Pittsburgh, PA",
-            label: "PA"
+            text: "Pittsburgh, PA",
+            value: "PA"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Amarillo, TX",
-            label: "TX"
+            text: "Amarillo, TX",
+            value: "TX"
         },
         {
-            value: "Louisville, KY",
-            label: "KY"
+            text: "Louisville, KY",
+            value: "KY"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "New York, NY",
-            label: "NJ"
+            text: "New York, NY",
+            value: "NJ"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "Minneapolis-St. Paul, MN",
-            label: "MN"
+            text: "Minneapolis-St. Paul, MN",
+            value: "MN"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Ft. Myers-Naples, FL",
-            label: "FL"
+            text: "Ft. Myers-Naples, FL",
+            value: "FL"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Cincinnati, OH",
-            label: "OH"
+            text: "Cincinnati, OH",
+            value: "OH"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Nashville, TN",
-            label: "KY"
+            text: "Nashville, TN",
+            value: "KY"
         },
         {
-            value: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "AL"
+            text: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "AL"
         },
         {
-            value: "Tallahassee, FL-Thomasville, GA",
-            label: "FL"
+            text: "Tallahassee, FL-Thomasville, GA",
+            value: "FL"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Hattiesburg-Laurel, MS",
-            label: "MS"
+            text: "Hattiesburg-Laurel, MS",
+            value: "MS"
         },
         {
-            value: "Greenville-New Bern-Washington, NC",
-            label: "NC"
+            text: "Greenville-New Bern-Washington, NC",
+            value: "NC"
         },
         {
-            value: "Greenville-New Bern-Washington, NC",
-            label: "NC"
+            text: "Greenville-New Bern-Washington, NC",
+            value: "NC"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Knoxville, TN",
-            label: "TN"
+            text: "Knoxville, TN",
+            value: "TN"
         },
         {
-            value: "Roanoke-Lynchburg, VA",
-            label: "VA"
+            text: "Roanoke-Lynchburg, VA",
+            value: "VA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Cincinnati, OH",
-            label: "OH"
+            text: "Cincinnati, OH",
+            value: "OH"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Kansas City, MO",
-            label: "MO"
+            text: "Kansas City, MO",
+            value: "MO"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Ft. Smith-Fayetteville-Springdale-Rogers, AR",
-            label: "AR"
+            text: "Ft. Smith-Fayetteville-Springdale-Rogers, AR",
+            value: "AR"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Savannah, GA",
-            label: "GA"
+            text: "Savannah, GA",
+            value: "GA"
         },
         {
-            value: "Albany, GA",
-            label: "GA"
+            text: "Albany, GA",
+            value: "GA"
         },
         {
-            value: "Panama City, FL",
-            label: "FL"
+            text: "Panama City, FL",
+            value: "FL"
         },
         {
-            value: "Abilene-Sweetwater, TX",
-            label: "TX"
+            text: "Abilene-Sweetwater, TX",
+            value: "TX"
         },
         {
-            value: "South Bend-Elkhart, IN",
-            label: "IN"
+            text: "South Bend-Elkhart, IN",
+            value: "IN"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Louisville, KY",
-            label: "KY"
+            text: "Louisville, KY",
+            value: "KY"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Odessa-Midland, TX",
-            label: "TX"
+            text: "Odessa-Midland, TX",
+            value: "TX"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "New Orleans, LA",
-            label: "LA"
+            text: "New Orleans, LA",
+            value: "LA"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Seattle-Tacoma, WA",
-            label: "WA"
+            text: "Seattle-Tacoma, WA",
+            value: "WA"
         },
         {
-            value: "Grand Rapids-Kalamazoo-Battle Creek, MI",
-            label: "MI"
+            text: "Grand Rapids-Kalamazoo-Battle Creek, MI",
+            value: "MI"
         },
         {
-            value: "Cincinnati, OH",
-            label: "KY"
+            text: "Cincinnati, OH",
+            value: "KY"
         },
         {
-            value: "Cincinnati, OH",
-            label: "OH"
+            text: "Cincinnati, OH",
+            value: "OH"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Reno, NV",
-            label: "NV"
+            text: "Reno, NV",
+            value: "NV"
         },
         {
-            value: "Roanoke-Lynchburg, VA",
-            label: "VA"
+            text: "Roanoke-Lynchburg, VA",
+            value: "VA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Tulsa, OK",
-            label: "OK"
+            text: "Tulsa, OK",
+            value: "OK"
         },
         {
-            value: "Panama City, FL",
-            label: "FL"
+            text: "Panama City, FL",
+            value: "FL"
         },
         {
-            value: "Tri-Cities, TN-VA",
-            label: "TN"
+            text: "Tri-Cities, TN-VA",
+            value: "TN"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Indianapolis, IN",
-            label: "IN"
+            text: "Indianapolis, IN",
+            value: "IN"
         },
         {
-            value: "Tucson (Sierra Vista), AZ",
-            label: "AZ"
+            text: "Tucson (Sierra Vista), AZ",
+            value: "AZ"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Biloxi-Gulfport, MS",
-            label: "MS"
+            text: "Biloxi-Gulfport, MS",
+            value: "MS"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Pittsburgh, PA",
-            label: "PA"
+            text: "Pittsburgh, PA",
+            value: "PA"
         },
         {
-            value: "Richmond-Petersburg, VA",
-            label: "VA"
+            text: "Richmond-Petersburg, VA",
+            value: "VA"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Boston, MA (Manchester, NH)",
-            label: "MA"
+            text: "Boston, MA (Manchester, NH)",
+            value: "MA"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "New York, NY",
-            label: "NJ"
+            text: "New York, NY",
+            value: "NJ"
         },
         {
-            value: "Seattle-Tacoma, WA",
-            label: "WA"
+            text: "Seattle-Tacoma, WA",
+            value: "WA"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Tri-Cities, TN-VA",
-            label: "TN"
+            text: "Tri-Cities, TN-VA",
+            value: "TN"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "TX"
+            text: "Tyler-Longview(Lufkin & Nacogdoches), TX",
+            value: "TX"
         },
         {
-            value: "Columbia, SC",
-            label: "SC"
+            text: "Columbia, SC",
+            value: "SC"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "WV"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "WV"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Baton Rouge, LA",
-            label: "LA"
+            text: "Baton Rouge, LA",
+            value: "LA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "DE"
+            text: "Philadelphia, PA",
+            value: "DE"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Macon, GA",
-            label: "GA"
+            text: "Macon, GA",
+            value: "GA"
         },
         {
-            value: "Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "TX"
+            text: "Harlingen-Weslaco-Brownsville-McAllen, TX",
+            value: "TX"
         },
         {
-            value: "Lexington, KY",
-            label: "KY"
+            text: "Lexington, KY",
+            value: "KY"
         },
         {
-            value: "San Angelo, TX",
-            label: "TX"
+            text: "San Angelo, TX",
+            value: "TX"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Indianapolis, IN",
-            label: "IN"
+            text: "Indianapolis, IN",
+            value: "IN"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Seattle-Tacoma, WA",
-            label: "WA"
+            text: "Seattle-Tacoma, WA",
+            value: "WA"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "Columbus, GA (Opelika, AL)",
-            label: "GA"
+            text: "Columbus, GA (Opelika, AL)",
+            value: "GA"
         },
         {
-            value: "Beaumont-Port Arthur, TX",
-            label: "TX"
+            text: "Beaumont-Port Arthur, TX",
+            value: "TX"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
-            label: "AL"
+            text: "Mobile, AL-Pensacola (Ft. Walton Beach), FL",
+            value: "AL"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "Miami-Ft. Lauderdale, FL",
-            label: "FL"
+            text: "Miami-Ft. Lauderdale, FL",
+            value: "FL"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Biloxi-Gulfport, MS",
-            label: "MS"
+            text: "Biloxi-Gulfport, MS",
+            value: "MS"
         },
         {
-            value: "Myrtle Beach-Florence, SC",
-            label: "SC"
+            text: "Myrtle Beach-Florence, SC",
+            value: "SC"
         },
         {
-            value: "Memphis, TN",
-            label: "TN"
+            text: "Memphis, TN",
+            value: "TN"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Savannah, GA",
-            label: "GA"
+            text: "Savannah, GA",
+            value: "GA"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Panama City, FL",
-            label: "FL"
+            text: "Panama City, FL",
+            value: "FL"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Hattiesburg-Laurel, MS",
-            label: "MS"
+            text: "Hattiesburg-Laurel, MS",
+            value: "MS"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Bakersfield, CA",
-            label: "CA"
+            text: "Bakersfield, CA",
+            value: "CA"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Cincinnati, OH",
-            label: "OH"
+            text: "Cincinnati, OH",
+            value: "OH"
         },
         {
-            value: "New Orleans, LA",
-            label: "LA"
+            text: "New Orleans, LA",
+            value: "LA"
         },
         {
-            value: "Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "TX"
+            text: "Harlingen-Weslaco-Brownsville-McAllen, TX",
+            value: "TX"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Columbus, OH",
-            label: "OH"
+            text: "Columbus, OH",
+            value: "OH"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Des Moines-Ames, IA",
-            label: "IA"
+            text: "Des Moines-Ames, IA",
+            value: "IA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "St. Louis, MO",
-            label: "MO"
+            text: "St. Louis, MO",
+            value: "MO"
         },
         {
-            value: "Milwaukee, WI",
-            label: "WI"
+            text: "Milwaukee, WI",
+            value: "WI"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Ft. Myers-Naples, FL",
-            label: "FL"
+            text: "Ft. Myers-Naples, FL",
+            value: "FL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Chattanooga, TN",
-            label: "TN"
+            text: "Chattanooga, TN",
+            value: "TN"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Chattanooga, TN",
-            label: "TN"
+            text: "Chattanooga, TN",
+            value: "TN"
         },
         {
-            value: "Cincinnati, OH",
-            label: "OH"
+            text: "Cincinnati, OH",
+            value: "OH"
         },
         {
-            value: "Ft. Myers-Naples, FL",
-            label: "FL"
+            text: "Ft. Myers-Naples, FL",
+            value: "FL"
         },
         {
-            value: "Fresno-Visalia, CA",
-            label: "CA"
+            text: "Fresno-Visalia, CA",
+            value: "CA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Cheyenne, WY-Scottsbluff, NE",
-            label: "WY"
+            text: "Cheyenne, WY-Scottsbluff, NE",
+            value: "WY"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
-            label: "SC"
+            text: "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+            value: "SC"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Huntsville-Decatur (Florence), AL",
-            label: "AL"
+            text: "Huntsville-Decatur (Florence), AL",
+            value: "AL"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Miami-Ft. Lauderdale, FL",
-            label: "FL"
+            text: "Miami-Ft. Lauderdale, FL",
+            value: "FL"
         },
         {
-            value: "Roanoke-Lynchburg, VA",
-            label: "VA"
+            text: "Roanoke-Lynchburg, VA",
+            value: "VA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Columbia, SC",
-            label: "SC"
+            text: "Columbia, SC",
+            value: "SC"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Augusta, GA-Aiken, SC",
-            label: "SC"
+            text: "Augusta, GA-Aiken, SC",
+            value: "SC"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Cleveland-Akron (Canton), OH",
-            label: "OH"
+            text: "Cleveland-Akron (Canton), OH",
+            value: "OH"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Lubbock, TX",
-            label: "TX"
+            text: "Lubbock, TX",
+            value: "TX"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Youngstown, OH",
-            label: "OH"
+            text: "Youngstown, OH",
+            value: "OH"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Sioux City, IA",
-            label: "IA"
+            text: "Sioux City, IA",
+            value: "IA"
         },
         {
-            value: "Waco-Temple-Bryan, TX",
-            label: "TX"
+            text: "Waco-Temple-Bryan, TX",
+            value: "TX"
         },
         {
-            value: "El Paso, TX (Las Cruces, NM)",
-            label: "NM"
+            text: "El Paso, TX (Las Cruces, NM)",
+            value: "NM"
         },
         {
-            value: "Columbus, GA (Opelika, AL)",
-            label: "GA"
+            text: "Columbus, GA (Opelika, AL)",
+            value: "GA"
         },
         {
-            value: "Huntsville-Decatur (Florence), AL",
-            label: "AL"
+            text: "Huntsville-Decatur (Florence), AL",
+            value: "AL"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Hartford & New Haven, CT",
-            label: "CT"
+            text: "Hartford & New Haven, CT",
+            value: "CT"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "New York, NY",
-            label: "NJ"
+            text: "New York, NY",
+            value: "NJ"
         },
         {
-            value: "Ft. Myers-Naples, FL",
-            label: "FL"
+            text: "Ft. Myers-Naples, FL",
+            value: "FL"
         },
         {
-            value: "Davenport, IA-Rock Island-Moline, IL",
-            label: "IL"
+            text: "Davenport, IA-Rock Island-Moline, IL",
+            value: "IL"
         },
         {
-            value: "Charleston, SC",
-            label: "SC"
+            text: "Charleston, SC",
+            value: "SC"
         },
         {
-            value: "Beaumont-Port Arthur, TX",
-            label: "TX"
+            text: "Beaumont-Port Arthur, TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Toledo, OH",
-            label: "OH"
+            text: "Toledo, OH",
+            value: "OH"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Colorado Springs-Pueblo, CO",
-            label: "CO"
+            text: "Colorado Springs-Pueblo, CO",
+            value: "CO"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Louisville, KY",
-            label: "KY"
+            text: "Louisville, KY",
+            value: "KY"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "New York, NY",
-            label: "NY"
+            text: "New York, NY",
+            value: "NY"
         },
         {
-            value: "Monroe, LA-El Dorado, AR",
-            label: "LA"
+            text: "Monroe, LA-El Dorado, AR",
+            value: "LA"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Sacramento-Stockton-Modesto, CA",
-            label: "CA"
+            text: "Sacramento-Stockton-Modesto, CA",
+            value: "CA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Corpus Christi, TX",
-            label: "TX"
+            text: "Corpus Christi, TX",
+            value: "TX"
         },
         {
-            value: "Charleston-Huntington, WV",
-            label: "WV"
+            text: "Charleston-Huntington, WV",
+            value: "WV"
         },
         {
-            value: "Augusta, GA-Aiken, SC",
-            label: "GA"
+            text: "Augusta, GA-Aiken, SC",
+            value: "GA"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Tallahassee, FL-Thomasville, GA",
-            label: "GA"
+            text: "Tallahassee, FL-Thomasville, GA",
+            value: "GA"
         },
         {
-            value: "San Diego, CA",
-            label: "CA"
+            text: "San Diego, CA",
+            value: "CA"
         },
         {
-            value: "Roanoke-Lynchburg, VA",
-            label: "VA"
+            text: "Roanoke-Lynchburg, VA",
+            value: "VA"
         },
         {
-            value: "Kansas City, MO",
-            label: "MO"
+            text: "Kansas City, MO",
+            value: "MO"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Fresno-Visalia, CA",
-            label: "CA"
+            text: "Fresno-Visalia, CA",
+            value: "CA"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "New York, NY",
-            label: "NY"
+            text: "New York, NY",
+            value: "NY"
         },
         {
-            value: "Tallahassee, FL-Thomasville, GA",
-            label: "GA"
+            text: "Tallahassee, FL-Thomasville, GA",
+            value: "GA"
         },
         {
-            value: "Pittsburgh, PA",
-            label: "PA"
+            text: "Pittsburgh, PA",
+            value: "PA"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Waco-Temple-Bryan, TX",
-            label: "TX"
+            text: "Waco-Temple-Bryan, TX",
+            value: "TX"
         },
         {
-            value: "Memphis, TN",
-            label: "TN"
+            text: "Memphis, TN",
+            value: "TN"
         },
         {
-            value: "Columbus, GA (Opelika, AL)",
-            label: "AL"
+            text: "Columbus, GA (Opelika, AL)",
+            value: "AL"
         },
         {
-            value: "Lexington, KY",
-            label: "KY"
+            text: "Lexington, KY",
+            value: "KY"
         },
         {
-            value: "Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "TX"
+            text: "Tyler-Longview(Lufkin & Nacogdoches), TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "TX"
+            text: "Tyler-Longview(Lufkin & Nacogdoches), TX",
+            value: "TX"
         },
         {
-            value: "New Orleans, LA",
-            label: "LA"
+            text: "New Orleans, LA",
+            value: "LA"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Toledo, OH",
-            label: "OH"
+            text: "Toledo, OH",
+            value: "OH"
         },
         {
-            value: "Phoenix (Prescott), AZ",
-            label: "AZ"
+            text: "Phoenix (Prescott), AZ",
+            value: "AZ"
         },
         {
-            value: "Grand Rapids-Kalamazoo-Battle Creek, MI",
-            label: "MI"
+            text: "Grand Rapids-Kalamazoo-Battle Creek, MI",
+            value: "MI"
         },
         {
-            value: "Roanoke-Lynchburg, VA",
-            label: "VA"
+            text: "Roanoke-Lynchburg, VA",
+            value: "VA"
         },
         {
-            value: "Huntsville-Decatur (Florence), AL",
-            label: "AL"
+            text: "Huntsville-Decatur (Florence), AL",
+            value: "AL"
         },
         {
-            value: "Wilmington, NC",
-            label: "NC"
+            text: "Wilmington, NC",
+            value: "NC"
         },
         {
-            value: "Topeka, KS",
-            label: "KS"
+            text: "Topeka, KS",
+            value: "KS"
         },
         {
-            value: "Philadelphia, PA",
-            label: "NJ"
+            text: "Philadelphia, PA",
+            value: "NJ"
         },
         {
-            value: "San Diego, CA",
-            label: "CA"
+            text: "San Diego, CA",
+            value: "CA"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Louisville, KY",
-            label: "IN"
+            text: "Louisville, KY",
+            value: "IN"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Knoxville, TN",
-            label: "TN"
+            text: "Knoxville, TN",
+            value: "TN"
         },
         {
-            value: "Austin, TX",
-            label: "TX"
+            text: "Austin, TX",
+            value: "TX"
         },
         {
-            value: "Pittsburgh, PA",
-            label: "PA"
+            text: "Pittsburgh, PA",
+            value: "PA"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "New York, NY",
-            label: "NY"
+            text: "New York, NY",
+            value: "NY"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Denver, CO",
-            label: "CO"
+            text: "Denver, CO",
+            value: "CO"
         },
         {
-            value: "San Francisco-Oakland-San Jose, CA",
-            label: "CA"
+            text: "San Francisco-Oakland-San Jose, CA",
+            value: "CA"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Seattle-Tacoma, WA",
-            label: "WA"
+            text: "Seattle-Tacoma, WA",
+            value: "WA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Columbia, SC",
-            label: "SC"
+            text: "Columbia, SC",
+            value: "SC"
         },
         {
-            value: "El Paso, TX (Las Cruces, NM)",
-            label: "TX"
+            text: "El Paso, TX (Las Cruces, NM)",
+            value: "TX"
         },
         {
-            value: "Tyler-Longview(Lufkin & Nacogdoches), TX",
-            label: "TX"
+            text: "Tyler-Longview(Lufkin & Nacogdoches), TX",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Chicago, IL",
-            label: "IL"
+            text: "Chicago, IL",
+            value: "IL"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Tucson (Sierra Vista), AZ",
-            label: "AZ"
+            text: "Tucson (Sierra Vista), AZ",
+            value: "AZ"
         },
         {
-            value: "Boise, ID",
-            label: "ID"
+            text: "Boise, ID",
+            value: "ID"
         },
         {
-            value: "Springfield, MO",
-            label: "MO"
+            text: "Springfield, MO",
+            value: "MO"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Jacksonville, FL",
-            label: "GA"
+            text: "Jacksonville, FL",
+            value: "GA"
         },
         {
-            value: "Columbus-Tupelo-West Point-Houston, MS",
-            label: "MS"
+            text: "Columbus-Tupelo-West Point-Houston, MS",
+            value: "MS"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Amarillo, TX",
-            label: "TX"
+            text: "Amarillo, TX",
+            value: "TX"
         },
         {
-            value: "Tulsa, OK",
-            label: "OK"
+            text: "Tulsa, OK",
+            value: "OK"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "Meridian, MS",
-            label: "MS"
+            text: "Meridian, MS",
+            value: "MS"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Norfolk-Portsmouth-Newport News, VA",
-            label: "VA"
+            text: "Norfolk-Portsmouth-Newport News, VA",
+            value: "VA"
         },
         {
-            value: "Cincinnati, OH",
-            label: "OH"
+            text: "Cincinnati, OH",
+            value: "OH"
         },
         {
-            value: "Lincoln & Hastings-Kearney, NE",
-            label: "NE"
+            text: "Lincoln & Hastings-Kearney, NE",
+            value: "NE"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "Nashville, TN",
-            label: "TN"
+            text: "Nashville, TN",
+            value: "TN"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "New York, NY",
-            label: "NY"
+            text: "New York, NY",
+            value: "NY"
         },
         {
-            value: "Philadelphia, PA",
-            label: "DE"
+            text: "Philadelphia, PA",
+            value: "DE"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Panama City, FL",
-            label: "FL"
+            text: "Panama City, FL",
+            value: "FL"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Madison, WI",
-            label: "WI"
+            text: "Madison, WI",
+            value: "WI"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Philadelphia, PA",
-            label: "PA"
+            text: "Philadelphia, PA",
+            value: "PA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "San Diego, CA",
-            label: "CA"
+            text: "San Diego, CA",
+            value: "CA"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "San Diego, CA",
-            label: "CA"
+            text: "San Diego, CA",
+            value: "CA"
         },
         {
-            value: "San Diego, CA",
-            label: "CA"
+            text: "San Diego, CA",
+            value: "CA"
         },
         {
-            value: "Salt Lake City, UT",
-            label: "UT"
+            text: "Salt Lake City, UT",
+            value: "UT"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Orlando-Daytona Beach-Melbourne, FL",
-            label: "FL"
+            text: "Orlando-Daytona Beach-Melbourne, FL",
+            value: "FL"
         },
         {
-            value: "Augusta, GA-Aiken, SC",
-            label: "SC"
+            text: "Augusta, GA-Aiken, SC",
+            value: "SC"
         },
         {
-            value: "Cincinnati, OH",
-            label: "OH"
+            text: "Cincinnati, OH",
+            value: "OH"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Cincinnati, OH",
-            label: "KY"
+            text: "Cincinnati, OH",
+            value: "KY"
         },
         {
-            value: "Miami-Ft. Lauderdale, FL",
-            label: "FL"
+            text: "Miami-Ft. Lauderdale, FL",
+            value: "FL"
         },
         {
-            value: "Jonesboro, AR",
-            label: "AR"
+            text: "Jonesboro, AR",
+            value: "AR"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "San Francisco-Oakland-San Jose, CA",
-            label: "CA"
+            text: "San Francisco-Oakland-San Jose, CA",
+            value: "CA"
         },
         {
-            value: "Chattanooga, TN",
-            label: "GA"
+            text: "Chattanooga, TN",
+            value: "GA"
         },
         {
-            value: "Atlanta, GA",
-            label: "GA"
+            text: "Atlanta, GA",
+            value: "GA"
         },
         {
-            value: "Augusta, GA-Aiken, SC",
-            label: "GA"
+            text: "Augusta, GA-Aiken, SC",
+            value: "GA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Detroit, MI",
-            label: "MI"
+            text: "Detroit, MI",
+            value: "MI"
         },
         {
-            value: "Omaha, NE",
-            label: "NE"
+            text: "Omaha, NE",
+            value: "NE"
         },
         {
-            value: "Paducah, KY-Cape Girardeau, MO-Harrisburg, IL",
-            label: "IL"
+            text: "Paducah, KY-Cape Girardeau, MO-Harrisburg, IL",
+            value: "IL"
         },
         {
-            value: "El Paso, TX (Las Cruces, NM)",
-            label: "NM"
+            text: "El Paso, TX (Las Cruces, NM)",
+            value: "NM"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Boston, MA (Manchester, NH)",
-            label: "MA"
+            text: "Boston, MA (Manchester, NH)",
+            value: "MA"
         },
         {
-            value: "Tampa-St. Petersburg (Sarasota), FL",
-            label: "FL"
+            text: "Tampa-St. Petersburg (Sarasota), FL",
+            value: "FL"
         },
         {
-            value: "Harlingen-Weslaco-Brownsville-McAllen, TX",
-            label: "TX"
+            text: "Harlingen-Weslaco-Brownsville-McAllen, TX",
+            value: "TX"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Birmingham (Anniston and Tuscaloosa), AL",
-            label: "AL"
+            text: "Birmingham (Anniston and Tuscaloosa), AL",
+            value: "AL"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Roanoke-Lynchburg, VA",
-            label: "VA"
+            text: "Roanoke-Lynchburg, VA",
+            value: "VA"
         },
         {
-            value: "Raleigh-Durham (Fayetteville), NC",
-            label: "NC"
+            text: "Raleigh-Durham (Fayetteville), NC",
+            value: "NC"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Jacksonville, FL",
-            label: "FL"
+            text: "Jacksonville, FL",
+            value: "FL"
         },
         {
-            value: "Charlotte, NC",
-            label: "NC"
+            text: "Charlotte, NC",
+            value: "NC"
         },
         {
-            value: "Hartford & New Haven, CT",
-            label: "CT"
+            text: "Hartford & New Haven, CT",
+            value: "CT"
         },
         {
-            value: "Los Angeles, CA",
-            label: "CA"
+            text: "Los Angeles, CA",
+            value: "CA"
         },
         {
-            value: "Dallas-Ft. Worth, TX",
-            label: "TX"
+            text: "Dallas-Ft. Worth, TX",
+            value: "TX"
         },
         {
-            value: "Providence, RI-New Bedford, MA",
-            label: "MA"
+            text: "Providence, RI-New Bedford, MA",
+            value: "MA"
         },
         {
-            value: "San Antonio, TX",
-            label: "TX"
+            text: "San Antonio, TX",
+            value: "TX"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "MD"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "MD"
         },
         {
-            value: "Louisville, KY",
-            label: "KY"
+            text: "Louisville, KY",
+            value: "KY"
         },
         {
-            value: "San Angelo, TX",
-            label: "TX"
+            text: "San Angelo, TX",
+            value: "TX"
         },
         {
-            value: "Miami-Ft. Lauderdale, FL",
-            label: "FL"
+            text: "Miami-Ft. Lauderdale, FL",
+            value: "FL"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         },
         {
-            value: "Chattanooga, TN",
-            label: "TN"
+            text: "Chattanooga, TN",
+            value: "TN"
         },
         {
-            value: "Jackson, MS",
-            label: "MS"
+            text: "Jackson, MS",
+            value: "MS"
         },
         {
-            value: "Boston, MA (Manchester, NH)",
-            label: "MA"
+            text: "Boston, MA (Manchester, NH)",
+            value: "MA"
         },
         {
-            value: "Baltimore, MD",
-            label: "MD"
+            text: "Baltimore, MD",
+            value: "MD"
         },
         {
-            value: "Oklahoma City, OK",
-            label: "OK"
+            text: "Oklahoma City, OK",
+            value: "OK"
         },
         {
-            value: "Greensboro-High Point-Winston Salem, NC",
-            label: "NC"
+            text: "Greensboro-High Point-Winston Salem, NC",
+            value: "NC"
         },
         {
-            value: "Washington, DC (Hagerstown, MD)",
-            label: "VA"
+            text: "Washington, DC (Hagerstown, MD)",
+            value: "VA"
         },
         {
-            value: "Houston, TX",
-            label: "TX"
+            text: "Houston, TX",
+            value: "TX"
         }
     ],
     taxCategory: [
         {
-            value: "1002963",
-            label: "1002963"
+            text: "1002963",
+            value: "1002963"
         },
         {
-            value: "1000324",
-            label: "1000324"
+            text: "1000324",
+            value: "1000324"
         },
         {
-            value: "1000320",
-            label: "1000320"
+            text: "1000320",
+            value: "1000320"
         },
         {
-            value: "1000327",
-            label: "1000327"
+            text: "1000327",
+            value: "1000327"
         },
         {
-            value: "1000311",
-            label: "1000311"
+            text: "1000311",
+            value: "1000311"
         },
         {
-            value: "1000312",
-            label: "1000312"
+            text: "1000312",
+            value: "1000312"
         },
         {
-            value: "1000313",
-            label: "1000313"
+            text: "1000313",
+            value: "1000313"
         },
         {
-            value: "1000314",
-            label: "1000314"
+            text: "1000314",
+            value: "1000314"
         },
         {
-            value: "1000318",
-            label: "1000318"
+            text: "1000318",
+            value: "1000318"
         },
         {
-            value: "1002940",
-            label: "1002940"
+            text: "1002940",
+            value: "1002940"
         },
         {
-            value: "1001617",
-            label: "1001617"
+            text: "1001617",
+            value: "1001617"
         },
         {
-            value: "1003416",
-            label: "1003416"
+            text: "1003416",
+            value: "1003416"
         },
         {
-            value: "1003419",
-            label: "1003419"
+            text: "1003419",
+            value: "1003419"
         },
         {
-            value: "1004733",
-            label: "1004733"
+            text: "1004733",
+            value: "1004733"
         },
         {
-            value: "1004730",
-            label: "1004730"
+            text: "1004730",
+            value: "1004730"
         },
         {
-            value: "1000399",
-            label: "1000399"
+            text: "1000399",
+            value: "1000399"
         },
         {
-            value: "1000391",
-            label: "1000391"
+            text: "1000391",
+            value: "1000391"
         },
         {
-            value: "1004700",
-            label: "1004700"
+            text: "1004700",
+            value: "1004700"
         },
         {
-            value: "1000340",
-            label: "1000340"
+            text: "1000340",
+            value: "1000340"
         },
         {
-            value: "1000355",
-            label: "1000355"
+            text: "1000355",
+            value: "1000355"
         },
         {
-            value: "1000354",
-            label: "1000354"
+            text: "1000354",
+            value: "1000354"
         },
         {
-            value: "1005219",
-            label: "1005219"
+            text: "1005219",
+            value: "1005219"
         },
         {
-            value: "1004772",
-            label: "1004772"
+            text: "1004772",
+            value: "1004772"
         },
         {
-            value: "1005239",
-            label: "1005239"
+            text: "1005239",
+            value: "1005239"
         },
         {
-            value: "1002800",
-            label: "1002800"
+            text: "1002800",
+            value: "1002800"
         },
         {
-            value: "1003300",
-            label: "1003300"
+            text: "1003300",
+            value: "1003300"
         },
         {
-            value: "1003376",
-            label: "1003376"
+            text: "1003376",
+            value: "1003376"
         },
         {
-            value: "1005104",
-            label: "1005104"
+            text: "1005104",
+            value: "1005104"
         },
         {
-            value: "1005103",
-            label: "1005103"
+            text: "1005103",
+            value: "1005103"
         },
         {
-            value: "1001012",
-            label: "1001012"
+            text: "1001012",
+            value: "1001012"
         },
         {
-            value: "1004106",
-            label: "1004106"
+            text: "1004106",
+            value: "1004106"
         },
         {
-            value: "1004125",
-            label: "1004125"
+            text: "1004125",
+            value: "1004125"
         },
         {
-            value: "1001044",
-            label: "1001044"
+            text: "1001044",
+            value: "1001044"
         },
         {
-            value: "1001042",
-            label: "1001042"
+            text: "1001042",
+            value: "1001042"
         },
         {
-            value: "1001910",
-            label: "1001910"
+            text: "1001910",
+            value: "1001910"
         },
         {
-            value: "1004058",
-            label: "1004058"
+            text: "1004058",
+            value: "1004058"
         },
         {
-            value: "1001453",
-            label: "1001453"
+            text: "1001453",
+            value: "1001453"
         }
     ],
     rmi: [
         {
-            value: "1002963",
-            label: "1002963"
+            text: "1002963",
+            value: "1002963"
         },
         {
-            value: "1000324",
-            label: "1000324"
+            text: "1000324",
+            value: "1000324"
         },
         {
-            value: "1000320",
-            label: "1000320"
+            text: "1000320",
+            value: "1000320"
         },
         {
-            value: "1000327",
-            label: "1000327"
+            text: "1000327",
+            value: "1000327"
         },
         {
-            value: "1000311",
-            label: "1000311"
+            text: "1000311",
+            value: "1000311"
         },
         {
-            value: "1002940",
-            label: "1002940"
+            text: "1002940",
+            value: "1002940"
         },
         {
-            value: "1001617",
-            label: "1001617"
+            text: "1001617",
+            value: "1001617"
         },
         {
-            value: "1003416",
-            label: "1003416"
+            text: "1003416",
+            value: "1003416"
         },
         {
-            value: "1003419",
-            label: "1003419"
+            text: "1003419",
+            value: "1003419"
         },
         {
-            value: "1004733",
-            label: "1004733"
+            text: "1004733",
+            value: "1004733"
         },
         {
-            value: "1000399",
-            label: "1000399"
+            text: "1000399",
+            value: "1000399"
         },
         {
-            value: "1000391",
-            label: "1000391"
+            text: "1000391",
+            value: "1000391"
         },
         {
-            value: "1002800",
-            label: "1002800"
+            text: "1002800",
+            value: "1002800"
         },
         {
-            value: "1003300",
-            label: "1003300"
+            text: "1003300",
+            value: "1003300"
         },
         {
-            value: "1003376",
-            label: "1003376"
+            text: "1003376",
+            value: "1003376"
         },
         {
-            value: "1005104",
-            label: "1005104"
+            text: "1005104",
+            value: "1005104"
         },
         {
-            value: "1005103",
-            label: "1005103"
+            text: "1005103",
+            value: "1005103"
         },
         {
-            value: "1001012",
-            label: "1001012"
+            text: "1001012",
+            value: "1001012"
         },
         {
-            value: "1004106",
-            label: "1004106"
+            text: "1004106",
+            value: "1004106"
         },
         {
-            value: "1004125",
-            label: "1004125"
+            text: "1004125",
+            value: "1004125"
         },
         {
-            value: "1001910",
-            label: "1001910"
+            text: "1001910",
+            value: "1001910"
         },
         {
-            value: "1004058",
-            label: "1004058"
+            text: "1004058",
+            value: "1004058"
         },
         {
-            value: "1001453",
-            label: "1001453"
+            text: "1001453",
+            value: "1001453"
         }
     ]
 };

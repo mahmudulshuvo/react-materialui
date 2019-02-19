@@ -6,8 +6,10 @@ import RadioGroup from "@material-ui/core/RadioGroup";
 import FormControlLabel from "@material-ui/core/FormControlLabel";
 import FormLabel from "@material-ui/core/FormLabel";
 import { input } from "./InputJson";
-import Select from "react-select";
+// import { selectInput } from "./InputJsonForSelect";
+// import Select from "react-select";
 import { TextField } from "@material-ui/core";
+import { Dropdown } from "semantic-ui-react";
 
 const styles = theme => ({
     root: {
@@ -31,13 +33,23 @@ class SelectionComponent extends Component {
         taxCategory: "select",
         rmi: "select",
         destination: "select",
-        // urlValue: "",
         locationValue: [],
         stateValue: [],
         taxValue: [],
         rmiValue: [],
-        destinationValue: []
+        destinationValue: [],
+        uniqueStates: []
     };
+
+    componentDidMount() {
+        let uniqueArr = this.getUnique(input.state, "text");
+        for (let i = 0; i < uniqueArr.length; i++) {
+            uniqueArr[i].key = i;
+        }
+        this.setState({
+            uniqueStates: uniqueArr
+        });
+    }
 
     handleChangeTaxOrRmi = event => {
         this.setState({ taxOrRmi: event.target.value });
@@ -59,71 +71,45 @@ class SelectionComponent extends Component {
         this.setState({ destination: event.target.value });
     };
 
-    handleSelectState = data => {
-        this.setState({ stateValue: data });
+    handleSelectState = (event, data) => {
+        this.setState({ stateValue: data.value });
     };
 
-    handleSelectLocation = data => {
-        this.setState({ locationValue: data });
+    handleSelectLocation = (event, data) => {
+        this.setState({ locationValue: data.value });
     };
 
-    handleSelectTax = data => {
-        this.setState({ taxValue: data });
+    handleSelectTax = (event, data) => {
+        this.setState({ taxValue: data.value });
     };
 
-    handleSelectRmi = data => {
-        this.setState({ rmiValue: data });
+    handleSelectRmi = (event, data) => {
+        this.setState({ rmiValue: data.value });
     };
 
-    handleSelectDestination = data => {
-        this.setState({ destinationValue: data });
+    handleSelectDestination = (event, data) => {
+        this.setState({ destinationValue: data.value });
     };
 
     handleSubmit = () => {
-        let statesList = [];
-        let locationIdList = [];
-        let taxIdList = [];
-        let rmiIdList = [];
-        let destinationIdList = [];
-
-        for (let i = 0; i < this.state.stateValue.length; i++) {
-            statesList.push(this.state.stateValue[i].value);
-        }
-
-        for (let i = 0; i < this.state.locationValue.length; i++) {
-            locationIdList.push(this.state.locationValue[i].value);
-        }
-
-        for (let i = 0; i < this.state.taxValue.length; i++) {
-            taxIdList.push(this.state.taxValue[i].value);
-        }
-
-        for (let i = 0; i < this.state.rmiValue.length; i++) {
-            rmiIdList.push(this.state.rmiValue[i].value);
-        }
-
-        for (let i = 0; i < this.state.destinationValue.length; i++) {
-            destinationIdList.push(this.state.destinationValue[i].value);
-        }
-
         let output = {
             isRmiDriven: this.state.taxOrRmi === "rmi",
             location: {
                 all: this.state.location === "all",
-                stateList: statesList,
-                idList: locationIdList
+                stateList: this.state.stateValue,
+                idList: this.state.locationValue
             },
             taxCategory: {
                 all: this.state.taxCategory === "all",
-                idList: taxIdList
+                idList: this.state.taxValue
             },
             rmi: {
                 all: this.state.rmi === "all",
-                idList: rmiIdList
+                idList: this.state.rmiValue
             },
             destination: {
                 all: this.state.destination === "all",
-                idList: destinationIdList
+                idList: this.state.destinationValue
             }
         };
 
@@ -142,6 +128,20 @@ class SelectionComponent extends Component {
 
         console.log("Output json: ", output);
     };
+
+    getUnique(arr, comp) {
+        const unique = arr
+            .map(e => e[comp])
+
+            // store the keys of the unique objects
+            .map((e, i, final) => final.indexOf(e) === i && i)
+
+            // eliminate the dead keys & store unique objects
+            .filter(e => arr[e])
+            .map(e => arr[e]);
+
+        return unique;
+    }
 
     render() {
         const { classes } = this.props;
@@ -230,16 +230,20 @@ class SelectionComponent extends Component {
                     </div>
 
                     <div style={{ paddingBottom: 20, width: "40%" }}>
-                        <Select
+                        <Dropdown
                             placeholder={
                                 this.state.location === "state"
                                     ? "State(s)"
                                     : "Location(s)"
                             }
-                            onChange={
+                            fluid
+                            multiple
+                            search
+                            selection
+                            options={
                                 this.state.location === "state"
-                                    ? this.handleSelectState
-                                    : this.handleSelectLocation
+                                    ? this.state.uniqueStates
+                                    : input.location
                             }
                             value={
                                 this.state.location === "all"
@@ -248,14 +252,17 @@ class SelectionComponent extends Component {
                                     ? this.state.stateValue
                                     : this.state.locationValue
                             }
-                            isMulti={true}
-                            isSearchable={true}
-                            options={
+                            renderLabel={text => text.value}
+                            disabled={this.state.location === "all"}
+                            onChange={
                                 this.state.location === "state"
-                                    ? input.state
-                                    : input.location
+                                    ? this.handleSelectState
+                                    : this.handleSelectLocation
                             }
-                            isDisabled={this.state.location === "all"}
+                            clearable
+                            style={{
+                                width: "500px"
+                            }}
                         />
                     </div>
                 </div>
@@ -295,17 +302,22 @@ class SelectionComponent extends Component {
                     </div>
 
                     <div style={{ paddingBottom: 20, width: "40%" }}>
-                        <Select
+                        <Dropdown
                             placeholder="Tax Category(s)"
                             onChange={this.handleSelectTax}
                             value={this.state.taxValue}
-                            isMulti={true}
-                            isSearchable={true}
+                            multiple
+                            search
+                            selection
+                            clearable
                             options={input.taxCategory}
-                            isDisabled={
+                            disabled={
                                 this.state.taxCategory === "all" ||
                                 this.state.taxOrRmi === "rmi"
                             }
+                            style={{
+                                width: "500px"
+                            }}
                         />
                     </div>
                 </div>
@@ -345,17 +357,22 @@ class SelectionComponent extends Component {
                     </div>
 
                     <div style={{ paddingBottom: 20, width: "40%" }}>
-                        <Select
+                        <Dropdown
                             placeholder="RMI(s)"
                             onChange={this.handleSelectRmi}
                             value={this.state.rmiValue}
-                            isMulti={true}
-                            isSearchable={true}
+                            multiple
+                            search
+                            selection
+                            clearable
                             options={input.rmi}
-                            isDisabled={
+                            disabled={
                                 this.state.rmi === "all" ||
                                 this.state.taxOrRmi === "tax"
                             }
+                            style={{
+                                width: "500px"
+                            }}
                         />
                     </div>
                 </div>
@@ -427,14 +444,16 @@ class SelectionComponent extends Component {
                     </div>
 
                     <div style={{ paddingBottom: 20, width: "40%" }}>
-                        <Select
+                        <Dropdown
                             placeholder="Destination(s)"
                             onChange={this.handleSelectDestination}
                             value={this.state.destinationValue}
-                            isMulti={true}
-                            isSearchable={true}
+                            multiple
+                            search
+                            selection
+                            clearable
                             options={input.destination}
-                            isDisabled={
+                            disabled={
                                 this.state.destination === "all" ||
                                 (this.state.taxOrRmi === "tax"
                                     ? this.state.taxCategory === "all"
@@ -447,6 +466,9 @@ class SelectionComponent extends Component {
                                     this.state.stateValue.length === 0 &&
                                     this.state.locationValue.length === 0)
                             }
+                            style={{
+                                width: "500px"
+                            }}
                         />
                     </div>
                 </div>
