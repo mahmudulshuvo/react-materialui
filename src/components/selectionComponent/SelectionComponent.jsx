@@ -38,7 +38,8 @@ class SelectionComponent extends Component {
         taxValue: [],
         rmiValue: [],
         destinationValue: [],
-        uniqueStates: []
+        uniqueStates: [],
+        loading: false
     };
 
     componentDidMount() {
@@ -89,6 +90,14 @@ class SelectionComponent extends Component {
 
     handleSelectDestination = (event, data) => {
         this.setState({ destinationValue: data.value });
+    };
+
+    handleSearchChangeLocation = (event, { searchQuery }) => {
+        this.setState({ loading: true });
+
+        setTimeout(() => {
+            this.setState({ loading: false });
+        }, 500);
     };
 
     handleSubmit = () => {
@@ -259,6 +268,8 @@ class SelectionComponent extends Component {
                                     ? this.handleSelectState
                                     : this.handleSelectLocation
                             }
+                            loading={this.state.loading}
+                            onSearchChange={this.handleSearchChangeLocation}
                             clearable
                             style={{
                                 width: "500px"
