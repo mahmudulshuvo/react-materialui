@@ -211,7 +211,7 @@ class SelectionComponent extends Component {
                         </RadioGroup>
                     </div>
 
-                    <div style={{ paddingBottom: 20 }}>
+                    <div style={{ paddingBottom: 20, width: "40%" }}>
                         <Select
                             placeholder={
                                 this.state.location === "state"
@@ -276,7 +276,7 @@ class SelectionComponent extends Component {
                         </RadioGroup>
                     </div>
 
-                    <div style={{ paddingBottom: 20 }}>
+                    <div style={{ paddingBottom: 20, width: "40%" }}>
                         <Select
                             placeholder="Tax Category(s)"
                             onChange={this.handleSelectTax}
@@ -326,7 +326,7 @@ class SelectionComponent extends Component {
                         </RadioGroup>
                     </div>
 
-                    <div style={{ paddingBottom: 20 }}>
+                    <div style={{ paddingBottom: 20, width: "40%" }}>
                         <Select
                             placeholder="RMI(s)"
                             onChange={this.handleSelectRmi}
@@ -408,7 +408,7 @@ class SelectionComponent extends Component {
                         </RadioGroup>
                     </div>
 
-                    <div style={{ paddingBottom: 20 }}>
+                    <div style={{ paddingBottom: 20, width: "40%" }}>
                         <Select
                             placeholder="Destination(s)"
                             onChange={this.handleSelectDestination}
