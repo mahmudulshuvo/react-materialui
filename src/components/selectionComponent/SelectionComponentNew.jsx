@@ -360,7 +360,11 @@ class SelectionComponentNew extends Component {
                         <Select
                             placeholder="Tax Category(s)"
                             onChange={this.handleSelectTax}
-                            value={this.state.taxValue}
+                            value={
+                                this.state.taxCategory === "all"
+                                    ? []
+                                    : this.state.taxValue
+                            }
                             isMulti={true}
                             isSearchable={true}
                             options={input.taxCategory}
@@ -412,7 +416,11 @@ class SelectionComponentNew extends Component {
                         <Select
                             placeholder="RMI(s)"
                             onChange={this.handleSelectRmi}
-                            value={this.state.rmiValue}
+                            value={
+                                this.state.rmi === "all"
+                                    ? []
+                                    : this.state.rmiValue
+                            }
                             isMulti={true}
                             isSearchable={true}
                             options={input.rmi}
@@ -500,7 +508,11 @@ class SelectionComponentNew extends Component {
                         <Select
                             placeholder="Destination(s)"
                             onChange={this.handleSelectDestination}
-                            value={this.state.destinationValue}
+                            value={
+                                this.state.destination === "all"
+                                    ? []
+                                    : this.state.destinationValue
+                            }
                             isMulti={true}
                             isSearchable={true}
                             options={input.destination}
