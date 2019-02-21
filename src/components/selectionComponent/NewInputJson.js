@@ -37,7 +37,7 @@ export const input = {
         }
     ],
 
-    market: [
+    location: [
         {
             value: "1234"
         },
@@ -55,15 +55,15 @@ export const input = {
         }
     ],
 
-    location: [
-        { value: "Sandy Springs FSU, Atlanta, GA" },
+    market: [
+        { value: "Oklahoma City, OK" },
         {
-            value: "Beechwood FSU, Atlanta, GA"
+            value: "Baltimore, MD"
         },
-        { value: "Wendover FSU, Greensboro-High Point-Winston Salem, NC" },
-        { value: "Flagler College, Jacksonville, FL" },
+        { value: "Chattanooga, TN" },
+        { value: "San Angelo, TX" },
         {
-            value: "University of South Dakota, Sioux Falls(Mitchell), SD"
+            value: "Louisville, KY"
         }
     ]
 };
