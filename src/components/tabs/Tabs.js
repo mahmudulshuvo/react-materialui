@@ -14,7 +14,7 @@ import VirtualScrolling from "../tables/virtual-scrolling/VirtualScrolling.jsx";
 import CustomPagination from "../tables/custom-pagination/CustomPagination.jsx";
 import InplaceEditing from "../tables/inplace-editing/InplaceEditing.jsx";
 import DragDropFile from "../drapDrop/DrapDropFile";
-import SelectionComponent from "../selectionComponent/SelectionComponent";
+import SelectionComponentNew from "../selectionComponent/SelectionComponentNew";
 import "../../App.css";
 
 function TabContainer(props) {
@@ -74,7 +74,7 @@ function TabContainer(props) {
 
             {props.children === "Selection Component" ? (
                 <div className="App">
-                    <SelectionComponent />
+                    <SelectionComponentNew />
                 </div>
             ) : null}
         </div>

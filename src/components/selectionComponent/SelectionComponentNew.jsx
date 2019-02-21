@@ -5,11 +5,10 @@ import Button from "@material-ui/core/Button";
 import RadioGroup from "@material-ui/core/RadioGroup";
 import FormControlLabel from "@material-ui/core/FormControlLabel";
 import FormLabel from "@material-ui/core/FormLabel";
-import { input } from "./InputJson";
-// import { selectInput } from "./InputJsonForSelect";
-// import Select from "react-select";
+import { input } from "./NewInputJson";
+import Select from "react-select";
 import { TextField } from "@material-ui/core";
-import { Dropdown } from "semantic-ui-react";
+import makeAnimated from "react-select/lib/animated";
 
 const styles = theme => ({
     root: {
@@ -26,7 +25,7 @@ const styles = theme => ({
     }
 });
 
-class SelectionComponent extends Component {
+class SelectionComponentNew extends Component {
     state = {
         taxOrRmi: "tax",
         location: "location",
@@ -35,6 +34,7 @@ class SelectionComponent extends Component {
         destination: "select",
         locationValue: [],
         stateValue: [],
+        marketValue: [],
         taxValue: [],
         rmiValue: [],
         destinationValue: [],
@@ -43,7 +43,6 @@ class SelectionComponent extends Component {
     };
 
     componentDidMount() {
-        console.log("called");
         let uniqueArr = this.getUnique(input.state, "text");
         for (let i = 0; i < uniqueArr.length; i++) {
             uniqueArr[i].key = i;
@@ -73,24 +72,28 @@ class SelectionComponent extends Component {
         this.setState({ destination: event.target.value });
     };
 
-    handleSelectState = (event, data) => {
-        this.setState({ stateValue: data.value });
+    handleSelectState = data => {
+        this.setState({ stateValue: data });
     };
 
-    handleSelectLocation = (event, data) => {
-        this.setState({ locationValue: data.value });
+    handleSelectLocation = data => {
+        this.setState({ locationValue: data });
     };
 
-    handleSelectTax = (event, data) => {
-        this.setState({ taxValue: data.value });
+    handleSelectMarket = data => {
+        this.setState({ marketValue: data });
     };
 
-    handleSelectRmi = (event, data) => {
-        this.setState({ rmiValue: data.value });
+    handleSelectTax = data => {
+        this.setState({ taxValue: data });
     };
 
-    handleSelectDestination = (event, data) => {
-        this.setState({ destinationValue: data.value });
+    handleSelectRmi = data => {
+        this.setState({ rmiValue: data });
+    };
+
+    handleSelectDestination = data => {
+        this.setState({ destinationValue: data });
     };
 
     handleSearchChangeLocation = (event, { searchQuery }) => {
@@ -105,24 +108,56 @@ class SelectionComponent extends Component {
     };
 
     handleSubmit = () => {
+        let locationIdList = [];
+        let states = [];
+        let marketIdList = [];
+        let taxCategoryIdList = [];
+        let rmiIdList = [];
+        let destionIdList = [];
+
+        for (let i = 0; i < this.state.stateValue.length; i++) {
+            states.push(this.state.stateValue[i].value);
+        }
+
+        for (let i = 0; i < this.state.locationValue.length; i++) {
+            locationIdList.push(this.state.locationValue[i].value);
+        }
+
+        for (let i = 0; i < this.state.marketValue.length; i++) {
+            marketIdList.push(this.state.marketValue[i].value);
+        }
+
+        for (let i = 0; i < this.state.taxValue.length; i++) {
+            taxCategoryIdList.push(this.state.taxValue[i].value);
+        }
+
+        for (let i = 0; i < this.state.rmiValue.length; i++) {
+            rmiIdList.push(this.state.rmiValue[i].value);
+        }
+
+        for (let i = 0; i < this.state.destinationValue.length; i++) {
+            destionIdList.push(this.state.destinationValue[i].value);
+        }
+
         let output = {
             isRmiDriven: this.state.taxOrRmi === "rmi",
             location: {
                 all: this.state.location === "all",
-                stateList: this.state.stateValue,
-                idList: this.state.locationValue
+                stateList: states,
+                marketList: marketIdList,
+                idList: locationIdList
             },
             taxCategory: {
                 all: this.state.taxCategory === "all",
-                idList: this.state.taxValue
+                idList: taxCategoryIdList
             },
             rmi: {
                 all: this.state.rmi === "all",
-                idList: this.state.rmiValue
+                idList: rmiIdList
             },
             destination: {
                 all: this.state.destination === "all",
-                idList: this.state.destinationValue
+                idList: destionIdList
             }
         };
 
@@ -134,6 +169,7 @@ class SelectionComponent extends Component {
             destination: "select",
             locationValue: [],
             stateValue: [],
+            marketValue: [],
             rmiValue: [],
             destinationValue: [],
             taxValue: []
@@ -234,70 +270,55 @@ class SelectionComponent extends Component {
                                 label="By Location"
                                 labelPlacement="end"
                             />
+                            <FormControlLabel
+                                value="market"
+                                control={<Radio />}
+                                label="By Market"
+                                labelPlacement="end"
+                            />
                         </RadioGroup>
                     </div>
 
                     <div style={{ paddingBottom: 20, width: "40%" }}>
                         <Select
                             placeholder={
-                                this.state.location === "state"
+                                this.state.location === "all"
+                                    ? "Location(s)"
+                                    : this.state.location === "state"
                                     ? "State(s)"
-                                    : "Location(s)"
+                                    : this.state.location === "location"
+                                    ? "Location(s)"
+                                    : "Market(s)"
                             }
                             onChange={
                                 this.state.location === "state"
                                     ? this.handleSelectState
-                                    : this.handleSelectLocation
+                                    : this.state.location === "location"
+                                    ? this.handleSelectLocation
+                                    : this.handleSelectMarket
                             }
                             value={
-                                this.state.location === "state"
+                                this.state.location === "all"
+                                    ? []
+                                    : this.state.location === "state"
                                     ? this.state.stateValue
-                                    : this.state.locationValue
+                                    : this.state.location === "location"
+                                    ? this.state.locationValue
+                                    : this.state.marketValue
                             }
                             isMulti={true}
                             isSearchable={true}
-                            options={input.location}
-                            isDisabled={
-                                this.state.location === "all" ||
+                            options={
                                 this.state.location === "state"
+                                    ? input.state
+                                    : this.state.location === "location"
+                                    ? input.location
+                                    : input.market
                             }
+                            isDisabled={this.state.location === "all"}
                             components={makeAnimated()}
                             getOptionLabel={opt => opt.value}
                         />
-                        {/* <Dropdown
-                            placeholder={
-                                this.state.location === "state"
-                                    ? "State(s)"
-                                    : "Location(s)"
-                            }
-                            fluid
-                            multiple
-                            search
-                            selection
-                            options={
-                                this.state.location === "state"
-                                    ? this.state.uniqueStates
-                                    : input.location
-                            }
-                            value={
-                                this.state.location === "state"
-                                    ? this.state.stateValue
-                                    : this.state.locationValue
-                            }
-                            renderLabel={text => text.value}
-                            disabled={this.state.location === "all"}
-                            onChange={
-                                this.state.location === "state"
-                                    ? this.handleSelectState
-                                    : this.handleSelectLocation
-                            }
-                            loading={this.state.loading}
-                            onSearchChange={this.handleSearchChangeLocation}
-                            clearable
-                            style={{
-                                width: "500px"
-                            }}
-                        /> */}
                     </div>
                 </div>
 
@@ -336,22 +357,19 @@ class SelectionComponent extends Component {
                     </div>
 
                     <div style={{ paddingBottom: 20, width: "40%" }}>
-                        <Dropdown
+                        <Select
                             placeholder="Tax Category(s)"
                             onChange={this.handleSelectTax}
                             value={this.state.taxValue}
-                            multiple
-                            search
-                            selection
-                            clearable
+                            isMulti={true}
+                            isSearchable={true}
                             options={input.taxCategory}
-                            disabled={
+                            isDisabled={
                                 this.state.taxCategory === "all" ||
                                 this.state.taxOrRmi === "rmi"
                             }
-                            style={{
-                                width: "500px"
-                            }}
+                            components={makeAnimated()}
+                            getOptionLabel={opt => opt.value}
                         />
                     </div>
                 </div>
@@ -391,22 +409,19 @@ class SelectionComponent extends Component {
                     </div>
 
                     <div style={{ paddingBottom: 20, width: "40%" }}>
-                        <Dropdown
+                        <Select
                             placeholder="RMI(s)"
                             onChange={this.handleSelectRmi}
                             value={this.state.rmiValue}
-                            multiple
-                            search
-                            selection
-                            clearable
+                            isMulti={true}
+                            isSearchable={true}
                             options={input.rmi}
-                            disabled={
+                            isDisabled={
                                 this.state.rmi === "all" ||
                                 this.state.taxOrRmi === "tax"
                             }
-                            style={{
-                                width: "500px"
-                            }}
+                            components={makeAnimated()}
+                            getOptionLabel={opt => opt.value}
                         />
                     </div>
                 </div>
@@ -441,6 +456,8 @@ class SelectionComponent extends Component {
                                                 this.state.stateValue.length ===
                                                     0 &&
                                                 this.state.locationValue
+                                                    .length === 0 &&
+                                                this.state.marketValue
                                                     .length === 0)
                                         }
                                     />
@@ -467,6 +484,8 @@ class SelectionComponent extends Component {
                                                 this.state.stateValue.length ===
                                                     0 &&
                                                 this.state.locationValue
+                                                    .length === 0 &&
+                                                this.state.marketValue
                                                     .length === 0)
                                         }
                                     />
@@ -478,16 +497,14 @@ class SelectionComponent extends Component {
                     </div>
 
                     <div style={{ paddingBottom: 20, width: "40%" }}>
-                        <Dropdown
+                        <Select
                             placeholder="Destination(s)"
                             onChange={this.handleSelectDestination}
                             value={this.state.destinationValue}
-                            multiple
-                            search
-                            selection
-                            clearable
+                            isMulti={true}
+                            isSearchable={true}
                             options={input.destination}
-                            disabled={
+                            isDisabled={
                                 this.state.destination === "all" ||
                                 (this.state.taxOrRmi === "tax"
                                     ? this.state.taxCategory === "all"
@@ -498,11 +515,11 @@ class SelectionComponent extends Component {
                                     : this.state.rmiValue.length === 0) ||
                                 (this.state.location !== "all" &&
                                     this.state.stateValue.length === 0 &&
-                                    this.state.locationValue.length === 0)
+                                    this.state.locationValue.length === 0 &&
+                                    this.state.marketValue.length === 0)
                             }
-                            style={{
-                                width: "500px"
-                            }}
+                            components={makeAnimated()}
+                            getOptionLabel={opt => opt.value}
                         />
                     </div>
                 </div>
@@ -524,7 +541,9 @@ class SelectionComponent extends Component {
                             (this.state.location !== "all" &&
                                 (this.state.location === "state"
                                     ? this.state.stateValue.length === 0
-                                    : this.state.locationValue.length === 0))
+                                    : this.state.location === "location"
+                                    ? this.state.locationValue.length === 0
+                                    : this.state.marketValue.length === 0))
                         }
                         onClick={this.handleSubmit}
                     >
@@ -536,4 +555,4 @@ class SelectionComponent extends Component {
     }
 }
 
-export default withStyles(styles)(SelectionComponent);
+export default withStyles(styles)(SelectionComponentNew);
